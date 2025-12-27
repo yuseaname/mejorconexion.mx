@@ -9,6 +9,7 @@
   <meta name="robots" content="index,follow"/>
 
   <link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
+  <link rel="preload" as="image" href="/assets/images/hero-cities.webp"/>
   <link rel="stylesheet" href="/assets/css/styles.css"/>
 </head>
 <body>
@@ -44,9 +45,11 @@
 
         <figure class="hero-media" aria-label="Imagen editorial">
           <img
-            src="https://source.unsplash.com/featured/1200x900/?mexico-city,urban"
-            alt="Ciudad en México, paisaje urbano editorial"
-            loading="eager"
+            src="/assets/images/hero-cities.webp"
+            alt="Imagen editorial de ciudad en M?xico"
+            width="1200"
+            height="900"
+            loading="eager" fetchpriority="high"
           />
           <figcaption>La calidad cambia por colonia, calle y edificio.</figcaption>
         </figure>
@@ -61,23 +64,23 @@
           </a>
           <a class="card" href="/cobertura/guadalajara/">
             <h3>Guadalajara</h3>
-            <p>Guía por ciudad (en expansión).</p>
+            <p>Checklist local y recomendaciones por zona.</p>
           </a>
           <a class="card" href="/cobertura/monterrey/">
             <h3>Monterrey</h3>
-            <p>Guía por ciudad (en expansión).</p>
+            <p>Opciones por uso real y validación local.</p>
           </a>
           <a class="card" href="/cobertura/puebla/">
             <h3>Puebla</h3>
-            <p>Guía por ciudad (en expansión).</p>
+            <p>Panorama local con checklist práctico.</p>
           </a>
           <a class="card" href="/cobertura/queretaro/">
             <h3>Querétaro</h3>
-            <p>Guía por ciudad (en expansión).</p>
+            <p>Recomendaciones por fraccionamiento y tipo de vivienda.</p>
           </a>
           <a class="card" href="/cobertura/">
-            <h3>Directorio (por ahora)</h3>
-            <p>Mientras migramos todo a “Ciudades”, aquí está el directorio actual.</p>
+            <h3>Cobertura por ciudad</h3>
+            <p>Directorio completo con todas las guías locales disponibles.</p>
           </a>
         </div>
       </section>

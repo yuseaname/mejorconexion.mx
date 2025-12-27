@@ -16,6 +16,7 @@
 
   <link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
   <link rel="manifest" href="/site.webmanifest"/>
+  <link rel="preload" as="image" href="/assets/images/hero-home.webp"/>
   <link rel="stylesheet" href="/assets/css/styles.css"/>
 
   <script type="application/ld+json">
@@ -88,10 +89,11 @@
 
         <figure class="hero-media" aria-label="Imagen editorial">
           <img
-            src="https://source.unsplash.com/featured/1200x900/?mexico-city,architecture"
-            alt="Vista urbana en Ciudad de México, estilo editorial"
-            loading="eager"
-            fetchpriority="high"
+            src="/assets/images/hero-home.webp"
+            alt="Imagen editorial de conectividad en M?xico"
+            width="1200"
+            height="900"
+            loading="eager" fetchpriority="high"
           />
           <figcaption>Conectividad real en casa, ciudad y trabajo: CDMX, GDL, MTY y más.</figcaption>
         </figure>
@@ -132,19 +134,19 @@
           </a>
           <a class="card" href="/cobertura/guadalajara/">
             <h3>Guadalajara</h3>
-            <p>Guía rápida por ciudad (en construcción).</p>
+            <p>Opciones por zona, checklist de cobertura y qué validar antes de contratar.</p>
           </a>
           <a class="card" href="/cobertura/monterrey/">
             <h3>Monterrey</h3>
-            <p>Guía rápida por ciudad (en construcción).</p>
+            <p>Panorama local, proveedores frecuentes y consejos por tipo de vivienda.</p>
           </a>
           <a class="card" href="/cobertura/puebla/">
             <h3>Puebla</h3>
-            <p>Guía rápida por ciudad (en construcción).</p>
+            <p>Qué revisar por colonia, estabilidad en horario pico y soporte.</p>
           </a>
           <a class="card" href="/cobertura/queretaro/">
             <h3>Querétaro</h3>
-            <p>Guía rápida por ciudad (en construcción).</p>
+            <p>Recomendaciones prácticas para elegir por zona y uso real.</p>
           </a>
           <a class="card" href="/ciudades/">
             <h3>Ver ciudades</h3>
@@ -162,10 +164,10 @@
             <h3>¿Cuántos Mbps necesito?</h3>
             <p>La guía que sí te sirve para elegir sin pagar de más.</p>
           </a>
-          <div class="card" role="note">
-            <h3>Próximamente</h3>
-            <p>Wi‑Fi en casa, routers, consumo de datos, privacidad digital y herramientas de IA (en español de México, sin “corporativadas”).</p>
-          </div>
+          <a class="card" href="/guias/diferencia-mbps-vs-mb/">
+            <h3>Diferencia entre Mbps y MB</h3>
+            <p>Explicación corta para no confundir velocidad con tamaño de archivos.</p>
+          </a>
         </div>
       </div>
     </section>

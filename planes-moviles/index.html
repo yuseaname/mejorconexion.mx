@@ -9,6 +9,7 @@
   <meta name="robots" content="index,follow"/>
 
   <link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
+  <link rel="preload" as="image" href="/assets/images/hero-planes.webp"/>
   <link rel="stylesheet" href="/assets/css/styles.css"/>
 </head>
 <body>
@@ -44,9 +45,11 @@
 
         <figure class="hero-media" aria-label="Imagen editorial">
           <img
-            src="https://source.unsplash.com/featured/1200x900/?mexico,street,smartphone"
-            alt="Uso natural de smartphone en México, estilo editorial"
-            loading="eager"
+            src="/assets/images/hero-planes.webp"
+            alt="Imagen editorial sobre planes m?viles"
+            width="1200"
+            height="900"
+            loading="eager" fetchpriority="high"
           />
           <figcaption>El plan ideal depende de cobertura real y vigencia.</figcaption>
         </figure>

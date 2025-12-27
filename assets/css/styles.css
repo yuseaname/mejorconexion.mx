@@ -276,7 +276,36 @@ hr{border:none;border-top:1px solid var(--border)}
 .small{font-size:.93rem;color:var(--muted)}
 .meta-row{display:flex;flex-wrap:wrap;gap:10px;color:var(--muted);font-size:.93rem}
 
-.ad-slot{display:none}
+.tool-form label{display:block;margin-top:4px;color:var(--muted)}
+.tool-form input,.tool-form select{
+  width:100%;
+  padding:10px 12px;
+  border-radius:12px;
+  border:1px solid var(--border);
+  background:var(--surface);
+  color:var(--text);
+  margin-top:6px;
+}
+.tool-form input:focus,.tool-form select:focus{
+  outline:3px solid var(--focus);
+  outline-offset:2px;
+}
+
+.ad-slot{
+  display:block;
+  margin:18px 0;
+}
+.ad-slot ins{
+  display:block;
+  min-height:90px;
+}
+.ad-slot[data-ad-slot]{
+  background:var(--surface-2);
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  padding:8px;
+}
+.ad-slot.is-empty{display:none}
 
 .site-footer{border-top:1px solid var(--border);padding:20px 0;color:var(--muted);background:var(--surface)}
 .footer-grid{display:grid;grid-template-columns:1fr;gap:12px}

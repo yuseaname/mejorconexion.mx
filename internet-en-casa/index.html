@@ -9,6 +9,7 @@
   <meta name="robots" content="index,follow"/>
 
   <link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
+  <link rel="preload" as="image" href="/assets/images/hero-internet.webp"/>
   <link rel="stylesheet" href="/assets/css/styles.css"/>
 </head>
 <body>
@@ -48,9 +49,11 @@
 
         <figure class="hero-media" aria-label="Imagen editorial">
           <img
-            src="https://source.unsplash.com/featured/1200x900/?mexico,apartment,laptop"
-            alt="Casa o departamento en México, trabajo con laptop (estilo editorial)"
-            loading="eager"
+            src="/assets/images/hero-internet.webp"
+            alt="Imagen editorial sobre internet en casa"
+            width="1200"
+            height="900"
+            loading="eager" fetchpriority="high"
           />
           <figcaption>Estabilidad primero: fibra, instalación y Wi‑Fi bien puesto.</figcaption>
         </figure>

@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>Herramientas (conectividad y datos) | Mejor Conexión</title>
-  <meta name="description" content="Herramientas de conectividad y datos (próximamente): pruebas, calculadoras, checklist y recursos para usar mejor tus datos e internet."/>
+  <title>Herramientas de conectividad y datos | Mejor Conexión</title>
+  <meta name="description" content="Herramientas prácticas: calculadora de consumo de datos, checklist para contratar internet y pasos rápidos para mejorar tu Wi‑Fi en México."/>
   <link rel="canonical" href="https://mejorconexion.mx/herramientas/"/>
   <meta name="robots" content="index,follow"/>
 
@@ -38,33 +38,92 @@
       <div class="hero-grid" style="margin-top:14px">
         <div class="hero-surface">
           <div class="kicker">Recursos prácticos</div>
-          <h1 class="page-title">Herramientas (próximamente)</h1>
-          <p class="page-lede">Esta sección va a crecer con herramientas útiles para conectividad y datos: calculadoras, checklists y pruebas rápidas, sin complicarte la vida.</p>
+          <h1 class="page-title">Herramientas de conectividad</h1>
+          <p class="page-lede">Calculadoras y checklists para decidir sin rodeos. Hechas para México, con ejemplos reales de uso.</p>
         </div>
 
         <figure class="hero-media" aria-label="Imagen editorial">
           <img
-            src="https://source.unsplash.com/featured/1200x900/?wifi-router"
-            alt="Router Wi‑Fi en un espacio real, estilo editorial"
+            src="/assets/images/hero-herramientas.webp"
+            alt="Imagen editorial de herramientas de conectividad"
+            width="1200"
+            height="900"
             loading="eager"
           />
           <figcaption>Sin humo: checklists y recursos para decidir mejor.</figcaption>
         </figure>
       </div>
 
-      <div class="grid two">
-        <div class="card">
-          <h2 style="margin:0 0 8px">Checklist para contratar internet</h2>
-          <p>Qué preguntar, qué pedir por escrito y qué revisar antes de firmar contrato.</p>
-        </div>
+      <section class="grid two">
         <div class="card">
           <h2 style="margin:0 0 8px">Calculadora de consumo de datos</h2>
-          <p>Para que no se te vaya el paquete en dos días por videollamadas y streaming.</p>
+          <p class="small" style="margin:0 0 12px">Estimación mensual basada en tu uso diario. Ajusta y compara planes sin adivinar.</p>
+          <form class="tool-form" data-tool="data-usage">
+            <label class="small" for="video-hours">Video/streaming por día (horas)</label>
+            <input id="video-hours" name="videoHours" type="number" min="0" max="16" step="0.5" value="2"/>
+
+            <label class="small" for="video-quality" style="margin-top:10px">Calidad de video</label>
+            <select id="video-quality" name="videoQuality">
+              <option value="1.0">SD (≈1 GB/h)</option>
+              <option value="2.5" selected>HD (≈2.5 GB/h)</option>
+              <option value="5.0">4K (≈5 GB/h)</option>
+            </select>
+
+            <label class="small" for="call-hours" style="margin-top:10px">Videollamadas por día (horas)</label>
+            <input id="call-hours" name="callHours" type="number" min="0" max="12" step="0.5" value="1"/>
+
+            <label class="small" for="social-hours" style="margin-top:10px">Redes sociales por día (horas)</label>
+            <input id="social-hours" name="socialHours" type="number" min="0" max="12" step="0.5" value="1.5"/>
+
+            <label class="small" for="days-month" style="margin-top:10px">Días de uso al mes</label>
+            <input id="days-month" name="daysMonth" type="number" min="10" max="31" step="1" value="30"/>
+
+            <div class="callout" style="margin-top:12px">
+              <p style="margin:0"><strong>Consumo estimado:</strong> <span data-tool-result>0 GB/mes</span></p>
+              <p class="small" style="margin:6px 0 0">Incluye streaming, videollamadas y redes sociales. No cuenta descargas grandes.</p>
+            </div>
+          </form>
         </div>
-      </div>
+
+        <div class="card">
+          <h2 style="margin:0 0 8px">Checklist para contratar internet</h2>
+          <p class="small" style="margin:0 0 12px">Antes de firmar, confirma lo que sí afecta la experiencia real.</p>
+          <ul class="small" style="margin:0 0 12px">
+            <li>¿Hay fibra/coaxial disponible en tu calle o edificio?</li>
+            <li>¿Incluye instalación y en qué plazo real la hacen?</li>
+            <li>¿Cuál es la penalización por cancelar?</li>
+            <li>¿Qué router entregan y con qué Wi‑Fi?</li>
+            <li>¿Qué dicen vecinos sobre horario pico?</li>
+          </ul>
+          <p class="small" style="margin:0">Complementa con <a href="/internet-en-casa/mejor-internet-en-casa-mexico/">la comparativa principal</a> y la guía de <a href="/guias/cuantos-mbps-necesito/">Mbps</a>.</p>
+        </div>
+      </section>
+
+      <section class="grid two" style="margin-top:16px">
+        <div class="card">
+          <h2 style="margin:0 0 8px">Checklist para mejorar tu Wi‑Fi</h2>
+          <ul class="small" style="margin:0 0 12px">
+            <li>Coloca el router en un punto central y en altura.</li>
+            <li>Evita que esté dentro de muebles o cerca de microondas.</li>
+            <li>Prueba con cable para separar proveedor vs Wi‑Fi.</li>
+            <li>Actualiza firmware y cambia a banda 5 GHz si puedes.</li>
+          </ul>
+          <p class="small" style="margin:0">Guía completa: <a href="/internet-en-casa/como-mejorar-wifi-casa-mexico/">cómo mejorar tu Wi‑Fi</a>.</p>
+        </div>
+        <div class="card">
+          <h2 style="margin:0 0 8px">Checklist para cambiar de proveedor</h2>
+          <ul class="small" style="margin:0 0 12px">
+            <li>Solicita cancelación por escrito y guarda folio.</li>
+            <li>Confirma devolución de equipos y cargos finales.</li>
+            <li>Agenda instalación del nuevo proveedor antes de cancelar.</li>
+            <li>Haz speedtest de noche para validar estabilidad.</li>
+          </ul>
+          <p class="small" style="margin:0">Pasos detallados: <a href="/internet-en-casa/como-cambiar-proveedor-internet-mexico/">cómo cambiar de proveedor</a>.</p>
+        </div>
+      </section>
 
       <div class="callout" style="margin-top:16px">
-        <p style="margin:0"><strong>Mientras tanto:</strong> puedes empezar con <a href="/guias/cuantos-mbps-necesito/">¿Cuántos Mbps necesito?</a> y las comparativas principales.</p>
+        <p style="margin:0"><strong>Tip rápido:</strong> si tu plan falla, primero descarta que sea el Wi‑Fi (no el proveedor). Usa el cable y repite la prueba en horario pico.</p>
       </div>
     </div>
   </main>

@@ -9,6 +9,7 @@
   <meta name="robots" content="index,follow"/>
 
   <link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
+  <link rel="preload" as="image" href="/assets/images/hero-esim.webp"/>
   <link rel="stylesheet" href="/assets/css/styles.css"/>
 </head>
 <body>
@@ -44,9 +45,11 @@
 
         <figure class="hero-media" aria-label="Imagen editorial">
           <img
-            src="https://source.unsplash.com/featured/1200x900/?sim-card,smartphone"
-            alt="Detalle de smartphone y tarjeta SIM (estilo editorial)"
-            loading="eager"
+            src="/assets/images/hero-esim.webp"
+            alt="Imagen editorial sobre eSIM y conectividad m?vil"
+            width="1200"
+            height="900"
+            loading="eager" fetchpriority="high"
           />
           <figcaption>Compatibilidad + activación: lo que define la experiencia.</figcaption>
         </figure>
