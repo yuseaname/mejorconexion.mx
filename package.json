@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "scripts": {
     "build": "node scripts/build.js",
-    "content:build": "node scripts/generate_articles_from_outlines.js"
+    "content:build": "node scripts/generate_articles_from_outlines.js",
+    "content:publish": "node scripts/publish_drafts.js"
   },
   "devDependencies": {
     "cssnano": "^6.1.2",
