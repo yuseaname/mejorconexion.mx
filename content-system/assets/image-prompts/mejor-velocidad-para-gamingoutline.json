@@ -1,0 +1,15 @@
+{
+  "featured_image_prompt": "mejor-velocidad-para-gaming.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen principal con router y sala iluminada.",
+  "inline_image_1_prompt": "mejor-velocidad-para-gaming.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen de persona haciendo speed test en laptop.",
+  "inline_image_2_prompt": "mejor-velocidad-para-gaming.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen de edificio con fibra optica representada.",
+  "alt_text": {
+    "featured": "Router y sala representando mejor-velocidad-para-gaming.outline en Mexico",
+    "inline1": "Persona midiendo velocidad de internet en casa",
+    "inline2": "Ilustracion de fibra optica en entorno urbano"
+  },
+  "filenames": {
+    "featured": "mejor-velocidad-para-gamingoutline-featured.jpg",
+    "inline1": "mejor-velocidad-para-gamingoutline-inline-1.jpg",
+    "inline2": "mejor-velocidad-para-gamingoutline-inline-2.jpg"
+  }
+}

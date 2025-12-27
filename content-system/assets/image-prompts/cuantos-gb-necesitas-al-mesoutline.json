@@ -1,0 +1,15 @@
+{
+  "featured_image_prompt": "cuantos-gb-necesitas-al-mes.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen principal con router y sala iluminada.",
+  "inline_image_1_prompt": "cuantos-gb-necesitas-al-mes.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen de persona haciendo speed test en laptop.",
+  "inline_image_2_prompt": "cuantos-gb-necesitas-al-mes.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen de edificio con fibra optica representada.",
+  "alt_text": {
+    "featured": "Router y sala representando cuantos-gb-necesitas-al-mes.outline en Mexico",
+    "inline1": "Persona midiendo velocidad de internet en casa",
+    "inline2": "Ilustracion de fibra optica en entorno urbano"
+  },
+  "filenames": {
+    "featured": "cuantos-gb-necesitas-al-mesoutline-featured.jpg",
+    "inline1": "cuantos-gb-necesitas-al-mesoutline-inline-1.jpg",
+    "inline2": "cuantos-gb-necesitas-al-mesoutline-inline-2.jpg"
+  }
+}

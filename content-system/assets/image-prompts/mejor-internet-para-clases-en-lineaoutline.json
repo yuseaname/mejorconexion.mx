@@ -1,0 +1,15 @@
+{
+  "featured_image_prompt": "mejor-internet-para-clases-en-linea.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen principal con router y sala iluminada.",
+  "inline_image_1_prompt": "mejor-internet-para-clases-en-linea.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen de persona haciendo speed test en laptop.",
+  "inline_image_2_prompt": "mejor-internet-para-clases-en-linea.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen de edificio con fibra optica representada.",
+  "alt_text": {
+    "featured": "Router y sala representando mejor-internet-para-clases-en-linea.outline en Mexico",
+    "inline1": "Persona midiendo velocidad de internet en casa",
+    "inline2": "Ilustracion de fibra optica en entorno urbano"
+  },
+  "filenames": {
+    "featured": "mejor-internet-para-clases-en-lineaoutline-featured.jpg",
+    "inline1": "mejor-internet-para-clases-en-lineaoutline-inline-1.jpg",
+    "inline2": "mejor-internet-para-clases-en-lineaoutline-inline-2.jpg"
+  }
+}

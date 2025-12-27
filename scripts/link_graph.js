@@ -17,10 +17,11 @@ function rankBySimilarity(source, candidates) {
 }
 
 function suggestInternalLinks(article, graph, options = {}) {
+  const source = article.keywordSet ? article : { ...article, keywordSet: tokenSet(`${article.title} ${article.target_keyword || ''} ${article.summary || ''}`) };
   const samePillar = graph.filter((item) => item.slug !== article.slug && item.pillar === article.pillar);
   const crossPillar = graph.filter((item) => item.slug !== article.slug && item.pillar !== article.pillar);
-  const rankedSame = rankBySimilarity(article, samePillar);
-  const rankedCross = rankBySimilarity(article, crossPillar);
+  const rankedSame = rankBySimilarity(source, samePillar);
+  const rankedCross = rankBySimilarity(source, crossPillar);
   const siblings = rankedSame.slice(0, options.maxSiblings || 4);
   const cross = rankedCross.slice(0, options.maxCross || 3);
   return { siblings, cross };

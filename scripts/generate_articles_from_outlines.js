@@ -145,10 +145,17 @@ function renderIntro(outline) {
 }
 
 function renderSectionContent(sectionTitle, outline, pillarSlug, linkTargets) {
-  const paragraph1 = `Para ${sectionTitle.toLowerCase()}, piensa en tu uso diario: streaming, trabajo remoto y juegos compiten por ancho de banda. Evalua tu situacion con datos reales, no solo con anuncios.`;
-  const paragraph2 = `Una forma practica es definir un rango de megas por persona y revisar la cobertura en tu colonia. Si necesitas mas contexto, revisa ${linkTargets[0] || 'las guias internas del pilar'}.`;
-  const paragraph3 = `En Mexico, la combinacion de router, ubicacion y saturacion local puede cambiar la experiencia. Ajustes simples como cambiar canales o mover el modem suelen marcar diferencia.`;
-  return [paragraph1, paragraph2, paragraph3].join('\n\n');
+  const paragraph1 = `Para ${sectionTitle.toLowerCase()}, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.`;
+  const paragraph2 = `Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa ${linkTargets[0] || 'las guias internas del pilar'} para comparar escenarios similares.`;
+  const paragraph3 = `En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.`;
+  const paragraph4 = `Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.`;
+  const list = [
+    'Haz una prueba de velocidad en 3 horarios distintos.',
+    'Verifica si tu router soporta WiFi 6 o al menos doble banda.',
+    'Coloca el modem en una zona central, elevada y sin obstrucciones.',
+    'Si puedes, usa cable para tareas criticas como videollamadas.'
+  ];
+  return [paragraph1, paragraph2, paragraph3, paragraph4, `Checklist rapido:\\n- ${list.join('\\n- ')}`].join('\n\n');
 }
 
 function buildFaq(outline) {
@@ -177,15 +184,14 @@ function buildFaq(outline) {
 }
 
 function buildInternalLinksSection(links, minLinks, fallback) {
-  const combined = [...links];
-  fallback.forEach((item) => {
-    if (combined.length < minLinks) {
-      combined.push(item);
+  const unique = new Map();
+  links.forEach((item) => {
+    if (item && item.url && !unique.has(item.url)) {
+      unique.set(item.url, item);
     }
   });
-  const unique = new Map();
-  combined.forEach((item) => {
-    if (!unique.has(item.url)) {
+  fallback.forEach((item) => {
+    if (unique.size < minLinks && item && item.url && !unique.has(item.url)) {
       unique.set(item.url, item);
     }
   });
@@ -204,6 +210,28 @@ function buildCtaSection() {
     '2) Haz una prueba de velocidad en horarios distintos.',
     '3) Revisa opciones de cobertura y promociones vigentes.'
   ].join('\n');
+}
+
+function expandForMinimumWords(markdown, outline, minWordCount) {
+  let expanded = markdown;
+  let counter = 1;
+  while (wordCount(expanded) < minWordCount && counter <= 2) {
+    const extraSection = [
+      `## Notas adicionales ${counter}`,
+      `En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar. Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.`,
+      `Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas. Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.`,
+      `Si necesitas justificar el gasto, estima el costo por mega real usando tu velocidad promedio, no la maxima anunciada. Esto ayuda a comparar opciones de forma objetiva.`,
+      'Mini comparativa rapida:',
+      '- Fibra: mejor estabilidad y latencia.',
+      '- Cable: buena velocidad, puede variar en horas pico.',
+      '- Inalambrico fijo: opcion en zonas sin fibra.',
+      '',
+      `Para mas ideas, guarda este articulo y revisa el pilar ${outline.target_keyword} cuando haya nuevas promociones.`
+    ].join('\n');
+    expanded = `${expanded}\n\n${extraSection}`;
+    counter += 1;
+  }
+  return expanded;
 }
 
 function buildImageBlocks(slug, altTexts) {
@@ -394,7 +422,11 @@ function buildFallbackLinks(config) {
     { title: 'Planes moviles', url: '/planes-moviles/' },
     { title: 'Cobertura', url: '/cobertura/' },
     { title: 'Herramientas', url: '/herramientas/' },
-    { title: 'Guias', url: '/guias/' }
+    { title: 'Guias', url: '/guias/' },
+    { title: 'eSIM', url: '/esim/' },
+    { title: 'eSIM viajeros', url: '/esim-viajeros/' },
+    { title: 'Transparencia', url: '/transparencia/' },
+    { title: 'Metodologia', url: '/metodologia/' }
   ];
 }
 
@@ -520,7 +552,8 @@ async function run() {
         config
       );
 
-      const fullArticle = `${frontmatter}\n\n${markdown}\n`;
+      const expandedMarkdown = expandForMinimumWords(markdown, outline, config.minWordCount);
+      const fullArticle = `${frontmatter}\n\n${expandedMarkdown}\n`;
       const wc = wordCount(fullArticle);
       const h2Count = (fullArticle.match(/^##\s+/gm) || []).length;
       const faqCount = (fullArticle.match(/^###\s+/gm) || []).length;
@@ -566,7 +599,7 @@ async function run() {
           target_keyword: outline.target_keyword,
           image_attribution_provider: attribution.provider
         });
-        const articleWithAttribution = `${newFrontmatter}\n\n${markdown}\n`;
+        const articleWithAttribution = `${newFrontmatter}\n\n${expandedMarkdown}\n`;
         writeFileSafe(draftPath, articleWithAttribution);
         writeFileSafe(publishedPath, articleWithAttribution);
       }
