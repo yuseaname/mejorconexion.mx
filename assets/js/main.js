@@ -3,6 +3,33 @@
   const toggle = document.querySelector('[data-nav-toggle]');
   const nav = document.querySelector('[data-site-nav]');
 
+  // Normalizar marca (acentos) sin editar todas las páginas
+  document.querySelectorAll('.brand span:last-child').forEach((node) => {
+    if (!(node instanceof HTMLElement)) return;
+    node.textContent = 'Mejor Conexión';
+  });
+
+  // Asegurar enlace a Blog en el menú (sin inventar URLs)
+  try {
+    const navList = document.querySelector('[data-site-nav] ul');
+    if (navList && !navList.querySelector('a[href="/blog/"]')) {
+      const blogLi = document.createElement('li');
+      const blogA = document.createElement('a');
+      blogA.href = '/blog/';
+      blogA.textContent = 'Blog';
+      blogLi.appendChild(blogA);
+
+      const after = navList.querySelector('a[href="/guias/"]')?.closest('li');
+      if (after && after.parentElement === navList) {
+        after.insertAdjacentElement('afterend', blogLi);
+      } else {
+        navList.appendChild(blogLi);
+      }
+    }
+  } catch {
+    // ignorar
+  }
+
   if (toggle && header && nav) {
     const setOpen = (open) => {
       header.classList.toggle('nav-open', open);
@@ -52,6 +79,60 @@
   } catch {
     // ignorar
   }
+
+  // Anclas: scroll suave con header sticky (TOC + enlaces internos)
+  const prefersReducedMotion = (() => {
+    try {
+      return window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    } catch {
+      return false;
+    }
+  })();
+
+  const scrollToHash = (hash) => {
+    if (!hash || hash === '#') return false;
+    const id = decodeURIComponent(hash.replace(/^#/, ''));
+    if (!id) return false;
+    const el = document.getElementById(id);
+    if (!el) return false;
+    try {
+      el.scrollIntoView({ behavior: prefersReducedMotion ? 'auto' : 'smooth', block: 'start' });
+    } catch {
+      el.scrollIntoView();
+    }
+    return true;
+  };
+
+  // Soportar navegación directa con hash
+  if (location.hash) {
+    requestAnimationFrame(() => {
+      scrollToHash(location.hash);
+    });
+  }
+
+  // Interceptar clicks a anclas internas
+  document.addEventListener('click', (e) => {
+    const target = e.target;
+    if (!(target instanceof Element)) return;
+    const a = target.closest('a[href^="#"]');
+    if (!a) return;
+    const href = a.getAttribute('href') || '';
+    if (!href || href === '#') return;
+    if (href.startsWith('#')) {
+      const ok = scrollToHash(href);
+      if (!ok) return;
+      e.preventDefault();
+      try {
+        history.pushState(null, '', href);
+      } catch {
+        location.hash = href;
+      }
+    }
+  });
+
+  window.addEventListener('hashchange', () => {
+    scrollToHash(location.hash);
+  });
 
   // Año en footer
   const year = document.querySelector('[data-year]');
