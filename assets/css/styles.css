@@ -84,8 +84,11 @@ hr{border:none;border-top:1px solid var(--border)}
 .brand-mark{
   width:34px;
   height:34px;
-  border-radius:12px;
-  background:linear-gradient(140deg,var(--primary),var(--accent));
+  border-radius:8px;
+  background-image:url("/assets/images/logo/mejorconexion-logo.png");
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
   box-shadow:var(--shadow-soft);
 }
 .brand span{color:var(--text)}
@@ -307,7 +310,28 @@ hr{border:none;border-top:1px solid var(--border)}
 }
 .ad-slot.is-empty{display:none}
 
-.site-footer{border-top:1px solid var(--border);padding:20px 0;color:var(--muted);background:var(--surface)}
+.site-footer{
+  border-top:1px solid var(--border);
+  padding:20px 0;
+  color:var(--muted);
+  background:var(--surface);
+}
+.site-footer strong{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+}
+.site-footer strong::before{
+  content:"";
+  width:26px;
+  height:26px;
+  border-radius:6px;
+  background-image:url("/assets/images/logo/mejorconexion-logo.png");
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  box-shadow:var(--shadow-soft);
+}
 .footer-grid{display:grid;grid-template-columns:1fr;gap:12px}
 @media (min-width: 700px){
   .footer-grid{grid-template-columns:1.2fr .8fr}
