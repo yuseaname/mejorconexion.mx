@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mejorconexion.com/sitemap.xml
+Sitemap: https://mejorconexion.mx/sitemap.xml
