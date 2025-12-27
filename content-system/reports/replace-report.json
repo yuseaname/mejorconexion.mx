@@ -1,0 +1,232 @@
+{
+  "timestamp": "2025-12-27T23:54:37.004Z",
+  "action": "replace-if-better",
+  "replaced": [],
+  "kept_existing": [
+    {
+      "base": "ajustes-router-mejorar-velocidadoutline",
+      "draft": "ajustes-router-mejorar-velocidadoutline.md",
+      "existing": "ajustes-router-mejorar-velocidadoutline-2.md",
+      "draftWords": 1981,
+      "existingWords": 2057
+    },
+    {
+      "base": "cada-cuanto-cambiar-router-2026outline",
+      "draft": "cada-cuanto-cambiar-router-2026outline.md",
+      "existing": "cada-cuanto-cambiar-router-2026outline-2.md",
+      "draftWords": 1992,
+      "existingWords": 2068
+    },
+    {
+      "base": "cargos-ocultos-planes-internetoutline",
+      "draft": "cargos-ocultos-planes-internetoutline.md",
+      "existing": "cargos-ocultos-planes-internetoutline-2.md",
+      "draftWords": 1979,
+      "existingWords": 2055
+    },
+    {
+      "base": "casa-inteligente-smart-home-internetoutline",
+      "draft": "casa-inteligente-smart-home-internetoutline.md",
+      "existing": "casa-inteligente-smart-home-internetoutline-2.md",
+      "draftWords": 1986,
+      "existingWords": 2062
+    },
+    {
+      "base": "como-saber-si-tu-isp-te-limitaoutline",
+      "draft": "como-saber-si-tu-isp-te-limitaoutline.md",
+      "existing": "como-saber-si-tu-isp-te-limitaoutline-2.md",
+      "draftWords": 1994,
+      "existingWords": 2070
+    },
+    {
+      "base": "cuanta-velocidad-necesitas-2026outline",
+      "draft": "cuanta-velocidad-necesitas-2026outline.md",
+      "existing": "cuanta-velocidad-necesitas-2026outline-2.md",
+      "draftWords": 1972,
+      "existingWords": 2048
+    },
+    {
+      "base": "cuantos-dispositivos-demasiados-redoutline",
+      "draft": "cuantos-dispositivos-demasiados-redoutline.md",
+      "existing": "cuantos-dispositivos-demasiados-redoutline-2.md",
+      "draftWords": 1972,
+      "existingWords": 2048
+    },
+    {
+      "base": "cuantos-gb-necesitas-al-mesoutline",
+      "draft": "cuantos-gb-necesitas-al-mesoutline.md",
+      "existing": "cuantos-gb-necesitas-al-mesoutline-2.md",
+      "draftWords": 1260,
+      "existingWords": 2016
+    },
+    {
+      "base": "internet-empeora-en-la-nocheoutline",
+      "draft": "internet-empeora-en-la-nocheoutline.md",
+      "existing": "internet-empeora-en-la-nocheoutline-2.md",
+      "draftWords": 1979,
+      "existingWords": 2055
+    },
+    {
+      "base": "internet-ilimitado-realmenteoutline",
+      "draft": "internet-ilimitado-realmenteoutline.md",
+      "existing": "internet-ilimitado-realmenteoutline-2.md",
+      "draftWords": 1965,
+      "existingWords": 2041
+    },
+    {
+      "base": "internet-lento-incluso-con-fibraoutline",
+      "draft": "internet-lento-incluso-con-fibraoutline.md",
+      "existing": "internet-lento-incluso-con-fibraoutline-2.md",
+      "draftWords": 1994,
+      "existingWords": 2070
+    },
+    {
+      "base": "internet-para-creadores-de-contenidooutline",
+      "draft": "internet-para-creadores-de-contenidooutline.md",
+      "existing": "internet-para-creadores-de-contenidooutline-2.md",
+      "draftWords": 1979,
+      "existingWords": 2055
+    },
+    {
+      "base": "internet-para-ia-y-nubeoutline",
+      "draft": "internet-para-ia-y-nubeoutline.md",
+      "existing": "internet-para-ia-y-nubeoutline-2.md",
+      "draftWords": 1979,
+      "existingWords": 2055
+    },
+    {
+      "base": "internet-para-streaming-4k-8koutline",
+      "draft": "internet-para-streaming-4k-8koutline.md",
+      "existing": "internet-para-streaming-4k-8koutline-2.md",
+      "draftWords": 1979,
+      "existingWords": 2055
+    },
+    {
+      "base": "mejor-internet-para-clases-en-lineaoutline",
+      "draft": "mejor-internet-para-clases-en-lineaoutline.md",
+      "existing": "mejor-internet-para-clases-en-lineaoutline-2.md",
+      "draftWords": 1276,
+      "existingWords": 2032
+    },
+    {
+      "base": "mejor-velocidad-para-gamingoutline",
+      "draft": "mejor-velocidad-para-gamingoutline.md",
+      "existing": "mejor-velocidad-para-gamingoutline-2.md",
+      "draftWords": 1270,
+      "existingWords": 2026
+    },
+    {
+      "base": "mejores-opciones-esim-mexico-2026outline",
+      "draft": "mejores-opciones-esim-mexico-2026outline.md",
+      "existing": "mejores-opciones-esim-mexico-2026outline-2.md",
+      "draftWords": 1272,
+      "existingWords": 2028
+    },
+    {
+      "base": "mesh-wifi-vs-router-normaloutline",
+      "draft": "mesh-wifi-vs-router-normaloutline.md",
+      "existing": "mesh-wifi-vs-router-normaloutline-2.md",
+      "draftWords": 2000,
+      "existingWords": 2000
+    },
+    {
+      "base": "muchas-personas-comparten-redoutline",
+      "draft": "muchas-personas-comparten-redoutline.md",
+      "existing": "muchas-personas-comparten-redoutline-2.md",
+      "draftWords": 1972,
+      "existingWords": 2048
+    },
+    {
+      "base": "paquetes-baratos-que-si-funcionanoutline",
+      "draft": "paquetes-baratos-que-si-funcionanoutline.md",
+      "existing": "paquetes-baratos-que-si-funcionanoutline-2.md",
+      "draftWords": 1979,
+      "existingWords": 2055
+    },
+    {
+      "base": "por-que-el-internet-es-lento-a-vecesoutline",
+      "draft": "por-que-el-internet-es-lento-a-vecesoutline.md",
+      "existing": "por-que-el-internet-es-lento-a-vecesoutline-2.md",
+      "draftWords": 1297,
+      "existingWords": 2053
+    },
+    {
+      "base": "por-que-hay-lag-internet-rapidooutline",
+      "draft": "por-que-hay-lag-internet-rapidooutline.md",
+      "existing": "por-que-hay-lag-internet-rapidooutline-2.md",
+      "draftWords": 1285,
+      "existingWords": 2041
+    },
+    {
+      "base": "por-que-los-speed-tests-mientenoutline",
+      "draft": "por-que-los-speed-tests-mientenoutline.md",
+      "existing": "por-que-los-speed-tests-mientenoutline-2.md",
+      "draftWords": 1986,
+      "existingWords": 2062
+    },
+    {
+      "base": "por-que-tu-router-importaoutline",
+      "draft": "por-que-tu-router-importaoutline.md",
+      "existing": "por-que-tu-router-importaoutline-2.md",
+      "draftWords": 2000,
+      "existingWords": 2000
+    },
+    {
+      "base": "por-que-tus-datos-van-lentos-5goutline",
+      "draft": "por-que-tus-datos-van-lentos-5goutline.md",
+      "existing": "por-que-tus-datos-van-lentos-5goutline-2.md",
+      "draftWords": 1291,
+      "existingWords": 2047
+    },
+    {
+      "base": "que-es-el-pingoutline",
+      "draft": "que-es-el-pingoutline.md",
+      "existing": "que-es-el-pingoutline-2.md",
+      "draftWords": 1273,
+      "existingWords": 2029
+    },
+    {
+      "base": "que-es-una-esimoutline",
+      "draft": "que-es-una-esimoutline.md",
+      "existing": "que-es-una-esimoutline-2.md",
+      "draftWords": 1273,
+      "existingWords": 2029
+    },
+    {
+      "base": "que-significa-la-velocidad-de-internetoutline",
+      "draft": "que-significa-la-velocidad-de-internetoutline.md",
+      "existing": "que-significa-la-velocidad-de-internetoutline-2.md",
+      "draftWords": 1285,
+      "existingWords": 2041
+    },
+    {
+      "base": "que-son-los-datos-movilesoutline",
+      "draft": "que-son-los-datos-movilesoutline.md",
+      "existing": "que-son-los-datos-movilesoutline-2.md",
+      "draftWords": 1279,
+      "existingWords": 2035
+    },
+    {
+      "base": "vale-la-pena-pagar-por-fibra-2026outline",
+      "draft": "vale-la-pena-pagar-por-fibra-2026outline.md",
+      "existing": "vale-la-pena-pagar-por-fibra-2026outline-2.md",
+      "draftWords": 2012,
+      "existingWords": 2012
+    },
+    {
+      "base": "wifi-no-llega-a-todos-los-cuartosoutline",
+      "draft": "wifi-no-llega-a-todos-los-cuartosoutline.md",
+      "existing": "wifi-no-llega-a-todos-los-cuartosoutline-2.md",
+      "draftWords": 2012,
+      "existingWords": 2012
+    },
+    {
+      "base": "wifi-vs-ethernet-para-jugaroutline",
+      "draft": "wifi-vs-ethernet-para-jugaroutline.md",
+      "existing": "wifi-vs-ethernet-para-jugaroutline-2.md",
+      "draftWords": 1276,
+      "existingWords": 2032
+    }
+  ],
+  "missing_match": []
+}
