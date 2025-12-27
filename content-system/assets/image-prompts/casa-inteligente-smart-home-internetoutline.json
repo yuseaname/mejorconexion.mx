@@ -1,0 +1,15 @@
+{
+  "featured_image_prompt": "casa-inteligente-smart-home-internet.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen principal con router y sala iluminada.",
+  "inline_image_1_prompt": "casa-inteligente-smart-home-internet.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen de persona haciendo speed test en laptop.",
+  "inline_image_2_prompt": "casa-inteligente-smart-home-internet.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen de edificio con fibra optica representada.",
+  "alt_text": {
+    "featured": "Router y sala representando casa-inteligente-smart-home-internet.outline en Mexico",
+    "inline1": "Persona midiendo velocidad de internet en casa",
+    "inline2": "Ilustracion de fibra optica en entorno urbano"
+  },
+  "filenames": {
+    "featured": "casa-inteligente-smart-home-internetoutline-featured.jpg",
+    "inline1": "casa-inteligente-smart-home-internetoutline-inline-1.jpg",
+    "inline2": "casa-inteligente-smart-home-internetoutline-inline-2.jpg"
+  }
+}

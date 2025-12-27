@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Por qué hay lag aunque tu internet sea rápido (latencia, jitter y Wi‑Fi) | Mejor Conexión</title>
+  <meta name="description" content="Guía 2026 para entender el lag: ping, jitter, Wi‑Fi, saturación y bufferbloat. Diagnóstico rápido y soluciones para jugar y videollamar."/>
+  <link rel="canonical" href="https://mejorconexion.mx/blog/por-que-hay-lag-internet-rapido.html"/>
+  <meta name="robots" content="index, follow"/>
+
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
+  <link rel="preconnect" href="https://app.rybbit.io" crossorigin/>
+  <link rel="dns-prefetch" href="https://app.rybbit.io"/>
+  <link rel="preload" as="image" href="/assets/images/homepage/home-gaming-console-wifi.webp"/>
+  <link rel="stylesheet" href="/assets/css/styles.css?v=356105b"/>
+
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Article",
+    "headline":"Por qué hay lag aunque tu internet sea rápido (latencia, jitter y Wi‑Fi)",
+    "inLanguage":"es-MX",
+    "dateModified":"2025-12-27",
+    "publisher":{"@type":"Organization","name":"Mejor Conexión","url":"https://mejorconexion.mx/"},
+    "mainEntityOfPage":"https://mejorconexion.mx/blog/por-que-hay-lag-internet-rapido.html"
+  }
+  </script>
+  <script
+      src="https://app.rybbit.io/api/script.js"
+      data-site-id="095d6520421b"
+      defer
+  ></script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+
+  <header class="site-header" data-site-header>
+    <div class="container header-inner">
+      <a class="brand" href="/"><span class="brand-mark" aria-hidden="true"></span><span>Mejor Conexión</span></a>
+      <button class="nav-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" data-nav-toggle><span aria-hidden="true">☰</span></button>
+      <nav class="site-nav" aria-label="Menú principal" data-site-nav>
+        <ul>
+          <li><a href="/internet-en-casa/">Internet en casa</a></li>
+          <li><a href="/planes-moviles/">Planes móviles</a></li>
+          <li><a href="/esim/">eSIM</a></li>
+          <li><a href="/ciudades/">Ciudades</a></li>
+          <li><a href="/guias/">Guías</a></li>
+          <li><a href="/herramientas/">Herramientas</a></li>
+          <li><a href="/acerca/">Acerca de</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="contenido" class="content">
+    <div class="container">
+      <div class="breadcrumbs"><a href="/">Inicio</a> / <a href="/blog/">Blog</a> / Por qué hay lag</div>
+
+      <div class="hero-grid" style="margin-top:14px">
+        <div class="hero-surface">
+          <div class="kicker">Blog</div>
+          <h1 class="page-title">Por qué hay lag aunque tu internet sea rápido</h1>
+          <p class="page-lede">Puedes tener “muchos Mbps” y aun así sentir retraso en juegos o videollamadas. La razón casi siempre es latencia, jitter, Wi‑Fi o saturación en tu red (no solo velocidad).</p>
+          <div class="button-row">
+            <a class="btn primary" href="/internet-en-casa/internet-para-jugar-online-mexico/">Internet para jugar online</a>
+            <a class="btn" href="/blog/que-es-el-ping.html">Qué es el ping</a>
+          </div>
+        </div>
+
+        <figure class="hero-media" aria-label="Imagen editorial">
+          <img
+            src="/assets/images/homepage/home-gaming-console-wifi.webp"
+            alt="Control de videojuego y consola en una sala conectada a Wi‑Fi"
+            width="1200"
+            height="900"
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+            />
+          <figcaption>Para jugar, importa más la estabilidad que el número de Mbps.</figcaption>
+        </figure>
+      </div>
+
+      <nav class="toc" aria-label="Tabla de contenidos" style="margin-top:18px">
+        <h2>Tabla de contenidos</h2>
+        <ol>
+          <li><a href="#que-es-lag">Qué es “lag” (y por qué no es lo mismo que velocidad)</a></li>
+          <li><a href="#ping-jitter">Ping, jitter y pérdida de paquetes</a></li>
+          <li><a href="#bufferbloat">El enemigo oculto: bufferbloat</a></li>
+          <li><a href="#wifi">Cuando el culpable es el Wi‑Fi</a></li>
+          <li><a href="#soluciones">Soluciones prácticas (de menor a mayor esfuerzo)</a></li>
+          <li><a href="#preguntas-frecuentes">Preguntas frecuentes</a></li>
+          <li><a href="#relacionados">Lecturas relacionadas</a></li>
+        </ol>
+      </nav>
+
+      <section id="que-es-lag">
+        <h2>Qué es “lag” (y por qué no es lo mismo que velocidad)</h2>
+        <p>“Lag” es retraso. En juegos, se nota cuando tu acción tarda en reflejarse; en videollamadas, cuando hay cortes o la voz llega tarde. La velocidad (Mbps) mide cuántos datos pueden pasar por segundo, pero el lag se relaciona con <strong>tiempo de respuesta</strong> y <strong>consistencia</strong>.</p>
+        <p>Por eso alguien puede bajar a 300 Mbps y aun así tener mala experiencia si su conexión tiene picos de latencia, jitter o pérdida de paquetes.</p>
+      </section>
+
+      <section id="ping-jitter">
+        <h2>Ping, jitter y pérdida de paquetes</h2>
+        <p>Tres métricas explican la mayoría de los problemas:</p>
+        <ul>
+          <li><strong>Ping:</strong> tiempo (en ms) que tarda un paquete en ir y volver. Menor suele ser mejor.</li>
+          <li><strong>Jitter:</strong> variación del ping. Puedes tener ping promedio “bueno” y aun así sufrir picos que arruinan la experiencia.</li>
+          <li><strong>Pérdida de paquetes:</strong> datos que no llegan. Se siente como microcortes.</li>
+        </ul>
+        <p>Si quieres la explicación completa y cómo interpretarlo, revisa: <a href="/blog/que-es-el-ping.html">qué es el ping</a>.</p>
+      </section>
+
+      <section id="bufferbloat">
+        <h2>El enemigo oculto: bufferbloat</h2>
+        <p>El bufferbloat ocurre cuando tu red se “llena” (por ejemplo con descargas, respaldos o streaming) y el router empieza a hacer fila con los paquetes. El resultado es que <strong>sube la latencia</strong>, aunque la velocidad de descarga se vea alta.</p>
+        <p>La pista típica: el lag aparece cuando alguien en casa sube/baja algo pesado. Esto se arregla con mejor administración de tráfico (QoS/SQM) o con hábitos simples (programar respaldos, limitar subidas).</p>
+        <p>Si te interesa armar una red estable de verdad, aquí está la guía: <a href="/internet-en-casa/red-domestica-ethernet-qos-wifi-6/">red doméstica Ethernet, QoS y Wi‑Fi 6</a>.</p>
+      </section>
+
+      <section id="wifi">
+        <h2>Cuando el culpable es el Wi‑Fi</h2>
+        <p>El Wi‑Fi introduce variación: interferencia, distancia y paredes. Para jugar, una mejora enorme suele ser simplemente usar cable en consola/PC, o pasar a 5 GHz si estás cerca del router.</p>
+        <p>Si tu casa es grande o hay muchas paredes, un solo router puede no alcanzar. Ahí conviene mesh bien instalado (no repetir la señal “a ciegas”).</p>
+        <p>Más detalles: <a href="/internet-en-casa/como-mejorar-wifi-casa-mexico/">cómo mejorar Wi‑Fi en casa</a> y <a href="/blog/wifi-mesh-para-casas-grandes-mexico.html">Wi‑Fi mesh para casas grandes</a>.</p>
+      </section>
+
+      <section id="soluciones">
+        <h2>Soluciones prácticas (de menor a mayor esfuerzo)</h2>
+        <ol>
+          <li><strong>Prueba por cable:</strong> si mejora, ya sabes que el Wi‑Fi era parte del problema.</li>
+          <li><strong>Evita saturación:</strong> pausa descargas/respaldos mientras juegas o haces videollamada.</li>
+          <li><strong>Reubica el router:</strong> punto central, en altura, sin encierro.</li>
+          <li><strong>Activa QoS/SQM:</strong> si tu router lo soporta, prioriza juego/videollamadas.</li>
+          <li><strong>Mejora tu red:</strong> mesh o cableado para zonas críticas.</li>
+        </ol>
+        <p>Si quieres elegir un plan enfocado a gaming, revisa: <a href="/blog/mejor-velocidad-para-gaming.html">mejor velocidad para gaming</a>.</p>
+      </section>
+
+      <section id="preguntas-frecuentes">
+        <h2>Preguntas frecuentes</h2>
+        <h3>¿Qué ping es “bueno” para jugar?</h3>
+        <p>Depende del juego y del servidor, pero en general mientras más bajo y estable, mejor. Lo importante es evitar picos y jitter.</p>
+        <h3>¿Fibra siempre tiene menos lag?</h3>
+        <p>Suele ser más estable que coaxial, pero la instalación local y el routing también influyen. Comparativa: <a href="/blog/fibra-optica-vs-cable-mexico.html">fibra óptica vs cable</a>.</p>
+        <h3>¿Wi‑Fi 6 reduce el lag?</h3>
+        <p>Puede mejorar consistencia en redes con muchos dispositivos, pero no reemplaza a un buen setup (ubicación, canal, cable en equipos críticos).</p>
+      </section>
+
+      <section id="relacionados" class="callout" data-related-block style="margin-top:18px">
+        <h2>Lecturas relacionadas</h2>
+        <div class="grid two">
+          <a class="card" href="/blog/que-es-el-ping.html">
+            <h3>Qué es el ping</h3>
+            <p>La métrica que sí explica el “lag”.</p>
+          </a>
+          <a class="card" href="/internet-en-casa/internet-para-jugar-online-mexico/">
+            <h3>Internet para jugar online</h3>
+            <p>Qué priorizar: estabilidad, latencia y red en casa.</p>
+          </a>
+          <a class="card" href="/blog/wifi-vs-ethernet-para-jugar.html">
+            <h3>Wi‑Fi vs Ethernet para jugar</h3>
+            <p>Cuándo conviene cada uno y por qué.</p>
+          </a>
+          <a class="card" href="/internet-en-casa/red-domestica-ethernet-qos-wifi-6/">
+            <h3>Red doméstica pro</h3>
+            <p>QoS, cableado y estabilidad real.</p>
+          </a>
+        </div>
+      </section>
+
+      <hr style="border:none;border-top:1px solid var(--border);margin:22px 0"/>
+      <div class="meta-row">
+        <span><strong>Última actualización:</strong> 27 de diciembre de 2025</span>
+        <span></span>
+        <span><a href="/metodologia/">Metodología</a></span>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <strong style="color:var(--text)">Mejor Conexión</strong>
+        <p class="small" style="margin:8px 0 0">Guía clara para elegir internet y Wi‑Fi en México.</p>
+        <p class="small footer-note" style="margin:8px 0 0">Criterios editoriales: <a href="/metodologia/">Metodología</a> · <a href="/transparencia/">Transparencia</a></p>
+        <p class="small" style="margin:8px 0 0">© <span data-year></span> Mejor Conexión</p>
+      </div>
+      <div>
+        <div class="footer-links">
+          <a href="/blog/">Blog</a>
+          <a href="/guias/">Guías</a>
+          <a href="/internet-en-casa/">Internet en casa</a>
+          <a href="/contacto/">Contacto</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/assets/js/main.js" defer></script>
+</body>
+</html>

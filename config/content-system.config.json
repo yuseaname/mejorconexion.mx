@@ -1,6 +1,6 @@
 {
-  "maxOutlinesPerRun": 3,
-  "minWordCount": 1200,
+  "maxOutlinesPerRun": 5,
+  "minWordCount": 2000,
   "minH2Count": 5,
   "minFaqCount": 5,
   "minInternalLinks": 5,

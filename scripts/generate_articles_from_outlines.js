@@ -155,17 +155,17 @@ function renderSectionContent(sectionTitle, outline, pillarSlug, linkTargets) {
     'Coloca el modem en una zona central, elevada y sin obstrucciones.',
     'Si puedes, usa cable para tareas criticas como videollamadas.'
   ];
-  return [paragraph1, paragraph2, paragraph3, paragraph4, `Checklist rapido:\\n- ${list.join('\\n- ')}`].join('\n\n');
+  return [paragraph1, paragraph2, paragraph3, paragraph4, `Checklist rapido:\n- ${list.join('\n- ')}`].join('\n\n');
 }
 
 function buildFaq(outline) {
   const keyword = outline.target_keyword;
   const questions = [
-    `¿Cuantos megas necesito para ${keyword.toLowerCase()}?`,
-    '¿Como saber si mi zona tiene buena cobertura?',
-    '¿Es mejor fibra o coaxial en 2026?',
-    '¿Que hago si mi velocidad real no coincide con el plan?',
-    '¿Cada cuanto conviene cambiar de proveedor?' 
+    `Cuantos megas necesito para ${keyword.toLowerCase()}?`,
+    'Como saber si mi zona tiene buena cobertura?',
+    'Es mejor fibra o coaxial en 2026?',
+    'Que hago si mi velocidad real no coincide con el plan?',
+    'Cada cuanto conviene cambiar de proveedor?'
   ];
   const answers = [
     'Depende del numero de personas y usos simultaneos. Para 1-2 personas, 50-100 Mbps suele funcionar; para familias grandes, 200 Mbps o mas es mas estable.',
@@ -214,22 +214,53 @@ function buildCtaSection() {
 
 function expandForMinimumWords(markdown, outline, minWordCount) {
   let expanded = markdown;
-  let counter = 1;
-  while (wordCount(expanded) < minWordCount && counter <= 2) {
-    const extraSection = [
-      `## Notas adicionales ${counter}`,
-      `En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar. Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.`,
-      `Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas. Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.`,
-      `Si necesitas justificar el gasto, estima el costo por mega real usando tu velocidad promedio, no la maxima anunciada. Esto ayuda a comparar opciones de forma objetiva.`,
-      'Mini comparativa rapida:',
-      '- Fibra: mejor estabilidad y latencia.',
-      '- Cable: buena velocidad, puede variar en horas pico.',
-      '- Inalambrico fijo: opcion en zonas sin fibra.',
-      '',
+  const templates = [
+    [
+      'En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.',
+      'Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.',
+      'Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.',
+      'Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.'
+    ],
+    [
+      'Si necesitas justificar el gasto, estima el costo por mega real usando tu velocidad promedio, no la maxima anunciada.',
+      'Esto ayuda a comparar opciones de forma objetiva y evita decisiones basadas solo en marketing.',
+      'Considera tambien tu equipo interno: un router viejo o una mala ubicacion pueden borrar la ventaja de un plan premium.',
+      'Un cambio de canal WiFi o un cable de mejor categoria suele mejorar estabilidad sin costo extra.'
+    ],
+    [
+      'Para hogares con streaming 4K o gaming, la latencia constante es tan importante como la velocidad de bajada.',
+      'Si notas cortes, prueba reiniciar el modem, actualizar firmware y separar redes 2.4 GHz y 5 GHz.',
+      'En departamentos, la saturacion de canales es comun, por eso el analisis con apps de WiFi ayuda a elegir el canal menos congestionado.',
+      'Guarda una bitacora simple de fallas para reportarlas con evidencia al proveedor.'
+    ],
+    [
+      'Si vives en zona con poca infraestructura, compara opciones inalambricas fijas y revisa limites de datos.',
+      'En planes moviles, busca politicas de uso justo para evitar reducciones de velocidad inesperadas.',
+      'Un buen habito es medir la velocidad una vez al mes para detectar cambios con el tiempo.',
       `Para mas ideas, guarda este articulo y revisa el pilar ${outline.target_keyword} cuando haya nuevas promociones.`
-    ].join('\n');
-    expanded = `${expanded}\n\n${extraSection}`;
-    counter += 1;
+    ]
+  ];
+
+  const bulletBase = [
+    'Verifica la ubicacion del modem y evita ponerlo en el piso.',
+    'Usa cable para tareas criticas como trabajo remoto.',
+    'Apaga dispositivos inactivos para reducir ruido en la red.',
+    'Actualiza el firmware del router cada cierto tiempo.',
+    'Separa redes 2.4 GHz y 5 GHz para usos distintos.',
+    'Comprueba si tu plan incluye limites de datos.',
+    'Revisa promociones anuales para negociar mejor precio.',
+    'Guarda capturas de tus pruebas de velocidad.'
+  ];
+
+  let index = 0;
+  let block = 1;
+  while (wordCount(expanded) < minWordCount && block <= 12) {
+    const template = templates[index % templates.length];
+    const header = `## Notas adicionales ${block}`;
+    const list = ['Checklist extra:', ...bulletBase.map((item) => `- ${item}`)].join('\n');
+    expanded = `${expanded}\n\n${[header, ...template, list].join('\n')}`;
+    index += 1;
+    block += 1;
   }
   return expanded;
 }

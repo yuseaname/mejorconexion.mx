@@ -1,0 +1,15 @@
+{
+  "featured_image_prompt": "por-que-los-speed-tests-mienten.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen principal con router y sala iluminada.",
+  "inline_image_1_prompt": "por-que-los-speed-tests-mienten.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen de persona haciendo speed test en laptop.",
+  "inline_image_2_prompt": "por-que-los-speed-tests-mienten.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen de edificio con fibra optica representada.",
+  "alt_text": {
+    "featured": "Router y sala representando por-que-los-speed-tests-mienten.outline en Mexico",
+    "inline1": "Persona midiendo velocidad de internet en casa",
+    "inline2": "Ilustracion de fibra optica en entorno urbano"
+  },
+  "filenames": {
+    "featured": "por-que-los-speed-tests-mientenoutline-featured.jpg",
+    "inline1": "por-que-los-speed-tests-mientenoutline-inline-1.jpg",
+    "inline2": "por-que-los-speed-tests-mientenoutline-inline-2.jpg"
+  }
+}

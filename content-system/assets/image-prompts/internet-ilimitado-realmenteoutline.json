@@ -1,0 +1,15 @@
+{
+  "featured_image_prompt": "internet-ilimitado-realmente.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen principal con router y sala iluminada.",
+  "inline_image_1_prompt": "internet-ilimitado-realmente.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen de persona haciendo speed test en laptop.",
+  "inline_image_2_prompt": "internet-ilimitado-realmente.outline en Mexico 2026, estilo fotografia limpia, sin marcas, enfoque en tecnologia y hogar. Imagen de edificio con fibra optica representada.",
+  "alt_text": {
+    "featured": "Router y sala representando internet-ilimitado-realmente.outline en Mexico",
+    "inline1": "Persona midiendo velocidad de internet en casa",
+    "inline2": "Ilustracion de fibra optica en entorno urbano"
+  },
+  "filenames": {
+    "featured": "internet-ilimitado-realmenteoutline-featured.jpg",
+    "inline1": "internet-ilimitado-realmenteoutline-inline-1.jpg",
+    "inline2": "internet-ilimitado-realmenteoutline-inline-2.jpg"
+  }
+}
