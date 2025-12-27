@@ -1,0 +1,18 @@
+---
+title: Internet en Casa
+slug: internet-en-casa
+description: Pilar sobre Internet en Casa.
+updated: 2025-12-27
+type: pillar
+---
+
+# Internet en Casa
+
+## Resumen
+Este pilar agrupa guias y comparativas sobre Internet en Casa para Mexico en 2026.
+
+## A quien ayuda
+Personas que buscan mejorar su conexion, comparar opciones y entender la cobertura.
+
+## Articulos
+- [wifi-vs-ethernet-para-jugar.outline](/internet-en-casa/wifi-vs-ethernet-para-jugaroutline/)
