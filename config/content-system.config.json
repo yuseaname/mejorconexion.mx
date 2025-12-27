@@ -1,0 +1,57 @@
+﻿{
+  "maxOutlinesPerRun": 3,
+  "minWordCount": 1200,
+  "minH2Count": 5,
+  "minFaqCount": 5,
+  "minInternalLinks": 5,
+  "language": "es-MX",
+  "timeframe": "early 2026",
+  "site": {
+    "contentBlogDir": "content/blog",
+    "articleUrlPattern": "/{pillar}/{slug}/",
+    "pillarUrlPattern": "/{pillar}/"
+  },
+  "paths": {
+    "inboxOutlines": "content-system/inbox-outlines",
+    "doneOutlines": "content-system/done-outlines",
+    "failedOutlines": "content-system/failed-outlines",
+    "draftArticles": "content-system/draft-articles",
+    "publishedArticles": "content-system/published-articles",
+    "pillars": "content-system/pillars",
+    "imagePrompts": "content-system/assets/image-prompts",
+    "images": "content-system/assets/images",
+    "attribution": "content-system/assets/attribution.json",
+    "runReport": "content-system/last-run-report.json"
+  },
+  "pillars": [
+    {
+      "slug": "internet-en-casa",
+      "title": "Internet en Casa",
+      "keywords": ["internet en casa", "wifi", "router", "fibra", "modem", "red en casa", "cobertura wifi", "velocidad en casa"]
+    },
+    {
+      "slug": "planes-moviles",
+      "title": "Planes Moviles",
+      "keywords": ["plan movil", "datos moviles", "prepago", "pospago", "chip", "portabilidad", "cobertura movil"]
+    },
+    {
+      "slug": "esim",
+      "title": "eSIM",
+      "keywords": ["esim", "sim digital", "qr esim", "activar esim"]
+    },
+    {
+      "slug": "herramientas",
+      "title": "Herramientas",
+      "keywords": ["speed test", "prueba de velocidad", "medir internet", "diagnostico"]
+    },
+    {
+      "slug": "guias",
+      "title": "Guias",
+      "keywords": ["guia", "tutorial", "como", "paso a paso"]
+    }
+  ],
+  "images": {
+    "downloadIfKeyPresent": true,
+    "providers": ["unsplash", "pexels"]
+  }
+}
