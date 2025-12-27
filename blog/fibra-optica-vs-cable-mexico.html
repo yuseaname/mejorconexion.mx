@@ -9,6 +9,8 @@
   <meta name="robots" content="index, follow"/>
 
   <link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
+  <link rel="preconnect" href="https://app.rybbit.io" crossorigin/>
+  <link rel="dns-prefetch" href="https://app.rybbit.io"/>
   <link rel="preload" as="image" href="/assets/images/homepage/home-trust-researcher-checklist.webp"/>
   <link rel="stylesheet" href="/assets/css/styles.css?v=356105b"/>
 
@@ -72,7 +74,9 @@
             width="1200"
             height="900"
             loading="eager"
-          />
+            decoding="async"
+            fetchpriority="high"
+            />
           <figcaption>La tecnologia correcta depende de tu zona, no solo del precio.</figcaption>
         </figure>
       </div>
@@ -105,7 +109,8 @@
           width="1200"
           height="900"
           loading="lazy"
-        />
+          decoding="async"
+          />
         <figcaption>Comparar tecnologia antes de contratar evita sorpresas en horarios pico.</figcaption>
       </figure>
 
@@ -131,7 +136,8 @@
           width="1200"
           height="900"
           loading="lazy"
-        />
+          decoding="async"
+          />
         <figcaption>La subida es clave para videollamadas y trabajo remoto.</figcaption>
       </figure>
 
@@ -156,7 +162,8 @@
           width="1200"
           height="900"
           loading="lazy"
-        />
+          decoding="async"
+          />
         <figcaption>Comparar costo total evita sorpresas en el recibo.</figcaption>
       </figure>
 

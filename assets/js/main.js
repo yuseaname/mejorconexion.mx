@@ -1,36 +1,60 @@
-(() => {
+﻿(() => {
   const header = document.querySelector('[data-site-header]');
   const toggle = document.querySelector('[data-nav-toggle]');
   const nav = document.querySelector('[data-site-nav]');
 
-  // Normalizar marca (acentos) sin editar todas las páginas
+  // Normalizar marca (acentos) sin editar todas las pÃ¡ginas
   document.querySelectorAll('.brand span:last-child').forEach((node) => {
     if (!(node instanceof HTMLElement)) return;
-    node.textContent = 'Mejor Conexión';
+    node.textContent = 'Mejor ConexiÃ³n';
   });
 
-  // Asegurar enlace a Blog en el menú (sin inventar URLs)
+    // Asegurar enlace a Blog en el menA§ (sin inventar URLs)
   try {
     const navList = document.querySelector('[data-site-nav] ul');
-    if (navList && !navList.querySelector('a[href="/blog/"]')) {
-      const blogLi = document.createElement('li');
-      const blogA = document.createElement('a');
-      blogA.href = '/blog/';
-      blogA.textContent = 'Blog';
-      blogLi.appendChild(blogA);
+    if (navList) {
+      let blogLi = navList.querySelector('a[href="/blog/"]')?.closest('li');
+      if (!blogLi) {
+        const newBlogLi = document.createElement('li');
+        const blogA = document.createElement('a');
+        blogA.href = '/blog/';
+        blogA.textContent = 'Blog';
+        newBlogLi.appendChild(blogA);
 
-      const after = navList.querySelector('a[href="/guias/"]')?.closest('li');
-      if (after && after.parentElement === navList) {
-        after.insertAdjacentElement('afterend', blogLi);
-      } else {
-        navList.appendChild(blogLi);
+        const after = navList.querySelector('a[href="/guias/"]')?.closest('li');
+        if (after && after.parentElement === navList) {
+          after.insertAdjacentElement('afterend', newBlogLi);
+        } else {
+          navList.appendChild(newBlogLi);
+        }
+        blogLi = newBlogLi;
       }
+
+      const blogLinks = [
+        { href: '/blog/red-estable-home-office-mexico.html', text: 'Red estable home office' },
+        { href: '/blog/por-que-se-cae-wifi-casa-mexico.html', text: 'Por que se cae el WiFi' },
+        { href: '/blog/streaming-sin-cortes-mexico.html', text: 'Streaming sin cortes' },
+      ];
+
+      let insertAfter = blogLi;
+      blogLinks.forEach((item) => {
+        if (navList.querySelector(`a[href="${item.href}"]`)) return;
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = item.href;
+        a.textContent = item.text;
+        li.appendChild(a);
+        if (insertAfter && insertAfter.parentElement === navList) {
+          insertAfter.insertAdjacentElement('afterend', li);
+        } else {
+          navList.appendChild(li);
+        }
+        insertAfter = li;
+      });
     }
   } catch {
     // ignorar
-  }
-
-  if (toggle && header && nav) {
+  }if (toggle && header && nav) {
     const setOpen = (open) => {
       header.classList.toggle('nav-open', open);
       toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
@@ -103,7 +127,7 @@
     return true;
   };
 
-  // Soportar navegación directa con hash
+  // Soportar navegaciÃ³n directa con hash
   if (location.hash) {
     requestAnimationFrame(() => {
       scrollToHash(location.hash);
@@ -134,7 +158,7 @@
     scrollToHash(location.hash);
   });
 
-  // Año en footer
+  // AÃ±o en footer
   const year = document.querySelector('[data-year]');
   if (year) year.textContent = String(new Date().getFullYear());
 
@@ -277,7 +301,7 @@
     });
   }
 
-  // Ocultar espacios vacíos de anuncios
+  // Ocultar espacios vacÃ­os de anuncios
   if (adSlots.length) {
     setTimeout(() => {
       adSlots.forEach((slot) => {
@@ -287,3 +311,4 @@
     }, 1500);
   }
 })();
+

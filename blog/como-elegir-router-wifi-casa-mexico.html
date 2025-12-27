@@ -9,6 +9,8 @@
   <meta name="robots" content="index, follow"/>
 
   <link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
+  <link rel="preconnect" href="https://app.rybbit.io" crossorigin/>
+  <link rel="dns-prefetch" href="https://app.rybbit.io"/>
   <link rel="preload" as="image" href="/assets/images/homepage/home-hero-router-setup-couple.webp"/>
   <link rel="stylesheet" href="/assets/css/styles.css?v=356105b"/>
 
@@ -72,7 +74,9 @@
             width="1200"
             height="900"
             loading="eager"
-          />
+            decoding="async"
+            fetchpriority="high"
+            />
           <figcaption>El router correcto depende de tu casa y de tu uso real, no solo de los megas del plan.</figcaption>
         </figure>
       </div>
@@ -106,7 +110,8 @@
           width="1200"
           height="900"
           loading="lazy"
-        />
+          decoding="async"
+          />
         <figcaption>Comparar router y plan al mismo tiempo evita gastar de mas.</figcaption>
       </figure>
 
@@ -132,7 +137,8 @@
           width="1200"
           height="900"
           loading="lazy"
-        />
+          decoding="async"
+          />
         <figcaption>Las pruebas de velocidad son utiles si se hacen cerca y lejos del router.</figcaption>
       </figure>
 
@@ -157,7 +163,8 @@
           width="1200"
           height="900"
           loading="lazy"
-        />
+          decoding="async"
+          />
         <figcaption>La red debe aguantar varios dispositivos en uso al mismo tiempo.</figcaption>
       </figure>
 

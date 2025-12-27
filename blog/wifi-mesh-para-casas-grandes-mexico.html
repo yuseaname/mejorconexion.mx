@@ -9,6 +9,8 @@
   <meta name="robots" content="index, follow"/>
 
   <link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
+  <link rel="preconnect" href="https://app.rybbit.io" crossorigin/>
+  <link rel="dns-prefetch" href="https://app.rybbit.io"/>
   <link rel="preload" as="image" href="/assets/images/homepage/home-city-student-cafe.webp"/>
   <link rel="stylesheet" href="/assets/css/styles.css?v=356105b"/>
 
@@ -72,7 +74,9 @@
             width="1200"
             height="900"
             loading="eager"
-          />
+            decoding="async"
+            fetchpriority="high"
+            />
           <figcaption>La cobertura completa es mas importante que el pico de velocidad en un solo punto.</figcaption>
         </figure>
       </div>
@@ -105,7 +109,8 @@
           width="1200"
           height="900"
           loading="lazy"
-        />
+          decoding="async"
+          />
         <figcaption>Un nodo bien ubicado puede llevar senal a patios, balcones y recamaras lejanas.</figcaption>
       </figure>
 
@@ -130,7 +135,8 @@
           width="1200"
           height="900"
           loading="lazy"
-        />
+          decoding="async"
+          />
         <figcaption>Un plano sencillo con zonas de uso ayuda a decidir cuantas unidades comprar.</figcaption>
       </figure>
 
@@ -155,7 +161,8 @@
           width="1200"
           height="900"
           loading="lazy"
-        />
+          decoding="async"
+          />
         <figcaption>La estabilidad se nota cuando varios usuarios hacen videollamadas al mismo tiempo.</figcaption>
       </figure>
 
