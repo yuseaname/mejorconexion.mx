@@ -205,7 +205,7 @@ function renderMarkdown(md) {
 }
 
 function buildArticleTemplate({ title, description, slug, bodyHtml }) {
-  const pageTitle = `${title} | Mejor Conexion`;
+  const pageTitle = `${title} | Mejor Conexión`;
   const canonical = `https://mejorconexion.mx/blog/${slug}.html`;
   return `<!doctype html>
 <html lang="es-MX">
@@ -220,6 +220,17 @@ function buildArticleTemplate({ title, description, slug, bodyHtml }) {
   <link rel="preconnect" href="https://app.rybbit.io" crossorigin/>
   <link rel="dns-prefetch" href="https://app.rybbit.io"/>
   <link rel="stylesheet" href="/assets/css/styles.css?v=356105b"/>
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Article",
+    "headline":"${escapeHtml(title)}",
+    "inLanguage":"es-MX",
+    "dateModified":"2025-12-27",
+    "publisher":{"@type":"Organization","name":"Mejor Conexión","url":"https://mejorconexion.mx/"},
+    "mainEntityOfPage":"${canonical}"
+  }
+  </script>
   <script
       src="https://app.rybbit.io/api/script.js"
       data-site-id="095d6520421b"
@@ -230,15 +241,16 @@ function buildArticleTemplate({ title, description, slug, bodyHtml }) {
   <a class="skip-link" href="#contenido">Saltar al contenido</a>
   <header class="site-header" data-site-header>
     <div class="container header-inner">
-      <a class="brand" href="/"><span class="brand-mark" aria-hidden="true"></span><span>Mejor Conexion</span></a>
-      <button class="nav-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" data-nav-toggle><span aria-hidden="true">+</span></button>
-      <nav class="site-nav" aria-label="Menu principal" data-site-nav>
+      <a class="brand" href="/"><span class="brand-mark" aria-hidden="true"></span><span>Mejor Conexión</span></a>
+      <button class="nav-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" data-nav-toggle><span aria-hidden="true">☰</span></button>
+      <nav class="site-nav" aria-label="Menú principal" data-site-nav>
         <ul>
           <li><a href="/internet-en-casa/">Internet en casa</a></li>
-          <li><a href="/planes-moviles/">Planes moviles</a></li>
+          <li><a href="/planes-moviles/">Planes móviles</a></li>
           <li><a href="/esim/">eSIM</a></li>
           <li><a href="/ciudades/">Ciudades</a></li>
-          <li><a href="/guias/">Guias</a></li>
+          <li><a href="/guias/">Guías</a></li>
+          <li><a href="/blog/">Blog</a></li>
           <li><a href="/herramientas/">Herramientas</a></li>
           <li><a href="/acerca/">Acerca de</a></li>
         </ul>
@@ -254,6 +266,26 @@ function buildArticleTemplate({ title, description, slug, bodyHtml }) {
       </article>
     </div>
   </main>
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <strong style="color:var(--text)">Mejor Conexión</strong>
+        <p class="small" style="margin:8px 0 0">Guía clara para elegir internet y Wi‑Fi en México.</p>
+        <p class="small" style="margin:8px 0 0">© <span data-year></span> Mejor Conexión</p>
+      </div>
+      <div>
+        <div class="footer-links">
+          <a href="/metodologia/">Metodología</a>
+          <a href="/transparencia/">Transparencia</a>
+          <a href="/privacidad/">Privacidad</a>
+          <a href="/acerca/">Acerca de</a>
+          <a href="/contacto/">Contacto</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/assets/js/main.js" defer></script>
 </body>
 </html>`;
 }
