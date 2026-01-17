@@ -1,0 +1,21 @@
+{
+  "slot_id": "b8c3d779d399cc2d",
+  "page_path": "/guias/cuantos-mbps-necesito/index.html",
+  "normalized_page_path": "/guias/cuantos-mbps-necesito/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "above_fold"
+  ],
+  "anchor_text": "\u00bfCu\u00e1ntos Mbps necesito? (sin pagar de m\u00e1s)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": true
+}

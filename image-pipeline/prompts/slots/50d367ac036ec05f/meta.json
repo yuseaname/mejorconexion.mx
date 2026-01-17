@@ -1,0 +1,19 @@
+{
+  "slot_id": "50d367ac036ec05f",
+  "page_path": "/planes-moviles/telcel-vs-att-vs-movistar/index.html",
+  "normalized_page_path": "/planes-moviles/telcel-vs-att-vs-movistar/index.html",
+  "slot_key": "inline-11",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 10,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Lo bueno",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

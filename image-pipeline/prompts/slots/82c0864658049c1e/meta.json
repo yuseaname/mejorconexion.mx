@@ -1,0 +1,21 @@
+{
+  "slot_id": "82c0864658049c1e",
+  "page_path": "/internet-en-casa/como-mejorar-wifi-casa-mexico/index.html",
+  "normalized_page_path": "/internet-en-casa/como-mejorar-wifi-casa-mexico/index.html",
+  "slot_key": "inline-11",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 10,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "thin_content"
+  ],
+  "anchor_text": "Por que se cae el WiFi en casa",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

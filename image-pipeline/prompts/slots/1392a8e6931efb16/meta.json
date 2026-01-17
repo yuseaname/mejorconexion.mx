@@ -1,0 +1,21 @@
+{
+  "slot_id": "1392a8e6931efb16",
+  "page_path": "/internet-en-casa/wifi-mesh-cobertura-total/index.html",
+  "normalized_page_path": "/internet-en-casa/wifi-mesh-cobertura-total/index.html",
+  "slot_key": "inline-33",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 32,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "image_heavy"
+  ],
+  "anchor_text": "Un mesh aumenta la velocidad de mi plan?",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

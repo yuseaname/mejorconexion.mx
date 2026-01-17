@@ -1,0 +1,19 @@
+{
+  "slot_id": "13a2f44350d84234",
+  "page_path": "/planes-internet/internet-barato-mexico-opciones-reales/index.html",
+  "normalized_page_path": "/planes-internet/internet-barato-mexico-opciones-reales/index.html",
+  "slot_key": "inline-8",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 7,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Preguntas frecuentes",
+  "container_selector": "article",
+  "container_css_context": "main > div > article",
+  "selected": false
+}

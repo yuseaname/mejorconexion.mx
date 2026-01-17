@@ -1,0 +1,21 @@
+{
+  "slot_id": "a1cf67dfe4c7276d",
+  "page_path": "/guias/que-hacer-si-internet-lento/index.html",
+  "normalized_page_path": "/guias/que-hacer-si-internet-lento/index.html",
+  "slot_key": "inline-7",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 6,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "thin_content"
+  ],
+  "anchor_text": "Mejor internet en casa en M\u00e9xico",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

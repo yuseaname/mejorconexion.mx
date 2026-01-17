@@ -1,0 +1,19 @@
+{
+  "slot_id": "eef149e8435d650d",
+  "page_path": "/internet-en-casa/internet-sin-contrato-mexico/index.html",
+  "normalized_page_path": "/internet-en-casa/internet-sin-contrato-mexico/index.html",
+  "slot_key": "inline-4",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 3,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Preguntas frecuentes",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

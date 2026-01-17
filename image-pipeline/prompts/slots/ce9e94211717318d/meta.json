@@ -1,0 +1,21 @@
+{
+  "slot_id": "ce9e94211717318d",
+  "page_path": "/privacidad/index.html",
+  "normalized_page_path": "/privacidad/index.html",
+  "slot_key": "inline-2",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 1,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "thin_content"
+  ],
+  "anchor_text": "Contacto",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

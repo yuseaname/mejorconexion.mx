@@ -1,0 +1,22 @@
+{
+  "slot_id": "c7bb5897fa0750a5",
+  "page_path": "/guias/diferencia-mbps-vs-mb/index.html",
+  "normalized_page_path": "/guias/diferencia-mbps-vs-mb/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.4,
+  "risk_factors": [
+    "thin_content",
+    "above_fold"
+  ],
+  "anchor_text": "Diferencia entre Mbps y MB (explicaci\u00f3n f\u00e1cil)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

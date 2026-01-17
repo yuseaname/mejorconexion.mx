@@ -1,0 +1,19 @@
+{
+  "slot_id": "865b5af884da014d",
+  "page_path": "/blog/por-que-tus-datos-van-lentos-5g.html",
+  "normalized_page_path": "/blog/por-que-tus-datos-van-lentos-5g.html",
+  "slot_key": "inline-6",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 5,
+  "insertion_mode": "after",
+  "priority_level": 3,
+  "page_is_home": false,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Soluciones r\u00e1pidas (sin cambiar de plan)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

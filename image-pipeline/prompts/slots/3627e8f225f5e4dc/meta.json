@@ -1,0 +1,22 @@
+{
+  "slot_id": "3627e8f225f5e4dc",
+  "page_path": "/internet-en-casa/como-mejorar-wifi-casa-mexico/index.html",
+  "normalized_page_path": "/internet-en-casa/como-mejorar-wifi-casa-mexico/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.4,
+  "risk_factors": [
+    "thin_content",
+    "above_fold"
+  ],
+  "anchor_text": "C\u00f3mo mejorar el Wi\u2011Fi en casa (sin cambiar de proveedor)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

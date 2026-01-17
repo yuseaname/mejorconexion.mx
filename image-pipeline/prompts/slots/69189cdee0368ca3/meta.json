@@ -1,0 +1,19 @@
+{
+  "slot_id": "69189cdee0368ca3",
+  "page_path": "/blog/por-que-se-cae-wifi-casa-mexico.html",
+  "normalized_page_path": "/blog/por-que-se-cae-wifi-casa-mexico.html",
+  "slot_key": "inline-2",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 1,
+  "insertion_mode": "after",
+  "priority_level": 3,
+  "page_is_home": false,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Senales tempranas y sintomas comunes",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

@@ -1,0 +1,19 @@
+{
+  "slot_id": "42022a782836c164",
+  "page_path": "/esim-viajeros/mejor-esim-para-mexico/index.html",
+  "normalized_page_path": "/esim-viajeros/mejor-esim-para-mexico/index.html",
+  "slot_key": "inline-7",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 6,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Viajeros",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

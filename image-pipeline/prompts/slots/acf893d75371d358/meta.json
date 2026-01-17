@@ -1,0 +1,19 @@
+{
+  "slot_id": "acf893d75371d358",
+  "page_path": "/cobertura/cdmx/mejor-internet-cdmx/index.html",
+  "normalized_page_path": "/cobertura/cdmx/mejor-internet-cdmx/index.html",
+  "slot_key": "inline-14",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 13,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Renta temporal",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

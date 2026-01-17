@@ -1,0 +1,21 @@
+{
+  "slot_id": "df0464e276d493a9",
+  "page_path": "/internet-en-casa/instalacion-internet-en-casa-mexico/index.html",
+  "normalized_page_path": "/internet-en-casa/instalacion-internet-en-casa-mexico/index.html",
+  "slot_key": "inline-7",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 6,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "thin_content"
+  ],
+  "anchor_text": "Internet en casa",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

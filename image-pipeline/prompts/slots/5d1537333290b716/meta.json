@@ -1,0 +1,19 @@
+{
+  "slot_id": "5d1537333290b716",
+  "page_path": "/blog/pilar-seguridad-red-hogar-mexico.html",
+  "normalized_page_path": "/blog/pilar-seguridad-red-hogar-mexico.html",
+  "slot_key": "inline-17",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 16,
+  "insertion_mode": "after",
+  "priority_level": 3,
+  "page_is_home": false,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Red domestica con Ethernet y QoS",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

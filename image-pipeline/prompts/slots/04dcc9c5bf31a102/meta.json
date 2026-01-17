@@ -1,0 +1,19 @@
+{
+  "slot_id": "04dcc9c5bf31a102",
+  "page_path": "/blog/index.html",
+  "normalized_page_path": "/blog/index.html",
+  "slot_key": "inline-23",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 22,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Qu\u00e9 es una eSIM",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

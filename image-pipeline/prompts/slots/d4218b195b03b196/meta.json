@@ -1,0 +1,21 @@
+{
+  "slot_id": "d4218b195b03b196",
+  "page_path": "/planes-internet/plan-internet-casa-segun-personas-mexico/index.html",
+  "normalized_page_path": "/planes-internet/plan-internet-casa-segun-personas-mexico/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "above_fold"
+  ],
+  "anchor_text": "Qu\u00e9 plan de internet necesitas en casa seg\u00fan cu\u00e1ntas personas son (2026)",
+  "container_selector": "article",
+  "container_css_context": "main > div > article",
+  "selected": false
+}

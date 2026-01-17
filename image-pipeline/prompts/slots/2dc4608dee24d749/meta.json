@@ -1,0 +1,21 @@
+{
+  "slot_id": "2dc4608dee24d749",
+  "page_path": "/planes-moviles/index.html",
+  "normalized_page_path": "/planes-moviles/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "above_fold"
+  ],
+  "anchor_text": "Planes m\u00f3viles",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

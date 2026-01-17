@@ -1,0 +1,19 @@
+{
+  "slot_id": "81cc46469af44bd6",
+  "page_path": "/cobertura/puebla/index.html",
+  "normalized_page_path": "/cobertura/puebla/index.html",
+  "slot_key": "inline-14",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 13,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Estudiantes",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

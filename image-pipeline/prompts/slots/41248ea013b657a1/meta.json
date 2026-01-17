@@ -1,0 +1,21 @@
+{
+  "slot_id": "41248ea013b657a1",
+  "page_path": "/internet-en-casa/red-domestica-ethernet-qos-wifi-6/index.html",
+  "normalized_page_path": "/internet-en-casa/red-domestica-ethernet-qos-wifi-6/index.html",
+  "slot_key": "inline-34",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 33,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "image_heavy"
+  ],
+  "anchor_text": "Nivel balanceado",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

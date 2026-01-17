@@ -1,0 +1,21 @@
+{
+  "slot_id": "891a4042125d4f1e",
+  "page_path": "/internet-en-casa/internet-satelital-rural-mexico/index.html",
+  "normalized_page_path": "/internet-en-casa/internet-satelital-rural-mexico/index.html",
+  "slot_key": "inline-25",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 24,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "image_heavy"
+  ],
+  "anchor_text": "Realidad: la instalacion define la experiencia",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

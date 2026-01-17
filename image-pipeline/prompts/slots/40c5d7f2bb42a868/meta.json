@@ -1,0 +1,21 @@
+{
+  "slot_id": "40c5d7f2bb42a868",
+  "page_path": "/metodologia/index.html",
+  "normalized_page_path": "/metodologia/index.html",
+  "slot_key": "inline-3",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 2,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "thin_content"
+  ],
+  "anchor_text": "C\u00f3mo recomendamos (sin \u201cganadores m\u00e1gicos\u201d)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

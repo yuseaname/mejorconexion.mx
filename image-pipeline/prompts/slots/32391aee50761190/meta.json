@@ -1,0 +1,21 @@
+{
+  "slot_id": "32391aee50761190",
+  "page_path": "/planes-moviles/mejores-planes-prepago-mexico/index.html",
+  "normalized_page_path": "/planes-moviles/mejores-planes-prepago-mexico/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "above_fold"
+  ],
+  "anchor_text": "Mejores planes prepago en M\u00e9xico (c\u00f3mo elegir sin fallar)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

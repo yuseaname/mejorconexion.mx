@@ -1,0 +1,129 @@
+# Content discovery
+content_roots: ["auto-detect"]
+build_dirs: ["auto-detect"]
+exclude_dirs:
+  - "node_modules"
+  - ".git"
+  - ".next"
+  - "dist"
+  - "public"
+  - "_site"
+  - "vendor"
+
+# Ad safety
+ad_marker_patterns:
+  selectors:
+    - "[class*='ad-']"
+    - "[class*='advertisement']"
+    - "[id*='google_ads']"
+    - ".sponsored"
+  keywords:
+    - "advertisement"
+    - "sponsored"
+
+# Image destinations
+images_dest_candidates:
+  - "images/generated"
+  - "public/images/generated"
+  - "static/images/generated"
+  - "assets/images/generated"
+
+# Pipeline settings
+pipeline:
+  top_n: 20
+  max_inline_images_per_1200_words: 3
+
+# Placement safety
+allow_markdown_placement: false  # plan-only for MD/MDX
+safe_placement_containers:
+  - "article"
+  - "main"
+  - ".content"
+  - ".post-body"
+  - ".article-content"
+  - ".entry-content"
+skip_complex_layouts: false  # skip flex/grid unless whitelisted
+
+# Brand/style
+brand_style:
+  tone: "authentic, realistic"
+  prohibited:
+    - "stock photo feel"
+    - "corporate"
+    - "overly staged"
+
+# Output formats
+output_formats:
+  - "webp"
+  - "png"
+
+# Page exclusions
+exclude_page_path_patterns:
+  - "/api/"
+  - "/admin/"
+  - "/_"
+exclude_page_heading_patterns:
+  - "^404"
+  - "^500"
+  - "^Error"
+
+# Composition diversity
+unique_composition_guardrail: true
+
+# Model defaults (GPT Image ONLY)
+default_model: "gpt-image-1"
+fallback_model: "gpt-image-1"
+default_quality: "medium"
+default_size: "1536x1024"
+
+# Domain-specific constraints (auto-inject when detected)
+domain_constraints:
+  household_alarms:
+    enabled: true
+    confidence_threshold: 0.7
+    inject_rules:
+      - "alarms are ceiling/wall mounted"
+      - "no alarms placed on ovens/stoves/counters"
+      - "alarms are realistic white plastic devices"
+      - "if kitchen visible, alarm high on wall/ceiling"
+      - "avoid ad-like imagery and staged product shots"
+
+# Ad-like image heuristics (reject these in prompts)
+ad_like_heuristics:
+  - "product-only centered packshot"
+  - "pricing badges or stars"
+  - "Buy Now or CTA button shapes"
+  - "call-to-action text overlays"
+  - "promotional banner style"
+  - "discount percentage visuals"
+
+# Market localization
+market:
+  country: MX
+  locale: es-MX
+  cultural_confidence: high
+
+visual_localization:
+  housing_styles:
+    - Mexican urban apartments
+    - Mexican suburban homes
+    - Concrete, stucco, tile surfaces
+  interiors:
+    - modest to middle-class realism
+    - tiled floors common in kitchens
+    - wall-mounted appliances common
+  lighting:
+    - natural daylight
+    - warm indoor lighting (no studio lighting)
+  people_representation:
+    - Mexican / mestizo appearance typical of Mexico
+    - realistic age ranges
+    - no model-like perfection
+  environment_cues:
+    - Latin American electrical outlets when visible
+    - Mexican kitchen and home layouts
+  exclude_visual_cues:
+    - US suburban architecture
+    - European interiors
+    - luxury-only settings
+    - unrealistic high-end appliances

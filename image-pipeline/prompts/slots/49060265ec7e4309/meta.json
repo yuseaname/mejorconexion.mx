@@ -1,0 +1,22 @@
+{
+  "slot_id": "49060265ec7e4309",
+  "page_path": "/planes-moviles/mejores-planes-mexico/index.html",
+  "normalized_page_path": "/planes-moviles/mejores-planes-mexico/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.4,
+  "risk_factors": [
+    "thin_content",
+    "above_fold"
+  ],
+  "anchor_text": "Mejores planes m\u00f3viles en M\u00e9xico (c\u00f3mo elegir)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

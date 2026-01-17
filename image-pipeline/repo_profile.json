@@ -1,0 +1,16 @@
+{
+  "detected_framework": "html",
+  "source_roots": [
+    "/",
+    "/src"
+  ],
+  "build_dirs": [],
+  "page_extensions": [
+    ".html"
+  ],
+  "total_pages_found": 76,
+  "existing_image_patterns": [
+    "/images/"
+  ],
+  "scan_timestamp": "2026-01-17T22:51:02.593984Z"
+}

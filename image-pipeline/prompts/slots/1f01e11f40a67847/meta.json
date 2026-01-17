@@ -1,0 +1,19 @@
+{
+  "slot_id": "1f01e11f40a67847",
+  "page_path": "/internet-en-casa/internet-para-home-office-mexico/index.html",
+  "normalized_page_path": "/internet-en-casa/internet-para-home-office-mexico/index.html",
+  "slot_key": "inline-1",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Lo m\u00ednimo que s\u00ed necesitas",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

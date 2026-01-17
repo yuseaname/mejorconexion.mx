@@ -1,0 +1,32 @@
+{
+  "slot_id": "37b12bc5146f8cb6",
+  "page_path": "/esim-viajeros/mejor-esim-para-mexico/index.html",
+  "normalized_page_path": "/esim-viajeros/mejor-esim-para-mexico/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "above_fold"
+  ],
+  "anchor_text": "Mejor eSIM para M\u00e9xico (c\u00f3mo elegir sin pagar de m\u00e1s)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": true,
+  "prompt_text": "Photorealistic hero image representing the real-world meaning of the topic: Mejor eSIM para M\u00e9xico (c\u00f3mo elegir sin pagar de m\u00e1s).\n\nFirst, interpret what this topic implies to a general audience in everyday life (e.g., confusion, problem-solving, reassurance, discovery, resolution). Then visually represent that meaning through a realistic moment or situation.\n\nThe scene must depict a believable, real-life scenario where the topic would naturally apply, not a staged setup or symbolic arrangement of objects.\n\nShow a single, specific moment in time that a human would immediately recognize as related to the topic (pause during problem-solving, inspection, realization, before/after state, subtle signs an issue is being addressed).\n\nAvoid generic desk setups, flat-lay compositions, or repeated object arrangements.\n\nDiversity: time_of_day=afternoon, room_type=kitchen, camera_angle=slightly elevated, subject_context=elderly resident, environment_style=older house\n\nCamera:\nFull-frame camera, 35mm lens. Natural perspective, slight imperfections allowed. Human eye-level or contextual angle (not overhead).\n\nLighting:\nNatural or practical indoor lighting. Time-of-day cues allowed. No dramatic, cinematic, or studio lighting.\n\nStrict constraints:\n- No visible text.\n- No UI elements or readable screens.\n- No diagrams, icons, or symbols.\n- No branding, logos, or overlays.\n- No symmetry-heavy or stock-photo compositions.\n- No product-only centered shots.\n- No pricing badges, stars, or CTA button shapes.\n- No promotional or advertisement-style imagery.\n\nStyle:\nStrict photorealism. No CGI, no illustration, no surreal elements.\n\nThe image should feel like a real photograph taken during an authentic moment related to the topic, clearly understandable without explanation.\n\nUnique composition guardrail:\nDo not reuse visual compositions, object groupings, or scene layouts from previous images. Each image must feel like a different household and a different moment.\n\nCultural realism:\nThe scene must feel authentically Mexican, reflecting everyday life in Mexico.\nArchitecture, interior design, appliances, and environments should match common Mexican homes or businesses.\nAvoid U.S. suburban styles, European interiors, or luxury-only environments.\nPeople should look naturally Mexican, not model-like or staged.",
+  "prompt_hash": "dfd4681013e46c38",
+  "diversity_seed": {
+    "time_of_day": "afternoon",
+    "room_type": "kitchen",
+    "camera_angle": "slightly elevated",
+    "subject_context": "elderly resident",
+    "environment_style": "older house"
+  },
+  "seo_alt_text": "Realistic photo illustrating Mejor eSIM para M\u00e9xico (c\u00f3mo elegir sin pagar de m\u00e1s)",
+  "prompt_updated_at": "2026-01-17T22:51:05.937077Z"
+}

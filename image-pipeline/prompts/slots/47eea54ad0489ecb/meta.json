@@ -1,0 +1,21 @@
+{
+  "slot_id": "47eea54ad0489ecb",
+  "page_path": "/blog/mejor-internet-para-clases-en-linea.html",
+  "normalized_page_path": "/blog/mejor-internet-para-clases-en-linea.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 3,
+  "page_is_home": false,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "above_fold"
+  ],
+  "anchor_text": "Mejor internet para clases en l\u00ednea",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

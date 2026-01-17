@@ -1,0 +1,22 @@
+{
+  "slot_id": "58b16ce1a5dbbd51",
+  "page_path": "/blog/dns-seguro-filtros-malware-mexico.html",
+  "normalized_page_path": "/blog/dns-seguro-filtros-malware-mexico.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 3,
+  "page_is_home": false,
+  "risk_score": 0.4,
+  "risk_factors": [
+    "image_heavy",
+    "above_fold"
+  ],
+  "anchor_text": "DNS seguro en casa en Mexico: filtros y bloqueo de malware",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

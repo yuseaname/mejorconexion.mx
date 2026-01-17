@@ -1,0 +1,21 @@
+{
+  "slot_id": "0ec08de471484661",
+  "page_path": "/planes-internet/internet-barato-mexico-opciones-reales/index.html",
+  "normalized_page_path": "/planes-internet/internet-barato-mexico-opciones-reales/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "above_fold"
+  ],
+  "anchor_text": "Internet barato en M\u00e9xico: opciones reales sin trampas (2026)",
+  "container_selector": "article",
+  "container_css_context": "main > div > article",
+  "selected": false
+}

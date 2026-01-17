@@ -1,0 +1,19 @@
+{
+  "slot_id": "c920e503b3dd1487",
+  "page_path": "/blog/que-es-una-esim.html",
+  "normalized_page_path": "/blog/que-es-una-esim.html",
+  "slot_key": "inline-12",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 11,
+  "insertion_mode": "after",
+  "priority_level": 3,
+  "page_is_home": false,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Hub de eSIM",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

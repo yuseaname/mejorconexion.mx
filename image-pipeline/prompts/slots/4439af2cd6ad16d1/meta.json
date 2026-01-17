@@ -1,0 +1,22 @@
+{
+  "slot_id": "4439af2cd6ad16d1",
+  "page_path": "/guias/que-hacer-si-internet-lento/index.html",
+  "normalized_page_path": "/guias/que-hacer-si-internet-lento/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.4,
+  "risk_factors": [
+    "thin_content",
+    "above_fold"
+  ],
+  "anchor_text": "Qu\u00e9 hacer si tu internet est\u00e1 lento (sin entrar en p\u00e1nico)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

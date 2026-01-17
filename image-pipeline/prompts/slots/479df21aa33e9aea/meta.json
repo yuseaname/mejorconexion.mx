@@ -1,0 +1,22 @@
+{
+  "slot_id": "479df21aa33e9aea",
+  "page_path": "/internet-en-casa/red-domestica-ethernet-qos-wifi-6/index.html",
+  "normalized_page_path": "/internet-en-casa/red-domestica-ethernet-qos-wifi-6/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.4,
+  "risk_factors": [
+    "image_heavy",
+    "above_fold"
+  ],
+  "anchor_text": "Red domestica pro: cableado Ethernet, switches, QoS y Wi-Fi 6/6E",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

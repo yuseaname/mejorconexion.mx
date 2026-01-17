@@ -1,0 +1,21 @@
+{
+  "slot_id": "f0ca8d6c6871c961",
+  "page_path": "/blog/por-que-tus-datos-van-lentos-5g.html",
+  "normalized_page_path": "/blog/por-que-tus-datos-van-lentos-5g.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 3,
+  "page_is_home": false,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "above_fold"
+  ],
+  "anchor_text": "Por qu\u00e9 tus datos van lentos (4G/5G)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

@@ -1,0 +1,19 @@
+{
+  "slot_id": "cb151261636ed0d8",
+  "page_path": "/internet-en-casa/mejor-internet-en-casa-mexico/index.html",
+  "normalized_page_path": "/internet-en-casa/mejor-internet-en-casa-mexico/index.html",
+  "slot_key": "inline-2",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 1,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Comparativa clara (lo que s\u00ed se compara)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

@@ -1,0 +1,21 @@
+{
+  "slot_id": "acfee8173e45df0c",
+  "page_path": "/index.html",
+  "normalized_page_path": "/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "above_fold"
+  ],
+  "anchor_text": "Mejor Conexi\u00f3n: internet, datos m\u00f3viles y servicios digitales en M\u00e9xico",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": true
+}

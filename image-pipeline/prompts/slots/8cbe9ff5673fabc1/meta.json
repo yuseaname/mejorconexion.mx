@@ -1,0 +1,19 @@
+{
+  "slot_id": "8cbe9ff5673fabc1",
+  "page_path": "/blog/por-que-el-internet-es-lento-a-veces.html",
+  "normalized_page_path": "/blog/por-que-el-internet-es-lento-a-veces.html",
+  "slot_key": "inline-9",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 8,
+  "insertion_mode": "after",
+  "priority_level": 3,
+  "page_is_home": false,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "\u00bfPor qu\u00e9 va bien en la ma\u00f1ana y mal en la noche?",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

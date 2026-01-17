@@ -1,0 +1,19 @@
+{
+  "slot_id": "afe882db2fe4f7c6",
+  "page_path": "/cobertura/cdmx/mejor-internet-cdmx/index.html",
+  "normalized_page_path": "/cobertura/cdmx/mejor-internet-cdmx/index.html",
+  "slot_key": "inline-2",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 1,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Zonas y colonias: c\u00f3mo pensar la cobertura",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

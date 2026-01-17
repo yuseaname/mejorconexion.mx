@@ -1,0 +1,19 @@
+{
+  "slot_id": "f1bcf5aa88586d6d",
+  "page_path": "/blog/por-que-hay-lag-internet-rapido.html",
+  "normalized_page_path": "/blog/por-que-hay-lag-internet-rapido.html",
+  "slot_key": "inline-4",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 3,
+  "insertion_mode": "after",
+  "priority_level": 3,
+  "page_is_home": false,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "El enemigo oculto: bufferbloat",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

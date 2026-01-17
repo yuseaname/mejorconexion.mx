@@ -1,0 +1,19 @@
+{
+  "slot_id": "e2a03562b7ecb88b",
+  "page_path": "/internet-en-casa/index.html",
+  "normalized_page_path": "/internet-en-casa/index.html",
+  "slot_key": "inline-7",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 6,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "M\u00e1s gu\u00edas (casos de uso)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

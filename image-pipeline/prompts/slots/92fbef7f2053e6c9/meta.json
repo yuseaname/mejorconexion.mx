@@ -1,0 +1,21 @@
+{
+  "slot_id": "92fbef7f2053e6c9",
+  "page_path": "/internet-en-casa/internet-inalambrico-fijo-mexico/index.html",
+  "normalized_page_path": "/internet-en-casa/internet-inalambrico-fijo-mexico/index.html",
+  "slot_key": "inline-2",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 1,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "thin_content"
+  ],
+  "anchor_text": "Qu\u00e9 revisar antes de contratar",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

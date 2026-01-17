@@ -1,0 +1,19 @@
+{
+  "slot_id": "1627781a782ac09d",
+  "page_path": "/planes-moviles/mejores-planes-prepago-mexico/index.html",
+  "normalized_page_path": "/planes-moviles/mejores-planes-prepago-mexico/index.html",
+  "slot_key": "inline-7",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 6,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Art\u00edculos relacionados",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

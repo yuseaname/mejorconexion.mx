@@ -1,0 +1,19 @@
+{
+  "slot_id": "63334df3f4601db0",
+  "page_path": "/internet-en-casa/index.html",
+  "normalized_page_path": "/internet-en-casa/index.html",
+  "slot_key": "inline-18",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 17,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Internet para clases en l\u00ednea",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

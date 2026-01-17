@@ -1,0 +1,21 @@
+{
+  "slot_id": "7a1ee3aadbb63ebd",
+  "page_path": "/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/index.html",
+  "normalized_page_path": "/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "above_fold"
+  ],
+  "anchor_text": "Telmex vs Izzi vs Totalplay: cu\u00e1l te conviene seg\u00fan tu uso real (2026)",
+  "container_selector": "article",
+  "container_css_context": "main > div > article",
+  "selected": false
+}

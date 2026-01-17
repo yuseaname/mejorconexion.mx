@@ -1,0 +1,21 @@
+{
+  "slot_id": "2ca8d5e8f2f9836e",
+  "page_path": "/blog/fibra-optica-vs-cable-mexico.html",
+  "normalized_page_path": "/blog/fibra-optica-vs-cable-mexico.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 3,
+  "page_is_home": false,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "above_fold"
+  ],
+  "anchor_text": "Fibra optica vs cable en Mexico: cual conviene",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

@@ -1,0 +1,19 @@
+{
+  "slot_id": "daad2a4b9a809cd1",
+  "page_path": "/blog/streaming-sin-cortes-mexico.html",
+  "normalized_page_path": "/blog/streaming-sin-cortes-mexico.html",
+  "slot_key": "inline-6",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 5,
+  "insertion_mode": "after",
+  "priority_level": 3,
+  "page_is_home": false,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Dispositivos, apps y ajustes de calidad",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

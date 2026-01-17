@@ -1,0 +1,21 @@
+{
+  "slot_id": "e9cc5d3d8f80b7af",
+  "page_path": "/herramientas/index.html",
+  "normalized_page_path": "/herramientas/index.html",
+  "slot_key": "hero",
+  "slot_type": "hero",
+  "market": "MX",
+  "anchor_selector": "h1",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "above_fold"
+  ],
+  "anchor_text": "Herramientas de conectividad",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": true
+}

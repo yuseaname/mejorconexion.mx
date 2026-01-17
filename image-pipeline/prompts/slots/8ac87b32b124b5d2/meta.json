@@ -1,0 +1,19 @@
+{
+  "slot_id": "8ac87b32b124b5d2",
+  "page_path": "/internet-en-casa/internet-sin-contrato-mexico/index.html",
+  "normalized_page_path": "/internet-en-casa/internet-sin-contrato-mexico/index.html",
+  "slot_key": "inline-1",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "La mejor opci\u00f3n para\u2026",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

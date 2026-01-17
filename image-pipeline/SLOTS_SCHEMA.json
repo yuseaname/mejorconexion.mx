@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Slot Meta Schema",
+  "type": "object",
+  "required": [
+    "slot_id",
+    "page_path",
+    "slot_key",
+    "slot_type",
+    "anchor_selector",
+    "anchor_index",
+    "insertion_mode",
+    "priority_level",
+    "page_is_home",
+    "risk_score",
+    "risk_factors"
+  ],
+  "properties": {
+    "slot_id": {"type": "string"},
+    "page_path": {"type": "string"},
+    "normalized_page_path": {"type": "string"},
+    "slot_key": {"type": "string"},
+    "slot_type": {"type": "string", "enum": ["hero", "inline"]},
+    "market": {"type": "string"},
+    "anchor_selector": {"type": "string"},
+    "anchor_index": {"type": "integer", "minimum": 0},
+    "insertion_mode": {"type": "string", "enum": ["before", "after", "replace"]},
+    "priority_level": {"type": "integer", "minimum": 1},
+    "page_is_home": {"type": "boolean"},
+    "risk_score": {"type": "number", "minimum": 0, "maximum": 1},
+    "risk_factors": {"type": "array", "items": {"type": "string"}},
+    "container_selector": {"type": "string"},
+    "container_css_context": {"type": "string"},
+    "anchor_text": {"type": "string"},
+    "prompt_text": {"type": "string"},
+    "prompt_hash": {"type": "string"}
+  }
+}

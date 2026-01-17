@@ -1,0 +1,19 @@
+{
+  "slot_id": "36abceea3aa7de81",
+  "page_path": "/planes-internet/plan-internet-casa-segun-personas-mexico/index.html",
+  "normalized_page_path": "/planes-internet/plan-internet-casa-segun-personas-mexico/index.html",
+  "slot_key": "inline-3",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 2,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Gu\u00eda por n\u00famero de personas",
+  "container_selector": "article",
+  "container_css_context": "main > div > article",
+  "selected": false
+}

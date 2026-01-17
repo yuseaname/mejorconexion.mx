@@ -1,0 +1,19 @@
+{
+  "slot_id": "cbfb2d00027a530a",
+  "page_path": "/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/index.html",
+  "normalized_page_path": "/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/index.html",
+  "slot_key": "inline-18",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 17,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "\u00bfPor qu\u00e9 dos vecinos con el mismo proveedor tienen experiencias diferentes?",
+  "container_selector": "article",
+  "container_css_context": "main > div > article",
+  "selected": false
+}

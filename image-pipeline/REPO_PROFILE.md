@@ -1,0 +1,9 @@
+# Repo Profile
+
+- Detected framework: html
+- Source roots: /, /src
+- Build dirs: None
+- Page extensions: .html
+- Total pages found: 76
+- Existing image patterns: /images/
+- Scan timestamp: 2026-01-17T22:51:02.593984Z

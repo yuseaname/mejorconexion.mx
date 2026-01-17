@@ -1,0 +1,21 @@
+{
+  "slot_id": "ec2d2eaacef35013",
+  "page_path": "/internet-en-casa/wifi-mesh-cobertura-total/index.html",
+  "normalized_page_path": "/internet-en-casa/wifi-mesh-cobertura-total/index.html",
+  "slot_key": "inline-10",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 9,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "image_heavy"
+  ],
+  "anchor_text": "Mapa de cobertura sencillo para tu casa",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

@@ -1,0 +1,19 @@
+{
+  "slot_id": "5c8bea69c49f0486",
+  "page_path": "/cobertura/guadalajara/index.html",
+  "normalized_page_path": "/cobertura/guadalajara/index.html",
+  "slot_key": "inline-17",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h3",
+  "anchor_index": 16,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Compa\u00f1\u00edas de internet en M\u00e9xico",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

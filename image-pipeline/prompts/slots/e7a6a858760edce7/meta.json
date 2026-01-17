@@ -1,0 +1,21 @@
+{
+  "slot_id": "e7a6a858760edce7",
+  "page_path": "/blog/red-estable-home-office-mexico.html",
+  "normalized_page_path": "/blog/red-estable-home-office-mexico.html",
+  "slot_key": "inline-5",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 4,
+  "insertion_mode": "after",
+  "priority_level": 3,
+  "page_is_home": false,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "image_heavy"
+  ],
+  "anchor_text": "Router, WiFi y cobertura dentro de casa",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

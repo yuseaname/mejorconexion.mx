@@ -1,0 +1,19 @@
+{
+  "slot_id": "eec749f0ecb62dcb",
+  "page_path": "/blog/index.html",
+  "normalized_page_path": "/blog/index.html",
+  "slot_key": "inline-10",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 9,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.0,
+  "risk_factors": [],
+  "anchor_text": "Red estable para home office",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}

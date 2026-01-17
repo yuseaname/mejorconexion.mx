@@ -1,0 +1,21 @@
+{
+  "slot_id": "93c7d04935d0b006",
+  "page_path": "/guias/que-hacer-si-internet-lento/index.html",
+  "normalized_page_path": "/guias/que-hacer-si-internet-lento/index.html",
+  "slot_key": "inline-1",
+  "slot_type": "inline",
+  "market": "MX",
+  "anchor_selector": "h2",
+  "anchor_index": 0,
+  "insertion_mode": "after",
+  "priority_level": 1,
+  "page_is_home": true,
+  "risk_score": 0.2,
+  "risk_factors": [
+    "thin_content"
+  ],
+  "anchor_text": "Checklist r\u00e1pido (10\u201315 minutos)",
+  "container_selector": "#contenido",
+  "container_css_context": "html > body > main",
+  "selected": false
+}
