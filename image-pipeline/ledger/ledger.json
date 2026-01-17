@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T22:51:29.370314Z",
+  "generated_at": "2026-01-17T23:19:31.828878Z",
   "slots": [
     {
       "slot_id": "4ae7da935ac6610c",
@@ -7,7 +7,7 @@
       "page_path": "/blog/index.html",
       "slot_key": "hero",
       "prompt_hash": "dbdca23ffcf28cf5",
-      "manifest_status": "existing_valid"
+      "manifest_status": "success"
     },
     {
       "slot_id": "a4b38328399e4688",
@@ -15,7 +15,7 @@
       "page_path": "/ciudades/index.html",
       "slot_key": "hero",
       "prompt_hash": "fab7a20b64e51e8b",
-      "manifest_status": "existing_valid"
+      "manifest_status": "success"
     },
     {
       "slot_id": "378e2b525ebdc48f",
@@ -23,7 +23,7 @@
       "page_path": "/cobertura/cdmx/mejor-internet-cdmx/index.html",
       "slot_key": "hero",
       "prompt_hash": "c770223c01e7d921",
-      "manifest_status": "existing_valid"
+      "manifest_status": "success"
     },
     {
       "slot_id": "c5d65aebc397f1fd",
@@ -31,7 +31,7 @@
       "page_path": "/cobertura/guadalajara/index.html",
       "slot_key": "hero",
       "prompt_hash": "2d1855c7c53b5606",
-      "manifest_status": "existing_valid"
+      "manifest_status": "success"
     },
     {
       "slot_id": "8a8a55ce5011bfda",
@@ -39,7 +39,7 @@
       "page_path": "/cobertura/index.html",
       "slot_key": "hero",
       "prompt_hash": "df55a8a4d1938bf5",
-      "manifest_status": "existing_valid"
+      "manifest_status": "success"
     },
     {
       "slot_id": "d020922dddd912ae",
@@ -47,7 +47,7 @@
       "page_path": "/cobertura/monterrey/index.html",
       "slot_key": "hero",
       "prompt_hash": "283696c5a9ece583",
-      "manifest_status": "existing_valid"
+      "manifest_status": "success"
     },
     {
       "slot_id": "d115866d4411febc",
@@ -55,7 +55,7 @@
       "page_path": "/cobertura/puebla/index.html",
       "slot_key": "hero",
       "prompt_hash": "b394ecc815daa01e",
-      "manifest_status": "existing_valid"
+      "manifest_status": "success"
     },
     {
       "slot_id": "525bf4cdb024b00d",
@@ -63,7 +63,7 @@
       "page_path": "/cobertura/queretaro/index.html",
       "slot_key": "hero",
       "prompt_hash": "f73ff6d82a812092",
-      "manifest_status": "existing_valid"
+      "manifest_status": "success"
     },
     {
       "slot_id": "30435792faea8975",
@@ -71,7 +71,7 @@
       "page_path": "/esim-viajeros/index.html",
       "slot_key": "hero",
       "prompt_hash": "3d878df85d9cebeb",
-      "manifest_status": "existing_valid"
+      "manifest_status": "success"
     },
     {
       "slot_id": "37b12bc5146f8cb6",
@@ -79,7 +79,7 @@
       "page_path": "/esim-viajeros/mejor-esim-para-mexico/index.html",
       "slot_key": "hero",
       "prompt_hash": "dfd4681013e46c38",
-      "manifest_status": "existing_valid"
+      "manifest_status": "success"
     },
     {
       "slot_id": "d8a4b5e81e527b7c",
