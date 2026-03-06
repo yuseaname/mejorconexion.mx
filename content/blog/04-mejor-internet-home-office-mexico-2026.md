@@ -14,8 +14,9 @@ dateModified: '2026-03-05'
 
 Trabajar desde casa con internet inestable no solo frustra: también cuesta tiempo, reputación y dinero. Si dependes de videollamadas, herramientas en la nube y entregas puntuales, necesitas evaluar tu conexión con criterios de trabajo real, no de publicidad.
 
-![Profesional en home office con conexión estable](./images/mejor-internet-home-office-mexico-2026/01-hero.png)
-
+<figure class="article-image">
+  <img src="./images/mejor-internet-home-office-mexico-2026/01-hero.png" alt="Profesional en home office con conexión estable" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 Esta guía te ayuda a elegir plan y proveedor con foco en tres variables clave: **latencia, estabilidad y costo real anual**.
 
 ---
@@ -41,8 +42,9 @@ En home office, un plan “barato” que falla seguido sale más caro que uno un
 - **Jitter:** si sube, la llamada se entrecorta
 - **Pérdida de paquetes:** produce congelamientos
 
-![Monitoreo de latencia y rendimiento de red](./images/mejor-internet-home-office-mexico-2026/02-latencia.png)
-
+<figure class="article-image">
+  <img src="./images/mejor-internet-home-office-mexico-2026/02-latencia.png" alt="Monitoreo de latencia y rendimiento de red" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 Si solo miras Mbps de descarga, puedes equivocarte en la elección.
 
 ---
@@ -101,8 +103,9 @@ Para guía detallada de costos:
 
 ## 6) Setup técnico recomendado en casa
 
-![Setup de home office optimizado para estabilidad](./images/mejor-internet-home-office-mexico-2026/03-setup.png)
-
+<figure class="article-image">
+  <img src="./images/mejor-internet-home-office-mexico-2026/03-setup.png" alt="Setup de home office optimizado para estabilidad" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 Para mejorar resultados sin gastar de más:
 
 - Usa cable ethernet en equipo principal si es posible

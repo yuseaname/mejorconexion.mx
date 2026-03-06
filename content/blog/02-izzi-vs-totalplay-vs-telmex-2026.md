@@ -26,7 +26,9 @@ La comparación útil entre **Izzi, Totalplay y Telmex** en 2026 tiene que respo
 
 En este artículo vas a encontrar un método para decidir sin adivinar:
 
-![Comparativa neutral de proveedores de internet en México](./images/izzi-vs-totalplay-vs-telmex-2026/01-hero.png)
+<figure class="article-image">
+  <img src="./images/izzi-vs-totalplay-vs-telmex-2026/01-hero.png" alt="Comparativa neutral de proveedores de internet en México" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 - cómo validar cobertura por colonia,
 - cómo comparar velocidad real vs velocidad anunciada,
 - cómo calcular costo total anual,
@@ -112,8 +114,9 @@ https://www.ift.org.mx/conocetuvelocidad/
 
 Con esa evidencia tomas decisiones mejores y, si hay incumplimiento, tienes respaldo para reclamar.
 
-![Comportamiento de la red en hora pico](./images/izzi-vs-totalplay-vs-telmex-2026/02-hora-pico.png)
-
+<figure class="article-image">
+  <img src="./images/izzi-vs-totalplay-vs-telmex-2026/02-hora-pico.png" alt="Comportamiento de la red en hora pico" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 ---
 
 ## Costo real en 12 meses: donde se gana o se pierde dinero
@@ -255,8 +258,9 @@ https://concilianet.profeco.gob.mx/Concilianet/comoconciliar.jsp
 
 No se trata de “pelear”, se trata de tener proceso y evidencia.
 
-![Gestión de soporte y diagnóstico de fallas](./images/izzi-vs-totalplay-vs-telmex-2026/03-soporte.png)
-
+<figure class="article-image">
+  <img src="./images/izzi-vs-totalplay-vs-telmex-2026/03-soporte.png" alt="Gestión de soporte y diagnóstico de fallas" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 ---
 
 ## Escenarios reales de decisión (casos prácticos)

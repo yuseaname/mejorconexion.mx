@@ -24,8 +24,9 @@ Esta guía está diseñada para ayudarte a elegir con criterio real, no con mark
 
 También enlazamos el cluster estratégico para que tomes decisiones más precisas:
 
-![Familia usando internet en casa en México](./images/mejor-internet-casa-mexico-2026/01-hero.png)
-
+<figure class="article-image">
+  <img src="./images/mejor-internet-casa-mexico-2026/01-hero.png" alt="Familia usando internet en casa en México" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 - Comparativa específica por marca: [Izzi vs Totalplay vs Telmex en 2026](./izzi-vs-totalplay-vs-telmex-2026)
 - Costo real y letra chiquita: [Cuánto cuesta el internet en México en 2026](./cuanto-cuesta-internet-en-mexico-2026)
 
@@ -91,8 +92,9 @@ No decidas por campañas nacionales. Un proveedor puede funcionar excelente en u
 
 Si no hay buena cobertura en tu domicilio, todo lo demás deja de importar.
 
-![Validación de cobertura por domicilio](./images/mejor-internet-casa-mexico-2026/02-cobertura.png)
-
+<figure class="article-image">
+  <img src="./images/mejor-internet-casa-mexico-2026/02-cobertura.png" alt="Validación de cobertura por domicilio" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 ---
 
 ## 4) Tecnología y desempeño: velocidad no es todo
@@ -208,8 +210,9 @@ Luego aplica pesos según perfil.
 
 La suma final te permite decidir de forma objetiva en lugar de reaccionar a promociones.
 
-![Decisión final comparando planes de internet](./images/mejor-internet-casa-mexico-2026/03-decision.png)
-
+<figure class="article-image">
+  <img src="./images/mejor-internet-casa-mexico-2026/03-decision.png" alt="Decisión final comparando planes de internet" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 ---
 
 ## 8) Errores más comunes al contratar internet

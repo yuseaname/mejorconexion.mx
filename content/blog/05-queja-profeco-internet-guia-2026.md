@@ -14,8 +14,9 @@ dateModified: '2026-03-05'
 
 Cuando tu internet falla de forma recurrente y el proveedor no corrige, no necesitas “pelear”: necesitas **proceso + evidencia**.
 
-![Usuario documentando fallas de internet en casa](./images/queja-profeco-internet-guia-2026/01-hero.png)
-
+<figure class="article-image">
+  <img src="./images/queja-profeco-internet-guia-2026/01-hero.png" alt="Usuario documentando fallas de internet en casa" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 Esta guía te explica cómo preparar y escalar tu caso para que tu reclamación tenga mayor probabilidad de resolverse.
 
 ---
@@ -67,8 +68,9 @@ No saltes pasos: seguir secuencia mejora el resultado.
 Canal:
 - https://concilianet.profeco.gob.mx/Concilianet/comoconciliar.jsp
 
-![Proceso formal de queja en línea](./images/queja-profeco-internet-guia-2026/02-proceso.png)
-
+<figure class="article-image">
+  <img src="./images/queja-profeco-internet-guia-2026/02-proceso.png" alt="Proceso formal de queja en línea" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 ### Proceso práctico
 
 - Entra al portal y verifica requisitos vigentes
@@ -139,8 +141,9 @@ Si tu evidencia es consistente y cronológica, sube mucho la probabilidad de res
 
 Presentar queja en PROFECO no es último recurso “extremo”; es una vía formal cuando ya intentaste resolver con el proveedor y no cumplió.
 
-![Resolución positiva tras proceso de conciliación](./images/queja-profeco-internet-guia-2026/03-resolucion.png)
-
+<figure class="article-image">
+  <img src="./images/queja-profeco-internet-guia-2026/03-resolucion.png" alt="Resolución positiva tras proceso de conciliación" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 Con evidencia bien organizada y una solicitud clara, pasas de frustración a una ruta de solución real.
 
 Internal links:

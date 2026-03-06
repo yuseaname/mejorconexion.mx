@@ -16,8 +16,9 @@ Audiencia: Principiantes en Mexico que quieren mejorar su conexion.
 
 Intencion: Informativa y comparativa.
 
-![Router y sala representando que-es-el-ping.outline en Mexico](/content-system/assets/images/que-es-el-pingoutline-featured.jpg)
-
+<figure class="article-image">
+  <img src="/content-system/assets/images/que-es-el-pingoutline-featured.jpg" alt="Router y sala representando que-es-el-ping.outline en Mexico" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 > **Puntos clave**
 > - Prioriza que-es-el-ping.outline con base en tu zona y presupuesto.
 > - Valida la cobertura real antes de contratar.
@@ -92,10 +93,12 @@ Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi 
 
 Checklist rapido:\n- Haz una prueba de velocidad en 3 horarios distintos.\n- Verifica si tu router soporta WiFi 6 o al menos doble banda.\n- Coloca el modem en una zona central, elevada y sin obstrucciones.\n- Si puedes, usa cable para tareas criticas como videollamadas.
 
-![Persona midiendo velocidad de internet en casa](/content-system/assets/images/que-es-el-pingoutline-inline-1.jpg)
-
-![Ilustracion de fibra optica en entorno urbano](/content-system/assets/images/que-es-el-pingoutline-inline-2.jpg)
-
+<figure class="article-image">
+  <img src="/content-system/assets/images/que-es-el-pingoutline-inline-1.jpg" alt="Persona midiendo velocidad de internet en casa" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
+<figure class="article-image">
+  <img src="/content-system/assets/images/que-es-el-pingoutline-inline-2.jpg" alt="Ilustracion de fibra optica en entorno urbano" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 ## FAQ
 ### ¿Cuantos megas necesito para que-es-el-ping.outline?
 Depende del numero de personas y usos simultaneos. Para 1-2 personas, 50-100 Mbps suele funcionar; para familias grandes, 200 Mbps o mas es mas estable.

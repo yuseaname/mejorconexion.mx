@@ -19,8 +19,9 @@ dateModified: '2026-03-05'
 
 La mayoría de anuncios muestran el precio “desde”. El problema: ese número casi nunca representa lo que pagas en promedio durante un año.
 
-![Comparación de costos de internet en un hogar mexicano](./images/cuanto-cuesta-internet-en-mexico-2026/01-hero.png)
-
+<figure class="article-image">
+  <img src="./images/cuanto-cuesta-internet-en-mexico-2026/01-hero.png" alt="Comparación de costos de internet en un hogar mexicano" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 En esta guía vas a calcular el **costo real mensual** para comparar planes con justicia y evitar sorpresas en tu factura.
 
 Si todavía estás decidiendo proveedor, primero revisa:
@@ -73,8 +74,9 @@ El error común es contratar por “miedo a quedarse corto” y pagar de más ca
 
 ## 4) Letra chiquita que más encarece
 
-![Revisión de contrato y letra chiquita del servicio de internet](./images/cuanto-cuesta-internet-en-mexico-2026/02-contrato.png)
-
+<figure class="article-image">
+  <img src="./images/cuanto-cuesta-internet-en-mexico-2026/02-contrato.png" alt="Revisión de contrato y letra chiquita del servicio de internet" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 Antes de contratar, confirma por escrito:
 
 - ¿Cuánto cuesta el plan sin promoción?
@@ -148,8 +150,9 @@ Canal útil:
 
 El internet “más barato” no siempre es el más económico en la práctica. Lo correcto es comparar por **costo total real** y estabilidad para tu tipo de uso.
 
-![Hogar con internet estable y decisión financiera inteligente](./images/cuanto-cuesta-internet-en-mexico-2026/03-ahorro.png)
-
+<figure class="article-image">
+  <img src="./images/cuanto-cuesta-internet-en-mexico-2026/03-ahorro.png" alt="Hogar con internet estable y decisión financiera inteligente" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 Si aplicas el método de esta guía, evitas pagos innecesarios y eliges un plan sostenible para todo el año.
 
 ---

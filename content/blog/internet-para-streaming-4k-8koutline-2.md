@@ -16,8 +16,9 @@ Audiencia: Principiantes en Mexico que quieren mejorar su conexion.
 
 Intencion: Informativa y comparativa.
 
-![Router y sala representando internet-para-streaming-4k-8k.outline en Mexico](/content-system/assets/images/internet-para-streaming-4k-8koutline-featured.jpg)
-
+<figure class="article-image">
+  <img src="/content-system/assets/images/internet-para-streaming-4k-8koutline-featured.jpg" alt="Router y sala representando internet-para-streaming-4k-8k.outline en Mexico" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 > **Puntos clave**
 > - Prioriza internet-para-streaming-4k-8k.outline con base en tu zona y presupuesto.
 > - Valida la cobertura real antes de contratar.
@@ -112,10 +113,12 @@ Checklist rapido:
 - Coloca el modem en una zona central, elevada y sin obstrucciones.
 - Si puedes, usa cable para tareas criticas como videollamadas.
 
-![Persona midiendo velocidad de internet en casa](/content-system/assets/images/internet-para-streaming-4k-8koutline-inline-1.jpg)
-
-![Ilustracion de fibra optica en entorno urbano](/content-system/assets/images/internet-para-streaming-4k-8koutline-inline-2.jpg)
-
+<figure class="article-image">
+  <img src="/content-system/assets/images/internet-para-streaming-4k-8koutline-inline-1.jpg" alt="Persona midiendo velocidad de internet en casa" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
+<figure class="article-image">
+  <img src="/content-system/assets/images/internet-para-streaming-4k-8koutline-inline-2.jpg" alt="Ilustracion de fibra optica en entorno urbano" loading="lazy" decoding="async" width="1200" height="630" />
+</figure>
 ## FAQ
 ### Cuantos megas necesito para internet-para-streaming-4k-8k.outline?
 Depende del numero de personas y usos simultaneos. Para 1-2 personas, 50-100 Mbps suele funcionar; para familias grandes, 200 Mbps o mas es mas estable.
