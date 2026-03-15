@@ -22,12 +22,12 @@ jobs:
           mkdir -p ~/.ssh
           printf '%s' "${{ secrets.HOSTINGER_SSH_KEY }}" > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
-          ssh-keyscan -H "${{ secrets.HOSTINGER_SSH_HOST }}" >> ~/.ssh/known_hosts
+          ssh-keyscan -H -p 65002 "${{ secrets.HOSTINGER_SSH_HOST }}" >> ~/.ssh/known_hosts
       - name: Deploy via rsync
         run: |
           rsync -avz --delete \
             --exclude='.git' \
             --exclude='.github' \
-            -e "ssh -i ~/.ssh/deploy_key" \
+            -e "ssh -i ~/.ssh/deploy_key -p 65002" \
             ./dist/ \
             "${{ secrets.HOSTINGER_SSH_USER }}@${{ secrets.HOSTINGER_SSH_HOST }}:~/domains/mejorconexion.mx/public_html/"
