@@ -1,9 +1,12 @@
 ---
 title: "¿Cuánto Cuesta Internet en México en 2026? Precios Reales por ISP"
 date: 2026-03-15
+visual_audit: passed
+visual_audit_date: 2026-03-16
 draft: false
 slug: "cuanto-cuesta-internet-en-mexico-2026"
 description: "Precios actualizados de internet en México en 2026. Comparamos los planes de Telmex, Totalplay, Megacable e Izzi con costos reales: instalación, mensualidad y cargos ocultos."
+image: "/images/cuanto-cuesta-internet-en-mexico-2026/cuanto-cuesta-internet-en-mexico-2026-hero.jpg"
 tags: ["precios", "telmex", "totalplay", "megacable", "izzi", "comparativa"]
 categories: ["precios"]
 ---

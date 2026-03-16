@@ -1,9 +1,12 @@
 ---
 title: "¿Cuánta Velocidad de Internet Necesitas en 2026? Guía Real para México"
 date: 2026-03-16
+visual_audit: passed
+visual_audit_date: 2026-03-16
 draft: false
 slug: "cuanta-velocidad-internet-necesitas-2026"
 description: "¿Cuántos Mbps necesitas realmente en casa? Descubre la velocidad ideal según el número de personas, tipo de uso y cuánto estás pagando de más."
+image: "/images/cuanta-velocidad-internet-necesitas-2026/cuanta-velocidad-internet-necesitas-2026-hero.jpg"
 tags: ["velocidad", "mbps", "streaming", "gaming", "internet", "comparativa"]
 categories: ["guías"]
 ---

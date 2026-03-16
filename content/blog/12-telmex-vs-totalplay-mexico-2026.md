@@ -4,6 +4,7 @@ lang: es
 title: 'Telmex vs Totalplay 2026: precio real, velocidad y cuál conviene más'
 slug: 'telmex-vs-totalplay-mexico-2026'
 pillar: 'comparativas-internet'
+image: "/images/telmex-vs-totalplay-mexico-2026/telmex-vs-totalplay-mexico-2026-hero.jpg"
 excerpt: 'Comparamos Telmex vs Totalplay en México 2026: precios reales, velocidades, tecnología de red y en qué casos conviene cada proveedor.'
 metaDescription: 'Telmex vs Totalplay en México 2026: compara precios reales, velocidades, cobertura, tecnología y descubre cuál conviene para tu hogar, trabajo o gaming.'
 keywords:
