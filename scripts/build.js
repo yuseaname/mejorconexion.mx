@@ -13,13 +13,34 @@ const dist = path.join(root, 'dist');
 const IGNORES = new Set([
   '.git',
   '.venv',
+  '.venv-image-pipeline',
   'node_modules',
   'dist',
   'scripts',
 ]);
 
 async function rimraf(dir) {
-  await fsp.rm(dir, { recursive: true, force: true });
+  const problematicVenvDir = path.join(dir, '.venv-image-pipeline');
+  const transientCodes = new Set(['ENOTEMPTY', 'EBUSY', 'EPERM']);
+
+  for (let attempt = 0; attempt < 5; attempt += 1) {
+    try {
+      // This directory is recreated/locked intermittently on shared storage.
+      await fsp.rm(problematicVenvDir, { recursive: true, force: true, maxRetries: 5, retryDelay: 120 });
+    } catch (err) {
+      console.warn(`[WARN] Best-effort cleanup failed for ${problematicVenvDir}: ${err.message}`);
+    }
+
+    try {
+      await fsp.rm(dir, { recursive: true, force: true, maxRetries: 5, retryDelay: 120 });
+      return;
+    } catch (err) {
+      if (!transientCodes.has(err.code) || attempt === 4) {
+        throw err;
+      }
+      await new Promise((resolve) => setTimeout(resolve, 180 * (attempt + 1)));
+    }
+  }
 }
 
 async function copyDir(src, dest) {
