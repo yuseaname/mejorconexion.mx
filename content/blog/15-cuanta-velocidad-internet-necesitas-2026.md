@@ -29,7 +29,7 @@ Antes de explicar el porqué, aquí tienes las cifras clave:
 | Streaming HD (1 pantalla) | 15–25 Mbps |
 | Streaming 4K (1 pantalla) | 25–50 Mbps |
 | Videollamadas (Zoom, Teams, Meet) | 10–25 Mbps |
-| Gaming online competitivo | 25 Mbps + latencia <50ms |
+| Gaming online competitivo | 25 Mbps + latencia &lt;50ms |
 | Home office con videollamadas | 25–50 Mbps |
 | Descargas de videojuegos (Steam) | 100+ Mbps para tiempos cómodos |
 | Streaming en vivo (Twitch, YouTube) | 15–30 Mbps **de subida** |

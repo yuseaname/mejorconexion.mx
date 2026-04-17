@@ -35,7 +35,7 @@ Tu trabajo depende de tu internet. Una mala conexión = mala imagen en reuniones
 |----------------|--------|-------------|-------|
 | **Velocidad bajada** | 25 Mbps | 50 Mbps | 100+ Mbps |
 | **Velocidad subida** | 10 Mbps | 20 Mbps | 50+ Mbps |
-| **Latencia** | <100 ms | <50 ms | <30 ms |
+| **Latencia** | &lt;100 ms | &lt;50 ms | &lt;30 ms |
 | **Estabilidad** | 95% | 99% | 99.5% |
 
 ### Por Qué la Subida Importa Más
@@ -95,10 +95,10 @@ Para trabajo remoto, **la velocidad de subida es más importante que la de bajad
 
 | Actividad | Velocidad Recomendada |
 |-----------|----------------------|
-| Subir documento (1 MB) | 1 Mbps (<10 seg) |
-| Subir presentación (10 MB) | 5 Mbps (<20 seg) |
-| Subir video (100 MB) | 20 Mbps (<45 seg) |
-| Subir archivo grande (1 GB) | 50 Mbps (<3 min) |
+| Subir documento (1 MB) | 1 Mbps (&lt;10 seg) |
+| Subir presentación (10 MB) | 5 Mbps (&lt;20 seg) |
+| Subir video (100 MB) | 20 Mbps (&lt;45 seg) |
+| Subir archivo grande (1 GB) | 50 Mbps (&lt;3 min) |
 
 <img src="https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=800&h=400&fit=crop&q=80" alt="Videollamada de trabajo con múltiples participantes" width="800" height="400" loading="lazy" />
 
@@ -199,7 +199,7 @@ Ten lista esta lista:
 
 **Antes de cada reunión importante:**
 - [ ] Velocidad >10 Mbps
-- [ ] Latencia <50 ms
+- [ ] Latencia &lt;50 ms
 - [ ] Celular cargado (backup)
 - [ ] Plan B listo si se corta
 
@@ -227,7 +227,7 @@ Si tu internet falla constantemente:
 Haz esta prueba:
 1. Mide velocidad en Speedtest
 2. Si bajada >25 Mbps Y subida >10 Mbps → Suficiente
-3. Si subida <10 Mbps → Necesitas mejorar
+3. Si subida &lt;10 Mbps → Necesitas mejorar
 
 ---
 

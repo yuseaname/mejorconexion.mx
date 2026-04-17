@@ -242,7 +242,7 @@ Si hay gran diferencia → Tus dispositivos saturan la red.
 
 ### Es hora de cambiar si:
 
-- ❌ Velocidad nocturna <50% de lo contratado TODAS las noches
+- ❌ Velocidad nocturna &lt;50% de lo contratado TODAS las noches
 - ❌ Ya intentaste cambiar canal, router, ubicación
 - ❌ Vecinos con otros proveedores no tienen el problema
 - ❌ El proveedor no resuelve tras 3+ quejas
