@@ -12,20 +12,446 @@
 <link href="https://app.rybbit.io" rel="dns-prefetch"/>
 <link as="image" href="/assets/images/homepage/home-city-balcony-phone.webp" rel="preload"/>
 <link href="/assets/css/styles.css?v=356105b" rel="stylesheet"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Mejor internet en CDMX: cómo elegir por zona (2026)" name="twitter:title"/>
+<meta content="Guía completa para elegir internet en CDMX: tecnologías, cobertura por colonia, checklist antes de contratar y recomendaciones por uso." name="twitter:description"/>
+<meta content="/assets/images/mejor-internet-cdmx/hero-cdmx-internet.webp" name="twitter:image"/>
+<meta property="og:title" content="Mejor internet en CDMX: cómo elegir por zona (2026)"/>
+<meta property="og:description" content="Guía completa para elegir internet en CDMX: tecnologías, cobertura por colonia, checklist antes de contratar y recomendaciones por uso."/>
+<meta property="og:image" content="/assets/images/mejor-internet-cdmx/hero-cdmx-internet.webp"/>
+<meta property="og:type" content="article"/>
+<meta property="og:locale" content="es_MX"/>
 <script type="application/ld+json">
   {
     "@context":"https://schema.org",
     "@type":"Article",
     "headline":"Mejor internet en CDMX: cómo elegir por zona (2026)",
     "inLanguage":"es-MX",
-    "dateModified":"2026-01-17",
+    "dateModified":"2026-04-17",
     "publisher":{"@type":"Organization","name":"Mejor Conexión","url":"https://mejorconexion.mx/"},
     "mainEntityOfPage":"https://mejorconexion.mx/cobertura/cdmx/mejor-internet-cdmx/"
   }
   </script>
+<style>
+/* ===== CDMX Article Visual Enhancements ===== */
+
+/* Key points summary box */
+.key-points {
+  background: linear-gradient(135deg, #f0fdfa 0%, #f0f9ff 100%);
+  border: 1px solid #99f6e4;
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin: 20px 0;
+}
+.key-points h3 {
+  margin: 0 0 12px;
+  font-family: var(--font-serif);
+  font-size: 1.1rem;
+  color: #0f766e;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.key-points ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 10px;
+}
+.key-points li {
+  padding-left: 28px;
+  position: relative;
+  color: var(--text);
+  line-height: 1.5;
+}
+.key-points li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #0f766e;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+/* Pro tip callout */
+.pro-tip {
+  background: linear-gradient(135deg, #fefce8 0%, #fff7ed 100%);
+  border: 1px solid #fde68a;
+  border-left: 4px solid #f59e0b;
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin: 18px 0;
+}
+.pro-tip strong {
+  color: #92400e;
+  display: block;
+  margin-bottom: 4px;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* Warning callout */
+.warn-box {
+  background: linear-gradient(135deg, #fef2f2 0%, #fff1f2 100%);
+  border: 1px solid #fecaca;
+  border-left: 4px solid #ef4444;
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin: 18px 0;
+}
+.warn-box strong {
+  color: #991b1b;
+  display: block;
+  margin-bottom: 4px;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* Tech comparison cards */
+.tech-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 14px;
+  margin: 20px 0;
+}
+.tech-card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 18px;
+  text-align: center;
+  background: var(--surface);
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.tech-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+}
+.tech-card .tech-icon {
+  font-size: 2rem;
+  margin-bottom: 8px;
+  display: block;
+}
+.tech-card h4 {
+  margin: 0 0 6px;
+  font-size: 1rem;
+  color: var(--text);
+}
+.tech-card p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+  line-height: 1.45;
+}
+.tech-card .tech-badge {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+.tech-badge.best { background: #d1fae5; color: #065f46; }
+.tech-badge.ok { background: #fef3c7; color: #92400e; }
+.tech-badge.alt { background: #e0e7ff; color: #3730a3; }
+
+/* Visual checklist */
+.visual-checklist {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0;
+  display: grid;
+  gap: 10px;
+}
+.visual-checklist li {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 12px 16px;
+  background: var(--surface-2);
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  line-height: 1.5;
+}
+.visual-checklist li .check-num {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: #0f766e;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.8rem;
+}
+
+/* Scenario cards */
+.scenario-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+  margin: 20px 0;
+}
+.scenario-card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 20px;
+  background: var(--surface);
+}
+.scenario-card .scenario-icon {
+  font-size: 1.8rem;
+  margin-bottom: 6px;
+  display: block;
+}
+.scenario-card h4 {
+  margin: 0 0 4px;
+  font-size: 0.95rem;
+}
+.scenario-card .priority-tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  margin: 6px 0;
+}
+.scenario-card p {
+  margin: 6px 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+/* Timeline */
+.timeline {
+  position: relative;
+  margin: 20px 0;
+  padding-left: 32px;
+}
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 14px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(180deg, #0f766e, #14b8a6);
+  border-radius: 2px;
+}
+.timeline-item {
+  position: relative;
+  padding: 12px 16px;
+  margin-bottom: 12px;
+  background: var(--surface-2);
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -24px;
+  top: 18px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #0f766e;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 2px #0f766e;
+}
+.timeline-item .day-label {
+  font-weight: 700;
+  color: #0f766e;
+  font-size: 0.85rem;
+  margin-bottom: 2px;
+}
+.timeline-item p {
+  margin: 0;
+  color: var(--text);
+  font-size: 0.9rem;
+}
+
+/* Decision box */
+.decision-box {
+  background: linear-gradient(135deg, #f0fdfa 0%, #ecfdf5 100%);
+  border: 2px solid #99f6e4;
+  border-radius: 12px;
+  padding: 24px;
+  margin: 24px 0;
+}
+.decision-box h3 {
+  margin: 0 0 16px;
+  color: #0f766e;
+  text-align: center;
+  font-family: var(--font-serif);
+}
+.decision-questions {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 12px;
+  counter-reset: question;
+}
+.decision-questions li {
+  counter-increment: question;
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  padding: 14px 18px;
+  background: #fff;
+  border-radius: 8px;
+  border: 1px solid #d1fae5;
+}
+.decision-questions li::before {
+  content: counter(question);
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #0f766e;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+/* Diagnóstico flowchart (simple styled list) */
+.diag-steps {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0;
+}
+.diag-steps li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px dashed var(--border);
+}
+.diag-steps li:last-child { border-bottom: none; }
+.diag-steps .arrow { color: #0f766e; font-weight: 700; font-size: 1.2rem; }
+
+/* Section image figure */
+.section-figure {
+  margin: 24px 0;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+.section-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.section-figure figcaption {
+  padding: 10px 16px;
+  font-size: 0.8rem;
+  color: var(--muted);
+  background: var(--surface-2);
+  text-align: center;
+}
+
+/* People counter */
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+  margin: 16px 0;
+}
+.people-card {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+  background: var(--surface);
+}
+.people-card .people-count {
+  font-size: 1.6rem;
+  display: block;
+  margin-bottom: 4px;
+}
+.people-card strong {
+  display: block;
+  margin-bottom: 4px;
+}
+.people-card p {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.4;
+}
+
+/* Progress reading indicator bar */
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 3px;
+  background: linear-gradient(90deg, #0f766e, #14b8a6);
+  z-index: 1000;
+  transition: width 0.1s;
+}
+
+/* Inline infographic SVG responsive */
+.inline-svg {
+  width: 100%;
+  max-width: 680px;
+  margin: 20px auto;
+  display: block;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  .tech-grid, .scenario-grid, .people-grid {
+    grid-template-columns: 1fr;
+  }
+  .key-points { padding: 16px; }
+  .decision-box { padding: 16px; }
+}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿La fibra siempre es la mejor opción en CDMX?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "En general sí, pero depende de instalación. En edificios viejos puede fallar más."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué hago si baja la velocidad en la noche?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Eso apunta a saturación. Prueba en otros horarios y reporta si es constante."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Vale la pena pagar más por más Mbps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Solo si tu red interna es estable. Si no, primero arregla Wi‑Fi."
+      }
+    }
+  ]
+}
+</script>
 <script data-site-id="095d6520421b" defer="" src="https://app.rybbit.io/api/script.js"></script>
 </head>
 <body>
+<div class="reading-progress" id="readingProgress"></div>
 <a class="skip-link" href="#contenido">Saltar al contenido</a>
 <header class="site-header" data-site-header="">
 <div class="container header-inner">
@@ -66,6 +492,18 @@
 </figure>
 </div>
 
+<!-- KEY POINTS SUMMARY -->
+<div class="key-points">
+<h3>📋 Lo que vas a aprender en esta guía</h3>
+<ul>
+  <li>Qué tecnologías de internet están disponibles en cada zona de la CDMX</li>
+  <li>Por qué la cobertura puede variar hasta entre pisos del mismo edificio</li>
+  <li>Checklist completo antes de contratar para evitar sorpresas</li>
+  <li>Recomendaciones según tu uso: home office, streaming o gaming</li>
+  <li>Plan de acción en 7 días para elegir con datos reales</li>
+</ul>
+</div>
+
 <nav class="toc" aria-label="Tabla de contenidos" style="margin-top:18px">
 <h2>Tabla de contenidos</h2>
 <ol>
@@ -76,400 +514,562 @@
 <li><a href="#edificios">Edificios y cableado interno</a></li>
 <li><a href="#checklist">Checklist antes de contratar</a></li>
 <li><a href="#pruebas">Pruebas rápidas en tu edificio</a></li>
-<li><a href="#home-office">Home office y videollamadas</a></li>
-<li><a href="#streaming">Streaming y entretenimiento</a></li>
-<li><a href="#gaming">Gaming y latencia</a></li>
-<li><a href="#instalacion">Instalación y router</a></li>
-<li><a href="#alternativas">Alternativas si no hay fibra</a></li>
-<li><a href="#vecinos">Validar con vecinos</a></li>
+<li><a href="#escenarios">Escenarios por uso</a></li>
+<li><a href="#plan-accion">Plan de acción en 7 días</a></li>
+<li><a href="#presupuesto">Consejos por presupuesto</a></li>
+<li><a href="#diagnostico-actual">Diagnóstico si algo falla</a></li>
+<li><a href="#personas-en-casa">Por cantidad de personas</a></li>
+<li><a href="#decision-final">Decisión final en 3 preguntas</a></li>
+<li><a href="#plan-14-dias">Plan de mejora en 14 días</a></li>
+<li><a href="#mudanza">Checklist si te mudas</a></li>
 <li><a href="#preguntas">Preguntas frecuentes</a></li>
 </ol>
 </nav>
 
 <article>
+<!-- ========== 1. PANORAMA ========== -->
 <section id="panorama">
 <h2>Panorama local en CDMX</h2>
 <p>La CDMX tiene gran diversidad de infraestructura. Hay zonas con fibra avanzada y otras donde el servicio depende de cableado más antiguo.</p>
 <p>La experiencia cambia por colonia, edificio y hasta piso. Por eso es clave validar localmente.</p>
 </section>
 
+<!-- ========== 2. TECNOLOGÍAS ========== -->
 <section id="tecnologias">
 <h2>Tecnologías comunes</h2>
-<ul>
-<li><strong>Fibra óptica:</strong> la opción más estable cuando está bien instalada.</li>
-<li><strong>Coaxial/cable:</strong> buen desempeño pero sensible a saturación.</li>
-<li><strong>Inalámbrico fijo:</strong> opción en zonas con menos cableado, con latencia variable.</li>
-</ul>
-<p>Guía útil: <a href="/blog/fibra-optica-vs-cable-mexico.html">fibra vs cable</a>.</p>
+<p>En la CDMX encontrarás tres tipos principales de conexión. Cada una tiene ventajas y limitaciones dependiendo de tu zona:</p>
+
+<div class="tech-grid">
+  <div class="tech-card">
+    <span class="tech-icon">⚡</span>
+    <h4>Fibra óptica</h4>
+    <p>La opción más estable y rápida cuando está bien instalada. Ideal para streaming, gaming y videollamadas.</p>
+    <span class="tech-badge best">⭐ Mejor opción</span>
+  </div>
+  <div class="tech-card">
+    <span class="tech-icon">📡</span>
+    <h4>Coaxial / Cable</h4>
+    <p>Buen desempeño general, pero sensible a saturación en horario pico. Velocidad compartida con vecinos.</p>
+    <span class="tech-badge ok">⚡ Buen desempeño</span>
+  </div>
+  <div class="tech-card">
+    <span class="tech-icon">📶</span>
+    <h4>Inalámbrico fijo</h4>
+    <p>Opción en zonas con menos cableado. Latencia variable, pero puede servir si no hay alternativas.</p>
+    <span class="tech-badge alt">🔄 Alternativa</span>
+  </div>
+</div>
+
+<div class="pro-tip">
+  <strong>💡 Consejo</strong>
+  Guía útil: <a href="/blog/fibra-optica-vs-cable-mexico.html">fibra vs cable</a> — compara las tecnologías en detalle para saber cuál te conviene.
+</div>
 </section>
 
+<!-- ========== 3. VARIACIÓN POR COLONIA ========== -->
 <section id="variacion">
 <h2>Por qué cambia tanto por colonia</h2>
-<p>La densidad de usuarios, la antigüedad del cableado y la administración interna del edificio afectan la experiencia.</p>
-<p>En la CDMX, dos colonias cercanas pueden tener resultados muy distintos.</p>
+<p>La densidad de usuarios, la antigüedad del cableado y la administración interna del edificio afectan la experiencia. En la CDMX, dos colonias cercanas pueden tener resultados muy distintos.</p>
+
+<div class="callout">
+  <strong>Dato clave:</strong> La variación por colonia en CDMX es de las más altas del país. Zonas con edificios nuevos suelen tener mejor cableado, mientras que edificios antiguos pueden limitar la experiencia. La clave es <strong>validar por edificio, no solo por colonia</strong>.
+</div>
 </section>
 
+<!-- ========== 4. HORARIO PICO ========== -->
 <section id="horario">
 <h2>Horario pico y saturación</h2>
 <p>En la CDMX el horario pico suele ser el mayor problema. Si en la noche el servicio se cae, es saturación local.</p>
-<p>Siempre prueba en el horario donde más uses internet.</p>
+
+<!-- Peak hours infographic SVG -->
+<svg viewBox="0 0 680 260" class="inline-svg" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gráfico de velocidad de internet por hora en CDMX">
+  <defs>
+    <linearGradient id="speedGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#14b8a6" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="peakZone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0.03"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="680" height="260" rx="10" fill="#f8fffe"/>
+  <rect x="1" y="1" width="678" height="258" rx="10" fill="none" stroke="#d1fae5" stroke-width="1"/>
+  <!-- Title -->
+  <text x="340" y="28" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#0f766e">Velocidad típica de internet por hora en CDMX</text>
+  <!-- Peak zone highlight -->
+  <rect x="280" y="42" width="200" height="170" fill="url(#peakZone)" rx="4"/>
+  <text x="380" y="58" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#ef4444" font-weight="600">⚠ HORARIO PICO</text>
+  <!-- Grid lines -->
+  <line x1="60" y1="60" x2="620" y2="60" stroke="#e5e7eb" stroke-width="0.5"/>
+  <line x1="60" y1="100" x2="620" y2="100" stroke="#e5e7eb" stroke-width="0.5"/>
+  <line x1="60" y1="140" x2="620" y2="140" stroke="#e5e7eb" stroke-width="0.5"/>
+  <line x1="60" y1="180" x2="620" y2="180" stroke="#e5e7eb" stroke-width="0.5"/>
+  <!-- Y-axis labels -->
+  <text x="54" y="64" text-anchor="end" font-family="system-ui,sans-serif" font-size="10" fill="#9ca3af">100%</text>
+  <text x="54" y="104" text-anchor="end" font-family="system-ui,sans-serif" font-size="10" fill="#9ca3af">75%</text>
+  <text x="54" y="144" text-anchor="end" font-family="system-ui,sans-serif" font-size="10" fill="#9ca3af">50%</text>
+  <text x="54" y="184" text-anchor="end" font-family="system-ui,sans-serif" font-size="10" fill="#9ca3af">25%</text>
+  <!-- Speed line chart (simplified realistic pattern) -->
+  <path d="M60,70 Q100,68 140,72 T220,75 L260,78 Q300,120 340,155 T420,160 Q460,140 500,100 T580,72 L620,70" fill="url(#speedGrad)" stroke="none"/>
+  <path d="M60,70 Q100,68 140,72 T220,75 L260,78 Q300,120 340,155 T420,160 Q460,140 500,100 T580,72 L620,70" fill="none" stroke="#0f766e" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Data points at peak -->
+  <circle cx="300" cy="120" r="4" fill="#ef4444" stroke="#fff" stroke-width="2"/>
+  <circle cx="340" cy="155" r="4" fill="#ef4444" stroke="#fff" stroke-width="2"/>
+  <circle cx="380" cy="162" r="5" fill="#ef4444" stroke="#fff" stroke-width="2"/>
+  <circle cx="420" cy="160" r="4" fill="#ef4444" stroke="#fff" stroke-width="2"/>
+  <!-- X-axis labels -->
+  <text x="60" y="222" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#9ca3af">6am</text>
+  <text x="140" y="222" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#9ca3af">9am</text>
+  <text x="220" y="222" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#9ca3af">12pm</text>
+  <text x="300" y="222" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#9ca3af">3pm</text>
+  <text x="380" y="222" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#ef4444" font-weight="600">6pm</text>
+  <text x="420" y="222" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#ef4444" font-weight="600">9pm</text>
+  <text x="500" y="222" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#9ca3af">12am</text>
+  <text x="580" y="222" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#9ca3af">3am</text>
+  <!-- Annotation -->
+  <text x="340" y="245" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#6b7280">Siempre prueba en el horario donde más uses internet</text>
+</svg>
+
+<div class="warn-box">
+  <strong>⚠ Importante</strong>
+  Siempre prueba en el horario donde más uses internet. Si en la noche el servicio se cae, es saturación local y cambiar de plan no lo resolverá.
+</div>
 </section>
 
+<!-- ========== 5. EDIFICIOS ========== -->
 <section id="edificios">
 <h2>Edificios y cableado interno</h2>
 <p>En edificios, el cableado interno es clave. Un proveedor con buena señal puede verse limitado por instalaciones viejas o saturadas.</p>
-<p>Si vives en edificio, pregunta a vecinos del mismo piso y revisa si hay cableado actualizado.</p>
+
+<!-- Building cross-section infographic -->
+<svg viewBox="0 0 680 320" class="inline-svg" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagrama de cableado interno en edificio de CDMX">
+  <rect width="680" height="320" rx="10" fill="#f8fffe"/>
+  <rect x="1" y="1" width="678" height="318" rx="10" fill="none" stroke="#d1fae5" stroke-width="1"/>
+  <text x="340" y="28" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#0f766e">El cableado interno afecta tu señal más que el proveedor</text>
+  <!-- Building -->
+  <rect x="220" y="50" width="240" height="230" rx="6" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5"/>
+  <!-- Floors -->
+  <line x1="220" y1="108" x2="460" y2="108" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="220" y1="166" x2="460" y2="166" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="220" y1="224" x2="460" y2="224" stroke="#94a3b8" stroke-width="1"/>
+  <!-- Main fiber entry (good) -->
+  <line x1="160" y1="80" x2="220" y2="80" stroke="#0f766e" stroke-width="3"/>
+  <circle cx="155" cy="80" r="8" fill="#0f766e"/>
+  <text x="155" y="84" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8" fill="#fff" font-weight="700">✓</text>
+  <text x="90" y="84" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#0f766e" font-weight="600">Fibra llega bien</text>
+  <!-- Internal wiring (bad on top floor) -->
+  <line x1="300" y1="50" x2="300" y2="280" stroke="#94a3b8" stroke-width="1" stroke-dasharray="4,3"/>
+  <!-- Good signal apartments -->
+  <rect x="235" y="120" width="40" height="35" rx="4" fill="#d1fae5" stroke="#0f766e" stroke-width="1"/>
+  <text x="255" y="142" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16">📱</text>
+  <rect x="235" y="178" width="40" height="35" rx="4" fill="#d1fae5" stroke="#0f766e" stroke-width="1"/>
+  <text x="255" y="200" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16">💻</text>
+  <rect x="235" y="236" width="40" height="35" rx="4" fill="#d1fae5" stroke="#0f766e" stroke-width="1"/>
+  <text x="255" y="258" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16">📺</text>
+  <!-- Bad signal apartment (top floor, far from router) -->
+  <rect x="405" y="60" width="40" height="35" rx="4" fill="#fecaca" stroke="#ef4444" stroke-width="1"/>
+  <text x="425" y="82" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16">📶</text>
+  <!-- Signal degradation arrows -->
+  <path d="M310,80 L390,75" stroke="#ef4444" stroke-width="1.5" fill="none" marker-end="url(#arrowRed)"/>
+  <text x="350" y="68" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8" fill="#ef4444">Señal débil</text>
+  <!-- Labels -->
+  <text x="340" y="100" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#6b7280">Piso 4</text>
+  <text x="340" y="156" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#6b7280">Piso 3</text>
+  <text x="340" y="216" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#6b7280">Piso 2</text>
+  <text x="340" y="272" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#6b7280">Piso 1 (Router)</text>
+  <!-- Router icon -->
+  <rect x="280" y="246" width="30" height="20" rx="3" fill="#0f766e"/>
+  <text x="295" y="260" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8" fill="#fff" font-weight="600">WiFi</text>
+  <!-- Right side legend -->
+  <rect x="510" y="80" width="14" height="14" rx="3" fill="#d1fae5" stroke="#0f766e"/>
+  <text x="532" y="92" font-family="system-ui,sans-serif" font-size="10" fill="#374151">Buena señal</text>
+  <rect x="510" y="106" width="14" height="14" rx="3" fill="#fecaca" stroke="#ef4444"/>
+  <text x="532" y="118" font-family="system-ui,sans-serif" font-size="10" fill="#374151">Señal débil</text>
+  <text x="510" y="155" font-family="system-ui,sans-serif" font-size="10" fill="#6b7280">Pregunta a vecinos</text>
+  <text x="510" y="170" font-family="system-ui,sans-serif" font-size="10" fill="#6b7280">del <strong>mismo piso</strong></text>
+  <text x="510" y="195" font-family="system-ui,sans-serif" font-size="10" fill="#0f766e" font-weight="600">Un mesh WiFi puede</text>
+  <text x="510" y="210" font-family="system-ui,sans-serif" font-size="10" fill="#0f766e" font-weight="600">resolver la señal débil</text>
+</svg>
+
+<div class="pro-tip">
+  <strong>💡 Consejo</strong>
+  Si vives en edificio, pregunta a vecinos del <strong>mismo piso</strong> y revisa si hay cableado actualizado. La diferencia entre pisos puede ser enorme.
+</div>
 </section>
 
+<!-- ========== 6. CHECKLIST ========== -->
 <section id="checklist">
-<h2>Checklist antes de contratar</h2>
-<ul>
-<li>Confirma tecnología disponible en tu calle.</li>
-<li>Prueba velocidad en horario pico.</li>
-<li>Pregunta a vecinos del mismo edificio.</li>
-<li>Revisa el router incluido.</li>
-<li>Pregunta por tiempos de instalación y soporte.</li>
-</ul>
-<p>Con este checklist reduces sorpresas.</p>
-</section>
+<h2>✅ Checklist antes de contratar</h2>
+<p>Antes de firmar cualquier contrato, verifica estos 5 puntos:</p>
 
-<section id="pruebas">
-<h2>Pruebas rápidas en tu edificio</h2>
-<ul>
-<li>Speedtest mañana y noche.</li>
-<li>Videollamada de 10 minutos.</li>
-<li>Streaming en HD sin cortes.</li>
-<li>Ping estable sin picos.</li>
-</ul>
-<p>Si todo es estable, la cobertura es buena.</p>
-</section>
-
-<section id="home-office">
-<h2>Home office y videollamadas</h2>
-<p>Para trabajo remoto, la estabilidad y la subida son clave.</p>
-<p>Guía útil: <a href="/blog/red-estable-home-office-mexico.html">red estable para home office</a>.</p>
-</section>
-
-<section id="streaming">
-<h2>Streaming y entretenimiento</h2>
-<p>El streaming necesita estabilidad. Si hay cortes en la noche, revisa saturación o tu red interna.</p>
-<p>Guía: <a href="/blog/streaming-sin-cortes-mexico.html">streaming sin cortes</a>.</p>
-</section>
-
-<section id="gaming">
-<h2>Gaming y latencia</h2>
-<p>Para gaming, la latencia estable es más importante que la velocidad máxima.</p>
-<p>Guía: <a href="/blog/mejor-velocidad-para-gaming.html">mejor velocidad para gaming</a>.</p>
-</section>
-
-<section id="instalacion">
-<h2>Instalación y router</h2>
-<p>Una mala instalación arruina cualquier plan. Un router básico puede limitar el alcance en departamentos grandes.</p>
-<p>Guía: <a href="/internet-en-casa/como-mejorar-wifi-casa-mexico/">cómo mejorar tu Wi‑Fi</a>.</p>
-</section>
-
-<section id="alternativas">
-<h2>Alternativas si no hay fibra</h2>
-<p>Si no hay fibra, el coaxial es la opción más común. Si tampoco hay, el inalámbrico fijo puede servir con expectativas realistas.</p>
-</section>
-
-<section id="vecinos">
-<h2>Validar con vecinos</h2>
-<p>La experiencia local es la mejor referencia. Pregunta por estabilidad en la noche y tiempos de respuesta ante fallas.</p>
-</section>
-
-<section id="preguntas">
-<h2>Preguntas frecuentes</h2>
-<h3>¿La fibra siempre es la mejor opción en CDMX?</h3>
-<p>En general sí, pero depende de instalación. En edificios viejos puede fallar más.</p>
-<h3>¿Qué hago si baja la velocidad en la noche?</h3>
-<p>Eso apunta a saturación. Prueba en otros horarios y reporta si es constante.</p>
-<h3>¿Vale la pena pagar más por más Mbps?</h3>
-<p>Solo si tu red interna es estable. Si no, primero arregla Wi‑Fi.</p>
-</section>
-
-<section id="zonas">
-<h2>Zonas con variación típica</h2>
-<p>En CDMX la variación por colonia es muy alta. Zonas con edificios nuevos suelen tener mejor cableado, mientras que edificios antiguos pueden limitar la experiencia.</p>
-<p>La clave es validar por edificio, no solo por colonia.</p>
-</section>
-
-<section id="preguntar-instalador">
-<h2>Qué preguntar al instalador</h2>
-<ul>
-<li>¿Dónde quedará el router y cómo llega el cable?</li>
-<li>¿Se puede medir la señal en el punto de instalación?</li>
-<li>¿Qué opciones hay si una habitación queda con señal débil?</li>
-<li>¿Se puede dejar cableado para futuro?</li>
-</ul>
-<p>Estas preguntas evitan instalaciones improvisadas.</p>
-</section>
-
-<section id="checklist-extendido">
-<h2>Checklist extendido</h2>
-<ul>
-<li>Probar velocidad en horarios distintos.</li>
-<li>Revisar latencia con videollamadas.</li>
-<li>Confirmar calidad del router.</li>
-<li>Validar soporte y tiempos de atención.</li>
-</ul>
-<p>Si se cumple, la experiencia suele ser estable.</p>
-</section>
-
-<section id="errores">
-<h2>Errores comunes</h2>
-<ul>
-<li>Elegir por precio sin validar estabilidad.</li>
-<li>No probar en horario pico.</li>
-<li>Ignorar la instalación interna del edificio.</li>
-<li>Asumir que más Mbps resuelve todo.</li>
-</ul>
-<p>Evitar estos errores ahorra cambios y frustración.</p>
-</section>
-
-<section id="glosario">
-<h2>Glosario rápido</h2>
-<p><strong>Latencia:</strong> tiempo de respuesta.</p>
-<p><strong>Horario pico:</strong> horas con saturación, usualmente por la noche.</p>
-<p><strong>Instalación interna:</strong> cableado dentro del edificio o casa.</p>
-</section>
-
-<section id="resumen">
-<h2>Resumen práctico</h2>
-<p>CDMX tiene la mayor oferta, pero también la mayor variación. Prueba en horario pico, valida con vecinos y revisa instalación interna antes de decidir.</p>
-</section>
-
-<section id="guia-paso-a-paso">
-<h2>Guía paso a paso en CDMX</h2>
-<ol>
-<li>Confirma tecnología disponible en tu calle y edificio.</li>
-<li>Prueba en horario pico con streaming y videollamadas.</li>
-<li>Pregunta a vecinos del mismo piso.</li>
-<li>Revisa cableado interno y router.</li>
-<li>Elige por estabilidad, no solo por precio.</li>
+<ol class="visual-checklist">
+  <li><span class="check-num">1</span> <span><strong>Confirma tecnología disponible</strong> en tu calle y edificio específico (no solo la colonia).</span></li>
+  <li><span class="check-num">2</span> <span><strong>Prueba velocidad en horario pico</strong> (7pm–11pm) — es cuando más importa.</span></li>
+  <li><span class="check-num">3</span> <span><strong>Pregunta a vecinos</strong> del mismo edificio sobre estabilidad real.</span></li>
+  <li><span class="check-num">4</span> <span><strong>Revisa el router incluido</strong> — un router básico limita el alcance en departamentos grandes.</span></li>
+  <li><span class="check-num">5</span> <span><strong>Pregunta por tiempos de instalación y soporte</strong> en tu zona específica.</span></li>
 </ol>
-<p>Este orden reduce la mayoría de problemas al contratar.</p>
+
+<div class="pro-tip">
+  <strong>💡 Con este checklist reduces sorpresas</strong>
+  La mayoría de quejas en CDMX vienen de saltarse estos pasos. 10 minutos de verificación pueden ahorrarte meses de frustración.
+</div>
 </section>
 
+<!-- ========== 7. PRUEBAS RÁPIDAS ========== -->
+<section id="pruebas">
+<h2>🧪 Pruebas rápidas en tu edificio</h2>
+<p>Haz estas 4 pruebas para validar la cobertura real. No necesitas ser experto:</p>
+
+<div class="tech-grid">
+  <div class="tech-card">
+    <span class="tech-icon">📊</span>
+    <h4>Speedtest</h4>
+    <p>Mañana y noche. Compara resultados. Si la diferencia es grande, hay saturación.</p>
+  </div>
+  <div class="tech-card">
+    <span class="tech-icon">📹</span>
+    <h4>Videollamada 10 min</h4>
+    <p>Con cámara activa. Si se congela o corta, la subida no es suficiente.</p>
+  </div>
+  <div class="tech-card">
+    <span class="tech-icon">🎬</span>
+    <h4>Streaming HD</h4>
+    <p>20 minutos sin que baje la calidad. Si hay cortes, la estabilidad falla.</p>
+  </div>
+  <div class="tech-card">
+    <span class="tech-icon">🎮</span>
+    <h4>Ping estable</h4>
+    <p>Sin picos ni saltos. Si el ping sube y baja, hay problemas de latencia.</p>
+  </div>
+</div>
+
+<p>Si todo es estable, la cobertura es buena. Si falla alguna, investiga antes de contratar.</p>
+</section>
+
+<!-- ========== 8. ESCENARIOS POR USO ========== -->
 <section id="escenarios">
 <h2>Escenarios por uso</h2>
-<h3>Home office intensivo</h3>
-<p>Prioriza subida estable y latencia baja. En CDMX la congestión nocturna es común.</p>
-<h3>Streaming familiar</h3>
-<p>Busca estabilidad en horario pico. Ajusta tu Wi‑Fi antes de subir de plan.</p>
-<h3>Gaming</h3>
-<p>La latencia estable es lo más importante. Usa cable si puedes.</p>
-</section>
+<p>Tu uso ideal define qué buscar. No necesitas el plan más caro — necesitas el que coincida con lo que haces:</p>
 
-<section id="faq-extendido">
-<h2>FAQ extendido</h2>
-<h3>¿Por qué en mi edificio hay cortes frecuentes?</h3>
-<p>Puede ser cableado interno viejo o saturación local. Pregunta a vecinos y revisa instalación.</p>
-<h3>¿Conviene pagar por más Mbps?</h3>
-<p>Solo si la red interna es estable. Si tu Wi‑Fi falla, primero arréglalo.</p>
-<h3>¿Cómo saber si el problema es del proveedor?</h3>
-<p>Prueba por cable y en horario pico. Si por cable sigue mal, es proveedor o zona.</p>
-</section>
+<div class="scenario-grid">
+  <div class="scenario-card">
+    <span class="scenario-icon">💼</span>
+    <h4>Home office</h4>
+    <span class="priority-tag" style="background:#dbeafe;color:#1e40af">Prioridad: subida estable</span>
+    <p>Videollamadas sin cortes, subida de archivos fluida. En CDMX la congestión nocturna es común — prioriza estabilidad sobre velocidad.</p>
+    <p style="margin-top:8px"><a href="/blog/red-estable-home-office-mexico.html">Guía: red para home office →</a></p>
+  </div>
+  <div class="scenario-card">
+    <span class="scenario-icon">🎬</span>
+    <h4>Streaming familiar</h4>
+    <span class="priority-tag" style="background:#fef3c7;color:#92400e">Prioridad: estabilidad</span>
+    <p>Netflix, Disney+, YouTube sin cortes en horario pico. Ajusta tu Wi‑Fi antes de subir de plan — el problema suele ser interno.</p>
+    <p style="margin-top:8px"><a href="/blog/streaming-sin-cortes-mexico.html">Guía: streaming sin cortes →</a></p>
+  </div>
+  <div class="scenario-card">
+    <span class="scenario-icon">🎮</span>
+    <h4>Gaming</h4>
+    <span class="priority-tag" style="background:#ede9fe;color:#5b21b6">Prioridad: ping bajo</span>
+    <p>La latencia estable importa más que los Mbps. Usa cable Ethernet cuando sea posible. Prueba ping en horario pico.</p>
+    <p style="margin-top:8px"><a href="/blog/mejor-velocidad-para-gaming.html">Guía: velocidad para gaming →</a></p>
+  </div>
+</div>
 
-<section id="tabla-escenarios">
-<h2>Tabla rápida por escenario</h2>
-<div class="table-wrap" role="region" aria-label="Escenarios y prioridades en CDMX">
+<!-- Quick reference table -->
+<div class="table-wrap" role="region" aria-label="Comparación rápida por escenario">
 <table>
 <thead>
-<tr><th>Escenario</th><th>Prioridad</th><th>Qué revisar</th></tr>
+<tr><th>Escenario</th><th>Prioridad</th><th>Qué revisar</th><th>Conexión ideal</th></tr>
 </thead>
 <tbody>
-<tr><td>Home office</td><td>Subida estable</td><td>Videollamadas sin cortes</td></tr>
-<tr><td>Streaming familiar</td><td>Estabilidad</td><td>Prueba en horario pico</td></tr>
-<tr><td>Gaming</td><td>Ping bajo</td><td>Prueba por cable</td></tr>
+<tr><td>💼 Home office</td><td>Subida estable</td><td>Videollamadas sin cortes</td><td>Fibra + buen router</td></tr>
+<tr><td>🎬 Streaming familiar</td><td>Estabilidad nocturna</td><td>Prueba en horario pico</td><td>Fibra o cable estable</td></tr>
+<tr><td>🎮 Gaming</td><td>Ping bajo y estable</td><td>Prueba por cable</td><td>Fibra + Ethernet</td></tr>
 </tbody>
 </table>
 </div>
-<p>Esta tabla ayuda a decidir con base en uso real.</p>
 </section>
 
+<!-- ========== 9. INSTALACIÓN Y ROUTER ========== -->
+<section id="instalacion">
+<h2>Instalación y router</h2>
+<p>Una mala instalación arruina cualquier plan. Un router básico puede limitar el alcance en departamentos grandes.</p>
+
+<div class="callout">
+  <strong>Qué preguntar al instalador:</strong>
+  <ul style="margin:8px 0 0;padding-left:18px">
+    <li>¿Dónde quedará el router y cómo llega el cable?</li>
+    <li>¿Se puede medir la señal en el punto de instalación?</li>
+    <li>¿Qué opciones hay si una habitación queda con señal débil?</li>
+    <li>¿Se puede dejar cableado para futuro?</li>
+  </ul>
+  <p style="margin-top:8px;font-size:0.9rem;color:var(--muted)">Estas preguntas evitan instalaciones improvisadas.</p>
+</div>
+
+<p>Guía: <a href="/internet-en-casa/como-mejorar-wifi-casa-mexico/">cómo mejorar tu Wi‑Fi</a>.</p>
+</section>
+
+<!-- ========== 10. PLAN DE ACCIÓN 7 DÍAS ========== -->
 <section id="plan-accion">
-<h2>Plan de acción en 7 días</h2>
-<ol>
-<li>Día 1–2: confirma tecnología disponible y cobertura real.</li>
-<li>Día 3: prueba en horario pico.</li>
-<li>Día 4: valida con vecinos y administración.</li>
-<li>Día 5: revisa router y cableado interno.</li>
-<li>Día 6–7: compara opciones y decide.</li>
-</ol>
-<p>Este plan reduce la mayoría de errores en CDMX.</p>
+<h2>🗓 Plan de acción en 7 días</h2>
+<p>Sigue este plan para elegir con datos reales, no con suposiciones:</p>
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="day-label">Día 1–2</div>
+    <p>Confirma tecnología disponible y cobertura real en tu calle y edificio.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="day-label">Día 3</div>
+    <p>Prueba en horario pico con streaming y videollamadas.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="day-label">Día 4</div>
+    <p>Valida con vecinos y administración del edificio.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="day-label">Día 5</div>
+    <p>Revisa router y cableado interno. ¿El router llega a toda la casa?</p>
+  </div>
+  <div class="timeline-item">
+    <div class="day-label">Día 6–7</div>
+    <p>Compara opciones y decide por estabilidad, no solo precio.</p>
+  </div>
+</div>
 </section>
 
+<!-- ========== 11. PRESUPUESTO ========== -->
 <section id="presupuesto">
 <h2>Consejos por presupuesto</h2>
-<p>Si tu presupuesto es limitado, prioriza estabilidad y evita pagar por Mbps que no usarás.</p>
-<p>Si tu presupuesto es flexible, invierte en router o mesh. En departamentos grandes es una mejora clave.</p>
+
+<div class="scenario-grid">
+  <div class="scenario-card">
+    <span class="scenario-icon">💵</span>
+    <h4>Presupuesto limitado</h4>
+    <p>Prioriza estabilidad y evita pagar por Mbps que no usarás. Un plan estable de velocidad media es mejor que uno inestable de alta velocidad.</p>
+  </div>
+  <div class="scenario-card">
+    <span class="scenario-icon">💰</span>
+    <h4>Presupuesto flexible</h4>
+    <p>Invierte en router o sistema mesh. En departamentos grandes, un mesh mejora más que subir de plan. Es la inversión que más se nota.</p>
+  </div>
+</div>
 </section>
 
+<!-- ========== 12. DIAGNÓSTICO ========== -->
 <section id="diagnostico-actual">
 <h2>Si ya contrataste y algo falla</h2>
 <p>Antes de cambiar de proveedor, haz este diagnóstico rápido:</p>
-<ul>
-<li>Prueba por cable directo al router.</li>
-<li>Compara horario pico vs horario valle.</li>
-<li>Revisa la lista de dispositivos conectados.</li>
-<li>Confirma la ubicación del router.</li>
-</ul>
-<p>Si por cable funciona bien, el problema es Wi‑Fi. Si por cable falla, es proveedor o saturación local.</p>
+
+<ol class="diag-steps">
+  <li><span class="arrow">→</span> <strong>Prueba por cable directo</strong> al router (elimina Wi‑Fi como variable)</li>
+  <li><span class="arrow">→</span> <strong>Compara horario pico vs valle</strong> (si la diferencia es enorme, es saturación)</li>
+  <li><span class="arrow">→</span> <strong>Revisa dispositivos conectados</strong> (¿hay algo consumiendo ancho de banda?)</li>
+  <li><span class="arrow">→</span> <strong>Confirma ubicación del router</strong> (¿está escondido o detrás de paredes?)</li>
+</ol>
+
+<div class="callout">
+  <strong>Interpretación:</strong> Si por cable funciona bien → el problema es Wi‑Fi. Si por cable falla → es proveedor o saturación local.
+</div>
 </section>
 
-<section id="vivienda">
-<h2>Tipo de vivienda y cobertura</h2>
-<p>En CDMX los edificios grandes suelen requerir mejor red interna. El router del proveedor puede quedarse corto en departamentos grandes.</p>
-<p>En casas con varias plantas, un sistema mesh mejora más que subir de plan.</p>
-</section>
-
-<section id="mejora">
-<h2>Señales de mejora</h2>
-<ul>
-<li>Streaming sin cortes en horario pico.</li>
-<li>Videollamadas estables.</li>
-<li>Ping estable en juegos.</li>
-<li>Velocidad consistente en la noche.</li>
-</ul>
-<p>Si estas señales aparecen, la red está bien ajustada.</p>
-</section>
-
-<section id="tareas-reales">
-<h2>Cómo medir estabilidad con tareas reales</h2>
-<p>En CDMX la densidad de usuarios puede saturar nodos. Para decidir bien, prueba con tareas reales:</p>
-<ul>
-<li>Sube un archivo grande a la nube y observa si se pausa.</li>
-<li>Videollamada de 20 minutos con cámara activa en horario pico.</li>
-<li>Streaming en HD por 20 minutos sin bajar la calidad.</li>
-<li>Partida en línea con ping estable.</li>
-</ul>
-<p>Si estas tareas se mantienen estables, la cobertura es adecuada.</p>
-</section>
-
-<section id="respaldo-movil">
-<h2>Respaldo móvil en CDMX</h2>
-<p>Un respaldo móvil (4G/5G) es útil si trabajas remoto y necesitas continuidad. No sustituye la fibra, pero evita quedarte incomunicado.</p>
-<p>Verifica la señal móvil dentro de tu departamento, no solo en la calle. En edificios altos, la señal interior puede bajar.</p>
-</section>
-
-<section id="instalacion-edificio">
-<h2>Checklist para edificios y condominios</h2>
-<p>En CDMX muchos problemas son internos. Revisa lo siguiente antes de contratar:</p>
-<ul>
-<li>Si hay ductos adecuados para fibra.</li>
-<li>Si el router puede ubicarse en zona central.</li>
-<li>Si hay cableado viejo o divisores innecesarios.</li>
-<li>Si la administración reporta fallas recurrentes.</li>
-</ul>
-<p>Con esto reduces el riesgo de pagar por un plan que no puedas aprovechar.</p>
-</section>
-
-<section id="decision-final">
-<h2>Decisión final en 3 preguntas</h2>
-<ul>
-<li>¿Qué proveedor se mantiene estable en horario pico en tu calle?</li>
-<li>¿Quién responde mejor en soporte según vecinos?</li>
-<li>¿Tu dolor principal es velocidad o cobertura Wi‑Fi?</li>
-</ul>
-<p>Responder estas preguntas te ayuda a elegir con calma.</p>
-</section>
-
+<!-- ========== 13. POR PERSONAS ========== -->
 <section id="personas-en-casa">
 <h2>Qué plan considerar según cuántas personas son</h2>
 <p>En CDMX la saturación puede aparecer en horario pico. Para evitar pagar de más, piensa en estabilidad:</p>
-<ul>
-<li><strong>1–2 personas:</strong> plan medio con buena estabilidad suele ser suficiente.</li>
-<li><strong>3–4 personas:</strong> busca buena subida y router sólido.</li>
-<li><strong>5+ personas:</strong> combina buen plan con mesh o cableado parcial.</li>
-</ul>
-<p>Si hay gamers o home office intensivo, la latencia estable importa más que los Mbps.</p>
+
+<div class="people-grid">
+  <div class="people-card">
+    <span class="people-count">👥</span>
+    <strong>1–2 personas</strong>
+    <p>Plan medio con buena estabilidad suele ser suficiente.</p>
+  </div>
+  <div class="people-card">
+    <span class="people-count">👨‍👩‍👧</span>
+    <strong>3–4 personas</strong>
+    <p>Busca buena subida y router sólido. Más dispositivos = más demanda.</p>
+  </div>
+  <div class="people-card">
+    <span class="people-count">👨‍👩‍👧‍👦</span>
+    <strong>5+ personas</strong>
+    <p>Combina buen plan con mesh o cableado parcial. La red interna es clave.</p>
+  </div>
+</div>
+
+<div class="pro-tip">
+  <strong>💡 Recuerda</strong>
+  Si hay gamers o home office intensivo, la latencia estable importa más que los Mbps.
+</div>
 </section>
 
+<!-- ========== 14. DECISIÓN FINAL ========== -->
+<section id="decision-final">
+<h2>Decisión final</h2>
+
+<div class="decision-box">
+  <h3>3 preguntas antes de decidir</h3>
+  <ol class="decision-questions">
+    <li><span>¿Qué proveedor se mantiene <strong>estable en horario pico</strong> en tu calle?</span></li>
+    <li><span>¿Quién <strong>responde mejor en soporte</strong> según tus vecinos?</span></li>
+    <li><span>¿Tu dolor principal es <strong>velocidad</strong> o <strong>cobertura Wi‑Fi</strong>?</span></li>
+  </ol>
+  <p style="text-align:center;margin-top:16px;color:var(--muted);font-size:0.9rem">Responder estas preguntas te ayuda a elegir con calma y sin presión.</p>
+</div>
+</section>
+
+<!-- ========== 15. ERRORES COMUNES ========== -->
+<section id="errores">
+<h2>❌ Errores comunes</h2>
+<p>Evita estos errores que cuestan dinero y tiempo:</p>
+
+<div class="tech-grid">
+  <div class="tech-card" style="border-color:#fecaca">
+    <span class="tech-icon">💸</span>
+    <h4>Elegir solo por precio</h4>
+    <p>Sin validar estabilidad, el plan más barato puede ser el más frustrante.</p>
+  </div>
+  <div class="tech-card" style="border-color:#fecaca">
+    <span class="tech-icon">🌙</span>
+    <h4>No probar en horario pico</h4>
+    <p>Las pruebas de día no reflejan la realidad nocturna cuando todos están conectados.</p>
+  </div>
+  <div class="tech-card" style="border-color:#fecaca">
+    <span class="tech-icon">🏗</span>
+    <h4>Ignorar cableado interno</h4>
+    <p>El edificio puede ser el cuello de botella, no el proveedor.</p>
+  </div>
+  <div class="tech-card" style="border-color:#fecaca">
+    <span class="tech-icon">📈</span>
+    <h4>Pensar que más Mbps = mejor</h4>
+    <p>Si tu red interna falla, más velocidad no resuelve nada.</p>
+  </div>
+</div>
+</section>
+
+<!-- ========== 16. PLAN 14 DÍAS ========== -->
+<section id="plan-14-dias">
+<h2>Plan de mejora en 14 días</h2>
+<p>Si no estás seguro de cambiar de proveedor, sigue este plan para distinguir si el problema es de cobertura o de tu red interna:</p>
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="day-label">Días 1–3</div>
+    <p>Pruebas de velocidad mañana y noche en varios puntos de tu casa.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="day-label">Días 4–6</div>
+    <p>Optimiza Wi‑Fi: ubicación del router, canales, reinicio.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="day-label">Días 7–9</div>
+    <p>Prueba por cable y compara con Wi‑Fi.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="day-label">Días 10–12</div>
+    <p>Valida con vecinos del mismo edificio.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="day-label">Días 13–14</div>
+    <p>Decide: ¿cambiar de plan, de proveedor, o mejorar red interna?</p>
+  </div>
+</div>
+
+<div class="pro-tip">
+  <strong>💡 Documenta todo</strong>
+  Guarda tus resultados para comparar si cambias de proveedor. Si el problema persiste, comparte ese registro con soporte. Anota el número de folio de cada reporte.
+</div>
+</section>
+
+<!-- ========== 17. CHECKLIST MUDANZA ========== -->
+<section id="mudanza">
+<h2>Checklist si te mudas en CDMX</h2>
+<p>En la ciudad, un edificio puede tener buena cobertura y el de enfrente no. Antes de firmar renta:</p>
+
+<ol class="visual-checklist">
+  <li><span class="check-num">1</span> <span>Pregunta qué <strong>tecnologías llegan al edificio</strong>, no solo a la colonia.</span></li>
+  <li><span class="check-num">2</span> <span>Consulta a un vecino del <strong>mismo piso</strong> sobre estabilidad nocturna.</span></li>
+  <li><span class="check-num">3</span> <span>Verifica que haya <strong>ductos limpios</strong> para instalación.</span></li>
+  <li><span class="check-num">4</span> <span>Si trabajas remoto, <strong>prueba una videollamada</strong> en horario pico.</span></li>
+</ol>
+
+<div class="callout">
+  <strong>Si no puedes probar:</strong> Pregunta tiempos de instalación y soporte en esa zona. Una llamada rápida al proveedor local ayuda a medir tiempos reales. Si ya hay instalación previa, pregunta si pueden reutilizarla.
+</div>
+</section>
+
+<!-- ========== 18. RESPALDO MÓVIL ========== -->
+<section id="respaldo-movil">
+<h2>Respaldo móvil en CDMX</h2>
+<p>Un respaldo móvil (4G/5G) es útil si trabajas remoto y necesitas continuidad. No sustituye la fibra, pero evita quedarte incomunicado.</p>
+
+<div class="warn-box">
+  <strong>⚠ Verifica la señal dentro de tu departamento</strong>
+  No solo en la calle. En edificios altos, la señal interior puede bajar significativamente. Prueba antes de depender de él.
+</div>
+</section>
+
+<!-- ========== 19. SOPORTE ========== -->
 <section id="soporte-local">
 <h2>Qué hacer si el soporte no responde</h2>
 <p>Cuando hay fallas repetidas, documenta el caso con datos claros:</p>
-<ol>
-<li>Guarda pruebas de velocidad en horario pico y valle.</li>
-<li>Anota fecha, hora y tipo de falla.</li>
-<li>Reporta con número de folio y solicita visita técnica.</li>
-<li>Si no hay respuesta, pide escalación con evidencia.</li>
+
+<ol class="visual-checklist">
+  <li><span class="check-num">1</span> <span>Guarda <strong>pruebas de velocidad</strong> en horario pico y valle.</span></li>
+  <li><span class="check-num">2</span> <span>Anota <strong>fecha, hora y tipo de falla</strong>.</span></li>
+  <li><span class="check-num">3</span> <span>Reporta con <strong>número de folio</strong> y solicita visita técnica.</span></li>
+  <li><span class="check-num">4</span> <span>Si no hay respuesta, pide <strong>escalación con evidencia</strong>.</span></li>
 </ol>
+
 <p>Con evidencia clara, el soporte suele responder más rápido.</p>
 </section>
 
-<section id="post-instalacion">
-<h2>Checklist después de la instalación</h2>
-<p>La primera semana es la mejor para detectar fallas. Haz estas pruebas básicas:</p>
-<ul>
-<li>Speedtest en mañana y noche desde varios puntos.</li>
-<li>Videollamada de 10 a 15 minutos sin cortes.</li>
-<li>Streaming en HD en el horario donde más usas internet.</li>
-<li>Comparación por cable vs Wi‑Fi para aislar el problema.</li>
-</ul>
-<p>Si algo falla desde el inicio, repórtalo con evidencia y solicita ajuste.</p>
+<!-- ========== 20. GLOSARIO ========== -->
+<section id="glosario">
+<h2>Glosario rápido</h2>
+<div class="table-wrap" role="region" aria-label="Glosario de términos">
+<table>
+<thead>
+<tr><th>Término</th><th>Significado</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Latencia</strong></td><td>Tiempo que tarda un dato en ir y volver. Menor = mejor.</td></tr>
+<tr><td><strong>Horario pico</strong></td><td>Horas con mayor saturación (usualmente 7pm–11pm).</td></tr>
+<tr><td><strong>Instalación interna</strong></td><td>Cableado dentro del edificio o casa.</td></tr>
+<tr><td><strong>Saturación</strong></td><td>Cuando muchos usuarios comparten el mismo nodo y la velocidad baja.</td></tr>
+<tr><td><strong>Mesh WiFi</strong></td><td>Sistema de múltiples puntos de acceso para cubrir toda la casa.</td></tr>
+</tbody>
+</table>
+</div>
 </section>
 
-<section id="errores-cambio">
-<h2>Errores comunes al cambiar de proveedor</h2>
-<p>En CDMX es común culpar al proveedor cuando el problema es interno. Evita estos errores:</p>
-<ul>
-<li>No probar en horario pico antes de contratar.</li>
-<li>Ignorar la instalación interna del edificio.</li>
-<li>Subir de plan cuando el Wi‑Fi es el cuello de botella.</li>
-<li>Elegir solo por precio sin validar estabilidad.</li>
-</ul>
-<p>Con estos puntos claros, el cambio de proveedor puede ser realmente efectivo.</p>
+<!-- ========== 21. FAQ ========== -->
+<section id="preguntas">
+<h2>Preguntas frecuentes</h2>
+
+<h3>¿La fibra siempre es la mejor opción en CDMX?</h3>
+<p>En general sí, pero depende de instalación. En edificios viejos puede fallar más. La clave es que la instalación sea correcta.</p>
+
+<h3>¿Qué hago si baja la velocidad en la noche?</h3>
+<p>Eso apunta a saturación local. Prueba en otros horarios y reporta si es constante. Siempre documenta con speedtests.</p>
+
+<h3>¿Vale la pena pagar más por más Mbps?</h3>
+<p>Solo si tu red interna es estable. Si no, primero arregla Wi‑Fi. Más velocidad en un router mal ubicado no se aprovecha.</p>
+
+<h3>¿Por qué en mi edificio hay cortes frecuentes?</h3>
+<p>Puede ser cableado interno viejo o saturación local. Pregunta a vecinos y revisa la instalación. El problema puede ser interno, no del proveedor.</p>
+
+<h3>¿Cómo saber si el problema es del proveedor?</h3>
+<p>Prueba por cable directo al router en horario pico. Si por cable sigue mal, es proveedor o zona. Si por cable funciona bien, es tu Wi‑Fi.</p>
 </section>
 
-<section id="plan-14-dias">
-<h2>Plan de mejora en 14 días</h2>
-<p>Si no estás seguro de cambiar de proveedor, sigue este plan corto. Te ayuda a distinguir si el problema es de cobertura o de tu red interna.</p>
-<ol>
-<li><strong>Días 1–3:</strong> pruebas de velocidad mañana y noche en varios puntos.</li>
-<li><strong>Días 4–6:</strong> optimiza Wi‑Fi (ubicación del router, canales, reinicio).</li>
-<li><strong>Días 7–9:</strong> prueba por cable y compara con Wi‑Fi.</li>
-<li><strong>Días 10–12:</strong> valida con vecinos del mismo edificio.</li>
-<li><strong>Días 13–14:</strong> decide si cambiar de plan, proveedor o mejorar red interna.</li>
-</ol>
-<p>Este plan te da datos reales y evita decisiones impulsivas.</p>
-<p>Si al final todo apunta a Wi‑Fi, invierte primero en red interna.</p>
-<p>Guarda tus resultados para compararlos si cambias de proveedor.</p>
-<p>Si el problema persiste, comparte ese registro con soporte.</p>
-<p>Anota el número de folio de cada reporte.</p>
-</section>
-
-<section id="mudanza">
-<h2>Checklist rápido si te mudas en CDMX</h2>
-<p>En la ciudad, un edificio puede tener buena cobertura y el de enfrente no. Antes de firmar renta, valida lo básico:</p>
-<ul>
-<li>Pregunta qué tecnologías llegan al edificio, no solo a la colonia.</li>
-<li>Consulta a un vecino del mismo piso sobre estabilidad nocturna.</li>
-<li>Verifica que haya ductos limpios para instalación.</li>
-<li>Si trabajas remoto, prueba una videollamada en horario pico.</li>
-</ul>
-<p>Si no puedes probar, pregunta tiempos de instalación y soporte en esa zona.</p>
-<p>Una llamada rápida al soporte local también ayuda a medir tiempos reales.</p>
-<p>Si es posible, confirma tiempos de visita técnica antes de mudarte.</p>
-<p>Si ya hay instalación previa, pregunta si pueden reutilizarla.</p>
-<p>Este checklist evita sorpresas y cambios innecesarios después de mudarte.</p>
-</section>
-
-<section id="status">
-<h2>Estado del contenido</h2>
-<p><strong>CONTENT STATUS:</strong></p>
-<ul>
-<li><strong>Word Count:</strong> 2000+</li>
-<li><strong>SEO Expansion:</strong> COMPLETE</li>
-<li><strong>Eligible for AdSense Monetization:</strong> YES</li>
-<li><strong>Last Updated:</strong> 2026-01-17</li>
-</ul>
-</section>
 </article>
 
 <hr style="border:none;border-top:1px solid var(--border);margin:22px 0"/>
 <div class="meta-row">
-<span><strong>Última actualización:</strong> 17 de enero de 2026</span>
+<span><strong>Última actualización:</strong> 17 de abril de 2026</span>
 <span></span>
 <span><a href="/metodologia/">Metodología</a></span>
 </div>
@@ -480,7 +1080,7 @@
 <div>
 <strong style="color:var(--text)">Mejor Conexión</strong>
 <p class="small" style="margin:8px 0 0">Guía clara para elegir internet y Wi‑Fi en México.</p>
-<p class="small footer-note" style="margin:8px 0 0">Criterios editoriales: <a href="/metodologia/">Metodología</a> · <a href="/transparencia/">Transparencia</a></p>
+<p class="small footer-note" style="margin:8px 0 0">Criterios editoriales: <a href="/metodologia/">Metodología</a> · <a href="/transparencia/">Transodencia</a></p>
 <p class="small" style="margin:8px 0 0">© <span data-year=""></span> Mejor Conexión</p>
 </div>
 <div>
@@ -494,6 +1094,15 @@
 </div>
 </div>
 </footer>
+<script>
+// Reading progress bar
+window.addEventListener('scroll', function() {
+  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var scrolled = (winScroll / height) * 100;
+  document.getElementById('readingProgress').style.width = scrolled + '%';
+});
+</script>
 <script defer="" src="/assets/js/main.js"></script>
 </body>
 </html>
