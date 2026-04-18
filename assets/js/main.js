@@ -325,7 +325,10 @@
             const el = entry.target;
             const target = parseInt(el.getAttribute('data-count'), 10);
             if (isNaN(target)) return;
-            const duration = 1200;
+            // Start from 0, reveal, then count up
+            el.textContent = '0';
+            el.classList.add('counted');
+            const duration = 1400;
             const start = performance.now();
             const tick = (now) => {
               const elapsed = now - start;
@@ -344,7 +347,7 @@
     } else {
       document.querySelectorAll('[data-count]').forEach((el) => {
         const v = el.getAttribute('data-count');
-        if (v) el.textContent = v + '+';
+        if (v) { el.textContent = v + '+'; el.classList.add('counted'); }
       });
     }
   }
