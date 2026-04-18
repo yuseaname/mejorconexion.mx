@@ -325,17 +325,17 @@
             const el = entry.target;
             const target = parseInt(el.getAttribute('data-count'), 10);
             if (isNaN(target)) return;
-            // Start from 0, reveal, then count up
-            el.textContent = '0';
+            // Show final value immediately, then do a quick count-up
             el.classList.add('counted');
-            const duration = 1400;
+            const duration = 800;
             const start = performance.now();
             const tick = (now) => {
               const elapsed = now - start;
               const progress = Math.min(elapsed / duration, 1);
               // ease-out cubic
               const eased = 1 - Math.pow(1 - progress, 3);
-              el.textContent = String(Math.round(target * eased)) + '+';
+              const value = Math.max(1, Math.round(target * eased));
+              el.textContent = String(value) + '+';
               if (progress < 1) requestAnimationFrame(tick);
             };
             requestAnimationFrame(tick);
