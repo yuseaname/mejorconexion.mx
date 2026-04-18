@@ -265,5 +265,88 @@
       });
     }, 1500);
   }
+
+  // ═══════════════════════════════════════
+  // HOMEPAGE ENHANCEMENTS
+  // ═══════════════════════════════════════
+
+  const isHome = location.pathname === '/' || location.pathname === '/index.html';
+  if (isHome) {
+
+    // ── Header transparency on hero ──────
+    const hero = document.querySelector('.home-hero');
+    if (hero && header) {
+      header.classList.add('header-transparent');
+      const headerHeight = header.offsetHeight || 64;
+      const fadeStart = 0;
+      const fadeEnd = hero.offsetHeight - headerHeight * 2;
+
+      const onScroll = () => {
+        const y = window.scrollY || window.pageYOffset;
+        if (y < fadeEnd) {
+          header.classList.add('header-transparent');
+        } else {
+          header.classList.remove('header-transparent');
+        }
+      };
+
+      window.addEventListener('scroll', onScroll, { passive: true });
+      onScroll();
+    }
+
+    // ── Scroll reveal ────────────────────
+    if (!prefersReducedMotion) {
+      const reveals = document.querySelectorAll('[data-reveal]');
+      if (reveals.length && 'IntersectionObserver' in window) {
+        const observer = new IntersectionObserver((entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('revealed');
+              observer.unobserve(entry.target);
+            }
+          });
+        }, {
+          threshold: 0.12,
+          rootMargin: '0px 0px -40px 0px'
+        });
+        reveals.forEach((el) => observer.observe(el));
+      }
+    } else {
+      document.querySelectorAll('[data-reveal]').forEach((el) => el.classList.add('revealed'));
+    }
+
+    // ── Stat counter animation ───────────
+    if (!prefersReducedMotion) {
+      const counters = document.querySelectorAll('[data-count]');
+      if (counters.length && 'IntersectionObserver' in window) {
+        const countObserver = new IntersectionObserver((entries) => {
+          entries.forEach((entry) => {
+            if (!entry.isIntersecting) return;
+            const el = entry.target;
+            const target = parseInt(el.getAttribute('data-count'), 10);
+            if (isNaN(target)) return;
+            const duration = 1200;
+            const start = performance.now();
+            const tick = (now) => {
+              const elapsed = now - start;
+              const progress = Math.min(elapsed / duration, 1);
+              // ease-out cubic
+              const eased = 1 - Math.pow(1 - progress, 3);
+              el.textContent = String(Math.round(target * eased)) + '+';
+              if (progress < 1) requestAnimationFrame(tick);
+            };
+            requestAnimationFrame(tick);
+            countObserver.unobserve(el);
+          });
+        }, { threshold: 0.5 });
+        counters.forEach((el) => countObserver.observe(el));
+      }
+    } else {
+      document.querySelectorAll('[data-count]').forEach((el) => {
+        const v = el.getAttribute('data-count');
+        if (v) el.textContent = v + '+';
+      });
+    }
+  }
 })();
 
