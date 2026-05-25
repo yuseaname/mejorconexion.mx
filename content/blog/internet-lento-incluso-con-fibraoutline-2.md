@@ -1,232 +1,114 @@
 ---
-title: internet-lento-incluso-con-fibra.outline
+title: "Tengo Fibra Óptica pero el Internet Es Lento: ¿Qué Pasa?"
 slug: internet-lento-incluso-con-fibraoutline-2
-description: Guia 2026 sobre internet-lento-incluso-con-fibra.outline en Mexico: pasos claros, comparativas y consejos para mejorar tu conexion.
-date: 2025-12-27
+description: "Tu internet por fibra óptica va lento y no sabes por qué. Diagnóstico paso a paso: ONT, router, WiFi, configuración y cuándo culpar al proveedor."
+date: 2026-04-17
 lang: es-MX
 ---
 
-# internet-lento-incluso-con-fibra.outline
+# Tengo Fibra Óptica pero el Internet Es Lento: ¿Qué Pasa?
 
-En 2026, internet-lento-incluso-con-fibra.outline sigue siendo una decision clave para hogares y pequenos negocios en Mexico.
+Contrataste fibra óptica esperando velocidad perfecta y... sigue lento. Es frustrante pero tiene solución en la mayoría de casos. El problema rara vez es la fibra misma — casi siempre está en algún punto entre la pared y tu dispositivo.
 
-Esta guia explica como elegir, optimizar y comparar opciones con pasos simples y un enfoque realista.
+## Paso 1: Confirma que Realmente Es Lento
 
-Audiencia: Principiantes en Mexico que quieren mejorar su conexion.
+Antes de buscar problemas, mide correctamente:
 
-Intencion: Informativa y comparativa.
+1. **Conecta tu laptop por cable Ethernet directo al router/ONT**
+2. Cierra todas las apps y descargas
+3. Haz un speed test en [speedtest.net](https://speedtest.net)
+4. Compara con lo que pagas
 
-<figure class="article-image">
-  <img src="/content-system/assets/images/internet-lento-incluso-con-fibraoutline-featured.jpg" alt="Router y sala representando internet-lento-incluso-con-fibra.outline en Mexico" loading="lazy" decoding="async" width="1200" height="630" />
-</figure>
-> **Puntos clave**
-> - Prioriza internet-lento-incluso-con-fibra.outline con base en tu zona y presupuesto.
-> - Valida la cobertura real antes de contratar.
-> - Optimiza tu router y ubicacion para ganar estabilidad.
-> - Compara velocidad real vs precio, no solo megas en el papel.
-> - Guarda una lista de mejoras rapidas para mantener tu red estable.
+| Resultado | Significado |
+|-----------|------------|
+| Velocidad correcta por cable, lento por WiFi | Problema de WiFi |
+| Lento por cable y WiFi | Problema de la conexión o ISP |
+| Lento solo en ciertos sitios | Problema de DNS o servidor |
 
-## Tabla de contenidos
-- [Panorama 2026 y cambios clave](#panorama-2026-y-cambios-clave)
-- [Factores que afectan la velocidad](#factores-que-afectan-la-velocidad)
-- [Como elegir un plan en Mexico](#como-elegir-un-plan-en-mexico)
-- [Checklist rapido de mejoras](#checklist-rapido-de-mejoras)
-- [Errores comunes y soluciones](#errores-comunes-y-soluciones)
+**El 80% de los problemas de "fibra lenta" son en realidad problemas de WiFi.**
 
-## Panorama 2026 y cambios clave
+## Paso 2: Revisa la ONT (El Módem de Fibra)
 
-Para panorama 2026 y cambios clave, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+La ONT (Optical Network Terminal) es el equipo que convierte la señal de fibra a ethernet. Problemas comunes:
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [ajustes-router-mejorar-velocidad.outline](/internet-en-casa/ajustes-router-mejorar-velocidadoutline/) para comparar escenarios similares.
+### ONT sobrecalentando
+Si la ONT está caliente al tacto o en un espacio cerrado sin ventilación, su rendimiento baja. Solución: Muévela a un lugar ventilado.
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+### LED de señal en rojo o parpadeando
+- **Verde fijo:** Todo bien
+- **Rojo:** Sin señal de fibra — llama a tu proveedor
+- **Parpadeando:** Señal débil — posible problema en el cable de fibra
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+### Cable de fibra dañado
+El cable de fibra óptica es más frágil que el cable ethernet normal. Si está doblado, aplastado o dañado, la señal se degrada. No lo dobles en ángulos cerrados.
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+## Paso 3: El Router WiFi (El Sospechoso #1)
 
-## Factores que afectan la velocidad
+### Router del ISP = Cuello de botella
+Los routers que entregan Totalplay, Telmex e Izzi son modelos económicos con WiFi limitado. Incluso si tienes fibra de 500 Mbps, el WiFi del router puede entregar solo 100-150 Mbps en el mejor caso.
 
-Para factores que afectan la velocidad, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+### Prueba rápida:
+1. Speed test junto al router por WiFi → anota
+2. Speed test en la habitación donde te conectas normalmente → anota
+3. Speed test por cable Ethernet → anota
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [ajustes-router-mejorar-velocidad.outline](/internet-en-casa/ajustes-router-mejorar-velocidadoutline/) para comparar escenarios similares.
+Si el cable da 400+ Mbps pero WiFi da 80-100 Mbps, **tu router WiFi es el problema**, no la fibra.
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+### Solución:
+Compra tu propio router WiFi 6 y conéctalo al router/ONT del ISP. Un TP-Link Archer AX55 ($1,200-1,500 MXN) puede multiplicar tu velocidad WiFi.
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+## Paso 4: Configuración del Router
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+### DNS lento
+Los DNS de tu ISP no siempre son los más rápidos. Cambia a:
+- Cloudflare: 1.1.1.1 / 1.0.0.1
+- Google: 8.8.8.8 / 8.8.4.4
 
-## Como elegir un plan en Mexico
+### Banda equivocada
+Si tu dispositivo está conectado a 2.4 GHz en lugar de 5 GHz, la velocidad será mucho menor. Verifica en qué banda estás conectado.
 
-Para como elegir un plan en mexico, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+### Canal saturado
+En departamentos, 10+ routers pueden estar en el mismo canal. Cambia tu canal WiFi manualmente. [Guía detallada](/blog/ajustes-router-mejorar-velocidadoutline-2/).
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [ajustes-router-mejorar-velocidad.outline](/internet-en-casa/ajustes-router-mejorar-velocidadoutline/) para comparar escenarios similares.
+## Paso 5: Problemas del ISP
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+Si descartaste todo lo anterior (cable Ethernet directo, sin router intermedio) y sigues lento:
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+### Reporta al proveedor
+Llama y reporta velocidad baja. Ten listo:
+- Tu número de contrato
+- Resultados de speed tests (con fecha y hora)
+- Confirmación de que probaste por cable
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+### Posibles causas del ISP:
+- **ONT mal configurada:** Pueden reconfigurarla remotamente
+- **Splitter saturado:** Si muchos usuarios comparten el mismo splitter en el edificio
+- **Provisión incorrecta:** A veces el plan no se activa correctamente
+- **Infraestructura local:** Construcciones nuevas pueden saturar el nodo
 
-## Checklist rapido de mejoras
+### Escala a PROFECO si no resuelven
+Si después de 2-3 reportes no solucionan, presenta queja en PROFECO. Los proveedores responden rápido ante quejas formales.
 
-Para checklist rapido de mejoras, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+## Preguntas Frecuentes
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [ajustes-router-mejorar-velocidad.outline](/internet-en-casa/ajustes-router-mejorar-velocidadoutline/) para comparar escenarios similares.
+### ¿La fibra óptica debería ser siempre rápida?
+Sí, la tecnología en sí es rápida y estable. Si es lento, casi siempre es un problema de configuración, router o infraestructura local — no de la fibra.
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+### ¿Por qué mi vecino con el mismo proveedor va más rápido?
+Puede ser: mejor router, mejor ubicación del router, menos dispositivos conectados, o menos usuarios en su segmento de red.
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+### ¿Debo reiniciar el módem de fibra?
+Sí, ocasionalmente ayuda. Reinicia la ONT y el router una vez al mes. No lo hagas diario — eso puede causar problemas si el ISP detecta reinicios frecuentes.
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+### ¿Un router gaming mejora la velocidad de fibra?
+No te da más velocidad de la que llega, pero sí maximiza lo que recibes. Un buen router WiFi 6 puede ser la diferencia entre 100 Mbps y 400+ Mbps por WiFi con una conexión de fibra de 500 Mbps.
 
-## Errores comunes y soluciones
+### ¿La fibra se degrada con la distancia?
+Mucho menos que el cable coaxial. Dentro de un edificio o colonia, la diferencia es imperceptible. La degradación notable ocurre a kilómetros de distancia.
 
-Para errores comunes y soluciones, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+## Enlaces Relacionados
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [ajustes-router-mejorar-velocidad.outline](/internet-en-casa/ajustes-router-mejorar-velocidadoutline/) para comparar escenarios similares.
-
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
-
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
-
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
-
-<figure class="article-image">
-  <img src="/content-system/assets/images/internet-lento-incluso-con-fibraoutline-inline-1.jpg" alt="Persona midiendo velocidad de internet en casa" loading="lazy" decoding="async" width="1200" height="630" />
-</figure>
-<figure class="article-image">
-  <img src="/content-system/assets/images/internet-lento-incluso-con-fibraoutline-inline-2.jpg" alt="Ilustracion de fibra optica en entorno urbano" loading="lazy" decoding="async" width="1200" height="630" />
-</figure>
-## FAQ
-### Cuantos megas necesito para internet-lento-incluso-con-fibra.outline?
-Depende del numero de personas y usos simultaneos. Para 1-2 personas, 50-100 Mbps suele funcionar; para familias grandes, 200 Mbps o mas es mas estable.
-
-### Como saber si mi zona tiene buena cobertura?
-Revisa mapas oficiales, opiniones locales y prueba con un speed test en distintos horarios.
-
-### Es mejor fibra o coaxial en 2026?
-La fibra suele ofrecer mejor estabilidad y menor latencia, pero depende de la instalacion local.
-
-### Que hago si mi velocidad real no coincide con el plan?
-Primero revisa tu red interna, luego mide varias veces y reporta con evidencia al proveedor.
-
-### Cada cuanto conviene cambiar de proveedor?
-Si el servicio es inestable o el precio se queda alto frente al mercado, considera cambiar cada 12-24 meses.
-
-## Enlaces internos
-- [Internet en Casa (Pilar)](/internet-en-casa/)
-- [ajustes-router-mejorar-velocidad.outline](/internet-en-casa/ajustes-router-mejorar-velocidadoutline/)
-- [cada-cuanto-cambiar-router-2026.outline](/internet-en-casa/cada-cuanto-cambiar-router-2026outline/)
-- [wifi-vs-ethernet-para-jugar.outline](/internet-en-casa/wifi-vs-ethernet-para-jugaroutline/)
-- [cargos-ocultos-planes-internet.outline](/cargos-ocultos-planes-internetoutline/cargos-ocultos-planes-internetoutline/)
-- [casa-inteligente-smart-home-internet.outline](/casa-inteligente-smart-home-internetoutline/casa-inteligente-smart-home-internetoutline/)
-- [como-saber-si-tu-isp-te-limita.outline](/guias/como-saber-si-tu-isp-te-limitaoutline/)
-
-## CTA
-1) Compara planes y precios con tu presupuesto mensual.
-2) Haz una prueba de velocidad en horarios distintos.
-3) Revisa opciones de cobertura y promociones vigentes.
-
-## Notas adicionales 1
-En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.
-Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.
-Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.
-Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 2
-Si necesitas justificar el gasto, estima el costo por mega real usando tu velocidad promedio, no la maxima anunciada.
-Esto ayuda a comparar opciones de forma objetiva y evita decisiones basadas solo en marketing.
-Considera tambien tu equipo interno: un router viejo o una mala ubicacion pueden borrar la ventaja de un plan premium.
-Un cambio de canal WiFi o un cable de mejor categoria suele mejorar estabilidad sin costo extra.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 3
-Para hogares con streaming 4K o gaming, la latencia constante es tan importante como la velocidad de bajada.
-Si notas cortes, prueba reiniciar el modem, actualizar firmware y separar redes 2.4 GHz y 5 GHz.
-En departamentos, la saturacion de canales es comun, por eso el analisis con apps de WiFi ayuda a elegir el canal menos congestionado.
-Guarda una bitacora simple de fallas para reportarlas con evidencia al proveedor.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 4
-Si vives en zona con poca infraestructura, compara opciones inalambricas fijas y revisa limites de datos.
-En planes moviles, busca politicas de uso justo para evitar reducciones de velocidad inesperadas.
-Un buen habito es medir la velocidad una vez al mes para detectar cambios con el tiempo.
-Para mas ideas, guarda este articulo y revisa el pilar internet-lento-incluso-con-fibra.outline cuando haya nuevas promociones.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 5
-En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.
-Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.
-Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.
-Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-
-## Notas adicionales
-En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.
-Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.
-Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.
-Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.
+- [Cómo Configurar tu Router para Máxima Velocidad](/blog/ajustes-router-mejorar-velocidadoutline-2/)
+- [¿Por Qué tu Router Importa Más Que tu Plan?](/blog/por-que-tu-router-importaoutline-2/)
+- [¿Tu ISP Te Está Limitando?](/blog/como-saber-si-tu-isp-te-limitaoutline-2/)
+- [¿Vale la Pena Pagar por Fibra?](/blog/vale-la-pena-pagar-por-fibra-2026outline-2/)

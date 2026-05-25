@@ -1,230 +1,114 @@
 ---
-title: por-que-los-speed-tests-mienten.outline
+title: "¿Por Qué los Speed Tests Mienten? La Verdad Detrás de los Resultados"
 slug: por-que-los-speed-tests-mientenoutline-2
-description: Guia 2026 sobre por-que-los-speed-tests-mienten.outline en Mexico: pasos claros, comparativas y consejos para mejorar tu conexion.
-date: 2025-12-27
+description: "Los speed tests no siempre dicen la verdad: sesgo de servidores, priorización del ISP, y por qué tu velocidad real puede ser muy diferente de lo que muestra."
+date: 2026-04-17
 lang: es-MX
 ---
 
-# por-que-los-speed-tests-mienten.outline
+# ¿Por Qué los Speed Tests Mienten? La Verdad Detrás de los Resultados
 
-En 2026, por-que-los-speed-tests-mienten.outline sigue siendo una decision clave para hogares y pequenos negocios en Mexico.
+Haces un speed test y marca 180 Mbps. Pero Netflix se ve borroso, las páginas tardan en cargar y las videollamadas se congelan. ¿Qué está pasando? Los speed tests son herramientas útiles, pero no siempre reflejan tu experiencia real. Aquí te explico por qué.
 
-Esta guia explica como elegir, optimizar y comparar opciones con pasos simples y un enfoque realista.
+## Razón #1: Los ISPs Priorizan el Tráfico de Speed Tests
 
-Audiencia: Principiantes en Mexico que quieren mejorar su conexion.
+Algunos proveedores de internet en México configuran sus redes para dar prioridad al tráfico de speed tests populares (Speedtest.net, Fast.com). Cuando haces un test, tu ISP te da la mejor ruta y la máxima velocidad — pero eso no es lo que recibes normalmente.
 
-Intencion: Informativa y comparativa.
+### La Prueba:
+1. Haz un speed test en [speedtest.net](https://speedtest.net) → anota
+2. Haz un speed test en [speed.cloudflare.com](https://speed.cloudflare.com) → anota
+3. Descarga un archivo grande de un servidor neutral (ej. una ISO de Ubuntu) y mide la velocidad real de descarga
 
-<figure class="article-image">
-  <img src="/content-system/assets/images/por-que-los-speed-tests-mientenoutline-featured.jpg" alt="Router y sala representando por-que-los-speed-tests-mienten.outline en Mexico" loading="lazy" decoding="async" width="1200" height="630" />
-</figure>
-> **Puntos clave**
-> - Prioriza por-que-los-speed-tests-mienten.outline con base en tu zona y presupuesto.
-> - Valida la cobertura real antes de contratar.
-> - Optimiza tu router y ubicacion para ganar estabilidad.
-> - Compara velocidad real vs precio, no solo megas en el papel.
-> - Guarda una lista de mejoras rapidas para mantener tu red estable.
+Si el speed test muestra 200 Mbps pero la descarga real es de 80 Mbps, tu ISP está priorizando los tests.
 
-## Tabla de contenidos
-- [Panorama 2026 y cambios clave](#panorama-2026-y-cambios-clave)
-- [Factores que afectan la velocidad](#factores-que-afectan-la-velocidad)
-- [Como elegir un plan en Mexico](#como-elegir-un-plan-en-mexico)
-- [Checklist rapido de mejoras](#checklist-rapido-de-mejoras)
-- [Errores comunes y soluciones](#errores-comunes-y-soluciones)
+## Razón #2: El Servidor del Test Está Cerca
 
-## Panorama 2026 y cambios clave
+Los speed tests te conectan al servidor más cercano. Cuanto más cerca el servidor, mejor el resultado. Pero tu uso real es a servidores de Netflix (EE.UU.), YouTube (distribuido), juegos (varios continentes) — todos más lejos.
 
-Para panorama 2026 y cambios clave, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+### Ejemplo real desde CDMX:
+- Speed test a servidor CDMX: 25ms ping, 180 Mbps
+- Netflix (servidor US): 45ms ping, velocidad real variable
+- Juego online (servidor EU): 150ms ping, 50 Mbps usable
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [ajustes-router-mejorar-velocidad.outline](/internet-en-casa/ajustes-router-mejorar-velocidadoutline/) para comparar escenarios similares.
+**Tu velocidad "real" depende de a dónde te conectas, no de a dónde te hace el test.**
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+## Razón #3: Solo Mides la Velocidad de Bajada
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+La mayoría de people solo miran la velocidad de bajada en el test. Pero:
+- La velocidad de subida puede ser 5-10x menor
+- La latencia puede ser alta
+- El packet loss puede ser significativo
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+Un resultado de "200 Mbps" sin contexto no dice nada sobre la calidad de tu conexión.
 
-## Factores que afectan la velocidad
+## Razón #4: Condiciones del Momento
 
-Para factores que afectan la velocidad, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+Un speed test es una foto instantánea. Tu velocidad puede variar significativamente:
+- **Hora del día:** Horas pico vs madrugada
+- **Carga de tu red:** Otros dispositivos consumiendo
+- **Carga del ISP:** Vecinos usando internet
+- **WiFi vs cable:** Diferencia enorme
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [ajustes-router-mejorar-velocidad.outline](/internet-en-casa/ajustes-router-mejorar-velocidadoutline/) para comparar escenarios similares.
+Un test a las 3 AM no representa tu experiencia a las 9 PM.
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+## Razón #5: El Test Usa Conexiones Múltiples
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+Los speed tests abren múltiples conexiones simultáneas para saturar tu ancho de banda. En la vida real, la mayoría de actividades usan una sola conexión. Una descarga de un archivo no se beneficia de múltiples conexiones como lo hace el test.
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+## Cómo Medir Tu Velocidad Real
 
-## Como elegir un plan en Mexico
+### Test #1: Velocidad de Descarga Real
+Descarga un archivo grande y mide la velocidad:
+- Ubuntu ISO: [releases.ubuntu.com](https://releases.ubuntu.com)
+- Velocidad = Tamaño del archivo / Tiempo
 
-Para como elegir un plan en mexico, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+### Test #2: Velocidad de Streaming
+Usa [fast.com](https://fast.com) (mide velocidad usando servidores de Netflix). Es más representativo de tu experiencia de streaming.
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [ajustes-router-mejorar-velocidad.outline](/internet-en-casa/ajustes-router-mejorar-velocidadoutline/) para comparar escenarios similares.
+### Test #3: Ping y Packet Loss
+En Windows: `ping google.com -n 50`
+En Mac/Linux: `ping google.com -c 50`
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+Busca:
+- Ping promedio < 50ms
+- Packet loss < 1%
+- Variación (jitter) < 10ms
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+### Test #4: Velocidad Sostenida
+Usa [cloudflare speed test](https://speed.cloudflare.com) que mide velocidad sostenida, no solo pico.
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+## Lo que Debes Monitorear Realmente
 
-## Checklist rapido de mejoras
+En lugar de obsesionarte con los Mbps, monitorea:
 
-Para checklist rapido de mejoras, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+| Métrica | Bueno | Aceptable | Malo |
+|---------|-------|-----------|------|
+| Ping | < 30ms | 30-60ms | > 60ms |
+| Jitter | < 5ms | 5-15ms | > 15ms |
+| Packet Loss | 0% | < 0.5% | > 1% |
+| Bajada (sobre lo contratado) | > 90% | 80-90% | < 80% |
+| Subida | > 50% de bajada | 10-50% | < 10% |
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [ajustes-router-mejorar-velocidad.outline](/internet-en-casa/ajustes-router-mejorar-velocidadoutline/) para comparar escenarios similares.
+## Preguntas Frecuentes
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+### ¿Speedtest.net es confiable?
+Sí, pero con matices. Es confiable para medir la velocidad máxima posible, no necesariamente tu experiencia cotidiana.
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+### ¿fast.com es mejor que speedtest.net?
+Para medir streaming: sí, porque usa servidores de Netflix. Para medir velocidad general: son complementarios.
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+### ¿Mi ISP sabe cuando hago un speed test?
+Es posible. Los ISPs pueden identificar el tráfico de speed tests populares. No es conspiración — es gestión de red normal.
 
-## Errores comunes y soluciones
+### ¿Por qué mi velocidad varía tanto entre tests?
+Depende del servidor seleccionado, la hora, la carga de tu red local y la carga del ISP. Si varía más de 30%, haz varios tests y promedia.
 
-Para errores comunes y soluciones, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+### ¿Cómo reporto velocidad baja a mi ISP?
+Con evidencia: 3-5 speed tests a diferentes horas, por cable Ethernet, con capturas de pantalla. Los ISPs toman más en serio reportes con datos que quejas genéricas.
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [ajustes-router-mejorar-velocidad.outline](/internet-en-casa/ajustes-router-mejorar-velocidadoutline/) para comparar escenarios similares.
+## Enlaces Relacionados
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
-
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
-
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
-
-<figure class="article-image">
-  <img src="/content-system/assets/images/por-que-los-speed-tests-mientenoutline-inline-1.jpg" alt="Persona midiendo velocidad de internet en casa" loading="lazy" decoding="async" width="1200" height="630" />
-</figure>
-<figure class="article-image">
-  <img src="/content-system/assets/images/por-que-los-speed-tests-mientenoutline-inline-2.jpg" alt="Ilustracion de fibra optica en entorno urbano" loading="lazy" decoding="async" width="1200" height="630" />
-</figure>
-## FAQ
-### Cuantos megas necesito para por-que-los-speed-tests-mienten.outline?
-Depende del numero de personas y usos simultaneos. Para 1-2 personas, 50-100 Mbps suele funcionar; para familias grandes, 200 Mbps o mas es mas estable.
-
-### Como saber si mi zona tiene buena cobertura?
-Revisa mapas oficiales, opiniones locales y prueba con un speed test en distintos horarios.
-
-### Es mejor fibra o coaxial en 2026?
-La fibra suele ofrecer mejor estabilidad y menor latencia, pero depende de la instalacion local.
-
-### Que hago si mi velocidad real no coincide con el plan?
-Primero revisa tu red interna, luego mide varias veces y reporta con evidencia al proveedor.
-
-### Cada cuanto conviene cambiar de proveedor?
-Si el servicio es inestable o el precio se queda alto frente al mercado, considera cambiar cada 12-24 meses.
-
-## Enlaces internos
-- [Por Que Los Speed Tests Mientenoutline (Pilar)](/por-que-los-speed-tests-mientenoutline/)
-- [ajustes-router-mejorar-velocidad.outline](/internet-en-casa/ajustes-router-mejorar-velocidadoutline/)
-- [cada-cuanto-cambiar-router-2026.outline](/internet-en-casa/cada-cuanto-cambiar-router-2026outline/)
-- [cargos-ocultos-planes-internet.outline](/cargos-ocultos-planes-internetoutline/cargos-ocultos-planes-internetoutline/)
-- [Internet en casa](/internet-en-casa/)
-
-## CTA
-1) Compara planes y precios con tu presupuesto mensual.
-2) Haz una prueba de velocidad en horarios distintos.
-3) Revisa opciones de cobertura y promociones vigentes.
-
-## Notas adicionales 1
-En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.
-Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.
-Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.
-Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 2
-Si necesitas justificar el gasto, estima el costo por mega real usando tu velocidad promedio, no la maxima anunciada.
-Esto ayuda a comparar opciones de forma objetiva y evita decisiones basadas solo en marketing.
-Considera tambien tu equipo interno: un router viejo o una mala ubicacion pueden borrar la ventaja de un plan premium.
-Un cambio de canal WiFi o un cable de mejor categoria suele mejorar estabilidad sin costo extra.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 3
-Para hogares con streaming 4K o gaming, la latencia constante es tan importante como la velocidad de bajada.
-Si notas cortes, prueba reiniciar el modem, actualizar firmware y separar redes 2.4 GHz y 5 GHz.
-En departamentos, la saturacion de canales es comun, por eso el analisis con apps de WiFi ayuda a elegir el canal menos congestionado.
-Guarda una bitacora simple de fallas para reportarlas con evidencia al proveedor.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 4
-Si vives en zona con poca infraestructura, compara opciones inalambricas fijas y revisa limites de datos.
-En planes moviles, busca politicas de uso justo para evitar reducciones de velocidad inesperadas.
-Un buen habito es medir la velocidad una vez al mes para detectar cambios con el tiempo.
-Para mas ideas, guarda este articulo y revisa el pilar por-que-los-speed-tests-mienten.outline cuando haya nuevas promociones.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 5
-En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.
-Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.
-Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.
-Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-
-## Notas adicionales
-En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.
-Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.
-Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.
-Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.
+- [¿Tu ISP Te Está Limitando?](/blog/como-saber-si-tu-isp-te-limitaoutline-2/)
+- [¿Qué Significa la Velocidad de Internet?](/blog/que-significa-la-velocidad-de-internetoutline-2/)
+- [¿Por Qué el Internet Es Lento a Veces?](/blog/por-que-el-internet-es-lento-a-vecesoutline-2/)
+- [¿Por Qué Hay Lag con Internet Rápido?](/blog/por-que-hay-lag-internet-rapidooutline-2/)

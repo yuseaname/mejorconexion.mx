@@ -1,230 +1,133 @@
 ---
-title: ajustes-router-mejorar-velocidad.outline
+title: "Cómo Configurar tu Router para Maximizar la Velocidad de Internet"
 slug: ajustes-router-mejorar-velocidadoutline-2
-description: Guia 2026 sobre ajustes-router-mejorar-velocidad.outline en Mexico: pasos claros, comparativas y consejos para mejorar tu conexion.
-date: 2025-12-27
+description: "Aprende a configurar tu router paso a paso: cambio de canal, QoS, DNS, ubicación ideal y firmware. Mejora tu velocidad sin cambiar de plan."
+date: 2026-04-17
 lang: es-MX
 ---
 
-# ajustes-router-mejorar-velocidad.outline
+# Cómo Configurar tu Router para Maximizar la Velocidad de Internet
 
-En 2026, ajustes-router-mejorar-velocidad.outline sigue siendo una decision clave para hogares y pequenos negocios en Mexico.
+¿Sabías que la mayoría de los routers en México están mal configurados de fábrica? Tu proveedor de internet instala el equipo con la configuración más básica posible, y eso significa que estás dejando megas sobre la mesa. Con unos pocos ajustes puedes ganar entre un 20% y un 50% de velocidad real sin pagar un peso más.
 
-Esta guia explica como elegir, optimizar y comparar opciones con pasos simples y un enfoque realista.
+Esta guía te muestra exactamente qué cambiar, en qué orden y qué resultados esperar.
 
-Audiencia: Principiantes en Mexico que quieren mejorar su conexion.
+## 1. Ubicación: El Ajuste que No Cuesta Nada
 
-Intencion: Informativa y comparativa.
+Antes de tocar ninguna configuración, revisa dónde está tu router. La ubicación física es el factor #1 que afecta tu señal WiFi.
 
-<figure class="article-image">
-  <img src="/content-system/assets/images/ajustes-router-mejorar-velocidadoutline-featured.jpg" alt="Router y sala representando ajustes-router-mejorar-velocidad.outline en Mexico" loading="lazy" decoding="async" width="1200" height="630" />
-</figure>
-> **Puntos clave**
-> - Prioriza ajustes-router-mejorar-velocidad.outline con base en tu zona y presupuesto.
-> - Valida la cobertura real antes de contratar.
-> - Optimiza tu router y ubicacion para ganar estabilidad.
-> - Compara velocidad real vs precio, no solo megas en el papel.
-> - Guarda una lista de mejoras rapidas para mantener tu red estable.
+**Reglas básicas:**
+- Colócalo en una zona **central** de tu casa o departamento
+- Mantenlo **elevado** — encima de un mueble, nunca en el piso
+- Aléjalo de **paredes gruesas**, espejos y electrodomésticos (especialmente microondas)
+- Si tiene antenas externas, orienta una vertical y otra horizontal para cubrir más ángulos
 
-## Tabla de contenidos
-- [Panorama 2026 y cambios clave](#panorama-2026-y-cambios-clave)
-- [Factores que afectan la velocidad](#factores-que-afectan-la-velocidad)
-- [Como elegir un plan en Mexico](#como-elegir-un-plan-en-mexico)
-- [Checklist rapido de mejoras](#checklist-rapido-de-mejoras)
-- [Errores comunes y soluciones](#errores-comunes-y-soluciones)
+En México, muchas construcciones tienen muros de block o concreto que atenúan la señal WiFi drásticamente. Si tu router está en un extremo de la casa y necesitas señal en el otro extremo, ni la mejor configuración va a resolver el problema — considera un sistema mesh.
 
-## Panorama 2026 y cambios clave
+**Resultado esperado:** Ganar entre 10-40% de velocidad en las zonas lejanas de tu casa.
 
-Para panorama 2026 y cambios clave, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+## 2. Cambia el Canal WiFi
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [wifi-vs-ethernet-para-jugar.outline](/internet-en-casa/wifi-vs-ethernet-para-jugaroutline/) para comparar escenarios similares.
+Los routers en México suelen venir configurados en el canal 6 (banda de 2.4 GHz) o en automático. Si vives en un departamento o fraccionamiento con muchos vecinos, es probable que estés compitiendo por el mismo canal.
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+### Cómo hacerlo:
+1. Entra a la administración de tu router (usualmente `192.168.1.1` o `192.168.0.1`)
+2. Busca la sección de **Wireless** o **WiFi**
+3. Descarga una app como **WiFi Analyzer** en tu celular
+4. Identifica qué canales están menos saturados en tu zona
+5. Cambia manualmente al canal menos congestionado
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+### Banda de 5 GHz:
+Si tu router es doble banda, conecta tus dispositivos más importantes (laptop, smart TV, consola) a la red de 5 GHz. Tiene menos alcance pero mucha más velocidad y menos interferencia.
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+**Canales recomendados en 5 GHz:** 36, 40, 44, 48 (si tu router lo permite, usa canales DFS como 52-144 para aún menos congestión).
 
-## Factores que afectan la velocidad
+**Resultado esperado:** Reducir la interferencia puede mejorar la velocidad entre un 15-30%.
 
-Para factores que afectan la velocidad, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+## 3. Configura QoS (Calidad de Servicio)
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [wifi-vs-ethernet-para-jugar.outline](/internet-en-casa/wifi-vs-ethernet-para-jugaroutline/) para comparar escenarios similares.
+El QoS le dice a tu router qué dispositivos o aplicaciones deben tener prioridad cuando la red está saturada. Si alguien está descargando un archivo enorme y tú necesitas tu videollamada sin cortes, el QoS resuelve ese conflicto.
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+### Pasos:
+1. Entra a la configuración del router
+2. Busca **QoS**, **Bandwidth Control** o **Control de Ancho de Banda**
+3. Establece prioridades:
+   - **Alta:** Tu computadora de trabajo, dispositivo de videollamadas
+   - **Media:** Smart TV, consola de juegos
+   - **Baja:** Dispositivos IoT, descargas automáticas
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+Algunos routers de Telmex e Izzi tienen QoS limitado. Si el tuyo no permite esta configuración, considera desactivar las descargas automáticas (actualizaciones de Windows, backups de Google Photos) durante tus horas de uso intensivo.
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+**Resultado esperado:** Menos interrupciones en videollamadas y streaming cuando hay varios usuarios conectados.
 
-## Como elegir un plan en Mexico
+## 4. Cambia tus Servidores DNS
 
-Para como elegir un plan en mexico, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+Los DNS son como la agenda telefónica de internet. Cuando escribes "google.com", los DNS traducen eso a una dirección IP. Los DNS de tu proveedor (Telmex, Izzi, etc.) no suelen ser los más rápidos.
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [wifi-vs-ethernet-para-jugar.outline](/internet-en-casa/wifi-vs-ethernet-para-jugaroutline/) para comparar escenarios similares.
+### Mejores DNS para México en 2026:
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+| Proveedor | DNS Primario | DNS Secundario | Ventaja |
+|-----------|-------------|----------------|---------|
+| Cloudflare | 1.1.1.1 | 1.0.0.1 | Más rápido globalmente |
+| Google | 8.8.8.8 | 8.8.4.4 | Muy confiable |
+| Quad9 | 9.9.9.9 | 149.112.112.112 | Con seguridad |
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+### Cómo cambiarlos:
+1. Entra a la configuración del router → **WAN** o **Network Settings**
+2. Busca la sección de **DNS**
+3. Cambia de "Obtener automáticamente" a manual
+4. Ingresa los DNS primario y secundario
+5. Guarda y reinicia el router
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+También puedes configurar DNS por dispositivo (en Windows: Configuración de red → Propiedades de IPv4).
 
-## Checklist rapido de mejoras
+**Resultado esperado:** Páginas web que cargan entre 100-500ms más rápido. No afecta la velocidad de descarga, pero sí la velocidad de navegación.
 
-Para checklist rapido de mejoras, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+## 5. Actualiza el Firmware
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [wifi-vs-ethernet-para-jugar.outline](/internet-en-casa/wifi-vs-ethernet-para-jugaroutline/) para comparar escenarios similares.
+El firmware es el sistema operativo de tu router. Las actualizaciones corrigen errores de seguridad y, a veces, mejoran el rendimiento.
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+### Cómo verificar:
+1. Entra a la configuración del router
+2. Busca **System** → **Firmware Update** o **Actualizar software**
+3. Verifica si hay una versión más reciente
+4. Si la hay, descárgala e instálala
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+**Advertencia:** No interrumpas la actualización — puede dejar tu router inutilizable. Conéctalo por cable Ethernet durante el proceso.
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+Si tu router del ISP (el que te dieron en Telmex o Izzi) no permite actualizar el firmware manualmente, al menos reinícialo una vez al mes para que aplique las actualizaciones automáticas.
 
-## Errores comunes y soluciones
+## 6. Separa las Redes 2.4 GHz y 5 GHz
 
-Para errores comunes y soluciones, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+Muchos routers modernos combinan ambas bandas bajo un solo nombre de red (SSID). Esto puede causar que tus dispositivos se conecten a la banda equivocada — por ejemplo, tu smart TV pegado al router usando 2.4 GHz en lugar de 5 GHz.
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [wifi-vs-ethernet-para-jugar.outline](/internet-en-casa/wifi-vs-ethernet-para-jugaroutline/) para comparar escenarios similares.
+### La solución:
+Asigna nombres distintos a cada red:
+- `TuRed_2.4G` — para dispositivos lejanos o que no necesitan mucha velocidad
+- `TuRed_5G` — para tu laptop, consola, smart TV cerca del router
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+Conecta cada dispositivo a la red que le corresponde y fija la conexión para que no salte entre bandas.
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+## Preguntas Frecuentes
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+### ¿Es legal cambiar la configuración de mi router del ISP?
+Sí. Configurar tu router es completamente legal. Solo evita cambiar configuraciones de red avanzadas que puedan afectar el servicio.
 
-<figure class="article-image">
-  <img src="/content-system/assets/images/ajustes-router-mejorar-velocidadoutline-inline-1.jpg" alt="Persona midiendo velocidad de internet en casa" loading="lazy" decoding="async" width="1200" height="630" />
-</figure>
-<figure class="article-image">
-  <img src="/content-system/assets/images/ajustes-router-mejorar-velocidadoutline-inline-2.jpg" alt="Ilustracion de fibra optica en entorno urbano" loading="lazy" decoding="async" width="1200" height="630" />
-</figure>
-## FAQ
-### Cuantos megas necesito para ajustes-router-mejorar-velocidad.outline?
-Depende del numero de personas y usos simultaneos. Para 1-2 personas, 50-100 Mbps suele funcionar; para familias grandes, 200 Mbps o mas es mas estable.
+### ¿Pierdo la garantía si cambio la configuración?
+No. Los ajustes de WiFi, DNS y QoS no afectan la garantía. Solo evitaríamos flashear firmware de terceros (como OpenWRT) si el router es rentado por el ISP.
 
-### Como saber si mi zona tiene buena cobertura?
-Revisa mapas oficiales, opiniones locales y prueba con un speed test en distintos horarios.
+### ¿Cada cuánto debo revisar la configuración?
+Revisa canales WiFi cada 3-6 meses (los vecinos cambian sus redes). DNS y QoS configúralos una vez y olvídate.
 
-### Es mejor fibra o coaxial en 2026?
-La fibra suele ofrecer mejor estabilidad y menor latencia, pero depende de la instalacion local.
+### ¿Estos ajustes funcionan con cualquier proveedor en México?
+Sí. Los principios son los mismos para Telmex, Izzi, Totalplay, Megacable o cualquier otro proveedor.
 
-### Que hago si mi velocidad real no coincide con el plan?
-Primero revisa tu red interna, luego mide varias veces y reporta con evidencia al proveedor.
+### ¿Necesito comprar un router nuevo?
+Si tu router tiene más de 4 años o solo soporta WiFi 4 (802.11n), un router nuevo con WiFi 6 puede mejorar más que cualquier ajuste de configuración.
 
-### Cada cuanto conviene cambiar de proveedor?
-Si el servicio es inestable o el precio se queda alto frente al mercado, considera cambiar cada 12-24 meses.
+## Enlaces Relacionados
 
-## Enlaces internos
-- [Internet en Casa (Pilar)](/internet-en-casa/)
-- [wifi-vs-ethernet-para-jugar.outline](/internet-en-casa/wifi-vs-ethernet-para-jugaroutline/)
-- [cuantos-gb-necesitas-al-mes.outline](/cuantos-gb-necesitas-al-mesoutline/cuantos-gb-necesitas-al-mesoutline/)
-- [mejor-internet-para-clases-en-linea.outline](/mejor-internet-para-clases-en-lineaoutline/mejor-internet-para-clases-en-lineaoutline/)
-- [mejor-velocidad-para-gaming.outline](/mejor-velocidad-para-gamingoutline/mejor-velocidad-para-gamingoutline/)
-
-## CTA
-1) Compara planes y precios con tu presupuesto mensual.
-2) Haz una prueba de velocidad en horarios distintos.
-3) Revisa opciones de cobertura y promociones vigentes.
-
-## Notas adicionales 1
-En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.
-Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.
-Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.
-Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 2
-Si necesitas justificar el gasto, estima el costo por mega real usando tu velocidad promedio, no la maxima anunciada.
-Esto ayuda a comparar opciones de forma objetiva y evita decisiones basadas solo en marketing.
-Considera tambien tu equipo interno: un router viejo o una mala ubicacion pueden borrar la ventaja de un plan premium.
-Un cambio de canal WiFi o un cable de mejor categoria suele mejorar estabilidad sin costo extra.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 3
-Para hogares con streaming 4K o gaming, la latencia constante es tan importante como la velocidad de bajada.
-Si notas cortes, prueba reiniciar el modem, actualizar firmware y separar redes 2.4 GHz y 5 GHz.
-En departamentos, la saturacion de canales es comun, por eso el analisis con apps de WiFi ayuda a elegir el canal menos congestionado.
-Guarda una bitacora simple de fallas para reportarlas con evidencia al proveedor.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 4
-Si vives en zona con poca infraestructura, compara opciones inalambricas fijas y revisa limites de datos.
-En planes moviles, busca politicas de uso justo para evitar reducciones de velocidad inesperadas.
-Un buen habito es medir la velocidad una vez al mes para detectar cambios con el tiempo.
-Para mas ideas, guarda este articulo y revisa el pilar ajustes-router-mejorar-velocidad.outline cuando haya nuevas promociones.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 5
-En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.
-Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.
-Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.
-Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-
-## Notas adicionales
-En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.
-Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.
-Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.
-Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.
+- [¿Cada Cuánto Debes Cambiar tu Router?](/blog/cada-cuanto-cambiar-router-2026outline-2/)
+- [WiFi vs Ethernet para Jugar](/blog/wifi-vs-ethernet-para-jugaroutline-2/)
+- [¿Por Qué tu Router Importa Más Que tu Plan?](/blog/por-que-tu-router-importaoutline-2/)
+- [El WiFi No Llega a Todos los Cuartos](/blog/wifi-no-llega-a-todos-los-cuartosoutline-2/)

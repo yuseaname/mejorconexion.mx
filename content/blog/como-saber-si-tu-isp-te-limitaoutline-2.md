@@ -1,230 +1,123 @@
 ---
-title: como-saber-si-tu-isp-te-limita.outline
+title: "¿Tu ISP Te Está Limitando la Velocidad? Cómo Descubrirlo"
 slug: como-saber-si-tu-isp-te-limitaoutline-2
-description: Guia 2026 sobre como-saber-si-tu-isp-te-limita.outline en Mexico: pasos claros, comparativas y consejos para mejorar tu conexion.
-date: 2025-12-27
+description: "Aprende a detectar si tu proveedor de internet te está haciendo throttling, cómo confirmarlo con pruebas y qué hacer en México para resolverlo."
+date: 2026-04-17
 lang: es-MX
 ---
 
-# como-saber-si-tu-isp-te-limita.outline
+# ¿Tu ISP Te Está Limitando la Velocidad? Cómo Descubrirlo
 
-En 2026, como-saber-si-tu-isp-te-limita.outline sigue siendo una decision clave para hogares y pequenos negocios en Mexico.
+Pagas por 200 Mbps pero Netflix se ve borroso a las 8 de la noche. Los videos de YouTube tardan en cargar. Las videollamadas se congelan. ¿Es tu conexión o tu proveedor te está frenando a propósito?
 
-Esta guia explica como elegir, optimizar y comparar opciones con pasos simples y un enfoque realista.
+El throttling (limitación intencional de velocidad) es real y ocurre en México. Aquí te enseñamos a detectarlo y qué hacer al respecto.
 
-Audiencia: Principiantes en Mexico que quieren mejorar su conexion.
+## ¿Qué Es el Throttling?
 
-Intencion: Informativa y comparativa.
+El throttling es cuando tu proveedor de internet reduce intencionalmente la velocidad de ciertos tipos de tráfico. Los motivos más comunes:
 
-<figure class="article-image">
-  <img src="/content-system/assets/images/como-saber-si-tu-isp-te-limitaoutline-featured.jpg" alt="Router y sala representando como-saber-si-tu-isp-te-limita.outline en Mexico" loading="lazy" decoding="async" width="1200" height="630" />
-</figure>
-> **Puntos clave**
-> - Prioriza como-saber-si-tu-isp-te-limita.outline con base en tu zona y presupuesto.
-> - Valida la cobertura real antes de contratar.
-> - Optimiza tu router y ubicacion para ganar estabilidad.
-> - Compara velocidad real vs precio, no solo megas en el papel.
-> - Guarda una lista de mejoras rapidas para mantener tu red estable.
+- **Gestión de congestión:** Reducen velocidad en horas pico para que todos tengan "algo" de servicio
+- **Priorización de servicios:** Algunos ISPs priorizan su propio contenido sobre el de competidores
+- **Límites de uso justo:** Reducen tu velocidad si consumes "demasiados" datos
+- **Tráfico específico:** Netflix, YouTube, torrents o juegos online pueden ser limitados selectivamente
 
-## Tabla de contenidos
-- [Panorama 2026 y cambios clave](#panorama-2026-y-cambios-clave)
-- [Factores que afectan la velocidad](#factores-que-afectan-la-velocidad)
-- [Como elegir un plan en Mexico](#como-elegir-un-plan-en-mexico)
-- [Checklist rapido de mejoras](#checklist-rapido-de-mejoras)
-- [Errores comunes y soluciones](#errores-comunes-y-soluciones)
+## Prueba #1: Speed Test Normal vs VPN
 
-## Panorama 2026 y cambios clave
+Esta es la prueba más reveladora.
 
-Para panorama 2026 y cambios clave, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+### Paso a paso:
+1. **Sin VPN:** Haz un speed test en [speedtest.net](https://speedtest.net) o [fast.com](https://fast.com) — anota los resultados
+2. **Con VPN:** Activa una VPN (NordVPN, ExpressVPN, o cualquiera con trial gratis)
+3. **Repite el speed test** con la VPN activa
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [cuantos-gb-necesitas-al-mes.outline](/cuantos-gb-necesitas-al-mesoutline/cuantos-gb-necesitas-al-mesoutline/) para comparar escenarios similares.
+### Interpretación:
+- Si la velocidad **sube significativamente** con VPN → Tu ISP está limitando tráfico específico
+- Si la velocidad **baja** con VPN → Tu ISP no está haciendo throttling (la VPN añade overhead normal)
+- Si la velocidad es **igual** → Probablemente no hay throttling
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+**¿Por qué funciona?** La VPN encripta tu tráfico, entonces tu ISP no puede ver qué tipo de contenido estás accediendo y no puede aplicar filtros.
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+## Prueba #2: Compara fast.com vs speedtest.net
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+- **fast.com** mide la velocidad usando los servidores de Netflix
+- **speedtest.net** usa servidores genéricos optimizados
 
-## Factores que afectan la velocidad
+Si fast.com muestra velocidades mucho menores que speedtest.net, es una señal fuerte de que tu ISP está limitando el tráfico de video.
 
-Para factores que afectan la velocidad, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+## Prueba #3: Mide a Diferentes Horarios
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [cuantos-gb-necesitas-al-mes.outline](/cuantos-gb-necesitas-al-mesoutline/cuantos-gb-necesitas-al-mesoutline/) para comparar escenarios similares.
+Haz speed tests a estas horas y compara:
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+| Hora | Velocidad | Situación |
+|------|-----------|-----------|
+| 7:00 AM | ? | Red vacía |
+| 2:00 PM | ? | Tráfico medio |
+| 9:00 PM | ? | Hora pico |
+| 2:00 AM | ? | Red vacía |
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+Si tu velocidad a las 9 PM es un 50%+ menor que a las 7 AM, tu ISP está saturado (no necesariamente throttling intencional, pero el resultado es el mismo para ti).
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+## Lo que Hacen los Proveedores en México
 
-## Como elegir un plan en Mexico
+### Telmex/Telcel
+- Reportan "uso justo" en planes residenciales — si consumes demasiado, pueden reducir velocidad
+- En horas pico, la velocidad puede bajar significativamente en zonas saturadas
 
-Para como elegir un plan en mexico, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+### Izzi
+- Históricamente ha tenido reportes de limitación de tráfico P2P/torrents
+- Los planes con promoción pueden tener velocidades reales menores al terminar el periodo promocional
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [cuantos-gb-necesitas-al-mes.outline](/cuantos-gb-necesitas-al-mesoutline/cuantos-gb-necesitas-al-mesoutline/) para comparar escenarios similares.
+### Totalplay
+- Al ser fibra directa, tiene menos problemas de throttling
+- Pero en zonas con muchos usuarios en la misma ONT, la velocidad puede compartirse
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+### AT&T / Movistar (móvil)
+- Los planes "ilimitados" casi siempre tienen un límite de datos a velocidad completa (generalmente 10-30 GB)
+- Después de ese límite, la velocidad baja a 1-3 Mbps
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+## Qué Hacer si Te Están Limitando
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+### 1. Usa una VPN
+La solución más rápida. Una buena VPN evita que tu ISP pueda identificar y limitar tu tráfico.
 
-## Checklist rapido de mejoras
+### 2. Cambia tus DNS
+A veces la lentitud no es throttling sino DNS lento. Prueba con 1.1.1.1 (Cloudflare) o 8.8.8.8 (Google).
 
-Para checklist rapido de mejoras, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+### 3. Llama a tu Proveedor
+- Pregunta directamente: "¿Están limitando mi velocidad?"
+- Pide que verifiquen tu línea
+- Si tu velocidad es consistentemente menor al 80% de lo contratado, están incumpliendo el contrato
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [cuantos-gb-necesitas-al-mes.outline](/cuantos-gb-necesitas-al-mesoutline/cuantos-gb-necesitas-al-mesoutline/) para comparar escenarios similares.
+### 4. Presenta una Queja ante PROFECO
+Si tu proveedor no resuelve:
+1. Documenta: capturas de speed tests a diferentes horas
+2. Guarda facturas donde pagas por una velocidad que no recibes
+3. Presenta la queja en [profeco.gob.mx](https://profeco.gob.mx) o al teléfono del consumidor
+4. Los proveedores suelen resolver rápido cuando PROFECO se involucra
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+### 5. Cambia de Proveedor
+Si en tu zona hay opciones, un cambio de ISP puede resolver el problema. La competencia entre Telmex, Izzi y Totalplay en ciudades grandes es real.
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+## Preguntas Frecuentes
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
+### ¿Es legal que mi ISP limite mi velocidad?
+Depende. La gestión de red es legal, pero no informar que lo hacen o vender "velocidades hasta X" que nunca se alcanzan puede violar normas de PROFECO.
 
-## Errores comunes y soluciones
+### ¿La VPN me da más velocidad?
+Solo si tu ISP estaba limitando tu tráfico. Una VPN por sí sola no hace tu internet más rápido — de hecho, normalmente añade un poco de latencia.
 
-Para errores comunes y soluciones, parte de tu uso real: cuantas personas se conectan, cuantas horas de streaming hay y si trabajas con videollamadas. Esto evita sobrepagar por megas que no necesitas o quedarte corto en horas pico.
+### ¿Cuánta velocidad "debo" recibir de lo que pago?
+Como regla general, deberías recibir al menos el 80% de la velocidad contratada por WiFi, y 90%+ por cable Ethernet, en la mayoría de horas del día.
 
-Un metodo rapido es estimar un rango de megas por persona y contrastarlo con pruebas en distintos horarios. Si necesitas mas contexto, revisa [cuantos-gb-necesitas-al-mes.outline](/cuantos-gb-necesitas-al-mesoutline/cuantos-gb-necesitas-al-mesoutline/) para comparar escenarios similares.
+### ¿Los speed tests son confiables?
+En su mayoría sí, pero usa varios (speedtest.net, fast.com, speed.cloudflare.com) para comparar. Un solo test no es suficiente evidencia.
 
-En Mexico, la calidad final depende de la cobertura local, del modem y de la ubicacion del router. Paredes gruesas, electrodomesticos y saturacion del vecindario pueden reducir la velocidad real sin que el proveedor lo anuncie.
+### ¿PROFECO realmente ayuda con problemas de internet?
+Sí. PROFECO tiene un proceso de conciliación que obliga al proveedor a responder. En muchos casos, el proveedor ofrece una solución antes de que el caso progrese.
 
-Piensa tambien en la estabilidad: latencia baja, subidas consistentes y un WiFi bien configurado suelen importar mas que el numero maximo de megas en el contrato.
+## Enlaces Relacionados
 
-Checklist rapido:
-- Haz una prueba de velocidad en 3 horarios distintos.
-- Verifica si tu router soporta WiFi 6 o al menos doble banda.
-- Coloca el modem en una zona central, elevada y sin obstrucciones.
-- Si puedes, usa cable para tareas criticas como videollamadas.
-
-<figure class="article-image">
-  <img src="/content-system/assets/images/como-saber-si-tu-isp-te-limitaoutline-inline-1.jpg" alt="Persona midiendo velocidad de internet en casa" loading="lazy" decoding="async" width="1200" height="630" />
-</figure>
-<figure class="article-image">
-  <img src="/content-system/assets/images/como-saber-si-tu-isp-te-limitaoutline-inline-2.jpg" alt="Ilustracion de fibra optica en entorno urbano" loading="lazy" decoding="async" width="1200" height="630" />
-</figure>
-## FAQ
-### Cuantos megas necesito para como-saber-si-tu-isp-te-limita.outline?
-Depende del numero de personas y usos simultaneos. Para 1-2 personas, 50-100 Mbps suele funcionar; para familias grandes, 200 Mbps o mas es mas estable.
-
-### Como saber si mi zona tiene buena cobertura?
-Revisa mapas oficiales, opiniones locales y prueba con un speed test en distintos horarios.
-
-### Es mejor fibra o coaxial en 2026?
-La fibra suele ofrecer mejor estabilidad y menor latencia, pero depende de la instalacion local.
-
-### Que hago si mi velocidad real no coincide con el plan?
-Primero revisa tu red interna, luego mide varias veces y reporta con evidencia al proveedor.
-
-### Cada cuanto conviene cambiar de proveedor?
-Si el servicio es inestable o el precio se queda alto frente al mercado, considera cambiar cada 12-24 meses.
-
-## Enlaces internos
-- [Guias (Pilar)](/guias/)
-- [cuantos-gb-necesitas-al-mes.outline](/cuantos-gb-necesitas-al-mesoutline/cuantos-gb-necesitas-al-mesoutline/)
-- [mejor-internet-para-clases-en-linea.outline](/mejor-internet-para-clases-en-lineaoutline/mejor-internet-para-clases-en-lineaoutline/)
-- [mejor-velocidad-para-gaming.outline](/mejor-velocidad-para-gamingoutline/mejor-velocidad-para-gamingoutline/)
-- [Internet en casa](/internet-en-casa/)
-
-## CTA
-1) Compara planes y precios con tu presupuesto mensual.
-2) Haz una prueba de velocidad en horarios distintos.
-3) Revisa opciones de cobertura y promociones vigentes.
-
-## Notas adicionales 1
-En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.
-Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.
-Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.
-Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 2
-Si necesitas justificar el gasto, estima el costo por mega real usando tu velocidad promedio, no la maxima anunciada.
-Esto ayuda a comparar opciones de forma objetiva y evita decisiones basadas solo en marketing.
-Considera tambien tu equipo interno: un router viejo o una mala ubicacion pueden borrar la ventaja de un plan premium.
-Un cambio de canal WiFi o un cable de mejor categoria suele mejorar estabilidad sin costo extra.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 3
-Para hogares con streaming 4K o gaming, la latencia constante es tan importante como la velocidad de bajada.
-Si notas cortes, prueba reiniciar el modem, actualizar firmware y separar redes 2.4 GHz y 5 GHz.
-En departamentos, la saturacion de canales es comun, por eso el analisis con apps de WiFi ayuda a elegir el canal menos congestionado.
-Guarda una bitacora simple de fallas para reportarlas con evidencia al proveedor.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 4
-Si vives en zona con poca infraestructura, compara opciones inalambricas fijas y revisa limites de datos.
-En planes moviles, busca politicas de uso justo para evitar reducciones de velocidad inesperadas.
-Un buen habito es medir la velocidad una vez al mes para detectar cambios con el tiempo.
-Para mas ideas, guarda este articulo y revisa el pilar como-saber-si-tu-isp-te-limita.outline cuando haya nuevas promociones.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-## Notas adicionales 5
-En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.
-Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.
-Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.
-Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.
-Checklist extra:
-- Verifica la ubicacion del modem y evita ponerlo en el piso.
-- Usa cable para tareas criticas como trabajo remoto.
-- Apaga dispositivos inactivos para reducir ruido en la red.
-- Actualiza el firmware del router cada cierto tiempo.
-- Separa redes 2.4 GHz y 5 GHz para usos distintos.
-- Comprueba si tu plan incluye limites de datos.
-- Revisa promociones anuales para negociar mejor precio.
-- Guarda capturas de tus pruebas de velocidad.
-
-
-## Notas adicionales
-En 2026, los precios y promociones cambian rapido, por eso conviene revisar contratos y permanencias antes de firmar.
-Si tu consumo es moderado, un plan de entrada puede ser suficiente y puedes invertir el ahorro en un mejor router.
-Otro punto clave es la atencion al cliente: tiempos de instalacion, calidad de soporte y claridad en las facturas.
-Evalua reseñas locales y pregunta en tu colonia, porque la experiencia real suele variar por zona.
+- [¿Por Qué los Speed Tests Mienten?](/blog/por-que-los-speed-tests-mientenoutline-2/)
+- [¿El Internet Ilimitado Realmente Es Ilimitado?](/blog/internet-ilimitado-realmenteoutline-2/)
+- [Cargos Ocultos en Planes de Internet](/blog/cargos-ocultos-planes-internetoutline-2/)
+- [Internet Lento Incluso con Fibra Óptica](/blog/internet-lento-incluso-con-fibraoutline-2/)
