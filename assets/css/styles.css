@@ -1244,3 +1244,27 @@ details.card summary strong{color:var(--text)}
   transform:translateX(0);
 }
 
+/* ── Blog post images ─────────────── */
+.blog-post .article-body{
+  max-width:var(--content-max,740px);
+  margin:0 auto;
+}
+.blog-post .article-image{
+  margin:28px 0 24px;
+  text-align:center;
+}
+.blog-post .article-image img{
+  border-radius:8px;
+  box-shadow:0 2px 12px rgba(0,0,0,.08);
+}
+.blog-post .article-hero img{
+  width:100%;
+  max-width:none;
+  border-radius:10px;
+  box-shadow:0 4px 20px rgba(0,0,0,.1);
+}
+.blog-post .article-image figcaption{
+  margin-top:8px;
+  font-size:.85rem;
+  color:var(--muted);
+}
