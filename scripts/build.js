@@ -92,15 +92,20 @@ async function minifyHtmlFiles() {
       }
       if (!entry.isFile() || !entry.name.endsWith('.html')) continue;
       const html = await fsp.readFile(fullPath, 'utf8');
-      const minified = await minify(html, {
-        collapseWhitespace: true,
-        conservativeCollapse: true,
-        removeComments: true,
-        removeRedundantAttributes: true,
-        removeEmptyAttributes: true,
-        removeOptionalTags: false,
-      });
-      await fsp.writeFile(fullPath, minified, 'utf8');
+      try {
+        const minified = await minify(html, {
+          collapseWhitespace: true,
+          conservativeCollapse: true,
+          removeComments: true,
+          removeRedundantAttributes: true,
+          removeEmptyAttributes: true,
+          removeOptionalTags: false,
+        });
+        await fsp.writeFile(fullPath, minified, 'utf8');
+      } catch (err) {
+        console.warn(`[WARN] HTML minification failed for ${fullPath}: ${err.message}`);
+        // Keep unminified version — still valid HTML
+      }
     }
   }
 
