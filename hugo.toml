@@ -1,0 +1,48 @@
+baseURL = 'https://mejorconexion.mx/'
+languageCode = 'es-mx'
+title = 'Mejor Conexión'
+theme = 'adsense-base'
+disableHugoGeneratorInject = true
+disableKinds = ['taxonomy', 'term']
+ignoreLogs = ['warning-goldmark-raw-html']
+
+# uglyURLs produces /section/slug.html format (matches original site URLs)
+uglyURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  site_name = 'Mejor Conexión'
+  description = 'Compara proveedores de internet en México. Guías claras, sin jerga, para elegir el mejor servicio para tu hogar.'
+  tagline = 'Tu internet, sin complicaciones.'
+  author = 'Mejor Conexión'
+  favicon = '/assets/images/logo.png'
+  og_image = '/assets/images/logo.png'
+  google_site_verification = ''
+
+  [params.adsense]
+    client_id = 'ca-pub-5566942094411042'
+    [params.adsense.slots]
+      below_title = { id = '', format = 'auto', responsive = 'true' }
+      mid_article = { id = '', format = 'auto', responsive = 'true' }
+      end_article = { id = '', format = 'auto', responsive = 'true' }
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[permalinks]
+  internet-en-casa = '/internet-en-casa/:slug/'
+  planes-internet = '/planes-internet/:slug/'
+  planes-moviles = '/planes-moviles/:slug/'
+  guias = '/guias/:slug/'
+  esim = '/esim/:slug/'
+  esim-viajeros = '/esim-viajeros/:slug/'
+  cobertura = '/cobertura/:slug/'
+
+[outputs]
+  home = ['HTML']

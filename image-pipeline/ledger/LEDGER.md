@@ -1,7 +1,0 @@
-# Image Ledger
-
-Generated: 2026-01-17T23:19:31.828878Z
-
-## Summary
-- PLACED: 20
-- SKIPPED_NOT_SELECTED: 1204

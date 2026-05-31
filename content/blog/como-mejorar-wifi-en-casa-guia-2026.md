@@ -1,14 +1,15 @@
 ---
 title: "Cómo Mejorar la Señal Wi-Fi en Casa: Guía Completa 2026"
+slug: "como-mejorar-wifi-en-casa-guia-2026"
+date: 2026-01-01
 description: "Señal Wi-Fi débil en casa: guía práctica para mejorar cobertura. Router, mesh, extensores, canales y posiciones que funcionan en 2026."
-pubDate: 2026-05-29
-author: "Mejor Conexión"
-category: "Soluciones Técnicas"
-tags: ["Wi-Fi", "router", "mesh", "extensor Wi-Fi", "cobertura"]
-keywords: ["mejorar señal wifi", "wifi debil soluciones", "mejor sistema mesh Mexico", "como mejorar cobertura wifi casa"]
-lang: es-MX
+keywords:
+  - "mejorar señal wifi"
+  - "wifi debil soluciones"
+  - "mejor sistema mesh Mexico"
+  - "como mejorar cobertura wifi casa"
+draft: false
 ---
-
 # Cómo Mejorar la Señal Wi-Fi en Casa: Guía Completa 2026
 
 Tienes internet de 500 Mbps pero en tu cuarto solo llegan 50 Mbps. O peor: la señal desaparece cuando te alejas del router. Este es uno de los problemas más comunes en hogares mexicanos y la solución no siempre es contratar un plan más caro.

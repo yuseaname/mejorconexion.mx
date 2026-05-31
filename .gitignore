@@ -1,8 +1,0 @@
-node_modules/
-dist/
-/image-pipeline/generated/
-__pycache__/
-*.pyc
-.env
-.env.*
-!.env.example

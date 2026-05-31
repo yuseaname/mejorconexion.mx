@@ -1,0 +1,160 @@
+---
+title: "Mejor internet para clases en línea (estabilidad primero)"
+slug: "mejor-internet-para-clases-en-linea"
+date: 2026-01-01
+description: "Guía 2026 para elegir internet para clases en línea en México: estabilidad, Wi‑Fi, videollamadas, router, y checklist para evitar cortes."
+draft: false
+---
+::: container
+::: breadcrumbs
+[Inicio](/) / [Blog](/blog/) / Internet para clases en línea
+:::
+
+::: {.hero-grid style="margin-top:14px"}
+::: hero-surface
+::: kicker
+Blog
+:::
+
+# Mejor internet para clases en línea {#mejor-internet-para-clases-en-línea .page-title}
+
+Para clases en línea lo que manda es la estabilidad: videollamadas sin cortes, audio claro y subida constante. Aquí va qué revisar (plan + Wi‑Fi) para México en 2026.
+
+::: button-row
+[Internet para estudiantes](/internet-en-casa/internet-para-estudiantes-mexico/){.btn .primary} [Medir tu velocidad real](/guias/como-medir-velocidad-real-internet/){.btn}
+:::
+:::
+
+<figure class="hero-media" aria-label="Imagen editorial">
+<img src="/assets/images/homepage/home-guides-student-speedtest.webp" loading="eager" decoding="async" data-fetchpriority="high" width="1200" height="900" alt="Estudiante revisando velocidad de internet para clases en línea" />
+<figcaption>Si el audio se corta, suele ser Wi‑Fi o subida saturada.</figcaption>
+</figure>
+:::
+
+## Tabla de contenidos
+
+1.  [Qué importa para clases en línea (de verdad)](#que-importa)
+2.  [Cuántos Mbps necesitas](#mbps)
+3.  [La subida: el detalle que suele fallar](#subida)
+4.  [Cómo evitar cortes por Wi‑Fi](#wifi)
+5.  [Checklist antes de contratar o ajustar](#checklist)
+6.  [Preguntas frecuentes](#preguntas-frecuentes)
+7.  [Lecturas relacionadas](#relacionados)
+
+::: {#que-importa .section}
+## Qué importa para clases en línea (de verdad)
+
+Para Zoom/Meet, no necesitas "gigabits". Necesitas una conexión que no tenga picos: latencia estable, subida suficiente y Wi‑Fi confiable.
+
+-   **Estabilidad:** evita microcortes que congelan audio/video.
+-   **Subida consistente:** tu cámara y micrófono dependen de esto.
+-   **Wi‑Fi bien puesto:** un router mal ubicado arruina cualquier plan.
+:::
+
+::: {#mbps .section}
+## Cuántos Mbps necesitas
+
+  Escenario                                       Descarga mínima   Subida mínima   Plan recomendado
+  ----------------------------------------------- ----------------- --------------- ---------------------------------------------
+  **1 persona, 1 clase**                          10 Mbps           3 Mbps          Plan básico (Izzi 50, Telmex 20+)
+  **2 clases simultáneas + Netflix**              30 Mbps           5 Mbps          Plan medio (Totalplay 100, Izzi 150)
+  **3+ personas, clases + streaming + trabajo**   50+ Mbps          10+ Mbps        Plan alto (Totalplay 200+, Megacable fibra)
+  **Escuela + gaming + descargas**                100+ Mbps         15+ Mbps        Fibra dedicada (Totalplay 500, Izzi 300)
+
+Depende de cuántas clases/videollamadas ocurren al mismo tiempo en casa y si hay streaming simultáneo. Para elegir sin sobrepagar, usa la guía: [cuántos Mbps necesito](/guias/cuantos-mbps-necesito/).
+
+Si solo hay una clase y navegación ligera, la mayoría de planes decentes funcionan. Si hay 2--3 videollamadas simultáneas y streaming, conviene subir de nivel (o al menos asegurar buena subida).
+:::
+
+::: {#subida .section}
+## La subida: el detalle que suele fallar
+
+Muchos planes se anuncian por descarga (bajada), pero en clases en línea la subida importa mucho. Si alguien está subiendo archivos, respaldos o usando hotspot, puede saturar la subida y causar cortes aunque "sobren Mbps".
+
+Si tu router tiene QoS, prioriza videollamadas. Guía: [red doméstica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/).
+:::
+
+::: {#wifi .section}
+## Cómo evitar cortes por Wi‑Fi
+
+-   Coloca el router en un punto central, elevado y sin encierro.
+-   Usa 5 GHz si estás cerca del router.
+-   Si la casa es grande, considera mesh en lugar de repetidor.
+-   Para una laptop fija, Ethernet suele ser lo más estable.
+
+Guía completa: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+:::
+
+::: {#checklist .section}
+## Checklist antes de contratar o ajustar
+
+1.  Haz speed tests en 3 horarios (incluye noche).
+2.  Prueba por cable para descartar que sea el Wi‑Fi.
+3.  Revisa instalación: ubicación de módem/router y cables.
+4.  Evita saturación en horario de clase (respaldos/descargas).
+
+Si necesitas comparar tecnologías, revisa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico/) y [fibra vs inalámbrico](/internet-en-casa/fibra-vs-inalambrico-mexico/).
+:::
+
+::: {.section .decision-links editorial-links="true"}
+**Dónde ver opciones reales:** páginas oficiales con información y condiciones vigentes.
+
+-   [Paquetes de internet Telmex](https://telmex.com/web/hogar/paquetes-de-internet){rel="nofollow noopener" target="_blank"}
+-   [Paquetes de izzi](https://www.izzi.mx/paquetes){rel="nofollow noopener" target="_blank"}
+-   [Internet de Megacable](https://www.megacable.com.mx/servicios/internet){rel="nofollow noopener" target="_blank"}
+
+**Nota sin humo:** disponibilidad y condiciones pueden cambiar.
+:::
+
+::: {#preguntas-frecuentes .section}
+## Preguntas frecuentes
+
+### ¿Qué es mejor para clases en línea: fibra o coaxial?
+
+En general la fibra suele ser más estable, pero depende de tu zona e instalación. Comparativa: [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico/).
+
+### ¿Por qué se corta el audio aunque la velocidad "sale bien"?
+
+Suele ser Wi‑Fi (señal débil/interferencia) o subida saturada. Prueba por cable para aislar el problema.
+
+### ¿Conviene un mesh para estudiar?
+
+Si hay zonas muertas o muchas paredes, sí. Guía: [Wi‑Fi mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total/).
+:::
+
+::: {#relacionados .section .callout related-block="" style="margin-top:18px"}
+## Lecturas relacionadas
+
+::: {.grid .two}
+[](/internet-en-casa/internet-para-estudiantes-mexico/){.card}
+
+### Internet para estudiantes
+
+Opciones y criterios con presupuesto en mente.
+
+[](/guias/como-medir-velocidad-real-internet/){.card}
+
+### Cómo medir tu velocidad real
+
+Pruebas para saber si falla el proveedor o el Wi‑Fi.
+
+[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
+
+### Cómo mejorar tu Wi‑Fi
+
+Ubicación, bandas y soluciones de cobertura.
+
+[](/blog/por-que-el-internet-es-lento-a-veces.html){.card}
+
+### Por qué el internet se pone lento
+
+Diagnóstico rápido y causas comunes.
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: meta-row
+**Última actualización:** 27 de diciembre de 2025 [Metodología](/metodologia/)
+:::
+:::
