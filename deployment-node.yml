@@ -1,0 +1,7 @@
+name: "mejorconexion.mx"
+domain: "mejorconexion.mx"
+framework: "static"
+build_command: "npm run build"
+output_dir: "blog"
+hostinger_path: "domains/mejorconexion.mx/public_html"
+auto_deploy: true
