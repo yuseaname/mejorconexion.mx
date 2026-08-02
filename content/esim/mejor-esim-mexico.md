@@ -4,6 +4,7 @@ slug: "mejor-esim-mexico"
 date: 2026-01-01
 description: "Guía para elegir la mejor eSIM en México: compatibilidad, redes, activación, hotspot y soporte. Enfoque práctico (sin humo)."
 draft: false
+image: "/static/images/mejor-esim-mexico-hero.webp"
 ---
 ::: container
 ::: breadcrumbs
