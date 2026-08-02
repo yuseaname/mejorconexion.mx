@@ -4,6 +4,7 @@ slug: "cuantos-mbps-necesito"
 date: 2026-01-01
 description: ""
 draft: false
+image: "/images/generated/mejorconexion-mx-guias-cuantos-mbps-necesito-index-html-hero-b8c3d779.webp"
 ---
 ::: container
 ::: breadcrumbs

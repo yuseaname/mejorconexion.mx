@@ -10,6 +10,7 @@ keywords:
   - "velocidad internet familia"
   - "cuántos megas necesito"
 draft: false
+image: "/images/15-cuanta-velocidad-internet-necesitas-2026/15-cuanta-velocidad-internet-necesitas-2026-hero.jpg"
 ---
 # ¿Cuánta Velocidad de Internet Necesitas en 2026? (Guía por Uso Real)
 

@@ -4,6 +4,7 @@ slug: "companias-internet-mexico"
 date: 2026-01-01
 description: ""
 draft: false
+image: "/images/generated/mejorconexion-mx-internet-en-casa-companias-internet-mexico-index-html-hero-3d1ec2bb.webp"
 ---
 ::: container
 ::: breadcrumbs

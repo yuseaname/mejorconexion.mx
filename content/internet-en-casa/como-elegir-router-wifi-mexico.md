@@ -4,6 +4,7 @@ slug: "como-elegir-router-wifi-mexico"
 date: 2026-01-01
 description: ""
 draft: false
+image: "/images/generated/mejorconexion-mx-internet-en-casa-como-elegir-router-wifi-mexico-index-html-hero-30a2524d.png"
 ---
 ::: container
 ::: breadcrumbs

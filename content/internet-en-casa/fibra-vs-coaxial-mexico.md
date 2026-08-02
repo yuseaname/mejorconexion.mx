@@ -4,6 +4,7 @@ slug: "fibra-vs-coaxial-mexico"
 date: 2026-01-01
 description: ""
 draft: false
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.png"
 ---
 ::: container
 ::: breadcrumbs

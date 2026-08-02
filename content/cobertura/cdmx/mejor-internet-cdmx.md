@@ -4,6 +4,7 @@ slug: "mejor-internet-cdmx"
 date: 2026-01-01
 description: ""
 draft: false
+image: "/images/generated/mejorconexion-mx-cobertura-cdmx-mejor-internet-cdmx-index-html-hero-378e2b52.webp"
 ---
 ::: {#panorama .section}
 ## Panorama local en CDMX

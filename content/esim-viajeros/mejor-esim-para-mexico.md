@@ -4,6 +4,7 @@ slug: "mejor-esim-para-mexico"
 date: 2026-01-01
 description: ""
 draft: false
+image: "/images/generated/mejorconexion-mx-esim-viajeros-mejor-esim-para-mexico-index-html-hero-37b12bc5.png"
 ---
 ::: container
 ::: breadcrumbs

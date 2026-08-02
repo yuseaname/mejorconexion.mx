@@ -4,6 +4,7 @@ slug: "fibra-vs-inalambrico-mexico"
 date: 2026-01-01
 description: ""
 draft: false
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-inalambrico-mexico-index-html-hero-cae6b136.webp"
 ---
 ::: container
 ::: breadcrumbs

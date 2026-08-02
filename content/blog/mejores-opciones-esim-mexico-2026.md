@@ -4,6 +4,7 @@ slug: "mejores-opciones-esim-mexico-2026"
 date: 2026-01-01
 description: "Guía 2026 para elegir eSIM en México: tipos de opciones, perfiles de uso, criterios de elección, costos, cobertura y recomendaciones sin hype."
 draft: false
+image: "/images/esim-mexico-2026-hero.webp"
 ---
 ::: {#idea-clave .section}
 ## La idea clave
