@@ -4,6 +4,7 @@ slug: "internet-barato-mexico"
 date: 2026-01-01
 description: "Guía para encontrar internet barato en México sin fallar: qué revisar (horario pico, contrato, instalación, Wi‑Fi), y cuándo conviene sin contrato."
 draft: false
+image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 ::: container
 ::: breadcrumbs

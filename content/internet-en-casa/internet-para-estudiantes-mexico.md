@@ -4,6 +4,7 @@ slug: "internet-para-estudiantes-mexico"
 date: 2026-01-01
 description: "Internet para estudiantes en México: clases en línea, tareas, videollamadas y presupuesto. Qué plan conviene, qué revisar del Wi‑Fi y cómo no pagar de más."
 draft: false
+image: "/images/generated/home-office-cdmx.webp"
 ---
 ::: container
 ::: breadcrumbs

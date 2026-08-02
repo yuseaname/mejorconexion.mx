@@ -4,6 +4,7 @@ slug: "que-son-los-datos-moviles"
 date: 2026-01-01
 description: "Guía 2026 en México: qué son los datos móviles, cómo funcionan 4G/5G, qué consume más, cómo medirlos y cómo ahorrar sin quedarte sin internet."
 draft: false
+image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
 ::: {#definicion .section}
 ## Qué son los datos móviles

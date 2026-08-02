@@ -10,6 +10,7 @@ keywords:
   - "mejorar internet noche"
   - "congestión internet"
 draft: false
+image: "/images/generated/speed-test-cdmx.webp"
 ---
 # Internet Lento en la Noche: Por Qué Pasa y Cómo Solucionarlo
 

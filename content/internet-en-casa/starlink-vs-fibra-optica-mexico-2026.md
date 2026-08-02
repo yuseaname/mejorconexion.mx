@@ -4,6 +4,7 @@ slug: "starlink-vs-fibra-optica-mexico-2026"
 date: 2026-01-01
 description: "¿Starlink o fibra óptica en México 2026? Comparamos precios, latencia, velocidad y cobertura. Descubre cuál internet conviene más para tu zona."
 draft: false
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 ::: container
 ::: breadcrumbs

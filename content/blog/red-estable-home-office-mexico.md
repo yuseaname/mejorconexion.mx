@@ -4,6 +4,7 @@ slug: "red-estable-home-office-mexico"
 date: 2026-01-01
 description: "Guía 2026 para home office en México: estabilidad, subida, latencia, Wi‑Fi, cable, respaldo y configuración práctica para videollamadas sin cortes."
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 <div>
 

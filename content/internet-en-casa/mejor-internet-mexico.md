@@ -4,6 +4,7 @@ slug: "mejor-internet-mexico"
 date: 2026-01-01
 description: "Guía nacional para elegir el mejor internet en México: qué tecnología conviene, cómo evitar contratos problemáticos y cómo decidir por zona y uso real."
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 ::: container
 ::: breadcrumbs

@@ -4,6 +4,7 @@ slug: "internet-trabajo-remoto-mexico-2026"
 date: 2026-05-26
 description: "Descubre cuál es el internet para trabajo remoto en México 2026 en 2026. Comparativa con precios reales, velocidades y cobertura de Totalplay, Izzi, Infini"
 draft: false
+image: "/images/generated/home-office-cdmx.webp"
 ---
 <figure class="article-image">
 <img src="./images/internet-para-trabajo-remoto-en-méxico-2026/internet-para-trabajo-remoto-en-méxico-2026_hero_00001_.png" loading="eager" decoding="async" width="1200" height="630" alt="internet para trabajo remoto en México 2026 en México 2026, setup moderno" />

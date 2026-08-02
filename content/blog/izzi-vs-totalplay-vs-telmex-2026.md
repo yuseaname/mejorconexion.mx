@@ -10,6 +10,7 @@ keywords:
   - "izzi internet vale la pena"
   - "que internet conviene en mexico"
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 # Izzi vs Totalplay vs Telmex en 2026: cuál conviene según tu tipo de uso
 

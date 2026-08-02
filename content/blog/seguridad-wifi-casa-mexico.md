@@ -4,6 +4,7 @@ slug: "seguridad-wifi-casa-mexico"
 date: 2026-01-01
 description: "Guia completa de seguridad WiFi en Mexico: contrasenas, WPA3, firmware, red de invitados, IoT y pasos claros para proteger tu red en casa."
 draft: false
+image: "/images/topic-router-wifi.webp"
 ---
 ::: container
 ::: breadcrumbs

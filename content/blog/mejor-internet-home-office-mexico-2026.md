@@ -4,6 +4,7 @@ slug: "mejor-internet-home-office-mexico-2026"
 date: 2026-03-03
 description: "Guía para elegir internet estable para trabajar desde casa en México en 2026."
 draft: false
+image: "/images/generated/speed-test-cdmx.webp"
 ---
 # Mejor internet para home office en México (2026): latencia, estabilidad y costo real
 

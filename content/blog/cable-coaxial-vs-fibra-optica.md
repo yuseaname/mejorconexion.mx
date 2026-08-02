@@ -4,6 +4,7 @@ slug: "cable-coaxial-vs-fibra-optica"
 date: 2026-05-30
 description: "Compara cable coaxial y fibra óptica para internet en México. Diferencias en velocidad, estabilidad, precio y disponibilidad para tu hogar."
 draft: false
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 <figure class="article-image article-hero">
 <img src="./images/10-cable-coaxial-vs-fibra-optica/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Cable coaxial vs fibra óptica en México: diferencias en velocidad, estabilidad y precio" />

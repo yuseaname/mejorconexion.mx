@@ -4,6 +4,7 @@ slug: "wifi-vs-ethernet-para-jugar"
 date: 2026-01-01
 description: "Guía 2026: Wi‑Fi vs Ethernet para gaming. Latencia, estabilidad, jitter, cableado, mesh y cuándo cada opción realmente conviene."
 draft: false
+image: "/images/generated/speed-test-cdmx.webp"
 ---
 ::: {#respuesta-rapida .section}
 ## Respuesta rápida

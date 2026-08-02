@@ -10,6 +10,7 @@ keywords:
   - "izzi totalplay telmex comparativa"
   - "cuanto cuesta internet en mexico"
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 # Mejor internet para casa en México (2026): guía real por ciudad, velocidad y presupuesto
 

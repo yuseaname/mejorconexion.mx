@@ -4,6 +4,7 @@ slug: "diferencia-mbps-vs-mb"
 date: 2026-01-01
 description: "Mbps vs MB: la diferencia explicada fácil (sin tecnicismos). Aprende a traducir la velocidad de tu plan a descargas reales y evitar confusiones."
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 ::: container
 ::: breadcrumbs

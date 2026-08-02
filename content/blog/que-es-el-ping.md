@@ -4,6 +4,7 @@ slug: "que-es-el-ping"
 date: 2026-01-01
 description: "Guía 2026: qué es el ping, cómo se mide, qué rangos son buenos, por qué sube, relación con jitter y pérdida de paquetes, y cómo mejorarlo en casa."
 draft: false
+image: "/images/generated/speed-test-cdmx.webp"
 ---
 <div>
 

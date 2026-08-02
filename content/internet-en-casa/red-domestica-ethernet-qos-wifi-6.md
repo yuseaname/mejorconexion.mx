@@ -4,6 +4,7 @@ slug: "red-domestica-ethernet-qos-wifi-6"
 date: 2026-01-01
 description: "Guia de red domestica pro: cableado Ethernet, switches, QoS y Wi-Fi 6/6E. Mejora estabilidad para streaming, trabajo y gaming."
 draft: false
+image: "/images/topic-router-wifi.webp"
 ---
 ::: container
 ::: breadcrumbs

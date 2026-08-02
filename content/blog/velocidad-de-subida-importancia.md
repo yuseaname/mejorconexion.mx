@@ -4,6 +4,7 @@ slug: "velocidad-de-subida-importancia"
 date: 2026-05-30
 description: "Descubre por qué la velocidad de subida es crucial para videollamadas, streaming y teletrabajo. Aprende a mejorar tu conexión de subida."
 draft: false
+image: "/images/generated/speed-test-cdmx.webp"
 ---
 <figure class="article-image article-hero">
 <img src="./images/08-velocidad-de-subida-importancia/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Velocidad de subida: por qué es crucial para videollamadas, streaming y teletrabajo" />

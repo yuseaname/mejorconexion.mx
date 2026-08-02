@@ -10,6 +10,7 @@ keywords:
   - "Izzi vs Telmex"
   - "Totalplay vs Megacable"
 draft: false
+image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
 # Izzi vs Totalplay vs Telmex vs Megacable: Comparativa 2026 (Con Datos Reales)
 

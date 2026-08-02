@@ -4,6 +4,7 @@ slug: "por-que-tus-datos-van-lentos-5g"
 date: 2026-01-01
 description: "Guía 2026 en México: por qué tus datos van lentos en 5G. Causas reales, diagnóstico simple y soluciones prácticas para mejorar velocidad."
 draft: false
+image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
 ::: {#idea-clave .section}
 ## La idea clave

@@ -4,6 +4,7 @@ slug: "auditoria-red-domestica-detectar-intrusos-mexico"
 date: 2026-01-01
 description: "Guía 2026 para auditar tu red doméstica en México: detectar intrusos, revisar dispositivos, asegurar router y aplicar un checklist mensual."
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 ::: {#que-es .section}
 ## Qué es una auditoría de red doméstica

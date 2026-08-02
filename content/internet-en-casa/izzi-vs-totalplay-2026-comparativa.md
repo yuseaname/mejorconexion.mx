@@ -4,6 +4,7 @@ slug: "izzi-vs-totalplay-2026-comparativa"
 date: 2026-01-01
 description: "Compara Izzi vs Totalplay en 2026: precios actualizados, velocidad real, contratos y cobertura. Datos de PROFECO y pruebas reales para elegir tu mejor opción."
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 ::: container
 ::: breadcrumbs

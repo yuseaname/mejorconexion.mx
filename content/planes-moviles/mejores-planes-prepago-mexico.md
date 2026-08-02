@@ -4,6 +4,7 @@ slug: "mejores-planes-prepago-mexico"
 date: 2026-01-01
 description: "Guía práctica para elegir prepago en México: vigencia, datos reales, redes incluidas, hotspot y letras chiquitas. Comparativa por perfiles de uso."
 draft: false
+image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
 ::: container
 ::: breadcrumbs

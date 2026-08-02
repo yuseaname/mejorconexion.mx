@@ -4,6 +4,7 @@ slug: "internet-satelital-rural-mexico"
 date: 2026-01-01
 description: "Guia 2025 para elegir internet en zonas rurales de Mexico: satelital, 4G/5G fijo y WISP. Comparativa real, costos, latencia, estabilidad y checklist de decision."
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 ::: container
 ::: breadcrumbs

@@ -4,6 +4,7 @@ slug: "mejores-routers-wifi-6-mexico-2026"
 date: 2026-05-26
 description: "Descubre cuál es el mejores routers wifi 6 mexico 2026 en 2026. Comparativa con precios reales, velocidades y cobertura de Totalplay, Izzi, Infinitum y más"
 draft: false
+image: "/images/topic-router-wifi.webp"
 ---
 <figure class="article-image">
 <img src="./images/mejores-routers-wifi-6-mexico-2026/01-hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="mejores routers wifi 6 mexico 2026 en México 2026, setup moderno" />

@@ -4,6 +4,7 @@ slug: "internet-residencial-vs-datos-móviles"
 date: 2026-05-30
 description: "Compara internet residencial y datos móviles en México. Descubre cuál opción ofrece mejor velocidad, precio y confiabilidad para tu familia."
 draft: false
+image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
 <figure class="article-image article-hero">
 <img src="./images/04-internet-residencial-vs-datos-moviles/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Internet residencial vs datos móviles en México: comparativa de velocidad, precio y confiabilidad" />

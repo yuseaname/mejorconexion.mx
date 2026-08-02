@@ -4,6 +4,7 @@ slug: "internet-para-streaming-mexico"
 date: 2026-01-01
 description: "Guía para elegir internet para streaming en México (Netflix/YouTube/Disney+): Mbps reales, estabilidad, Wi‑Fi y cómo evitar buffering en horario pico."
 draft: false
+image: "/images/generated/home-office-cdmx.webp"
 ---
 ::: container
 ::: breadcrumbs

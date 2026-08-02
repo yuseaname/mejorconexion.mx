@@ -4,6 +4,7 @@ slug: "internet-para-personas-mayores"
 date: 2026-05-30
 description: "Guía para elegir el mejor internet para adultos mayores en México. Conoce planes sencillos, equipos fáciles de usar y soporte técnico accesible."
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 <figure class="article-image article-hero">
 <img src="./images/02-internet-para-personas-mayores/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Internet para personas mayores en México: guía de planes y equipos accesibles" />

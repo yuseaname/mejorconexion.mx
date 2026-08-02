@@ -4,6 +4,7 @@ slug: "por-que-se-cae-wifi-casa-mexico"
 date: 2026-01-01
 description: "Guía 2026 en español mexicano: por qué se cae el Wi‑Fi en casa, causas reales, diagnóstico paso a paso, soluciones por tipo de problema y cómo estabilizar tu red."
 draft: false
+image: "/images/topic-router-wifi.webp"
 ---
 <div>
 

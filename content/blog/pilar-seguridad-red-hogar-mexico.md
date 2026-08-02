@@ -4,6 +4,7 @@ slug: "pilar-seguridad-red-hogar-mexico"
 date: 2026-01-01
 description: "Guía pilar 2026 para proteger tu red en casa en México: router, Wi‑Fi, IoT, control parental, DNS seguro y auditorías simples."
 draft: false
+image: "/images/topic-router-wifi.webp"
 ---
 ::: {#que-resuelve .section}
 ## Qué resuelve este pilar

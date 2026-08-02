@@ -4,6 +4,7 @@ slug: "como-elegir-router-wifi-casa-mexico"
 date: 2026-01-01
 description: "Guia completa para elegir router WiFi en Mexico: estandares, bandas, cobertura, seguridad, compatibilidad y consejos practicos para comprar sin gastar de mas."
 draft: false
+image: "/images/topic-router-wifi.webp"
 ---
 ::: container
 ::: breadcrumbs

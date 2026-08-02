@@ -9,6 +9,7 @@ keywords:
   - "eSIM Holafly vs Airalo"
   - "eSIM para viajar USA"
 draft: false
+image: "/images/generated/mejorconexion-mx-esim-index-html-hero-d8a4b5e8.webp"
 ---
 # Mejor eSIM para Viajeros Mexicanos: Guía Completa 2026
 

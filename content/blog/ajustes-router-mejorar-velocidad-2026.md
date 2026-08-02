@@ -10,6 +10,7 @@ keywords:
   - "configurar router"
   - "aumentar velocidad internet"
 draft: false
+image: "/images/topic-router-wifi.webp"
 ---
 # Cómo Ajustar Tu Router para Mejorar la Velocidad de Internet (Guía 2026)
 

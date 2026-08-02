@@ -4,6 +4,7 @@ slug: "internet-para-jugar-online-mexico"
 date: 2026-01-01
 description: "Guía para elegir internet para jugar online en México: latencia (ping), estabilidad, Wi‑Fi vs cable y qué revisar antes de contratar para evitar lag."
 draft: false
+image: "/images/generated/speed-test-cdmx.webp"
 ---
 ::: container
 ::: breadcrumbs

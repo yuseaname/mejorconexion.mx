@@ -3,6 +3,7 @@ title: "Internet Más Barato en México: Guía 2026"
 date: 2026-03-17
 draft: false
 slug: internet-mas-barato-en-mexico
+image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 
 # Internet Más Barato en México 2026: Guía de Precios y Proveedores

@@ -3,6 +3,7 @@ title: "¿Qué Internet Falla Menos en México? Ranking 2026"
 date: 2026-03-17
 draft: false
 slug: que-internet-falla-menos-en-mexico-ranking-2026
+image: "/images/topic-provider-comparison.webp"
 ---
 
 # ¿Qué Internet Falla Menos en México? Ranking 2026

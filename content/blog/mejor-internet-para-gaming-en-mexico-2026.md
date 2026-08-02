@@ -4,6 +4,7 @@ slug: "mejor-internet-para-gaming-en-mexico-2026"
 date: 2026-05-29
 description: "Descubre cuál es el mejor internet para gaming en Mexico en 2026. Comparativa con precios reales, velocidades y cobertura."
 draft: false
+image: "/images/generated/speed-test-cdmx.webp"
 ---
 <figure class="article-image article-hero">
 <img src="./images/mejor-internet-para-gaming-en-mexico-2026/mejor-internet-para-gaming-en-mexico-2026_hero_00001_.png" loading="eager" decoding="async" width="1200" height="630" alt="mejor internet para gaming en Mexico 2026 2026, modern setup" />

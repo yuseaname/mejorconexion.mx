@@ -4,6 +4,7 @@ slug: "streaming-sin-cortes-mexico"
 date: 2026-01-01
 description: "Guía 2026 para streaming sin cortes en México: velocidad real, estabilidad, Wi‑Fi, configuración, horarios pico y soluciones prácticas para evitar buffering."
 draft: false
+image: "/images/generated/home-office-cdmx.webp"
 ---
 <div>
 

@@ -4,6 +4,7 @@ slug: "router-modem-integrado-mexico"
 date: 2026-05-30
 description: "Analiza si el router modem integrado que te da tu proveedor es suficiente. Ventajas, limitaciones y cuándo conviene comprar uno propio."
 draft: false
+image: "/images/topic-router-wifi.webp"
 ---
 <figure class="article-image article-hero">
 <img src="./images/05-router-modem-integrado-mexico/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Router modem integrado en México: ventajas, limitaciones y cuándo comprar uno propio" />

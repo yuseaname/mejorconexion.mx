@@ -4,6 +4,7 @@ slug: "mejor-internet-para-estudiantes-méxico"
 date: 2026-05-24
 description: "Descubre cuál es el mejor internet para estudiantes México en 2026. Comparativa con precios reales, velocidades y cobertura de Totalplay, Izzi, Infinitum y"
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 ## for sections,
 

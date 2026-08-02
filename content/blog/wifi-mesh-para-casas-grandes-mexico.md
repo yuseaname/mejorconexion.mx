@@ -4,6 +4,7 @@ slug: "wifi-mesh-para-casas-grandes-mexico"
 date: 2026-01-01
 description: "Guía 2026 sobre Wi‑Fi mesh en México: qué es, cuándo conviene, cómo instalarlo, diferencias vs repetidores y cómo lograr cobertura estable en casas grandes."
 draft: false
+image: "/images/topic-router-wifi.webp"
 ---
 <div>
 

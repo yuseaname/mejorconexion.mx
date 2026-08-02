@@ -4,6 +4,7 @@ slug: "internet-con-teléfono-incluido"
 date: 2026-05-30
 description: "Descubre si un plan de internet con teléfono fijo incluido vale la pena para tu hogar en México. Compara costos, ventajas y alternativas actuales."
 draft: false
+image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
 <figure class="article-image article-hero">
 <img src="./images/01-internet-con-teléfono-incluido/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Planes de internet con teléfono incluido en México: comparativa de paquetes y costos" />

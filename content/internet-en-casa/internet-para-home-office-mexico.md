@@ -4,6 +4,7 @@ slug: "internet-para-home-office-mexico"
 date: 2026-01-01
 description: "Guía para elegir internet para home office en México: estabilidad, subida, latencia, Wi‑Fi y qué plan conviene según videollamadas y trabajo remoto."
 draft: false
+image: "/images/generated/mejorconexion-mx-internet-en-casa-index-html-hero-bfb68d99.webp"
 ---
 ::: container
 ::: breadcrumbs

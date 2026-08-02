@@ -4,6 +4,7 @@ slug: "about"
 date: 2026-01-01
 description: "Acerca de Mejor Conexión: una guía clara y confiable para elegir internet en casa, planes móviles y eSIM en México, con tono mexicano y sin rodeos."
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 ::: container
 ::: breadcrumbs

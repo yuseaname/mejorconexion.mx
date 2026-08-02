@@ -4,6 +4,7 @@ slug: "cambiar-proveedor-internet-sin-perder-número"
 date: 2026-05-30
 description: "Aprende cómo cambiar de proveedor de internet en México sin perder tu número fijo. Proceso paso a paso, requisitos y recomendaciones."
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 <figure class="article-image article-hero">
 <img src="./images/03-cambiar-proveedor-internet-sin-perder-número/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Cambiar de proveedor de internet en México sin perder tu número fijo: guía paso a paso" />

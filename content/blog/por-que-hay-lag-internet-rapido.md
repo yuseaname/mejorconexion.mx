@@ -4,6 +4,7 @@ slug: "por-que-hay-lag-internet-rapido"
 date: 2026-01-01
 description: "Guía 2026 en México: por qué hay lag con internet rápido. Explicamos ping, jitter, bufferbloat, Wi‑Fi y saturación, con soluciones claras."
 draft: false
+image: "/images/generated/speed-test-cdmx.webp"
 ---
 ::: {#que-es-lag .section}
 ## Qué es lag (y qué no es)

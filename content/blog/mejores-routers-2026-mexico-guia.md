@@ -9,6 +9,7 @@ keywords:
   - "router compatible Telmex"
   - "router wifi 7 recomendacion"
 draft: false
+image: "/images/topic-router-wifi.webp"
 ---
 # Los Mejores Routers para Internet en México 2026
 

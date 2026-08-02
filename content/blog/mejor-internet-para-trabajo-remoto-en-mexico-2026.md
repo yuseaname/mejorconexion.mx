@@ -3,6 +3,7 @@ title: "Mejor Internet para Trabajo Remoto en México 2026"
 date: 2026-03-17
 draft: false
 slug: mejor-internet-para-trabajo-remoto-en-mexico-2026
+image: "/images/topic-provider-comparison.webp"
 ---
 
 # Mejor Internet para Trabajo Remoto en México 2026: Guía Definitiva

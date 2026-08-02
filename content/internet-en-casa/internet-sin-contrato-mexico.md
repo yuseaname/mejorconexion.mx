@@ -4,6 +4,7 @@ slug: "internet-sin-contrato-mexico"
 date: 2026-01-01
 description: "Internet sin contrato en México: opciones reales (prepago, inalámbrico fijo, renta corta), pros/contras y lo que debes revisar antes de pagar."
 draft: false
+image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 ::: container
 ::: breadcrumbs

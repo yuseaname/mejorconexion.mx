@@ -4,6 +4,7 @@ slug: "como-mejorar-wifi-casa-mexico"
 date: 2026-01-01
 description: "Wi‑Fi lento o con zonas muertas: guía para mejorar tu Wi‑Fi en casa en México. Ubicación del router, bandas 2.4/5 GHz, mesh, repetidores y pruebas."
 draft: false
+image: "/images/topic-router-wifi.webp"
 ---
 ::: container
 ::: breadcrumbs

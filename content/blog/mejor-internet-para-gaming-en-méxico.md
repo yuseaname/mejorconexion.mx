@@ -4,6 +4,7 @@ slug: "mejor-internet-para-gaming-en-méxico"
 date: 2026-05-24
 description: "Descubre cuál es el mejor mejor internet para gaming en México en 2026. Comparativa con precios reales, velocidades y cobertura de Totalplay, Izzi, Infinit"
 draft: false
+image: "/images/generated/speed-test-cdmx.webp"
 ---
 # Mejor internet para gaming en méxico: comparativa definitiva 2026
 

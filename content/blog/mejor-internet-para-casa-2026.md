@@ -4,6 +4,7 @@ slug: "mejor-internet-para-casa-2026"
 date: 2026-05-26
 description: ""
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog/)

@@ -4,6 +4,7 @@ slug: "fibra-optica-vs-cable-mexico"
 date: 2026-01-01
 description: "Comparativa 2026 entre fibra óptica y cable en México: estabilidad, subida, latencia, costos reales, cobertura y casos de uso. Guía clara y sin humo."
 draft: false
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 <div>
 

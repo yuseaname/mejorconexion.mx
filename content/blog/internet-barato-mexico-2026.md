@@ -10,6 +10,7 @@ keywords:
   - "cuanto cuesta internet en mexico"
   - "CFE internet para todos"
 draft: false
+image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 # ¿Cuál es el Internet Más Barato en México? Guía Completa (Marzo 2026)
 

@@ -4,6 +4,7 @@ slug: "telmex-vs-izzi-vs-totalplay-mexico"
 date: 2026-01-01
 description: "Comparativa 2026 entre Telmex, Izzi y Totalplay con enfoque en uso real: estabilidad, subida, latencia, contrato y costo total. Guía clara y sin humo."
 draft: false
+image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
 <div>
 

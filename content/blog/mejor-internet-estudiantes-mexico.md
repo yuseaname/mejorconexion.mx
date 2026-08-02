@@ -4,6 +4,7 @@ slug: "mejor-internet-estudiantes-mexico"
 date: 2026-05-30
 description: "Encuentra el mejor plan de internet para estudiantes en México. Conoce las velocidades ideales, precios y proveedores recomendados para estudiar."
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 <figure class="article-image article-hero">
 <img src="./images/09-mejor-internet-estudiantes-mexico/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Mejor internet para estudiantes en México: planes, precios y velocidades ideales" />

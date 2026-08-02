@@ -4,6 +4,7 @@ slug: "transparencia"
 date: 2026-01-01
 description: "Transparencia de Mejor Conexión: cómo nos financiamos (cuando aplique), cómo manejamos afiliados/anuncios, correcciones y principios editoriales."
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 ::: container
 ::: breadcrumbs

@@ -4,6 +4,7 @@ slug: "como-cambiar-proveedor-internet-mexico"
 date: 2026-01-01
 description: "Guía para cambiar de proveedor de internet en México: cómo comparar, qué revisar en contrato/cancelación, tiempos de instalación y cómo evitar quedarte sin servicio."
 draft: false
+image: "/images/topic-provider-comparison.webp"
 ---
 ::: container
 ::: breadcrumbs

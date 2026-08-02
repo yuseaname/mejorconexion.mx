@@ -4,6 +4,7 @@ slug: "internet-sin-contrato-mexico-2026"
 date: 2026-05-26
 description: ""
 draft: false
+image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog/)

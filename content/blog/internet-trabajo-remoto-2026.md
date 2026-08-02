@@ -10,6 +10,7 @@ keywords:
   - "internet para Zoom"
   - "WFH internet México"
 draft: false
+image: "/images/generated/home-office-cdmx.webp"
 ---
 # Internet para Trabajo Remoto en México: Lo Que Realmente Necesitas en 2026
 

@@ -9,6 +9,7 @@ keywords:
   - "mejor sistema mesh Mexico"
   - "como mejorar cobertura wifi casa"
 draft: false
+image: "/images/topic-router-wifi.webp"
 ---
 # Cómo Mejorar la Señal Wi-Fi en Casa: Guía Completa 2026
 

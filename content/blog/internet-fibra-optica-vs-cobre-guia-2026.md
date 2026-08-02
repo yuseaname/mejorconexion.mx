@@ -9,6 +9,7 @@ keywords:
   - "diferencia fibra y cable"
   - "que es fibra al hogar FTTH"
 draft: false
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 # Internet de Fibra Óptica vs Cobre: ¿Cuál Es Mejor en 2026?
 

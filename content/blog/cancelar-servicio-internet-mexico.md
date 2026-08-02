@@ -4,6 +4,7 @@ slug: "cancelar-servicio-internet-mexico"
 date: 2026-05-30
 description: "Guía paso a paso para cancelar tu servicio de internet en México sin cargos extra. Requisitos, prepagos y cómo evitar complicaciones."
 draft: false
+image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 <figure class="article-image article-hero">
 <img src="./images/07-cancelar-servicio-internet-mexico/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Cancelar servicio de internet en México: guía paso a paso sin cargos extra" />

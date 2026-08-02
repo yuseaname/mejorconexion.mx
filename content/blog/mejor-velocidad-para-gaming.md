@@ -4,6 +4,7 @@ slug: "mejor-velocidad-para-gaming"
 date: 2026-01-01
 description: "Guía 2026 para elegir velocidad de internet para gaming en México: Mbps reales, ping, jitter, subida, Wi‑Fi vs cable y checklist práctico."
 draft: false
+image: "/images/generated/speed-test-cdmx.webp"
 ---
 ::: {#idea-clave .section}
 ## La idea clave: estabilidad antes que velocidad

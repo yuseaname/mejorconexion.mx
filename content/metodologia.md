@@ -4,6 +4,7 @@ slug: "metodologia"
 date: 2026-01-01
 description: "Metodología de Mejor Conexión: cómo evaluamos internet en casa, planes móviles y eSIM en México (criterios, fuentes, actualización y notas)."
 draft: false
+image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
 ::: container
 ::: breadcrumbs
