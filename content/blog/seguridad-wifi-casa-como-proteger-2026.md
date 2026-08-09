@@ -4,7 +4,7 @@ slug: "seguridad-wifi-casa-proteger-2026"
 date: 2026-08-09
 description: "Cómo proteger tu WiFi en casa en México: cambiar contraseña, cifrado WPA2/WPA3, ocultar red, filtrar dispositivos y evitar que vecinos usen tu internet."
 draft: false
-image: "/images/topic-router-wifi.webp"
+image: "/images/generated/hero-seguridad-wifi.png"
 ---
 
 ::: container
