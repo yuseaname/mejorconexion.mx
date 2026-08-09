@@ -108,6 +108,25 @@ La pregunta no es cuál tecnología es mejor en abstracto, sino cuál funciona m
 Para ver todas las opciones disponibles, revisa [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
 :::
 
+::: section
+## Costos comparativos: fibra vs inalámbrico fijo en México
+
+El precio no debería ser el único factor, pero sí importa. Esto es lo que puedes esperar:
+
+| Opción | Precio inicial | Precio mensual real | Equipo incluido |
+|---|---:|---:|---|
+| Fibra (Totalplay/Telmex) | $0-$1,000 MXN instalación | $300-$600 MXN | Router incluido |
+| Fibra (Izzi/Megacable) | $0-$500 MXN instalación | $250-$500 MXN | Router incluido |
+| Inalámbrico 4G fijo | $0-$500 MXN | $200-$400 MXN | Módem 4G incluido |
+| WISP local | $500-$1,500 MXN instalación | $250-$400 MXN | Antena + router |
+
+El costo total a 12 meses incluye instalación prorrateada más el mensual. A veces el inalámbrico sale más barato en el primer año, pero la fibra ofrece más valor por peso si está disponible.
+
+**Regla:** no elijas por los primeros $100 MXN de diferencia. La estabilidad y la velocidad de subida de la fibra compensan el costo extra si tu uso lo requiere.
+
+Para comparar proveedores específicos, checa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
+:::
+
 ::: meta-row
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
 :::
