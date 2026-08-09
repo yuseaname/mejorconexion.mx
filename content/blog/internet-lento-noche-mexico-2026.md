@@ -4,7 +4,7 @@ slug: "internet-lento-noche-mexico-2026"
 date: 2026-08-09
 description: "Tu internet vuela de día pero se arrastra en la noche. Te explicamos por qué pasa y cómo arreglarlo — no siempre es culpa del proveedor."
 draft: false
-image: "/images/generated/speed-test-cdmx.webp"
+image: "/images/generated/hero-internet-noche.png"
 ---
 
 ::: container
