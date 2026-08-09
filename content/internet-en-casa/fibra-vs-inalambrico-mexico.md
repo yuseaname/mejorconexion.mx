@@ -1,130 +1,102 @@
 ---
-title: "Fibra óptica vs internet inalámbrico en México: cuál conviene (2025)"
+title: "Fibra óptica vs internet inalámbrico en México: cuál conviene"
 slug: "fibra-vs-inalambrico-mexico"
 date: 2026-01-01
-description: ""
+description: "Fibra óptica vs internet inalámbrico (4G/5G fijo) en México: diferencias de velocidad, latencia, estabilidad, instalación y cuándo elegir cada uno. Comparativa real."
 draft: false
-image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-inalambrico-mexico-index-html-hero-cae6b136.webp"
+image: "/images/topic-router-wifi.webp"
 ---
+
 ::: container
 ::: breadcrumbs
-[Inicio](/) / [Internet en casa](/internet-en-casa/) / Fibra vs inalámbrico
+[Inicio](/) / [Internet en casa](/internet-en-casa.html) / Fibra vs inalámbrico
 :::
 
-# Fibra óptica vs internet inalámbrico en México
-
-![Realistic photo illustrating Fibra óptica vs internet inalámbrico en México](/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-inalambrico-mexico-index-html-hero-cae6b136.webp){slot-id="cae6b136385ef2ff" decoding="async" fetchpriority="high" height="1024" loading="eager" width="1536"}
-
-Si tienes duda entre fibra y un módem inalámbrico (4G/5G), aquí va lo práctico: cuándo conviene cada uno y en qué te tienes que fijar para no fallar.
+La fibra óptica manda datos por cable de vidrio. El internet inalámbrico fijo los manda por la red celular (4G/5G). Para uso residencial, la fibra casi siempre es superior — pero el inalámbrico fijo tiene casos donde conviene más.
 
 ::: {.ad-slot ad-slot="after-intro"}
 :::
 
 ::: section
-## Respuesta rápida
-
-::: {.grid .three}
-::: card
-### Fibra
-
-Normalmente gana en estabilidad y subida. Ideal para home office y videollamadas.
-:::
-
-::: card
-### Inalámbrico fijo
-
-Gana en rapidez de instalación y flexibilidad. Útil si rentas o no hay fibra.
-:::
-
-::: card
-### La trampa
-
-Si la señal celular es mala en tu casa, lo inalámbrico se vuelve un dolor.
-:::
-:::
-:::
-
-::: section
 ## Tabla comparativa
 
-::: {.table-wrap aria-label="Tabla fibra vs internet inalámbrico" role="region" tabindex="0"}
-  Factor             Fibra                                            Inalámbrico (4G/5G)
-  ------------------ ------------------------------------------------ ----------------------------------------------
-  **Estabilidad**    Suele ser más constante.                         Depende mucho de señal y congestión.
-  **Subida**         Generalmente mejor (se nota en videollamadas).   Varía; puede ser suficiente o muy irregular.
-  **Instalación**    Requiere visita/cableado.                        Rápida (módem + buena ubicación).
-  **Flexibilidad**   Menos flexible si hay contrato.                  Más flexible, ideal para mudanzas/renta.
-:::
+| Aspecto | Fibra óptica | Inalámbrico fijo (4G/5G) |
+|---|---|---|
+| Velocidad de descarga | 100-1000+ Mbps | 10-50 Mbps |
+| Velocidad de subida | Alta (a menudo simétrica) | Baja (1-10 Mbps) |
+| Latencia | 5-20 ms | 30-80 ms |
+| Estabilidad | Alta | Media (depende de señal celular) |
+| Instalación | Requiere cableado exterior | Solo enchufar módem |
+| Movilidad | Fija (no puedes mudarla) | Puedes llevar el módem a otra casa |
+| Mejor para | Uso intensivo, gaming, home office | Zona sin cable, respaldo, temporal |
+
+Si tienes fibra disponible en tu calle, casi siempre conviene. Si no hay fibra y vives en zona con buena cobertura celular, el inalámbrico fijo es una alternativa real.
+
+Para entender más sobre el inalámbrico fijo, lee [internet inalámbrico fijo en México](/internet-en-casa/internet-inalambrico-fijo-mexico.html).
 :::
 
-::: {.section .decision-links editorial-links="true"}
-**Dónde ver opciones reales:** páginas oficiales con información y condiciones vigentes.
-
--   [Telmex (fibra/paquetes)](https://telmex.com/web/hogar/paquetes-de-internet){rel="nofollow noopener" target="_blank"}
--   [Starlink (satelital)](https://www.starlink.com/mx){rel="nofollow noopener" target="_blank"}
--   [Viasat México (satelital)](https://www.viasat.com.mx/){rel="nofollow noopener" target="_blank"}
-
-**Nota sin humo:** disponibilidad y condiciones pueden cambiar.
-:::
+<!-- ADSENSE_BREAK -->
 
 ::: section
-## Lo que debes revisar antes de decidir
+## Cuándo elegir fibra
 
--   **Señal dentro de tu casa:** no en la calle. Adentro cambia.
--   **Horario pico:** si se satura de noche, lo vas a sufrir.
--   **Tu Wi‑Fi:** router bien puesto y decente (si no, nada se siente "rápido").
--   **Contrato/cancelación:** para fibra/coaxial, ojo con penalizaciones.
+- Hay fibra disponible en tu domicilio.
+- Haces videollamadas, gaming o streaming 4K frecuentemente.
+- Necesitas velocidad de subida decente.
+- Quieres la conexión más estable posible.
+- No te vas a mudar pronto.
+
+## Cuándo elegir inalámbrico fijo
+
+- No hay fibra ni cable coaxial en tu calle.
+- Necesitas internet rápido (en días) sin esperar instalación programada.
+- Vives en zona rural o semiurbana.
+- Quieres flexibilidad para mudar el servicio.
+- Buscas una conexión de respaldo.
 :::
 
 ::: {.ad-slot ad-slot="mid-content"}
 :::
 
 ::: section
-## Enlaces útiles (arriba, sideways y siguiente paso)
+## Latencia: la diferencia que más se siente
 
--   [Pillar: Mejor internet en México](/internet-en-casa/mejor-internet-mexico/)
--   [Sideways: Internet sin contrato](/internet-en-casa/internet-sin-contrato-mexico/)
--   [Siguiente paso: ¿Cuántos Mbps necesito?](/guias/cuantos-mbps-necesito/)
+Para navegación y descarga, ambos sirven. La diferencia se siente en:
+
+- **Videollamadas:** la latencia del 4G (30-80 ms) puede causar retraso perceptible vs fibra (5-20 ms).
+- **Gaming:** el 4G añade jitter que arruina partidas competitivas.
+- **Trabajo remoto (VPN):** la fibra mantiene la conexión más estable.
+
+Si tu uso principal requiere baja latencia, la fibra es la única opción seria.
 :::
 
-::: {.ad-slot ad-slot="before-faq"}
-:::
+::: section
+## Preguntas frecuentes
 
-::: {.section .callout related-block="" style="margin-top:18px"}
-## Siguiente lectura
+### ¿El internet inalámbrico es más lento que la fibra?
 
-[Mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico/)
+Generalmente sí. El 4G entrega 10-50 Mbps reales en condiciones normales. La fibra entrega 100-1000 Mbps con mejor estabilidad y menor latencia.
 
-Comparativa práctica por tecnología y uso.
+### ¿Puedo tener fibra e inalámbrico fijo a la vez?
+
+Sí, y es una buena estrategia de respaldo. Usa fibra como conexión principal y un módem 4G como respaldo para emergencias.
+
+### ¿El 5G cambia la comparación?
+
+El 5G puede acercar la velocidad del inalámbrico a la fibra, pero solo si hay antena 5G cerca de tu casa. En México, la cobertura 5G aún es limitada fuera de zonas urbanas principales.
+
+Para entender más comparativas, checa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
 :::
 
 ::: {.section related-block="" style="margin-top:18px"}
-## Artículos relacionados
+## Sigue aprendiendo
 
-::: {.grid .two}
-[](/internet-en-casa/){.card}
-
-### Internet en casa
-
-Hub con comparativas y guías clave.
-
-[](/guias/cuantos-mbps-necesito/){.card}
-
-### ¿Cu?ntos Mbps necesito?
-
-Guía práctica según tu uso real.
-
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
-
-### C?mo mejorar tu Wi?Fi
-
-Pasos reales para mejorar señal en casa.
+- Para entender el inalámbrico fijo, checa [internet inalámbrico fijo en México](/internet-en-casa/internet-inalambrico-fijo-mexico.html).
+- Para comparar con cable coaxial, lee [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
+- Para ver todas las opciones en casa, revisa [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
 :::
-:::
-
-------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 27 de diciembre de 2025 • [Metodología](/metodologia/)
+**Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
 :::
 :::

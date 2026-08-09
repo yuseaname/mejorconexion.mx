@@ -1,133 +1,108 @@
 ---
-title: "Internet sin contrato en México: qué conviene y qué revisar (2025)"
+title: "Internet sin contrato en México: qué conviene y qué revisar"
 slug: "internet-sin-contrato-mexico"
 date: 2026-01-01
-description: "Internet sin contrato en México: opciones reales (prepago, inalámbrico fijo, renta corta), pros/contras y lo que debes revisar antes de pagar."
+description: "Internet sin contrato en México: opciones reales, precios, ventajas, riesgos y cuándo conviene vs un plan con plazo forzoso. Guía sin humo con datos concretos."
 draft: false
-image: "/images/generated/planes-comparacion-mexico.webp"
+image: "/images/topic-provider-comparison.webp"
 ---
+
 ::: container
 ::: breadcrumbs
-[Inicio](/) / [Internet en casa](/internet-en-casa/) / Internet sin contrato
+[Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet sin contrato
 :::
 
-# Internet sin contrato en México
-
-Si estás rentando, te vas a mudar, o simplemente no quieres amarrarte 12/24 meses, esto te puede convenir. Pero ojo: "sin contrato" no siempre significa "sin condiciones".
+El internet sin contrato te da flexibilidad: cancelas cuando quieras sin penalización. Pero suele tener menor velocidad, equipo más básico o precios ligeramente mayores. Aquí está cómo decidir si te conviene.
 
 ::: {.ad-slot ad-slot="after-intro"}
 :::
 
 ::: section
-## La mejor opción para...
+## Opciones de internet sin contrato en México
 
-::: {.grid .three}
-::: card
-### Renta temporal
+| Tipo | Precio aprox. | Velocidad típica | Mejor para |
+|---|---:|---|---|
+| Internet móvil (4G fijo) | $200-$350 MXN/mes | 10-40 Mbps | Zona sin cable, temporal, respaldo |
+| WISP local (prepago) | $250-$400 MXN/mes | 5-20 Mbps | Zona rural o semiurbana |
+| Planes de carrier con hotspot | $150-$300 MXN/mes | Variable | Uso ligero |
+| Satelital prepago | $500-$900 MXN/mes | 5-25 Mbps | Zona muy remota |
 
-Inalámbrico fijo o prepago, para no pagar penalización al irte.
+[VERIFICAR PRECIOS EN SITIOS OFICIALES]
+
+Algunos proveedores grandes ofrecen planes "sin plazo forzoso" que técnicamente no te amarran, pero incluyen promociones que se pierden si cancelas antes de ciertos meses. Lee bien la letra pequeña.
 :::
 
-::: card
-### Plan B
-
-Útil como respaldo si haces home office y no te puedes quedar sin internet.
-:::
-
-::: card
-### Zonas con poca oferta
-
-Cuando no hay fibra/coaxial disponible, lo inalámbrico puede ser la salida.
-:::
-:::
-:::
+<!-- ADSENSE_BREAK -->
 
 ::: section
-## Opciones comunes (y qué revisar)
+## Ventajas del internet sin contrato
 
-::: {.table-wrap role="region" aria-label="Tabla de opciones de internet sin contrato" tabindex="0"}
-  Opción                                  Lo bueno                                              Lo riesgoso                                                               Checklist rápido
-  --------------------------------------- ----------------------------------------------------- ------------------------------------------------------------------------- ------------------------------------------------------------------
-  **Internet inalámbrico fijo (4G/5G)**   Instalación rápida; no requiere cableado; flexible.   Se cae con mala señal o congestión; puede variar mucho en horario pico.   Señal en tu casa, ubicación del módem, política de uso, soporte.
-  **Prepago con módem/router**            Pagas cuando lo usas; ideal para temporadas.          Vigencia y reglas del paquete; los "GB" se te pueden ir rápido.           Vigencia, velocidad, qué pasa al acabarse datos, recargas.
-  **Compartir datos (hotspot)**           Cero instalación; útil en emergencia.                 Consume datos muy rápido; calienta el cel; no es estable para todo.       Plan con hotspot, batería, señal, límites de uso justo.
-:::
-:::
+- **Flexibilidad total:** cancelas cuando quieras, sin multa.
+- **Sin compromiso:** ideal si te vas a mudar pronto.
+- **Sin revisión de crédito:** algunos proveedores no revisan buró.
+- **Pago anticipado:** controlas exactamente cuánto gastas.
 
-::: {.section .decision-links editorial-links="true"}
-**Dónde ver opciones reales:** páginas oficiales con información y condiciones vigentes.
+## Desventajas
 
--   [izzi flex (sin contrato)](https://www.izzi.mx/izzi-flex){rel="nofollow noopener" target="_blank"}
--   [Starlink (satelital)](https://www.starlink.com/mx){rel="nofollow noopener" target="_blank"}
--   [Viasat México (satelital)](https://www.viasat.com.mx/){rel="nofollow noopener" target="_blank"}
-
-**Nota sin humo:** disponibilidad y condiciones pueden cambiar.
+- **Velocidad menor:** los planes sin contrato suelen ofrecer menos Mbps.
+- **Equipo básico:** el módem/router puede ser de menor calidad.
+- **Sin promociones agresivas:** las mejores ofertas suelen requerir plazo forzoso.
+- **Soporte limitado:** algunos proveedores no priorizan a clientes sin contrato.
 :::
 
 ::: {.ad-slot ad-slot="mid-content"}
 :::
 
 ::: section
-## Lo que debes saber antes de pagar
+## ¿Cuándo conviene sin contrato vs con contrato?
 
--   **Señal real en tu casa:** no te quedes con "en la calle agarra bien". Adentro cambia.
--   **Horario pico:** de noche (y fines) se ve si la red se satura.
--   **Wi‑Fi:** pon el módem donde tenga mejor señal (cerca de ventana suele ayudar) y que el router no esté encerrado.
--   **Uso y límites:** entiende si hay "uso justo" o reducción de velocidad después de cierto consumo.
+| Tu situación | Recomendación |
+|---|---|
+| Te vas a mudar en menos de 6 meses | Sin contrato |
+| Rentas y no sabes cuánto vas a estar | Sin contrato |
+| Tu uso es ligero (WhatsApp, correo, YouTube) | Sin contrato |
+| Familia con streaming, gaming y home office | Con contrato (fibra) |
+| Quieres la mejor relación costo-velocidad | Con contrato |
+| Vives en zona rural sin cable | Sin contrato (4G o WISP) |
 
-Si quieres decidir por velocidad, primero checa: [¿Cuántos Mbps necesito?](/guias/cuantos-mbps-necesito/)
+La regla: si necesitas velocidad y estabilidad, conviene un contrato de fibra. Si necesitas flexibilidad o es para uso temporal, sin contrato.
 :::
 
-::: {.ad-slot ad-slot="before-faq"}
+::: section
+## Checklist antes de contratar sin contrato
+
+1. Compara el costo por Mbps real (precio ÷ velocidad).
+2. Verifica la cobertura de señal en tu casa (especialmente para 4G).
+3. Pregunta si el módem se queda o se devuelve al cancelar.
+4. Revisa si hay límite de datos (algunos planes 4G tienen tope).
+5. Ten un plan de respaldo por si la velocidad no es suficiente.
 :::
 
 ::: section
 ## Preguntas frecuentes
 
-**¿Internet sin contrato es más caro?**
+### ¿El internet sin contrato es más caro?
 
-A veces sí, porque pagas por flexibilidad. Lo importante es si esa flexibilidad te evita penalizaciones o meses pagados sin usar.
+Generalmente sí, por Mbps. Pero el costo total puede ser menor si no te amarra a penalizaciones ni cargos ocultos.
 
-**¿Sirve para home office?**
+### ¿Puedo cambiar de sin contrato a plan con contrato después?
 
-Puede servir, pero depende de la señal y la congestión. Si tu chamba depende de videollamadas, piensa en esto como respaldo o valida muy bien antes.
-:::
+Sí. Muchos proveedores permiten migrar. Pero revisa si cambia el equipo, la tecnología o las condiciones.
 
-::: {.section .callout related-block="" style="margin-top:18px"}
-## Siguiente lectura
+### ¿El internet 4G fijo tiene límite de datos?
 
-[Mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico/)
-
-Comparativa práctica por tecnología y uso.
+Algunos planes sí, otros no. Pregunta específicamente si es "ilimitado" o si hay tope de GB por mes.
 :::
 
 ::: {.section related-block="" style="margin-top:18px"}
-## Artículos relacionados
+## Sigue aprendiendo
 
-::: {.grid .two}
-[](/internet-en-casa/){.card}
-
-### Internet en casa
-
-Hub con comparativas y guías clave.
-
-[](/guias/cuantos-mbps-necesito/){.card}
-
-### ¿Cu?ntos Mbps necesito?
-
-Guía práctica según tu uso real.
-
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
-
-### C?mo mejorar tu Wi?Fi
-
-Pasos reales para mejorar señal en casa.
+- Para ver todas las opciones, checa [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
+- Para entender el inalámbrico fijo, lee [internet inalámbrico fijo](/internet-en-casa/internet-inalambrico-fijo-mexico.html).
+- Si quieres opciones baratas, revisa [internet barato en México](/internet-en-casa/internet-barato-mexico.html).
 :::
-:::
-
-------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 27 de diciembre de 2025 • [Metodología](/metodologia/) • [Ciudades](/ciudades/)
+**Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
 :::
 :::
