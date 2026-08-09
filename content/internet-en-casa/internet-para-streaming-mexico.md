@@ -1,108 +1,147 @@
 ---
-title: "Internet para streaming en México: qué necesitas (2025)"
+title: "Internet para streaming en México: cuántos Mbps necesitas de verdad (2026)"
 slug: "internet-para-streaming-mexico"
 date: 2026-01-01
-description: "Guía para elegir internet para streaming en México (Netflix/YouTube/Disney+): Mbps reales, estabilidad, Wi‑Fi y cómo evitar buffering en horario pico."
+description: "Mbps reales para Netflix, Disney+, YouTube y Prime Video en México. Tabla por calidad, proveedores con fibra y cómo eliminar el buffering para siempre."
 draft: false
 image: "/images/generated/home-office-cdmx.webp"
 ---
+
 ::: container
 ::: breadcrumbs
-[Inicio](/) / [Internet en casa](/internet-en-casa/) / Internet para streaming
+[Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet para streaming
 :::
 
-# Internet para streaming en México: qué necesitas (sin buffering)
+Para ver Netflix, Disney+ o YouTube sin buffering no necesitas el plan más caro. Necesitas la combinación correcta de velocidad estable, tipo de conexión (fibra vs cable) y un Wi-Fi que realmente llegue a tu TV. Aquí están los números reales para México, sin inflar ni vender.
 
-Para ver series sin que se pause cada 3 minutos, no es solo "más Mbps". Importa la estabilidad, el Wi‑Fi y el horario pico (cuando todo el vecindario se conecta).
-
-::: {.ad-slot ad-slot="after-intro"}
-:::
+<!-- ADSENSE_BREAK -->
 
 ::: section
-## Lo básico: velocidad vs estabilidad
+## Mbps que necesitas según la calidad de video
 
--   **Estabilidad:** si se cae o se vuelve inestable en la noche, vas a ver buffering.
--   **Wi‑Fi:** si tu TV está lejos del router, el problema puede ser señal (no el plan).
--   **Horario pico:** valida en la noche. Ahí se ve la realidad.
+| Plataforma | Calidad | Mbps mínimo | Mbps recomendado |
+|---|---|---:|---:|
+| YouTube | 1080p | 5 | 10 |
+| Netflix | 1080p | 5 | 8 |
+| Netflix | 4K | 15 | 25 |
+| Disney+ | 4K | 15 | 25 |
+| Prime Video | 4K | 15 | 25 |
+| Twitch (ver) | 1080p60 | 6 | 10 |
 
-Guía recomendada: [¿Cuántos Mbps necesito?](/guias/cuantos-mbps-necesito/)
+Esos números son por dispositivo. Si dos personas ven streaming a la vez, necesitas el doble. Si alguien más descarga un juego o sube un video, la red se reparte.
+
 :::
+
+<!-- ADSENSE_BREAK -->
 
 ::: section
-## Checklist para que el streaming se sienta bien
+## Fibra vs cable: lo que de verdad cambia el streaming
 
-1.  Si puedes, conecta la TV por cable Ethernet.
-2.  Si es Wi‑Fi, pon el router en zona céntrica y sin encajonarlo.
-3.  Haz pruebas a distintas horas (incluida la noche).
-4.  Evita saturar la red con descargas en segundo plano.
-:::
+La fibra óptica manda los datos por luz. El cable coaxial los manda por señal eléctrica. Para streaming, la diferencia se siente así:
 
-::: {.section .decision-links editorial-links="true"}
-**Dónde ver opciones reales:** páginas oficiales con información y condiciones vigentes.
+| Aspecto | Fibra óptica | Cable coaxial |
+|---|---|---|
+| Estabilidad en horario pico | Alta | Media-baja |
+| Velocidad de subida | Alta (a menudo simétrica) | Baja (asimétrica) |
+| Latencia | Menor | Mayor |
+| Buffering en 4K | Raro | Común en la noche |
 
--   [Paquetes de internet Telmex](https://telmex.com/web/hogar/paquetes-de-internet){rel="nofollow noopener" target="_blank"}
--   [Paquetes de izzi](https://www.izzi.mx/paquetes){rel="nofollow noopener" target="_blank"}
--   [Internet de Megacable](https://www.megacable.com.mx/servicios/internet){rel="nofollow noopener" target="_blank"}
+Si tienes Totalplay o Telmex con fibra instalada en tu calle, el streaming suele sentirse mejor que con izzi o Megacable en cable coaxial. Pero si la fibra llega mal instalada o saturada, el cable bien configurado puede ganar.
 
-**Nota sin humo:** disponibilidad y condiciones pueden cambiar.
+Para saber qué tienes instalado, consulta [fibra óptica vs cable en México](/blog/fibra-optica-vs-cable-mexico.html).
 :::
 
 ::: {.ad-slot ad-slot="mid-content"}
 :::
 
-::: section
-## Enlaces recomendados
+<!-- ADSENSE_BREAK -->
 
--   [UP: Mejor internet en México](/internet-en-casa/mejor-internet-mexico/)
--   [SIDEWAYS: Cómo elegir router Wi‑Fi](/internet-en-casa/como-elegir-router-wifi-mexico/)
--   [SIDEWAYS: Fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico/)
--   [DOWNSTREAM: Medir velocidad real](/guias/como-medir-velocidad-real-internet/)
+::: section
+## Proveedores y planes para streaming en México (2026)
+
+Estos son rangos generales basados en sitios oficiales. La disponibilidad cambia por zona. Verifica en tu dirección antes de contratar.
+
+| Proveedor | Tecnología común | Plan base para streaming | Precio aprox. |
+|---|---|---|---:|
+| Totalplay | Fibra | 200 Mbps | $389 MXN/mes |
+| Telmex (Infinitum) | Fibra/cobre | 200 Mbps | $399 MXN/mes |
+| Izzi | Cable/fibra | 300 Mbps | $449 MXN/mes |
+| Megacable | Cable/fibra | 200 Mbps | $349 MXN/mes |
+
+[VERIFICAR PRECIOS EN SITIOS OFICIALES]
+
+El punto clave: cualquier plan de 100 Mbps o más basta para streaming en una pantalla. El problema casi nunca es el plan — es el Wi-Fi o la estabilidad en horario pico.
+:::
+
+::: section
+## Checklist para eliminar el buffering
+
+1. Conecta tu TV o consola por cable Ethernet si puedes. Un cable de $80 MXN elimina el 90% de los problemas de Wi-Fi.
+2. Si usas Wi-Fi, mueve el router a una zona central, sin paredes gruesas entre él y la TV.
+3. Usa la banda de 5 GHz para streaming. La de 2.4 GHz llega más lejos pero va más lenta.
+4. Revisa que nadie esté descargando algo pesado mientras ves Netflix.
+5. Haz la prueba en horario pico (8-10 PM). Si ahí funciona bien, el resto del día también.
+6. Reinicia el router una vez por semana si notas degradación.
+:::
+
+<!-- ADSENSE_BREAK -->
+
+::: section
+## 3 errores comunes que arruinan tu streaming
+
+### Contratar más megas en lugar de arreglar el Wi-Fi
+
+Si por cable Ethernet el streaming va perfecto pero por Wi-Fi se traba, el problema es la señal inalámbrica. Antes de subir de plan, revisa [cómo mejorar tu Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
+
+### Usar repetidores baratos
+
+Un repetidor de $150 MXN suele empeorar la conexión porque duplica el tráfico y suma latencia. Mejor un access point o un sistema mesh si tu casa es grande.
+
+### Dejar el router donde lo instaló el técnico
+
+Los técnicos instalan donde llega el cable, no donde da mejor cobertura. Mover el router 3 metros puede cambiar todo.
+:::
+
+::: section
+## Preguntas frecuentes
+
+### ¿Cuántos Mbps necesito para Netflix 4K?
+
+Mínimo 15 Mbps, pero se recomiendan 25 Mbps para que no baje la calidad si alguien más usa la red.
+
+### ¿Basta con 50 Mbps para streaming?
+
+Sí, para una pantalla en 1080p. Para 4K o varias pantallas a la vez, conviene 100 Mbps o más.
+
+### ¿Por qué se ve bien de día y mal en la noche?
+
+Es congestión del proveedor o de tu Wi-Fi (más vecinos conectados). Si pasa todas las noches, considera cambiar de proveedor. Revisa [cómo quejarte en PROFECO](/blog/queja-profeco-internet-guia-2026.html).
+
+### ¿Sirve un repetidor Wi-Fi para la TV?
+
+Si la TV está lejos del router, mejor usa un adaptador Powerline o cable Ethernet. Los repetidores añaden latencia y empeoran la experiencia.
+:::
+
+::: section
+## Veredicto: ¿cuál es el mejor internet para streaming?
+
+No hay ganador universal. El mejor internet para streaming es el que instala fibra óptica en tu domicilio, entrega estabilidad en horario pico, incluye un router decente o te deja usar el propio, y tiene un precio total razonable después de la promoción.
+
+Compara opciones reales en [nuestra guía de mejor internet en casa](/internet-en-casa/mejor-internet-en-casa-mexico.html) y verifica cobertura antes de contratar.
 :::
 
 ::: {.ad-slot ad-slot="before-faq"}
 :::
 
-::: {.section .callout related-block="" style="margin-top:18px"}
-## Siguiente lectura
-
-[Mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico/)
-
-Comparativa práctica por tecnología y uso.
-:::
-
 ::: {.section related-block="" style="margin-top:18px"}
-## Artículos relacionados
+## Sigue aprendiendo
 
-::: {.grid .two}
-[](/internet-en-casa/){.card}
-
-### Internet en casa
-
-Hub con comparativas y guías clave.
-
-[](/guias/cuantos-mbps-necesito/){.card}
-
-### ¿Cu?ntos Mbps necesito?
-
-Guía práctica según tu uso real.
-
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
-
-### C?mo mejorar tu Wi?Fi
-
-Pasos reales para mejorar señal en casa.
-
-[](/blog/streaming-sin-cortes-mexico.html){.card}
-
-### Streaming sin cortes en Mexico
-
-Velocidad, WiFi y ajustes para ver series y deportes sin interrupciones.
+- Si quieres entender las unidades de velocidad, checa [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
+- Si tu internet está lento, revisa [cómo ajustar tu router para mejorar la velocidad](/blog/ajustes-router-mejorar-velocidad-internet.html).
+- Para comparar proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 :::
-:::
-
-------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 27 de diciembre de 2025 • [Metodología](/metodologia/)
+**Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: sitios oficiales de proveedores, [IFT](https://www.ift.org.mx){rel="nofollow noopener" target="_blank"}
 :::
 :::

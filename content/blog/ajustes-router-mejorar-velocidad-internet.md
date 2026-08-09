@@ -3,6 +3,8 @@ title: "Cómo Ajustar Tu Router para Mejorar la Velocidad de Internet (Guía 202
 slug: "ajustes-router-mejorar-velocidad-internet"
 date: 2026-01-01
 description: "Aprende a optimizar tu router y mejorar la velocidad de internet en casa. Configuraciones simples, ubicación ideal y consejos prácticos para México."
+aliases:
+  - "/blog/ajustes-router-mejorar-velocidad-2026.html"
 draft: false
 image: "/images/topic-router-wifi.webp"
 ---
