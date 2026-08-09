@@ -120,6 +120,15 @@ Sí. Los criterios son generales para México, pero la disponibilidad específic
 Sí. Esta guía es gratuita y está diseñada para ayudar a mexicanos a tomar mejores decisiones sobre internet y conectividad. Si te sirvió, compártela con quien la necesite.
 :::
 
+::: section
+## Recursos adicionales
+
+Si esta guía te ayudó, revisa también nuestras guías relacionadas en la sección "Sigue aprendiendo". Para preguntas específicas sobre tu zona o proveedor, contacta directamente al proveedor con tu código postal.
+
+Para entender nuestra metodología de comparación, lee cómo [evaluamos proveedores](/metodologia.html).
+
+:::
+
 ::: meta-row
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
 :::
