@@ -1,101 +1,115 @@
 ---
-title: "Internet para estudiantes en México: qué conviene (2025)"
+title: "Internet para estudiantes en México: qué conviene (2026)"
 slug: "internet-para-estudiantes-mexico"
 date: 2026-01-01
-description: "Internet para estudiantes en México: clases en línea, tareas, videollamadas y presupuesto. Qué plan conviene, qué revisar del Wi‑Fi y cómo no pagar de más."
+description: "Cómo elegir internet para estudiantes en México: velocidad mínima para clases en línea, opciones económicas, compartir gastos y qué priorizar (estabilidad vs precio)."
 draft: false
-image: "/images/generated/home-office-cdmx.webp"
+image: "/images/topic-provider-comparison.webp"
 ---
+
 ::: container
 ::: breadcrumbs
-[Inicio](/) / [Internet en casa](/internet-en-casa/) / Internet para estudiantes
+[Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet para estudiantes
 :::
 
-# Internet para estudiantes en México (clases en línea y tareas)
-
-Para estudiar, lo más importante es que funcione en videollamadas y no falle en horario pico. Con un plan razonable y buen Wi‑Fi, suele alcanzar sin gastar de más.
+Para un estudiante en México, el internet ideal no es el más rápido ni el más barato — es el que mantiene videollamadas estables, descarga tareas sin tardar horas y cabe en el presupuesto. Esta guía te ayuda a elegir sin pagar de más.
 
 ::: {.ad-slot ad-slot="after-intro"}
 :::
 
 ::: section
-## Qué necesitas de verdad
+## Qué necesita un estudiante de internet
 
--   **Videollamadas estables:** más que "muchos Mbps".
--   **Subida decente:** mandar tareas, compartir pantalla, subir archivos.
--   **Buen Wi‑Fi:** si estudias en tu cuarto, el router importa.
+| Actividad | Velocidad mínima | Recomendada |
+|---|---:|---:|
+| Clases en línea (Zoom/Meet) | 10 Mbps | 25 Mbps |
+| Ver tutoriales en YouTube | 5 Mbps | 10 Mbps |
+| Descargar libros y materiales | 20 Mbps | 50 Mbps |
+| Subir tareas/proyectos | 5 Mbps subida | 10+ Mbps subida |
+| Netflix en pausas (1080p) | 5 Mbps | 8 Mbps |
 
-Primero aterriza velocidades: [¿Cuántos Mbps necesito?](/guias/cuantos-mbps-necesito/)
+El punto crítico es la **subida** para videollamadas. Un plan con buena descarga pero 1-2 Mbps de subida va a hacer que tu cámara se congele en Zoom. Revisa siempre la velocidad de subida antes de contratar.
 :::
+
+<!-- ADSENSE_BREAK -->
 
 ::: section
-## Si estás en renta o te mudas seguido
+## Opciones económicas para estudiantes
 
-Te puede convenir un esquema **sin contrato** o una opción más flexible, siempre y cuando la estabilidad sea suficiente.
+### Plan básico de fibra ($300-$400 MXN/mes)
 
-[Ver internet sin contrato](/internet-en-casa/internet-sin-contrato-mexico/).
-:::
+Si vives con compañeros de piso, partir el costo de un plan de 100-200 Mbps de fibra entre 3-4 personas sale a $75-$100 MXN cada uno. Es la opción con mejor relación costo-beneficio.
 
-::: {.section .decision-links editorial-links="true"}
-**Dónde ver opciones reales:** páginas oficiales con información y condiciones vigentes.
+### Internet sin contrato ($200-$350 MXN/mes)
 
--   [Paquetes de internet Telmex](https://telmex.com/web/hogar/paquetes-de-internet){rel="nofollow noopener" target="_blank"}
--   [Paquetes de izzi](https://www.izzi.mx/paquetes){rel="nofollow noopener" target="_blank"}
--   [Internet de Megacable](https://www.megacable.com.mx/servicios/internet){rel="nofollow noopener" target="_blank"}
+Si vas a mudarte pronto o no quieres amarrarte, el internet sin contrato o 4G fijo puede funcionar. Velocidad menor, pero flexibilidad total.
 
-**Nota sin humo:** disponibilidad y condiciones pueden cambiar.
+### Plan móvil con hotspot ($150-$300 MXN/mes)
+
+Si tu uso es ligero (tareas, correo, YouTube ocasional), un plan de celular con hotspot puede bastar. Pero cuidado: los datos se acaban y la velocidad por hotspot puede ser menor.
+
+### WiFi de la escuela o biblioteca ($0)
+
+Muchas universidades y bibliotecas públicas en México ofrecen WiFi gratuito. Si tu uso intensivo es en la escuela, puedes complementar con un plan básico en casa.
 :::
 
 ::: {.ad-slot ad-slot="mid-content"}
 :::
 
+<!-- ADSENSE_BREAK -->
+
 ::: section
-## Enlaces recomendados
+## 3 errores comunes de estudiantes al contratar internet
 
--   [UP: Mejor internet en México](/internet-en-casa/mejor-internet-mexico/)
--   [SIDEWAYS: Internet para home office](/internet-en-casa/internet-para-home-office-mexico/)
--   [SIDEWAYS: Mejorar Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/)
--   [DOWNSTREAM: medir velocidad real](/guias/como-medir-velocidad-real-internet/)
+### Contratar el plan más barato sin revisar la subida
+
+Un plan de 50 Mbps con 1 Mbps de subida va a congelar tus videollamadas. Pregunta siempre la velocidad de subida antes de firmar.
+
+### No compartir gastos con compañeros
+
+Si vives con roomies, partir un plan bueno entre varios sale más barano que un plan malo para cada quien. Coordina a nombre de quién queda el contrato.
+
+### Olvidar revisar la cobertura antes de mudarte
+
+Si vas a cambiar de departamento o casa, verifica la cobertura del proveedor en la nueva dirección antes de mudarte. No asumas que si llega en tu colonia actual, también llega en la nueva.
 :::
 
-::: {.ad-slot ad-slot="before-faq"}
+::: section
+## Checklist para estudiantes
+
+1. Define tu presupuesto mensual real (incluyendo todo, no solo la promo).
+2. Verifica cobertura en tu dirección actual y futura.
+3. Prioriza velocidad de subida si haces videollamadas.
+4. Compara el costo de fibra compartida vs plan individual básico.
+5. Revisa si hay plazo forzoso (¿te vas a mudar en 6 meses?).
+6. Ten un plan de respaldo (datos móviles, WiFi de la escuela).
 :::
 
-::: {.section .callout related-block="" style="margin-top:18px"}
-## Siguiente lectura
+::: section
+## Preguntas frecuentes
 
-[Mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico/)
+### ¿Cuántos Mbps necesito para clases en línea?
 
-Comparativa práctica por tecnología y uso.
+Mínimo 10 Mbps de descarga y 5 Mbps de subida. Si otras personas usan la misma red, necesitas más. Lee [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
+
+### ¿Sirve el internet del celular para clases?
+
+Para emergencias sí, pero no es recomendable para uso regular. El hotspot consume muchos datos y la conexión es menos estable.
+
+### ¿Vale la pena compartir internet con roomies?
+
+Sí, casi siempre. Un plan de 200 Mbps compartido entre 4 personas sale mejor que 4 planes individuales de 20 Mbps. Solo asegúrense de poner reglas claras de uso.
 :::
 
 ::: {.section related-block="" style="margin-top:18px"}
-## Artículos relacionados
+## Sigue aprendiendo
 
-::: {.grid .two}
-[](/internet-en-casa/){.card}
-
-### Internet en casa
-
-Hub con comparativas y guías clave.
-
-[](/guias/cuantos-mbps-necesito/){.card}
-
-### ¿Cu?ntos Mbps necesito?
-
-Guía práctica según tu uso real.
-
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
-
-### C?mo mejorar tu Wi?Fi
-
-Pasos reales para mejorar señal en casa.
+- Para ver opciones económicas, checa [internet barato en México](/internet-en-casa/internet-barato-mexico.html).
+- Para entender la velocidad que necesitas, lee [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
+- Si quieres compartir gastos, revisa [planes de internet según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
 :::
-:::
-
-------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 27 de diciembre de 2025 • [Metodología](/metodologia/)
+**Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
 :::
 :::

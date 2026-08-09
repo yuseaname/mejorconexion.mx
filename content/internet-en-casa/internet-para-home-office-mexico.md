@@ -1,133 +1,112 @@
 ---
-title: "Internet para home office en México: qué contratar (2025)"
+title: "Internet para home office en México: qué contratar (2026)"
 slug: "internet-para-home-office-mexico"
 date: 2026-01-01
-description: "Guía para elegir internet para home office en México: estabilidad, subida, latencia, Wi‑Fi y qué plan conviene según videollamadas y trabajo remoto."
+description: "Qué internet necesitas para home office en México: velocidad mínima para videollamadas, subida, estabilidad y qué proveedores convienen para trabajo remoto."
 draft: false
-image: "/images/generated/mejorconexion-mx-internet-en-casa-index-html-hero-bfb68d99.webp"
+image: "/images/generated/home-office-cdmx.webp"
 ---
+
 ::: container
 ::: breadcrumbs
-[Inicio](/) / [Internet en casa](/internet-en-casa/) / Internet para home office
+[Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet para home office
 :::
 
-# Internet para home office en México
-
-Para trabajar desde casa, la velocidad "máxima" no es lo más importante. Lo que sí importa es que sea estable, que la subida alcance y que tu Wi‑Fi no sea el cuello de botella.
+Para home office no necesitas el internet más rápido — necesitas el más estable. Una videollamada no se congela por falta de megas, se congela por latencia alta, inestabilidad o porque alguien más descargó algo pesado. Aquí está cómo elegir internet para trabajo remoto en México.
 
 ::: {.ad-slot ad-slot="after-intro"}
 :::
 
 ::: section
-## Lo mínimo que sí necesitas
+## Qué necesitas para home office
 
--   **Estabilidad:** que no se caiga ni se vuelva inutilizable en la noche.
--   **Subida decente:** videollamadas + compartir pantalla + subir archivos.
--   **Latencia razonable:** que no se sienta "con delay".
+| Actividad | Descarga | Subida | Latencia |
+|---|---:|---:|---:|
+| Zoom/Meet (video HD) | 5 Mbps | 3 Mbps | < 100 ms |
+| Subir archivos grandes | 20+ Mbps | 10+ Mbps | Indiferente |
+| VPN corporativa | 10 Mbps | 5 Mbps | < 80 ms |
+| Trabajo en la nube (Drive, Notion) | 5 Mbps | 2 Mbps | < 100 ms |
 
-Si quieres aterrizar Mbps, empieza por aquí: [¿Cuántos Mbps necesito?](/guias/cuantos-mbps-necesito/)
+La **subida** es lo más crítico para home office. Si tu plan tiene 200 Mbps de descarga pero solo 2 Mbps de subida, tus videollamadas se van a congelar cuando subas un archivo.
+
+Para entender por qué, lee [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
 :::
+
+<!-- ADSENSE_BREAK -->
 
 ::: section
-## Qué tecnología suele convenir
+## Fibra vs cable para home office
 
-::: {.grid .three}
-::: card
-### Fibra
+| Aspecto | Fibra óptica | Cable coaxial |
+|---|---|---|
+| Subida | Alta (5-100+ Mbps) | Baja (1-20 Mbps) |
+| Estabilidad | Alta | Media-baja en horario pico |
+| Latencia | Baja | Media |
+| Mejor para home office | Sí | Aceptable si la subida es suficiente |
 
-Muy buena para videollamadas y subida. Si hay, suele ser la primera opción.
-:::
-
-::: card
-### Coaxial
-
-Puede ser buena opción; valida horario pico (sobre todo noche).
-:::
-
-::: card
-### Inalámbrico fijo
-
-Alternativa si no hay cableado o quieres flexibilidad; depende de señal.
-:::
-:::
-
-Comparativas: [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico/) y [fibra vs inalámbrico](/internet-en-casa/fibra-vs-inalambrico-mexico/).
-:::
-
-::: section
-## Checklist antes de contratar
-
-1.  Pregunta a vecinos y prueba en la noche.
-2.  Revisa contrato/cancelación (para evitar penalizaciones).
-3.  Planea tu Wi‑Fi (ubicación del router y alcance).
-:::
-
-::: {.section .decision-links editorial-links="true"}
-**Dónde ver opciones reales:** páginas oficiales con información y condiciones vigentes.
-
--   [Paquetes de internet Telmex](https://telmex.com/web/hogar/paquetes-de-internet){rel="nofollow noopener" target="_blank"}
--   [Paquetes de izzi](https://www.izzi.mx/paquetes){rel="nofollow noopener" target="_blank"}
--   [Internet de Megacable](https://www.megacable.com.mx/servicios/internet){rel="nofollow noopener" target="_blank"}
-
-**Nota sin humo:** disponibilidad y condiciones pueden cambiar.
+Si haces videollamadas diarias, la fibra es la mejor opción. La subida simétrica o casi simétrica evita que tu video se congele cuando alguien más en casa usa la red.
 :::
 
 ::: {.ad-slot ad-slot="mid-content"}
 :::
 
+<!-- ADSENSE_BREAK -->
+
 ::: section
-## Enlaces recomendados (UP / SIDEWAYS / DOWNSTREAM)
+## Checklist para elegir internet de home office
 
--   [UP: Mejor internet en México](/internet-en-casa/mejor-internet-mexico/)
--   [SIDEWAYS: Comparar compañías de internet](/internet-en-casa/companias-internet-mexico/)
--   [DOWNSTREAM: Medir velocidad real](/guias/como-medir-velocidad-real-internet/)
--   [DOWNSTREAM: Qué hacer si está lento](/guias/que-hacer-si-internet-lento/)
+1. **Prioriza fibra** si está disponible en tu zona.
+2. **Verifica la velocidad de subida** — mínimo 5 Mbps, ideal 10+ Mbps.
+3. **Pregunta por la estabilidad en horario pico** (7-11 PM).
+4. **Considera un plan de respaldo** (4G fijo o móvil) para emergencias.
+5. **Usa cable Ethernet** para tu computadora de trabajo, no Wi-Fi.
+6. **Configura QoS** en el router para priorizar videollamadas.
+7. **Revisa si puedes usar el router del proveedor en modo bridge** con uno propio.
+
+Para optimizar tu conexión, lee [cómo mejorar el Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html) o [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
 :::
 
-::: {.ad-slot ad-slot="before-faq"}
+::: section
+## Plan de respaldo para home office
+
+Si tu trabajo depende del internet, necesitas un respaldo. Opciones gratuitas o económicas:
+
+- **Hotspot de tu celular:** activa el hotspot en tu plan móvil como conexión de emergencia.
+- **Plan 4G fijo básico:** desde $200 MXN/mes, funciona como respaldo si se cae la fibra.
+- **WiFi de un vecino o cafetería cercana:** solo para emergencias puntuales.
+
+Lo importante es que si tu conexión principal se cae durante una reunión importante, tengas un plan B en menos de 2 minutos.
 :::
 
-::: {.section .callout related-block="" style="margin-top:18px"}
-## Siguiente lectura
+::: section
+## Preguntas frecuentes
 
-[Mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico/)
+### ¿Cuántos Mbps necesito para home office?
 
-Comparativa práctica por tecnología y uso.
+Mínimo 25 Mbps de descarga y 5 Mbps de subida. Para videollamadas HD simultáneas con otros usuarios en casa, 50+ Mbps de descarga y 10+ de subida.
+
+### ¿Sirve el cable coaxial para trabajo remoto?
+
+Puede funcionar, pero la subida limitada y la inestabilidad en horario pico pueden causar problemas en videollamadas. Si haces muchas reuniones, prioriza fibra.
+
+### ¿Debo conectar mi computadora por cable?
+
+Sí, siempre que sea posible. El cable Ethernet elimina latencia, jitter y pérdida de paquetes que el Wi-Fi añade. Para trabajo remoto es la diferencia entre una reunión fluida y una frustrante.
+
+### ¿Cómo evito que el Netflix de mi familia corte mis videollamadas?
+
+Activa QoS (Calidad de Servicio) en tu router para priorizar el tráfico de videollamadas. Lee [cómo ajustar tu router](/blog/ajustes-router-mejorar-velocidad-internet.html).
 :::
 
 ::: {.section related-block="" style="margin-top:18px"}
-## Artículos relacionados
+## Sigue aprendiendo
 
-::: {.grid .two}
-[](/internet-en-casa/){.card}
-
-### Internet en casa
-
-Hub con comparativas y guías clave.
-
-[](/guias/cuantos-mbps-necesito/){.card}
-
-### ¿Cu?ntos Mbps necesito?
-
-Guía práctica según tu uso real.
-
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
-
-### C?mo mejorar tu Wi?Fi
-
-Pasos reales para mejorar señal en casa.
-
-[](/blog/red-estable-home-office-mexico.html){.card}
-
-### Red estable para home office
-
-Guia completa para evitar cortes y priorizar trabajo remoto.
+- Para entender la velocidad que necesitas, checa [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
+- Para optimizar tu router, lee [cómo ajustar tu router para mejorar la velocidad](/blog/ajustes-router-mejorar-velocidad-internet.html).
+- Si tu internet está fallando, revisa [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
 :::
-:::
-
-------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 27 de diciembre de 2025 • [Metodología](/metodologia/)
+**Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
 :::
 :::

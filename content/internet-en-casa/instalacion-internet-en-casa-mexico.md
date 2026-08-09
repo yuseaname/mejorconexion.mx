@@ -1,98 +1,120 @@
 ---
-title: "Instalación de internet en casa en México: qué esperar (2025)"
+title: "Instalación de internet en casa en México: qué esperar (2026)"
 slug: "instalacion-internet-en-casa-mexico"
 date: 2026-01-01
-description: "Qué pasa en una instalación de internet en casa en México (fibra/coaxial/inalámbrico): tiempos, cableado, pruebas y checklist para que quede bien a la primera."
+description: "Qué pasa en una instalación de internet en México (fibra, coaxial o inalámbrico): tiempos, cableado, pruebas, qué revisar antes de firmar y checklist final."
 draft: false
-image: "/images/generated/mejorconexion-mx-internet-en-casa-index-html-hero-bfb68d99.webp"
+image: "/images/topic-provider-comparison.webp"
 ---
+
 ::: container
 ::: breadcrumbs
-[Inicio](/) / [Internet en casa](/internet-en-casa/) / Instalación
+[Inicio](/) / [Internet en casa](/internet-en-casa.html) / Instalación
 :::
 
-# Instalación de internet en casa en México: qué esperar
-
-Para que tu internet quede "bien desde el día 1", la instalación importa. Aquí tienes un checklist simple: qué preguntar, qué revisar y qué pruebas hacer antes de que se vaya el técnico.
+La instalación de internet en México varía según la tecnología (fibra, cable o inalámbrico), el proveedor y tu vivienda. Esta guía explica qué esperar, cuánto tarda, qué cablean y qué debes revisar antes de que el técnico se vaya.
 
 ::: {.ad-slot ad-slot="after-intro"}
 :::
 
 ::: section
-## Antes de la visita
+## Tipos de instalación según tecnología
 
--   Define dónde quieres el módem/router (ideal: zona céntrica).
--   Ten claro si necesitas cable para PC/TV/consola.
--   Pregunta por tiempos y si hay costo de instalación.
+### Fibra óptica
+
+El técnico tira un cable de fibra desde la calle hasta el interior de tu casa. Necesita llegar al punto donde pondrán el módem (ONT). Puede requerir perforar una pared o pasar el cable por una ventana.
+
+- Tiempo: 2-4 horas en promedio.
+- Requiere: acceso al techo o fachada, un punto de corriente cerca del módem.
+- Deja: un cable delgado (menos visible que el coaxial).
+
+### Cable coaxial
+
+El técnico conecta un cable coaxial desde la acometida exterior hasta tu módem. Si ya hay cableado de TV, puede aprovecharlo.
+
+- Tiempo: 1-3 horas.
+- Requiere: acometida de cable en el edificio o casa.
+- Deja: un cable negro más grueso que la fibra.
+
+### Internet inalámbrico (4G/5G fijo)
+
+El técnico entrega un módem que se enchufa a la corriente. No requiere cableado exterior.
+
+- Tiempo: 15-30 minutos.
+- Requiere: buena señal celular en tu casa.
+- Deja: solo el módem y su cable de corriente.
 :::
 
-::: section
-## Durante la instalación (lo que sí debes revisar)
-
-1.  **Ubicación del equipo:** evita esquinas y muebles cerrados.
-2.  **Cableado:** que quede ordenado y sin tensiones raras.
-3.  **Prueba por cable:** si se puede, para ver velocidad "real".
-4.  **Prueba por Wi‑Fi:** en tus zonas de uso (recámara, sala, etc.).
-:::
+<!-- ADSENSE_BREAK -->
 
 ::: section
-## Después (para confirmar que quedó bien)
+## Antes de la instalación: qué preparar
 
-Haz 2--3 pruebas a distintas horas (incluida la noche). Si de noche cae fuerte, puede ser congestión en la zona.
-
-Guía recomendada: [cómo medir la velocidad real](/guias/como-medir-velocidad-real-internet/).
+1. **Decide dónde quieres el módem.** Debe estar en zona central de la casa, con corriente y preferiblemente cerca de donde más usas internet.
+2. **Despeja el área** donde el técnico va a trabajar (saca muebles, libera accesos).
+3. **Ten lista tu identificación** oficial y el número de contrato.
+4. **Si vives en renta o condominio**, confirma con la administración que permiten la instalación.
+5. **Pide que el técnico deje el cable lo más limpio posible.** Si no lo pides, lo van a dejar donde sea más rápido para ellos.
 :::
 
 ::: {.ad-slot ad-slot="mid-content"}
 :::
 
+<!-- ADSENSE_BREAK -->
+
 ::: section
-## Enlaces recomendados
+## Durante la instalación: qué revisar
 
--   [UP: Mejor internet en México](/internet-en-casa/mejor-internet-mexico/)
--   [SIDEWAYS: Comparar compañías](/internet-en-casa/companias-internet-mexico/)
--   [SIDEWAYS: Internet sin contrato](/internet-en-casa/internet-sin-contrato-mexico/)
--   [DOWNSTREAM: qué hacer si está lento](/guias/que-hacer-si-internet-lento/)
+1. **Pide ver la velocidad por cable.** El técnico puede hacer una prueba de velocidad conectando una laptop por Ethernet al módem.
+2. **Verifica que el Wi-Fi llega a las habitaciones principales.** Camina con tu celular y checa la señal.
+3. **Pregunta por la contraseña del Wi-Fi y del panel del módem.** Cámbiala si puedes.
+4. **Pregunta qué hacer si se cae el servicio.** Anota el número de soporte.
+5. **No firmes el acta de instalación** hasta que hayas probado que el internet funciona.
 :::
 
-::: {.ad-slot ad-slot="before-faq"}
+::: section
+## Después de la instalación: checklist
+
+- [ ] El módem está en una zona central, no escondido ni encajonado.
+- [ ] Probaste la velocidad por cable y se acerca a lo contratado.
+- [ ] El Wi-Fi llega a las habitaciones principales con señal decente.
+- [ ] Tienes la contraseña del Wi-Fi y del panel del módem.
+- [ ] Sabes el número de soporte técnico.
+- [ ] Guardaste el acta o folio de instalación.
+- [ ] Si la velocidad no es correcta, agendaste una revisión.
+
+Si después de la instalación el internet va lento, lee [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
 :::
 
-::: {.section .callout related-block="" style="margin-top:18px"}
-## Siguiente lectura
+::: section
+## Preguntas frecuentes
 
-[Mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico/)
+### ¿Cuánto tarda la instalación de fibra?
 
-Comparativa práctica por tecnología y uso.
+Normalmente 2-4 horas. Si requiere obra civil (tirar cable desde muy lejos), puede tardar más o requerir dos visitas.
+
+### ¿El técnico configura el Wi-Fi?
+
+Sí, pero la configuración por defecto suele ser básica. Conviene que tú cambies el nombre de la red, la contraseña y separes las bandas (2.4 y 5 GHz). Lee [cómo mejorar tu Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
+
+### ¿Puedo pedir que pongan el módem donde yo quiera?
+
+Sí, dentro de lo razonable. Si el cable llega, el técnico lo instala donde pidas. Pero si pides un punto lejano, puede que la señal no llegue bien desde la calle.
+
+### ¿Qué pasa si no llega la velocidad contratada?
+
+Si por cable Ethernet mides significativamente menos de lo que pagas, llama a soporte. Tienes derecho a que funcione lo que contrataste.
 :::
 
 ::: {.section related-block="" style="margin-top:18px"}
-## Artículos relacionados
+## Sigue aprendiendo
 
-::: {.grid .two}
-[](/internet-en-casa/){.card}
-
-### Internet en casa
-
-Hub con comparativas y guías clave.
-
-[](/guias/cuantos-mbps-necesito/){.card}
-
-### ¿Cu?ntos Mbps necesito?
-
-Guía práctica según tu uso real.
-
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
-
-### C?mo mejorar tu Wi?Fi
-
-Pasos reales para mejorar señal en casa.
+- Para optimizar tu Wi-Fi después de la instalación, checa [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
+- Para entender qué velocidad necesitas, lee [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
+- Si tu internet llegó lento, revisa [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
 :::
-:::
-
-------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 27 de diciembre de 2025 • [Metodología](/metodologia/)
+**Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
 :::
 :::
