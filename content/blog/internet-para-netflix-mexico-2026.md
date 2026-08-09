@@ -4,7 +4,7 @@ slug: "internet-para-netflix-mexico-2026"
 date: 2026-08-09
 description: "Cuántos Mbps necesitas para Netflix en México (1080p y 4K), qué proveedores dan mejor streaming y cómo eliminar el buffering para siempre."
 draft: false
-image: "/images/generated/home-office-cdmx.webp"
+image: "/images/generated/hero-internet-netflix.png"
 ---
 
 ::: container

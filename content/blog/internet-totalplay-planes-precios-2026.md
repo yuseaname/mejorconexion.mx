@@ -4,7 +4,7 @@ slug: "internet-totalplay-planes-precios-2026"
 date: 2026-08-09
 description: "Totalplay en 2026: planes, precios en MXN, cobertura de fibra, ventajas, desventajas y qué revisar antes de contratar. Guía completa sin humo."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/hero-internet-totalplay.png"
 ---
 
 ::: container

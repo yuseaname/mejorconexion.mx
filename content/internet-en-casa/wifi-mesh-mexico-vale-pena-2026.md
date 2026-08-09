@@ -4,7 +4,7 @@ slug: "wifi-mesh-mexico-vale-pena-2026"
 date: 2026-08-09
 description: "WiFi mesh en México: qué es, cuándo conviene vs repetidor o router, precios en MXN, marcas con soporte local y si realmente mejora tu internet o es marketing."
 draft: false
-image: "/images/topic-router-wifi.webp"
+image: "/images/generated/hero-wifi-mesh.png"
 ---
 
 ::: container

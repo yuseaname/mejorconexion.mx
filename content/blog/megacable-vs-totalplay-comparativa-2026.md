@@ -4,7 +4,7 @@ slug: "megacable-vs-totalplay-comparativa-2026"
 date: 2026-08-09
 description: "Megacable vs Totalplay en México 2026: comparativa de tecnología, velocidad, precios, estabilidad y cobertura. Cuál elegir según tu zona y uso real."
 draft: false
-image: "/images/generated/hero-telcel-att-movistar.webp"
+image: "/images/generated/hero-megacable-vs-totalplay.png"
 ---
 
 ::: container

@@ -4,7 +4,7 @@ slug: "test-velocidad-internet-mexico"
 date: 2026-08-09
 description: "Cómo hacer un test de velocidad de internet bien en México: por cable, por Wi-Fi, en horario pico. Qué significan descarga, subida, ping y qué hacer si es lento."
 draft: false
-image: "/images/generated/speed-test-cdmx.webp"
+image: "/images/generated/hero-test-velocidad.png"
 ---
 
 ::: container
