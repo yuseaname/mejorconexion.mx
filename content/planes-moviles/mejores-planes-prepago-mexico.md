@@ -1,156 +1,119 @@
 ---
-title: "Mejores planes prepago en México: cómo elegir (2025)"
+title: "Mejores planes prepago en México: cómo elegir (2026)"
 slug: "mejores-planes-prepago-mexico"
 date: 2026-01-01
-description: "Guía práctica para elegir prepago en México: vigencia, datos reales, redes incluidas, hotspot y letras chiquitas. Comparativa por perfiles de uso."
+description: "Cómo elegir el mejor plan prepago en México: Telcel Amigo, AT&T, Movistar y alternativas. Compara GB, cobertura, hotspot, vigencia y cuándo conviene prepago."
 draft: false
 image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
+
 ::: container
 ::: breadcrumbs
-[Inicio](/) / [Planes móviles](/planes-moviles/) / Mejores planes prepago
+[Inicio](/) / [Planes móviles](/planes-moviles.html) / Planes prepago
 :::
 
-# Mejores planes prepago en México (cómo elegir sin fallar)
-
-El prepago en México está lleno de "gigas", "apps incluidas" y promociones. La clave es elegir por **vigencia** y por **tu uso real**, no por la cifra más grande.
+El prepago en México te da control total: pagas antes de usar, sin contrato y sin compromiso. Pero elegir bien requiere comparar más que el precio del paquete — la cobertura, los GB reales, la vigencia y el roaming importan tanto como el costo.
 
 ::: {.ad-slot ad-slot="after-intro"}
 :::
 
 ::: section
-## La mejor opción para...
+## Prepago vs pospago: cuándo conviene cada uno
 
-::: {.grid .three}
-::: card
-### Uso ligero
+| Criterio | Prepago | Pospago |
+|---|---|---|
+| Compromiso | Ninguno | 12-24 meses a menudo |
+| Mejor precio por GB | Menor | Mayor (planes grandes) |
+| Flexibilidad | Total | Limitada |
+| Roaming EUA/Canadá | Depende del paquete | Suele incluir |
+| Mejor para | Uso ligero, variable o temporal | Uso constante y alto |
 
-WhatsApp, Maps, banca y redes de vez en cuando. Te conviene vigencia y señal estable en tu zona.
+Si gastas menos de $200 MXN al mes en recargas, prepago casi siempre conviene. Si siempre te quedas sin datos antes de fin de mes, un plan pospago sale mejor.
 :::
 
-::: card
-### Uso medio
-
-Streaming ocasional, videollamadas, Uber/DiDi. Necesitas datos "de verdad", no solo apps incluidas.
-:::
-
-::: card
-### Uso pesado
-
-Hotspot, video diario, chamba móvil. Prioriza hotspot, uso justo y cobertura.
-:::
-:::
-:::
+<!-- ADSENSE_BREAK -->
 
 ::: section
-## Tabla de decisión rápida
+## Qué comparar en planes prepago
 
-::: {.table-wrap role="region" aria-label="Tabla para elegir prepago" tabindex="0"}
-  Qué revisar              Por qué importa                                                     Señal de alerta                                 Tip mexicano (real)
-  ------------------------ ------------------------------------------------------------------- ----------------------------------------------- ---------------------------------------------------------
-  **Vigencia**             Tu costo real es "precio / días".                                   Paquete barato pero dura muy poco.              Si te la vives recargando, no era el paquete correcto.
-  **GB para navegación**   Son los que se acaban con video, videollamadas y actualizaciones.   Mucho "apps ilimitadas" pero pocos GB reales.   Un TikTok/YouTube diario se traga los datos sin avisar.
-  **Hotspot**              Si compartes internet a laptop, aquí se define tu experiencia.      Limitado o con reducción fuerte.                Para home office en café o cowork, es clave.
-  **Cobertura**            De nada sirve el "mejor paquete" si en tu casa no entra la señal.   Señal buena afuera, mala adentro.               Pregunta a alguien de tu edificio/colonia, neta ayuda.
-:::
-:::
-
-::: {.section .decision-links editorial-links="true"}
-**Dónde ver opciones reales:** páginas oficiales con información y condiciones vigentes.
-
--   [Telcel (sitio oficial)](https://www.telcel.com/personas/planes-de-renta){rel="nofollow noopener" target="_blank"}
--   [AT&T México (sitio oficial)](https://www.att.com.mx/){rel="nofollow noopener" target="_blank"}
--   [Movistar (planes y paquetes)](https://www.movistar.com.mx/planes/){rel="nofollow noopener" target="_blank"}
-
-**Nota sin humo:** disponibilidad y condiciones pueden cambiar.
-:::
-
-::: section
-## Pros y contras
-
-::: {.grid .two}
-::: card
-### Pros
-
--   Control total del gasto (no te llevas sorpresas).
--   Flexibilidad para cambiar si no te funciona.
--   Ideal para segunda línea (eSIM) o para familiares.
-:::
-
-::: card
-### Contras
-
--   Si eliges mal la vigencia, terminas pagando más al mes.
--   Las condiciones de "apps incluidas" pueden ser confusas.
--   Si tu uso es pesado, el prepago se te puede ir rápido.
-:::
-:::
+1. **GB incluidos:** cuántos datos trae el paquete y si son "ilimitados" (a veces reducen velocidad).
+2. **Vigencia:** cuántos días dura el paquete (7, 15, 30 días).
+3. **Redes sociales ilimitadas:** algunas recargas incluyen WhatsApp, Facebook o Instagram sin consumir datos.
+4. **Hotspot:** si puedes compartir datos con otros dispositivos.
+5. **Cobertura:** qué tanta señal tiene el operador en tu zona.
+6. **Roaming:** si incluye uso en EUA y Canadá.
 :::
 
 ::: {.ad-slot ad-slot="mid-content"}
 :::
 
 ::: section
-## Lo que debes saber antes de comprar el paquete
+## Operadores prepago en México
 
--   **Define tu uso:** ¿video diario? ¿videollamadasí ¿hotspot?
--   **Checa cobertura en tu zona:** casa y trabajo, y dentro del edificio.
--   **Ojo con "ilimitado":** casi siempre hay uso justo o límites por hotspot.
--   **Ten plan B:** si dependes de tu cel para trabajar, una eSIM de respaldo puede salvarte.
+### Telcel Amigo
 
-Relacionado: [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar/)
+Mayor cobertura nacional. Ideal si viajas fuera de ciudades o vives en zona semiurbana. Los paquetes suelen ser ligeramente más caros pero la cobertura compensa.
+
+### AT&T Prepago
+
+Buena relación precio-GB en ciudades principales. Cobertura menor que Telcel en zonas rurales.
+
+### Movistar Prepago
+
+Precios competitivos, promociones agresivas. Cobertura la más limitada de los tres fuera de ciudades.
+
+### Alternativas (MVNO)
+
+Marcas como Unefón, Virgin Mobile o altán usan la red de los grandes y pueden ser más baratas. Pero la prioridad de tráfico puede ser menor en horario pico.
+
+Para una comparación completa entre los tres grandes, lee [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar.html).
+:::
+
+::: section
+## Errores comunes en prepago
+
+### Comprar la recarga más barata sin revisar GB
+
+Una recarga de $50 MXN puede dar 1 GB y durar 3 días. Otra de $100 MXN puede dar 3 GB y durar 15 días. Compara costo por GB y por día.
+
+### No activar redes sociales ilimitadas
+
+Algunos paquetes incluyen WhatsApp o Facebook sin consumir datos, pero hay que activarlos desde la app del operador. Si no lo haces, tus GB se consumen más rápido.
+
+### Cambiar de operador sin verificar cobertura
+
+50 GB no sirven sin señal. Antes de cambiar, pide un SIM de prueba o pregunta a vecinos qué cobertura tienen.
 :::
 
 ::: section
 ## Preguntas frecuentes
 
-**¿Qué significa que "incluye redes sociales"?**
+### ¿Cuál es el prepago más barato en México?
 
-Normalmente significa que cierta app no consume tus GB "principales", pero puede haber reglas (calidad de video, uso justo, vigencia). Revisa el detalle del paquete.
+Movistar y AT&T suelen tener opciones desde $100 MXN/mes. Pero el más barato no conviene si la cobertura en tu zona es mala.
 
-**¿Cuántos GB necesito al mes?**
+### ¿Los datos ilimitados del prepago son de verdad ilimitados?
 
-Depende de video y hotspot. Si haces videollamadas y ves video diario, sube rápido. Como referencia práctica, lo ideal es medir una semana tu consumo y multiplicar.
-:::
+Algunos paquetes son "ilimitados" pero reducen la velocidad después de cierto consumo (por ejemplo, a 128 Kbps después de 5 GB). Lee la letra pequeña.
 
-::: {.ad-slot ad-slot="before-faq"}
-:::
+### ¿Puedo usar mi prepago en EUA y Canadá?
 
-::: {.section .callout related-block="" style="margin-top:18px"}
-## Siguiente lectura
+Algunos paquetes de Telcel y AT&T incluyen roaming en EUA y Canadá. Otros no. Verifica antes de viajar.
 
-[Mejores planes móviles en México](/planes-moviles/mejores-planes-mexico/)
+### ¿Conviene recargar cada mes o comprar paquete anual?
 
-Comparativa por uso y relaci?n precio/beneficio.
+Algunos operadores ofrecen descuentos si compras varios meses por adelantado. Si tu consumo es constante, puede ahorrar $20-$50 MXN al mes.
 :::
 
 ::: {.section related-block="" style="margin-top:18px"}
-## Artículos relacionados
+## Sigue aprendiendo
 
-::: {.grid .two}
-[](/planes-moviles/){.card}
-
-### Planes móviles
-
-Hub con comparativas y guías móviles.
-
-[](/planes-moviles/telcel-vs-att-vs-movistar/){.card}
-
-### Telcel vs AT&T vs Movistar
-
-Cobertura, costos y qui?n conviene.
-
-[](/esim/mejor-esim-mexico/){.card}
-
-### Mejor eSIM en México
-
-Compatibilidad, redes y soporte.
+- Para comparar los tres grandes en detalle, checa [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar.html).
+- Para elegir entre prepago y pospago, lee [mejores planes móviles en México](/planes-moviles/mejores-planes-mexico.html).
+- Para entender cuántos datos necesitas, revisa [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
 :::
-:::
-
-------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 27 de diciembre de 2025 • [Metodología](/metodologia/) • [Ver eSIM](/esim-viajeros/mejor-esim-para-mexico/)
+**Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: [Telcel Amigo](https://www.telcel.com/personas/amigo){rel="nofollow noopener" target="_blank"}
 :::
 :::
