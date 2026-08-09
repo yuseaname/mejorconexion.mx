@@ -14,8 +14,6 @@ image: "/images/generated/hero-telcel-att-movistar.webp"
 [Inicio](/) / [Planes móviles](/planes-moviles.html) / Mejores planes móviles
 :::
 
-# Mejores planes móviles en México (cómo elegir)
-
 Elegir un plan móvil en México parece simple hasta que te das cuenta que cada proveedor suma "beneficios" que no necesitas. Aquí está cómo elegir con datos reales: cobertura en tu zona, GB que de verdad vas a usar, hotspot, roaming a EUA y Canadá, y cuándo conviene más el prepago.
 
 ::: {.ad-slot ad-slot="after-intro"}

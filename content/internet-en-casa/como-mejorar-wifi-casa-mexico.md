@@ -12,8 +12,6 @@ image: "/images/topic-router-wifi.webp"
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Mejorar Wi-Fi
 :::
 
-# Cómo mejorar el Wi-Fi en casa (sin cambiar de proveedor)
-
 Si tu internet va lento, antes de llamar a tu proveedor o contratar más megas, checa esto: el 80% de los problemas de internet en casa no son del proveedor — son del Wi-Fi. Una mala ubicación del router, la banda equivocada o un equipo viejo pueden estar matando tu velocidad.
 
 ::: {.ad-slot ad-slot="after-intro"}

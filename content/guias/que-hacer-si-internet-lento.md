@@ -12,8 +12,6 @@ image: "/images/generated/speed-test-cdmx.webp"
 [Inicio](/) / [Guías](/guias.html) / Internet lento
 :::
 
-# Qué hacer si tu internet está lento (sin entrar en pánico)
-
 Tu internet está lento y no sabes por qué. Antes de llamar a tu proveedor y quejarte, recorre esta lista. El 80% de las veces el problema lo puedes resolver tú mismo en 10 minutos.
 
 ::: {.ad-slot ad-slot="after-intro"}
