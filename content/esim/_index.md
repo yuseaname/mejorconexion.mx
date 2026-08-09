@@ -2,6 +2,8 @@
 title: "eSIM en México: guías y comparativas"
 date: 2026-01-01
 description: ""
+aliases:
+  - "/internet-en-casa/esim-mexico-2026.html"
 draft: false
 ---
 ::: container

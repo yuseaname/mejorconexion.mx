@@ -9,6 +9,8 @@ keywords:
   - "comparar proveedores internet"
   - "Izzi vs Telmex"
   - "Totalplay vs Megacable"
+aliases:
+  - "/blog/izzi-vs-totalplay-telmex-megacable-comparativa-2026.html"
 draft: false
 image: "/images/generated/hero-telcel-att-movistar.webp"
 ---

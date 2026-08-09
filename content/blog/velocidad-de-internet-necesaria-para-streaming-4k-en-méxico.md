@@ -3,6 +3,8 @@ title: "Guía completa: velocidad de internet necesaria para streaming 4k en Mé
 slug: "velocidad-de-internet-necesaria-para-streaming-4k-en-méxico"
 date: 2026-05-29
 description: "Descubre cuál es el velocidad de internet necesaria para streaming 4k en México en 2026. Comparativa con precios reales, velocidades y cobertura."
+aliases:
+  - "/blog/velocidad-de-internet-necesaria-para-streaming-4k.html"
 draft: false
 image: "/images/generated/home-office-cdmx.webp"
 ---

@@ -3,6 +3,9 @@ title: "Cuál es el Mejor Internet en México 2026: Ranking de Proveedores"
 slug: "cual-es-el-mejor-internet-en-mexico-2026"
 date: 2026-05-26
 description: ""
+aliases:
+  - "/blog/mejor-internet-2026.html"
+  - "/internet-en-casa/comparativa-de-proveedores-de-internet-en-mexico-2026.html"
 draft: false
 image: "/images/topic-provider-comparison.webp"
 ---

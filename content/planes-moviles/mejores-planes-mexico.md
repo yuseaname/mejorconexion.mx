@@ -3,6 +3,8 @@ title: "Mejores planes móviles en México: cómo elegir (2025)"
 slug: "mejores-planes-mexico"
 date: 2026-01-01
 description: "Guía para elegir los mejores planes móviles en México según tu uso: cobertura, datos reales, hotspot, vigencia, y cuándo conviene prepago vs pospago."
+aliases:
+  - "/blog/planes-moviles-comparativa-2026.html"
 draft: false
 image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
