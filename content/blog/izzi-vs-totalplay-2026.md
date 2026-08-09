@@ -2,7 +2,7 @@
 title: "izzi vs Totalplay 2026: Comparativa Definitiva de Precios, Velocidad y Cobertura"
 slug: "izzi-vs-totalplay-2026"
 date: 2026-05-26
-description: ""
+description: "Izzi vs Totalplay 2026: comparativa de precios, velocidad, cobertura, estabilidad y atención al cliente en México. Cuál conviene según tu uso."
 draft: false
 image: "/images/topic-provider-comparison.webp"
 ---

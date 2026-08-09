@@ -2,7 +2,7 @@
 title: "Mejor Internet para Casa 2026: Guía Completa de Proveedores y Precios en México"
 slug: "mejor-internet-para-casa-2026"
 date: 2026-05-26
-description: ""
+description: "Mejor internet para casa en México 2026: guía por proveedor, tecnología, velocidad y presupuesto real. Compara fibra vs cable."
 draft: false
 image: "/images/topic-provider-comparison.webp"
 ---

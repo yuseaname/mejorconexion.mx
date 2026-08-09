@@ -2,7 +2,7 @@
 title: "Internet sin Contrato en México 2026: Opciones, Precios y Cómo Elegir"
 slug: "internet-sin-contrato-mexico-2026"
 date: 2026-05-26
-description: ""
+description: "Internet sin contrato en México 2026: opciones reales de prepago, 4G fijo y WISP sin plazo forzoso. Compara precios y velocidad."
 draft: false
 image: "/images/generated/planes-comparacion-mexico.webp"
 ---

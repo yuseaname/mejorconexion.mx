@@ -2,7 +2,7 @@
 title: "Mejor internet en CDMX: cómo elegir por zona (2026)"
 slug: "mejor-internet-cdmx"
 date: 2026-01-01
-description: ""
+description: "Mejor internet en CDMX 2026: proveedores disponibles por alcaldía, fibra vs cable, precios y cobertura. Guía sin humo para elegir."
 draft: false
 image: "/images/generated/mejorconexion-mx-cobertura-cdmx-mejor-internet-cdmx-index-html-hero-378e2b52.webp"
 ---

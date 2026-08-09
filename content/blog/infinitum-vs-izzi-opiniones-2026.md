@@ -2,7 +2,7 @@
 title: "Infinitum vs izzi 2026: Opiniones Reales, Precios y Cuál Elegir"
 slug: "infinitum-vs-izzi-opiniones-2026"
 date: 2026-05-26
-description: ""
+description: "Infinitum vs Izzi 2026: opiniones reales, cobertura, velocidad, precios y atención al cliente. Cuál conviene según tu zona."
 draft: false
 image: "/images/topic-provider-comparison.webp"
 ---

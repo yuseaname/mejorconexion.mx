@@ -2,7 +2,7 @@
 title: "¿Cuántos Mbps necesito? (guía fácil en México, 2025)"
 slug: "cuantos-mbps-necesito"
 date: 2026-01-01
-description: ""
+description: "Cuántos Mbps necesito: tabla por actividad (streaming, gaming, home office) y por número de personas en casa. Calcula tu velocidad ideal."
 draft: false
 image: "/images/generated/mejorconexion-mx-guias-cuantos-mbps-necesito-index-html-hero-b8c3d779.webp"
 ---
