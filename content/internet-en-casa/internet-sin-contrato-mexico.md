@@ -102,6 +102,24 @@ Algunos planes sí, otros no. Pregunta específicamente si es "ilimitado" o si h
 - Si quieres opciones baratas, revisa [internet barato en México](/internet-en-casa/internet-barato-mexico.html).
 :::
 
+
+
+::: section
+## Checklist final antes de decidir internet sin contrato
+
+Antes de pagar, ten respuestas claras para estas preguntas:
+
+- ¿La señal llega bien en las habitaciones donde más usas internet?
+- ¿El costo por Mbps es razonable comparado con un plan con contrato?
+- ¿Sabes qué pasa con el módem si cancelas?
+- ¿Hay un límite de datos que te puede afectar?
+- ¿Tienes un plan de respaldo por si la velocidad no basta?
+
+Si respondiste todo con seguridad, adelante. Si dudaste en alguna, investiga más antes de pagar.
+
+Para comparar con planes tradicionales, checa [mejores planes de internet en México](/internet-en-casa/mejor-internet-mexico.html).
+:::
+
 ::: meta-row
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
 :::
