@@ -119,6 +119,17 @@ Para entender nuestra metodología de comparación, lee cómo [evaluamos proveed
 
 :::
 
+::: section
+## Notas finales
+
+Esta guía se actualiza cuando cambian las condiciones del mercado, las promociones o la cobertura de los proveedores. La información aquí presentada es general y puede variar según tu zona específica.
+
+Si tienes dudas sobre tu caso particular, lo mejor es contactar directamente al proveedor con tu dirección y código postal. Ellos pueden confirmar qué tecnología y planes están disponibles en tu calle.
+
+Recuerda: el mejor internet no es el más caro ni el más publicitado. Es el que llega bien a tu domicilio, ofrece estabilidad cuando más lo necesitas y cuesta lo que dice costar sin sorpresas en el recibo.
+
+:::
+
 ::: meta-row
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
 :::
