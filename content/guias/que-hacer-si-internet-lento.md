@@ -1,93 +1,153 @@
 ---
-title: "Qué hacer si tu internet está lento (checklist rápido)"
+title: "Qué hacer si tu internet está lento: checklist sin pánico"
 slug: "que-hacer-si-internet-lento"
 date: 2026-01-01
-description: "Internet lento en México: checklist práctico para diagnosticar si el problema es tu Wi‑Fi, tu proveedor o el horario pico. Pasos claros y qué pedir al soporte."
+description: "Internet lento en México: checklist práctico para diagnosticar si el problema es tu Wi-Fi, tu proveedor o el horario pico. Pasos claros y qué pedir al soporte."
 draft: false
 image: "/images/generated/speed-test-cdmx.webp"
 ---
+
 ::: container
 ::: breadcrumbs
-[Inicio](/) / [Guías](/guias/) / Internet lento
+[Inicio](/) / [Guías](/guias.html) / Internet lento
 :::
 
 # Qué hacer si tu internet está lento (sin entrar en pánico)
 
-Antes de hablarle al soporte y perder una hora, haz este checklist. La idea es separar: ¿es tu Wi‑Fi?, ¿es el proveedor?, ¿o es horario pico?
+Tu internet está lento y no sabes por qué. Antes de llamar a tu proveedor y quejarte, recorre esta lista. El 80% de las veces el problema lo puedes resolver tú mismo en 10 minutos.
 
 ::: {.ad-slot ad-slot="after-intro"}
 :::
 
 ::: section
-## Checklist rápido (10--15 minutos)
+## Paso 1: Reiniciar el router (no solo apagar)
 
-1.  **Reinicia** módem/router (sí, pero hazlo bien: 20--30 segundos apagado).
-2.  **Prueba cerca del router** y luego desde donde normalmente usas internet.
-3.  **Si puedes, prueba por cable** en una compu.
-4.  **Repite en la noche**. Si solo falla de noche, es probable congestión/horario pico.
-5.  **Revisa quién está consumiendo**: TV, consolas, actualizaciones, cámara IP.
+Apagar y prender no es lo mismo que reiniciar. Un reinicio correcto limpia la memoria del router y restablece la conexión con el proveedor.
+
+1. **Apaga** el router (botón de power o desconecta el cable de corriente).
+2. **Espera 30 segundos** (no 5, no 10 — 30 completos).
+3. **Vuelve a encender** y espera 2-3 minutos a que todas las luces se estabilicen.
+4. **Prueba** la conexión.
+
+¿Mejoró? Era un problema temporal. ¿Sigue igual? Sigue al paso 2.
 :::
 
+<!-- ADSENSE_BREAK -->
+
 ::: section
-## Qué decirle al soporte (para que no te den vueltas)
+## Paso 2: Probar por cable vs Wi-Fi
 
--   "Ya probé por cable y por Wi‑Fi."
--   "Tengo pruebas a estas horas (incluida la noche)."
--   "Estos son mis resultados de descarga/subida/latencia."
--   "El problema se presenta en estos horarios / de forma intermitente."
+Esta es la prueba que separa "mi proveedor es malo" de "mi Wi-Fi es malo".
 
-Tip: tener 2--3 capturas de pruebas (mañana/noche) cambia la conversación.
+| Resultado por cable Ethernet | Resultado por Wi-Fi | Diagnóstico |
+|---|---|---|
+| Rápido | Lento | El problema es el Wi-Fi |
+| Lento | Lento | El problema es el proveedor o la conexión |
+| Rápido | Rápido | Ya se resolvió con el reinicio |
+
+Si no tienes un cable Ethernet a mano, acércate al router con tu celular y haz la prueba desde ahí. Si cerca del router va rápido pero lejos va lento, es tu Wi-Fi.
+
+Para arreglar tu Wi-Fi, lee [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {.ad-slot ad-slot="mid-content"}
 :::
 
-::: section
-## Enlaces útiles
+<!-- ADSENSE_BREAK -->
 
--   [Sideways: cómo medir la velocidad real](/guias/como-medir-velocidad-real-internet/)
--   [Downstream: mejor internet en México](/internet-en-casa/mejor-internet-mexico/)
--   [Siguiente paso: comparar compañías](/internet-en-casa/companias-internet-mexico/)
+::: section
+## Paso 3: Revisar qué está consumiendo tu ancho de banda
+
+Alguien en la casa puede estar descargando una actualización o viendo Netflix en 4K sin que tú lo sepas. Cada dispositivo conectado consume parte de tu velocidad total.
+
+1. Entra al panel de tu router (`192.168.1.1` o `192.168.0.1`).
+2. Busca "Dispositivos conectados" o "Dispositivos en red".
+3. Cuenta cuántos hay activos.
+4. Si hay dispositivos que no reconoces, alguien podría estar usando tu Wi-Fi sin permiso.
+
+**Un hogar mexicano promedio tiene 8-15 dispositivos conectados** (celulares, TV, consola, laptops, cámaras, asistentes inteligentes).
+:::
+
+::: section
+## Paso 4: Probar en distintos horarios
+
+Si tu internet va bien de día pero se arrastra en la noche (7-11 PM), es congestión del proveedor en tu zona. Eso lo confirma el siguiente patrón:
+
+| Hora | Velocidad | Qué significa |
+|---|---|---|
+| 10 AM | Rápido | La conexión llega bien |
+| 9 PM | Lento | Congestión del proveedor en horario pico |
+
+La congestión en horario pico no se arregla con más megas ni con un router nuevo. Se arregla cambiando a un proveedor con menos sobresuscripción en tu zona (a menudo, fibra dedicada vs cable compartido).
+
+Compara opciones en [nuestra guía de mejor internet en casa](/internet-en-casa/mejor-internet-en-casa-mexico.html).
+:::
+
+<!-- ADSENSE_BREAK -->
+
+::: section
+## Paso 5: Verificar que no sea un solo dispositivo
+
+A veces el internet en general va bien, pero un dispositivo específico (un celular viejo, una TV con Wi-Fi deficiente) se siente lento.
+
+Prueba en 2-3 dispositivos distintos. Si solo uno va lento, el problema es ese equipo, no tu conexión.
+
+::: section
+## Paso 6: Qué decirle a soporte técnico
+
+Si confirmaste que el problema es del proveedor (lento por cable en horario pico, o lento todo el día), llama a soporte. Ten listos estos datos:
+
+- **Velocidad contratada** (revisa tu recibo).
+- **Velocidad real medida** por cable (anota el número).
+- **Horario en que ocurre** (todo el día o solo noche).
+- **Cuánto tiempo lleva pasando** (días o semanas).
+- **Número de cuenta o de cliente.**
+
+Si el problema persiste y el proveedor no lo resuelve, puedes presentar una queja ante [PROFECO](https://www.gob.mx/profeco){rel="nofollow noopener" target="_blank"}. Lee nuestra guía sobre [cómo quejarte en PROFECO por internet](/blog/queja-profeco-internet-guia-2026.html).
+:::
+
+::: section
+## Resumen: el árbol de decisión
+
+1. ¿Reiniciaste el router bien (30 segundos)? → Si no, hazlo.
+2. ¿Probaste por cable? → Si por cable va bien, arregla tu Wi-Fi.
+3. ¿Revisaste dispositivos conectados? → Si hay demasiados, desconecta los que no uses.
+4. ¿Va lento solo en la noche? → Congestión del proveedor, considera cambiar.
+5. ¿Va lento siempre por cable? → Llama a soporte con datos, y si no resuelven, PROFECO.
 :::
 
 ::: {.ad-slot ad-slot="before-faq"}
 :::
 
-::: {.section .callout related-block="" style="margin-top:18px"}
-## Siguiente lectura
+::: section
+## Preguntas frecuentes
 
-[¿Cu?ntos Mbps necesito?](/guias/cuantos-mbps-necesito/)
+### ¿Por qué mi internet es lento en la noche?
 
-Guía práctica según tu uso real.
+Congestión: tu proveedor reparte el ancho de banda entre muchos usuarios. Cuando todos se conectan a la vez (7-11 PM), la velocidad baja para todos. Es más común en cable coaxial que en fibra.
+
+### ¿Debo contratar más megas?
+
+Solo si confirmaste que la velocidad que llega por cable es menor a la que pagas. Si el problema es Wi-Fi o congestión, más megas no ayudan.
+
+### ¿Sirve llamar a mi proveedor?
+
+Sí, si tienes datos (velocidad real vs contratada, horario del problema). Sin datos, el soporte técnico te va a pedir que reinicies el router y corten la llamada.
+
+### ¿Puedo cambiar de proveedor si tengo contrato?
+
+Sí, pero revisa las condiciones de cancelación. Algunos cobran penalización. Lee [cómo cambiar de proveedor de internet en México](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
 :::
 
 ::: {.section related-block="" style="margin-top:18px"}
-## Artículos relacionados
+## Sigue aprendiendo
 
-::: {.grid .two}
-[](/guias/){.card}
-
-### Guías
-
-Lecturas claras para decidir sin tecnicismos.
-
-[](/internet-en-casa/mejor-internet-en-casa-mexico/){.card}
-
-### Mejor internet en casa en México
-
-Comparativa práctica por tecnología y uso.
-
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
-
-### C?mo mejorar tu Wi?Fi
-
-Pasos reales para mejorar señal en casa.
+- Para optimizar tu router a fondo, checa [cómo ajustar tu router para mejorar la velocidad](/blog/ajustes-router-mejorar-velocidad-internet.html).
+- Si quieres medir bien tu velocidad, lee [cómo medir la velocidad real de tu internet](/guias/como-medir-velocidad-real-internet.html).
+- Para entender las unidades, revisa [la diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
 :::
-:::
-
-------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 27 de diciembre de 2025 • [Metodología](/metodologia/)
+**Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
 :::
 :::
