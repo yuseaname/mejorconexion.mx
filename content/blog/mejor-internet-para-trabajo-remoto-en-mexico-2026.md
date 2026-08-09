@@ -1,5 +1,6 @@
 ---
 title: "Mejor Internet para Trabajo Remoto en México 2026"
+description: "Mejor internet para trabajo remoto en México 2026: fibra vs cable, velocidad de subida y qué proveedores convienen."
 date: 2026-03-17
 draft: false
 slug: mejor-internet-para-trabajo-remoto-en-mexico-2026

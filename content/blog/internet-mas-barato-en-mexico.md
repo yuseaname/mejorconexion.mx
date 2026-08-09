@@ -1,5 +1,6 @@
 ---
 title: "Internet Más Barato en México: Guía 2026"
+description: "Internet más barato en México 2026: opciones reales sin trampas. Compara planes económicos con precios en MXN."
 date: 2026-03-17
 draft: false
 slug: internet-mas-barato-en-mexico

@@ -1,5 +1,6 @@
 ---
 title: "¿Qué Internet Falla Menos en México? Ranking 2026"
+description: "Qué internet falla menos en México: ranking 2026 con datos de PROFECO y mediciones. Compara estabilidad por proveedor."
 date: 2026-03-17
 draft: false
 slug: que-internet-falla-menos-en-mexico-ranking-2026
