@@ -1,137 +1,122 @@
 ---
-title: "Fibra vs coaxial en México: diferencias y cuál conviene (2025)"
+title: "Fibra vs coaxial en México: diferencias y cuál conviene (2026)"
 slug: "fibra-vs-coaxial-mexico"
 date: 2026-01-01
-description: ""
+description: "Fibra óptica vs cable coaxial en México: qué es cada uno, diferencias de velocidad, estabilidad, subida y latencia. Tabla comparativa y cuándo elegir cada uno."
 draft: false
-image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.png"
+image: "/images/topic-provider-comparison.webp"
 ---
+
 ::: container
 ::: breadcrumbs
-[Inicio](/) / [Internet en casa](/internet-en-casa/) / Fibra vs coaxial
+[Inicio](/) / [Internet en casa](/internet-en-casa.html) / Fibra vs coaxial
 :::
 
-# Fibra vs coaxial en México
-
-![Realistic photo illustrating Fibra vs coaxial en México](/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp){slot-id="575bb60aca64e7aa" decoding="async" fetchpriority="high" height="1024" loading="eager" width="1536"}
-
-La comparación real no es "cuál es más rápido en un anuncio", sino cuál se mantiene estable en la noche, cuál sube mejor y cuál te da menos broncas en videollamadas.
+La fibra óptica transmite datos por pulsos de luz a través de un cable de vidrio. El cable coaxial los transmite por señal eléctrica a través de un cable de cobre. Para internet en casa, la fibra suele ofrecer mayor velocidad, mejor estabilidad y más velocidad de subida — pero la diferencia real depende de qué esté bien instalado en tu calle.
 
 ::: {.ad-slot ad-slot="after-intro"}
 :::
 
 ::: section
-## Respuesta práctica
+## Diferencias clave
 
-::: {.grid .three}
-::: card
-### Si hay fibra
+| Aspecto | Fibra óptica | Cable coaxial |
+|---|---|---|
+| Material | Cable de vidrio | Cable de cobre |
+| Velocidad máxima | Hasta 1 Gbps+ | Hasta 500 Mbps (típicamente) |
+| Velocidad de subida | Alta (a menudo simétrica) | Baja (asimétrica) |
+| Latencia | Menor (5-20 ms) | Mayor (15-40 ms) |
+| Estabilidad en horario pico | Alta | Media-baja |
+| Degradación por distancia | Mínima | Mayor |
+| Interferencia electromagnética | Nula | Presente |
 
-Normalmente conviene por estabilidad y subida, especialmente en home office.
+Si tienes la opción de fibra en tu calle, casi siempre conviene. El coaxial puede ser aceptable si está bien mantenido, pero la fibra es tecnología superior para uso residencial.
 :::
 
-::: card
-### Si solo hay coaxial
-
-Puede funcionar muy bien, pero valida horario pico (noche) antes de decidir.
-:::
-
-::: card
-### Si tu zona es "variable"
-
-Lo que diga un vecino con pruebas vale más que cualquier promesa de velocidad.
-:::
-:::
-:::
+<!-- ADSENSE_BREAK -->
 
 ::: section
-## Comparativa rápida
+## Qué proveedores usan qué tecnología
 
-::: {.table-wrap aria-label="Tabla fibra vs coaxial" role="region" tabindex="0"}
-  Factor               Fibra                                          Coaxial (HFC)
-  -------------------- ---------------------------------------------- --------------------------------------------------
-  **Estabilidad**      Suele ser más consistente.                     Puede variar más en horario pico.
-  **Subida**           Generalmente mejor.                            A veces más limitada (depende del plan).
-  **Latencia**         Normalmente mejor para videollamadas/juegos.   Puede ser buena, pero más sensible a congestión.
-  **Disponibilidad**   No está en todas las colonias.                 Puede estar donde aún no llega fibra.
-:::
-:::
+| Proveedor | Fibra | Cable coaxial | Notas |
+|---|---|---|---|
+| Totalplay | Principal | — | Mayormente fibra desde la central |
+| Telmex (Infinitum) | En expansión | Cobres antiguos en algunas zonas | La calidad depende de si ya llegaron con fibra |
+| Izzi | En algunas zonas | Principal | HFC (híbrido fibra-coaxial) |
+| Megacable | En algunas zonas | Principal | HFC según localidad |
 
-::: {.section .decision-links editorial-links="true"}
-**Dónde ver opciones reales:** páginas oficiales con información y condiciones vigentes.
-
--   [Telmex (fibra/paquetes)](https://telmex.com/web/hogar/paquetes-de-internet){rel="nofollow noopener" target="_blank"}
--   [izzi (coaxial/paquetes)](https://www.izzi.mx/paquetes){rel="nofollow noopener" target="_blank"}
--   [Megacable (internet)](https://www.megacable.com.mx/servicios/internet){rel="nofollow noopener" target="_blank"}
-
-**Nota sin humo:** disponibilidad y condiciones pueden cambiar.
-:::
-
-::: section
-## Qué revisar antes de contratar
-
--   **Prueba en la noche:** ahí se nota la congestión.
--   **Subida real:** si haces videollamadas, manda archivos o subes contenido, te afecta.
--   **Tu Wi‑Fi:** si el router está mal ubicado, cualquier tecnología "se siente lenta".
--   **Contrato y penalización:** evita sorpresas al cancelar.
+La misma marca puede usar tecnología distinta según la zona. **Pregunta qué tecnología instalarían específicamente en tu domicilio.**
 :::
 
 ::: {.ad-slot ad-slot="mid-content"}
 :::
 
+<!-- ADSENSE_BREAK -->
+
 ::: section
-## Rutas recomendadas (UP / SIDEWAYS / DOWNSTREAM)
+## Cuándo elegir fibra
 
--   [UP: Mejor internet en México (guía nacional)](/internet-en-casa/mejor-internet-mexico/)
--   [SIDEWAYS: Fibra vs inalámbrico (4G/5G)](/internet-en-casa/fibra-vs-inalambrico-mexico/)
--   [SIDEWAYS: Comparar compañías de internet](/internet-en-casa/companias-internet-mexico/)
--   [DOWNSTREAM: Cómo medir la velocidad real](/guias/como-medir-velocidad-real-internet/)
+Elige fibra si:
+
+- Está disponible en tu calle (verifica con el proveedor).
+- Haces videollamadas frecuentes o home office.
+- Ve streaming en 4K con varios dispositivos a la vez.
+- Juegas online y necesitas baja latencia.
+- Quieres velocidad de subida decente para subir archivos o hacer backups.
+
+## Cuándo el coaxial puede bastar
+
+El coaxial puede ser suficiente si:
+
+- No hay fibra disponible en tu calle.
+- Tu uso es navegación, redes sociales y streaming en HD (1080p).
+- No haces videollamadas largas ni juegas online competitivamente.
+- El precio del cable es significativamente menor.
 :::
 
-::: {.ad-slot ad-slot="before-faq"}
+::: section
+## Cómo saber qué tienes instalado
+
+Si ya tienes internet y no sabes si es fibra o coaxial:
+
+1. **Checa el cable que entra a tu casa.** Si es un cable delgado y blanco/amarillo que parece hilo, probablemente es fibra. Si es un cable coaxial negro grueso (como el de TV por cable), es coaxial.
+2. **Pregunta a tu proveedor** qué tecnología usan en tu zona.
+3. **Mide la velocidad de subida.** Si es casi igual a la de descarga (simétrica), es probable que sea fibra. Si es mucho menor, probablemente es coaxial.
+
+Para entender más sobre la velocidad, lee [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
 :::
 
-::: {.section .callout related-block="" style="margin-top:18px"}
-## Siguiente lectura
+<!-- ADSENSE_BREAK -->
 
-[Mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico/)
+::: section
+## Preguntas frecuentes
 
-Comparativa práctica por tecnología y uso.
+### ¿La fibra es siempre mejor que el cable?
+
+En términos de tecnología, sí. Pero una fibra mal instalada o mal configurada puede funcionar peor que un cable coaxial bien mantenido. La calidad de la instalación importa tanto como la tecnología.
+
+### ¿Puedo pedir que cambien mi cable coaxial por fibra?
+
+Si tu proveedor ya tiene fibra en tu zona, sí. Llama y pide el cambio. Puede tener costo de instalación o requerir una visita técnica.
+
+### ¿El coaxial se va a desaparecer?
+
+Los proveedores están migrando a fibra, pero el coaxial seguirá existiendo en zonas donde la migración no es rentable. Aún hay millones de hogares en México con coaxial.
+
+### ¿La fibra necesita mantenimiento?
+
+Casi none. La fibra es más resistente a interferencias y degradación que el cobre. Pero el equipo (router, ONT) sí puede necesitar actualizaciones de firmware.
 :::
 
 ::: {.section related-block="" style="margin-top:18px"}
-## Artículos relacionados
+## Sigue aprendiendo
 
-::: {.grid .two}
-[](/internet-en-casa/){.card}
-
-### Internet en casa
-
-Hub con comparativas y guías clave.
-
-[](/guias/cuantos-mbps-necesito/){.card}
-
-### ¿Cu?ntos Mbps necesito?
-
-Guía práctica según tu uso real.
-
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
-
-### C?mo mejorar tu Wi?Fi
-
-Pasos reales para mejorar señal en casa.
-
-[](/blog/fibra-optica-vs-cable-mexico.html){.card}
-
-### Fibra optica vs cable en Mexico
-
-Diferencias reales para elegir proveedor y tecnologia.
+- Para entender otras tecnologías, checa [fibra vs inalámbrico fijo](/internet-en-casa/fibra-vs-inalambrico-mexico.html).
+- Para comparar proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
+- Si quieres saber cuántos Mbps necesitas, revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
-:::
-
-------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 27 de diciembre de 2025 • [Metodología](/metodologia/)
+**Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
 :::
 :::
