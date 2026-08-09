@@ -12,8 +12,6 @@ image: "/images/topic-router-wifi.webp"
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Inalámbrico fijo
 :::
 
-# Internet inalámbrico fijo en México (4G/5G)
-
 El internet inalámbrico fijo es un módem router que se conecta a la red celular (4G o 5G) en lugar de usar cable de fibra o coaxial. En México es una opción real cuando no hay infraestructura terrestre en tu calle o cuando quieres algo rápido de instalar sin obra civil.
 
 <!-- ADSENSE_BREAK -->
