@@ -59,6 +59,14 @@
     {{ end }}
 
     {{ partial "related-posts.html" . }}
+
+    {{/* Article trust strip */}}
+    <nav class="article-trust-strip" aria-label="Trust and methodology">
+      <span class="article-trust-label">Confianza:</span>
+      <a href="/metodologia.html" class="article-trust-link">Metodología</a>
+      <a href="/transparencia.html" class="article-trust-link">Transparencia</a>
+      <a href="/corrections.html" class="article-trust-link">Correcciones</a>
+    </nav>
   </div>
 </article>
 {{ end }}
