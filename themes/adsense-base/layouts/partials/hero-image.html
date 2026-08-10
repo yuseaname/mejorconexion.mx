@@ -1,19 +1,15 @@
-{{- /* hero-image.html — performance-optimized article hero */ -}}
+{{- /* hero-image.html — performance-optimized article hero using responsive-image partial */ -}}
 {{ $image := .Params.image }}
 {{ if $image }}
-  <figure class="hero-figure article-hero">
-    <img
-      src="{{ $image }}"
-      alt="{{ .Params.image_alt | default .Title }}"
-      width="1200"
-      height="630"
-      loading="eager"
-      fetchpriority="high"
-      decoding="async"
-      class="hero-img"
-    >
-    {{ with .Params.image_caption }}
-      <figcaption class="hero-caption">{{ . }}</figcaption>
-    {{ end }}
-  </figure>
+  {{ partial "responsive-image.html" (dict
+    "src" $image
+    "alt" (.Params.image_alt | default .Title)
+    "caption" .Params.image_caption
+    "figure_class" "hero-figure article-hero"
+    "img_class" "hero-img"
+    "loading" "eager"
+    "fetchpriority" "high"
+    "sizes" "(max-width: 768px) 100vw, 1200px"
+    "page_ctx" .
+  ) }}
 {{ end }}

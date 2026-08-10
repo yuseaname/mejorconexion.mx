@@ -38,8 +38,40 @@
         </div>
       </div>
 
+      {{ $heroImg := resources.GetRemote "https://mejorconexion.mx/assets/images/homepage/home-hero-main.png" }}
+      {{ if not $heroImg }}
+        {{ $heroImg = resources.Get "images/homepage/home-hero-main.png" }}
+      {{ end }}
+      {{ if not $heroImg }}
+        {{ $heroImg = resources.Get "images/homepage/home-hero-main.webp" }}
+      {{ end }}
+      {{ $heroSrc := "/assets/images/homepage/home-hero-main.webp" }}
+      {{ $heroWidth := 1200 }}
+      {{ $heroHeight := 900 }}
+      {{ $srcset := "" }}
+      {{ if $heroImg }}
+        {{ $heroSrc = ($heroImg.Process "webp q80").RelPermalink }}
+        {{ $heroWidth = $heroImg.Width }}
+        {{ $heroHeight = $heroImg.Height }}
+        {{ $sizes := slice
+          (printf "%s 600w" ($heroImg.Resize "600x webp q80").RelPermalink)
+          (printf "%s 900w" ($heroImg.Resize "900x webp q80").RelPermalink)
+          (printf "%s 1200w" ($heroImg.Resize "1200x webp q80").RelPermalink)
+        }}
+        {{ $srcset = delimit $sizes ", " }}
+      {{ end }}
       <div class="relative min-h-[260px] lg:min-h-full">
-        <img src="/assets/images/homepage/home-hero-main.webp" alt="Familia mexicana eligiendo internet en casa" class="absolute inset-0 w-full h-full object-cover" loading="eager" fetchpriority="high" width="1200" height="900">
+        <img
+          src="{{ $heroSrc }}"
+          {{- with $srcset }} srcset="{{ . }}" sizes="(max-width: 1024px) 100vw, 50vw"{{- end -}}
+          alt="Familia mexicana eligiendo internet en casa"
+          class="absolute inset-0 w-full h-full object-cover"
+          loading="eager"
+          fetchpriority="high"
+          width="{{ $heroWidth }}"
+          height="{{ $heroHeight }}"
+          decoding="async"
+        >
         <div class="absolute inset-0 bg-gradient-to-r from-[var(--paper)] via-transparent to-transparent lg:bg-gradient-to-l lg:from-transparent lg:via-transparent lg:to-[var(--paper)]/30" aria-hidden="true"></div>
       </div>
     </div>

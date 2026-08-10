@@ -1,0 +1,145 @@
+{{- /* responsive-image.html — Responsive, processed image partial.
+  Accepts a dict with:
+    src       string  required  — path relative to page bundle (e.g. "hero.jpg") or site ("/images/hero.jpg")
+    alt       string  optional  — defaults to context title
+    caption   string  optional
+    class     string  optional  — img classes
+    figure_class string optional — figure classes
+    width     int     optional  — display width hint
+    height    int     optional  — display height hint
+    loading   string  optional  — "lazy" | "eager" (default lazy)
+    fetchpriority string optional — "high" | "low" | "auto"
+    sizes     string  optional  — srcset sizes attribute
+    convert   bool    optional  — convert to webp via Hugo (default true)
+    quality   int     optional  — webp quality, default 80
+    resize_method string optional — "resize" | "fit" | "fill" | "original" (default "fit")
+    target_widths []int optional — widths for srcset (default [480, 768, 1200])
+    page_ctx  Page    optional  — page context for Page.Resources lookup
+
+  Returns an <img> or <picture> with srcset/sizes and explicit width/height when available.
+*/ -}}
+
+{{- $src := .src -}}
+{{- $alt := .alt | default "" -}}
+{{- $caption := .caption -}}
+{{- $imgClass := .class | default "" -}}
+{{- $figureClass := .figure_class | default "" -}}
+{{- $loading := .loading | default "lazy" -}}
+{{- $fetchpriority := .fetchpriority | default "" -}}
+{{- $sizes := .sizes | default "100vw" -}}
+{{- $quality := .quality | default 80 -}}
+{{- $convert := .convert | default true -}}
+{{- $method := .resize_method | default "fit" -}}
+{{- $targetWidths := .target_widths | default (slice 480 768 1200) -}}
+{{- $pageCtx := .page_ctx | default . -}}
+
+{{- $fallbackSrc := $src -}}
+{{- $fallbackWidth := 0 -}}
+{{- $fallbackHeight := 0 -}}
+{{- $srcset := slice -}}
+{{- $resource := false -}}
+{{- $format := "original" -}}
+
+{{/* Try page bundle resources first, then global site resources. */}}
+{{- if $pageCtx -}}
+  {{- with $pageCtx.Resources.GetMatch $src -}}
+    {{- $resource = . -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $resource -}}
+  {{- with resources.Get $src -}}
+    {{- $resource = . -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* If resource not found, treat src as static URL. */}}
+{{- if $resource -}}
+  {{- $originalWidth := $resource.Width -}}
+  {{- $originalHeight := $resource.Height -}}
+  {{- $originalFormat := lower $resource.MediaType.SubType -}}
+
+  {{- $processed := $resource -}}
+  {{- if and $convert (ne $originalFormat "webp") (ne $originalFormat "svg") -}}
+    {{- $processed = $processed.Process (printf "webp q%d" $quality) -}}
+  {{- end -}}
+
+  {{- $fallbackSrc = $processed.RelPermalink -}}
+  {{- $fallbackWidth = $processed.Width -}}
+  {{- $fallbackHeight = $processed.Height -}}
+  {{- $format = lower $processed.MediaType.SubType -}}
+
+  {{- range $targetWidths -}}
+    {{- $w := int . -}}
+    {{- if le $w $originalWidth -}}
+      {{- $variant := $resource -}}
+      {{- $spec := "" -}}
+      {{- if eq $method "resize" -}}
+        {{- $spec = printf "%dx webp q%d" $w $quality -}}
+      {{- else if eq $method "fit" -}}
+        {{- $spec = printf "%dx%d webp q%d" $w 9999 $quality -}}
+      {{- else if eq $method "fill" -}}
+        {{- $spec = printf "%dx%d webp q%d" $w (mul $w (div $originalHeight $originalWidth)) $quality -}}
+      {{- else -}}
+        {{- $spec = printf "%dx%d webp q%d" $w 9999 $quality -}}
+      {{- end -}}
+
+      {{- if and $convert (ne $originalFormat "webp") (ne $originalFormat "svg") -}}
+        {{- $variant = $resource.Resize $spec -}}
+      {{- else if ne $originalFormat "svg" -}}
+        {{- $variant = $resource.Resize $spec -}}
+      {{- else -}}
+        {{- $variant = $resource -}}
+      {{- end -}}
+
+      {{- $entry := printf "%s %dw" $variant.RelPermalink $variant.Width -}}
+      {{- $srcset = $srcset | append $entry -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<figure class="{{ $figureClass }}">
+  {{- if $resource -}}
+    <picture>
+      {{- if ne $format "svg" -}}
+        <img
+          src="{{ $fallbackSrc }}"
+          srcset="{{ delimit $srcset ", " }}"
+          sizes="{{ $sizes }}"
+          alt="{{ $alt }}"
+          width="{{ $fallbackWidth }}"
+          height="{{ $fallbackHeight }}"
+          loading="{{ $loading }}"
+          {{- with $fetchpriority }} fetchpriority="{{ . }}"{{- end -}}
+          decoding="async"
+          class="{{ $imgClass }}"
+        >
+      {{- else -}}
+        <img
+          src="{{ $fallbackSrc }}"
+          alt="{{ $alt }}"
+          width="{{ $fallbackWidth }}"
+          height="{{ $fallbackHeight }}"
+          loading="{{ $loading }}"
+          {{- with $fetchpriority }} fetchpriority="{{ . }}"{{- end -}}
+          decoding="async"
+          class="{{ $imgClass }}"
+        >
+      {{- end -}}
+    </picture>
+  {{- else -}}
+    {{/* Fallback for external/static URLs: at least add explicit dimensions when supplied. */}}
+    <img
+      src="{{ $fallbackSrc }}"
+      alt="{{ $alt }}"
+      class="{{ $imgClass }}"
+      loading="{{ $loading }}"
+      {{- with $fetchpriority }} fetchpriority="{{ . }}"{{- end -}}
+      decoding="async"
+      {{- with .width }} width="{{ . }}"{{- end -}}
+      {{- with .height }} height="{{ . }}"{{- end -}}
+    >
+  {{- end -}}
+  {{- with $caption -}}
+    <figcaption>{{ . }}</figcaption>
+  {{- end -}}
+</figure>
