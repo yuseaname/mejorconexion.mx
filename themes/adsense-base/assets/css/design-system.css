@@ -645,10 +645,20 @@ a:hover {
   margin: 0;
 }
 
+:root {
+  /* inserted near other adsense-base tokens: reserve vertical space for ads */
+  --ad-min-height-mobile: 90px;
+  --ad-min-height-desktop: 250px;
+}
+
 /* ── Ad Slots ── */
 .ad-slot {
   margin: var(--space-8) 0;
   text-align: center;
+}
+.ad-slot .adsbygoogle {
+  display: block;
+  min-height: var(--ad-min-height-desktop);
 }
 .ad-label {
   display: block;
@@ -668,6 +678,9 @@ a:hover {
   margin-top: var(--space-10);
 }
 @media (max-width: 640px) {
+  .ad-slot .adsbygoogle {
+    min-height: var(--ad-min-height-mobile);
+  }
   .ad-slot-below_title {
     display: none;
   }
@@ -859,19 +872,59 @@ a:hover {
   color: var(--color-neutral-400);
 }
 
-/* ── Category Page ── */
-.category-hero {
-  background: linear-gradient(135deg, var(--color-primary-700), var(--color-primary-900));
-  color: white;
-  padding: var(--space-12) 0;
+/* ── Hub / Section Hero ── */
+.hub-hero {
+  display: grid;
+  gap: var(--space-6);
+  padding: var(--space-8) var(--space-6);
+  background: linear-gradient(135deg, var(--brand-50), var(--paper));
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
   margin-bottom: var(--space-8);
 }
-.category-hero h1 {
-  color: white;
+@media (min-width: 768px) {
+  .hub-hero {
+    grid-template-columns: 1.2fr 1fr;
+    align-items: center;
+    padding: var(--space-10) var(--space-8);
+  }
 }
-.category-hero p {
-  color: var(--color-primary-200);
+.hub-hero-body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+.hub-hero-title {
+  font-family: var(--font-display);
+  font-size: clamp(1.875rem, 1.5rem + 1.5vw, 2.5rem);
+  font-weight: var(--weight-bold);
+  color: var(--ink);
+  line-height: var(--leading-tight);
+}
+.hub-hero-lede {
+  font-size: var(--text-lg);
+  color: var(--ink-muted);
+  max-width: 48ch;
+  line-height: var(--leading-relaxed);
+}
+.hub-hero-count {
+  font-size: var(--text-sm);
+  color: var(--ink-muted);
   margin-top: var(--space-2);
+}
+.hub-hero-media {
+  position: relative;
+  min-height: 180px;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  background: var(--color-surface-muted);
+}
+.hub-hero-media img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 /* ── Section Grid ── */
@@ -920,9 +973,10 @@ a:hover {
   border: 1px solid var(--color-border);
   border-radius: var(--radius-xl);
   transition: all var(--transition-base);
+  text-decoration: none;
 }
 .category-card:hover {
-  border-color: var(--color-primary-200);
+  border-color: var(--brand-200, var(--color-primary-200));
   box-shadow: var(--shadow-md);
   transform: translateY(-1px);
 }
@@ -934,8 +988,8 @@ a:hover {
   align-items: center;
   justify-content: center;
   border-radius: var(--radius-lg);
-  background: var(--color-primary-100);
-  color: var(--color-primary-600);
+  background: var(--brand-100, var(--color-primary-100));
+  color: var(--brand, var(--color-primary-600));
 }
 .category-card-content {
   flex: 1;
