@@ -80,7 +80,7 @@ Totalplay ha emergido como el ISP con mejor relación precio-rendimiento en Méx
 
 **¿Cuándo elegir Totalplay?** Es la primera opción a considerar si tienes cobertura disponible en tu dirección. Mejor latencia promedio para gaming y trabajo remoto que sus competidores de coaxial.
 
-> Compara en detalle: [Telmex vs Totalplay México 2026](/blog/telmex-vs-totalplay-mexico-2026)
+> Compara en detalle: [Telmex vs Totalplay México 2026](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html)
 
 ---
 

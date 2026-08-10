@@ -164,7 +164,7 @@ Después de instalar:
 Prueba con un cable Ethernet, revisa que no haya dispositivos saturando la red y contacta a tu proveedor con capturas de velocidad.  
 
 **¿Cómo elijo entre Telmex, Totalplay e Izzi?**  
-Revisa su historial local, garantía de uptime y soporte técnico. [Comparativa clave](./izzi-vs-totalplay-vs-telmex-2026)  
+Revisa su historial local, garantía de uptime y soporte técnico. [Comparativa clave](/blog/izzi-vs-totalplay-telmex-megacable-2026.html)  
 
 **¿Es mejor fibra óptica o internet por satélite?**  
 La fibra óptica ofrece mayor estabilidad y velocidad, mientras que el satélite es ideal para zonas rurales. [Pilar principal](./mejor-internet-casa-mexico-2026)  
@@ -194,7 +194,7 @@ Con estas acciones, asegurarás una conexión que no solo funcione, sino que te 
 
 **Internal links:**  
 - [Pilar principal](./mejor-internet-casa-mexico-2026)  
-- [Comparativa clave](./izzi-vs-totalplay-vs-telmex-2026)  
+- [Comparativa clave](/blog/izzi-vs-totalplay-telmex-megacable-2026.html)  
 - [Guía de costos](./cuanto-cuesta-internet-en-mexico-2026)  
 - [Cómo elegir un router para home office](./router-home-office-2026)  
 - [Beneficios de la fibra óptica en México](./fibra-optica-mexico-2026)  

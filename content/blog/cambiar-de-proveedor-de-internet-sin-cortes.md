@@ -84,7 +84,7 @@ María, de Cancún, tenía un plan de Infinitum de \$599/mes con contrato de 24 
 -   **Paso 4:** A las 6:00 pm, llamó a Infinitum y canceló su servicio. Le confirmaron que no le cobraron penalización por el acuerdo con Totalplay.
 -   **Paso 5:** Devolvió el router de Infinitum en OXXO al día siguiente (recibió comprobante por WhatsApp).
 
-Resultado: 0 segundos sin internet. Si quieres ver otro caso similar, te recomendamos leer nuestro artículo detallado sobre [cómo decidir entre Izzi y Totalplay en 2026](/blog/izzi-vs-totalplay-2026.html).
+Resultado: 0 segundos sin internet. Si quieres ver otro caso similar, te recomendamos leer nuestro artículo detallado sobre [cómo decidir entre Izzi y Totalplay en 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html).
 
 ## ¿Cómo negocia un experto un cambio de proveedor sin pagar penales?
 
@@ -134,8 +134,8 @@ Empieza hoy mismo: consulta tu cobertura y compara los planes reales. No dejes q
 
 Si quieres profundizar en cómo funciona la portabilidad de internet en México, te recomendamos leer nuestros artículos:
 
--   [¿Cuál es el mejor internet para casa en 2026? Comparativa completa](/blog/mejor-internet-para-casa-2026.html)
--   [Izzi vs Totalplay: ¿cuál conviene más en 2026?](/blog/izzi-vs-totalplay-2026.html)
+-   [¿Cuál es el mejor internet para casa en 2026? Comparativa completa](/blog/mejor-internet-casa-mexico-2026.html)
+-   [Izzi vs Totalplay: ¿cuál conviene más en 2026?](/blog/izzi-vs-totalplay-telmex-megacable-2026.html)
 -   [Guía paso a paso para cambiar de Infinitum a Totalplay sin cortes](/blog/como-cambiar-de-infinitum-a-totalplay.html)
 -   [Portabilidad de internet: derechos del usuario en 2026](/blog/portabilidad-internet-2026.html)
 
@@ -162,7 +162,7 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 ::: {.related-articles style="margin-top: 32px;"}
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
--   [→ Mejor internet para casa 2026](/blog/mejor-internet-para-casa-2026.html){style="color: #0066cc; text-decoration: none;"}
--   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 :::

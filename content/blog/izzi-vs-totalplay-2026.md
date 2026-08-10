@@ -2,8 +2,9 @@
 title: "izzi vs Totalplay 2026: Comparativa Definitiva de Precios, Velocidad y Cobertura"
 slug: "izzi-vs-totalplay-2026"
 date: 2026-05-26
+updated: 2026-08-10
 description: "Izzi vs Totalplay 2026: comparativa de precios, velocidad, cobertura, estabilidad y atención al cliente en México. Cuál conviene según tu uso."
-draft: false
+draft: true
 image: "/images/topic-provider-comparison.webp"
 ---
 ::: breadcrumbs
@@ -13,7 +14,7 @@ image: "/images/topic-provider-comparison.webp"
 # izzi vs Totalplay 2026: Comparativa Definitiva de Precios, Velocidad y Cobertura
 
 <figure class="article-image">
-<img src="./images/izzi-vs-totalplay-2026/01-hero.webp" loading="lazy" decoding="async" width="1200" height="630" alt="Comparativa fibra óptica vs cable coaxial" />
+<img src="./images//blog/izzi-vs-totalplay-telmex-megacable-2026.html/01-hero.webp" loading="lazy" decoding="async" width="1200" height="630" alt="Comparativa fibra óptica vs cable coaxial" />
 </figure>
 
 # izzi vs Totalplay 2026: Comparativa Definitiva de Precios, Velocidad y Cobertura

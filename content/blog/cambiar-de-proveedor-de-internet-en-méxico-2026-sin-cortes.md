@@ -69,7 +69,7 @@ Los precios que se muestran a continuación corresponden a paquetes estándar (s
 No esperes al último momento. Sigue este plan probado en más de 12,000 migraciones en 2026:
 
 1.  **Revisa tu contrato actual**: Busca cláusulas de "periodo de permanencia" y "penalización por cancelación". En 2026, la PROFECO exige que los contratos incluyan esta información en letra clara. Si tu contrato es anterior a 2022, es muy probable que no tenga penalizaciones abusivas.
-2.  **Elige tu nuevo proveedor y solicita una "migración directa"**: Al contratar con Izzi, Totalplay o Megacable, marca la casilla de "Portabilidad de Servicio" (PSI). Ellos gestionarán tu baja en el proveedor anterior. [Lee nuestra comparativa completa](/blog/izzi-vs-totalplay-2026.html) para decidir cuál se adapta mejor a tu presupuesto.
+2.  **Elige tu nuevo proveedor y solicita una "migración directa"**: Al contratar con Izzi, Totalplay o Megacable, marca la casilla de "Portabilidad de Servicio" (PSI). Ellos gestionarán tu baja en el proveedor anterior. [Lee nuestra comparativa completa](/blog/izzi-vs-totalplay-telmex-megacable-2026.html) para decidir cuál se adapta mejor a tu presupuesto.
 3.  **Coordina fechas de instalación**: Pide que la instalación nueva sea *un día antes de la fecha de vencimiento* de tu contrato actual. Así, durante 1--2 días tendrás dos conexiones activas (la nueva y la antigua), sin huecos.
 4.  **No canceles tú mismo tu contrato**: Deja que el nuevo proveedor lo haga. Si lo haces tú, es casi seguro que tendrás un corte de hasta 72 horas. Con la PSI, el proceso de baja se dispara automáticamente tras la instalación exitosa.
 5.  **Verifica tu nueva conexión antes de desconectar lo viejo**: Haz una prueba de velocidad en [speedtest.net](https://speedtest.net), verifica que todos tus dispositivos se conecten, y revisa que tus dispositivos IoT (cámara de seguridad, router mesh) funcionen. Solo entonces pide la baja a tu proveedor anterior.
@@ -96,7 +96,7 @@ No directamente. Pero sí puedes negociar una "liquidación parcial" con tu prov
 
 ### ¿Qué pasa si mi colonia no tiene cobertura del nuevo proveedor?
 
-En 2026, el 89% de las colonias urbanas y suburbanas tienen al menos 2 opciones de fibra real. Si tu zona no está cubierta, el nuevo proveedor te ofrece un **plan móvil 5G con router integrado** (como Virgin Mobile 5G Home o Dish Home 5G), que da velocidades de 50--150 Mbps y no requiere obra civil. [Descubre las opciones para zonas con mala cobertura](/blog/mejor-internet-para-casa-2026.html).
+En 2026, el 89% de las colonias urbanas y suburbanas tienen al menos 2 opciones de fibra real. Si tu zona no está cubierta, el nuevo proveedor te ofrece un **plan móvil 5G con router integrado** (como Virgin Mobile 5G Home o Dish Home 5G), que da velocidades de 50--150 Mbps y no requiere obra civil. [Descubre las opciones para zonas con mala cobertura](/blog/mejor-internet-casa-mexico-2026.html).
 
 ## Conclusión
 
@@ -135,7 +135,7 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 ::: {.related-articles style="margin-top: 32px;"}
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
--   [→ Mejor internet para casa 2026](/blog/mejor-internet-para-casa-2026.html){style="color: #0066cc; text-decoration: none;"}
--   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 :::

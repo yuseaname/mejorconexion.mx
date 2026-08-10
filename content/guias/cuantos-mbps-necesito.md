@@ -24,7 +24,7 @@ Guía
 En México mucha gente compra "más megas" pensando que así se arregla todo... y luego el Wi‑Fi sigue fallando. Vamos por partes: velocidad, estabilidad y tu uso real.
 
 ::: button-row
-[Ver comparativa](/internet-en-casa/mejor-internet-en-casa-mexico/){.btn .primary} [Mejorar Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.btn}
+[Ver comparativa](/blog/mejor-internet-casa-mexico-2026.html/){.btn .primary} [Mejorar Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.btn}
 :::
 :::
 
@@ -96,7 +96,7 @@ Traducción: antes de pagar más, asegúrate de que tu Wi‑Fi no sea el problem
 Si aún no sabes qué contratar, empieza por estas dos lecturas:
 
 ::: {.grid .two}
-[](/internet-en-casa/mejor-internet-en-casa-mexico/){.card}
+[](/blog/mejor-internet-casa-mexico-2026.html/){.card}
 
 ### Mejor internet en casa en México
 
@@ -143,7 +143,7 @@ Aclara velocidad vs tamaño de archivos.
 
 Lecturas claras para decidir sin tecnicismos.
 
-[](/internet-en-casa/mejor-internet-en-casa-mexico/){.card}
+[](/blog/mejor-internet-casa-mexico-2026.html/){.card}
 
 ### Mejor internet en casa en México
 

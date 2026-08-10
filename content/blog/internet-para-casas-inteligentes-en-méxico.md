@@ -73,7 +73,7 @@ Fuente: precios oficiales verificados en sitio web de cada proveedor (abril 2026
 
 Para más detalles sobre cada proveedor, consulta nuestras guías especializadas:
 
--   [Izzi vs Totalplay: ¿cuál es mejor para tu casa inteligente en 2026?](/blog/izzi-vs-totalplay-2026.html)
+-   [Izzi vs Totalplay: ¿cuál es mejor para tu casa inteligente en 2026?](/blog/izzi-vs-totalplay-telmex-megacable-2026.html)
 -   [Megacable y domótica: ¿vale la pena en 2026?](/blog/megacable-internet-casas-inteligentes.html)
 -   [Infinitum no es obsoleto: cómo sacarle provecho para IoT](/blog/infinitum-telmex-iot-2026.html)
 
@@ -183,7 +183,7 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 ::: {.related-articles style="margin-top: 32px;"}
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
--   [→ Mejor internet para casa 2026](/blog/mejor-internet-para-casa-2026.html){style="color: #0066cc; text-decoration: none;"}
--   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 :::

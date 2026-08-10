@@ -65,7 +65,7 @@ Para ayudarte a elegir, comparamos los 6 proveedores más usados en México con 
 -   **Megacable**: Paquetes con TV por cable + internet baratos, pero limita VoIP y gaming en hour pico en planes económicos.
 -   **Dish**: Excelente en zonas con poca infraestructura fija, pero su 5G fija se congestiona si hay más de 3 dispositivos activos.
 
-Si quieres comparar más a fondo, te recomendamos leer nuestra guía [Izzi vs Totalplay: ¿cuál es mejor en 2026?](/blog/izzi-vs-totalplay-2026.html) o la [guía completa del mejor internet para casa en 2026](/blog/mejor-internet-para-casa-2026.html).
+Si quieres comparar más a fondo, te recomendamos leer nuestra guía [Izzi vs Totalplay: ¿cuál es mejor en 2026?](/blog/izzi-vs-totalplay-telmex-megacable-2026.html) o la [guía completa del mejor internet para casa en 2026](/blog/mejor-internet-casa-mexico-2026.html).
 
 ## Cómo mejorar tu internet nocturno: pasos prácticos (aunque ya tengas proveedor)
 
@@ -89,7 +89,7 @@ Es una prueba de velocidad que haces **en horario de mayor uso (20:00--23:00)** 
 
 ### ¿Izzi o Totalplay: cuál es mejor para internet lento en la noche en 2026?
 
-Para **estabilidad nocturna**, Izzi ligeramente supera a Totalplay por su red más dedicada y menor latencia. Si usas mucho streaming 4K o gaming, Izzi ofrece mejor prioridad de tráfico. Pero si buscas velocidad teórica máxima (1,000 Mbps) y quieres usar el router Totalplay App para monitoreo en tiempo real, Totalplay es una excelente opción. Lee nuestra comparativa [Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html) para decisiones más precisas.
+Para **estabilidad nocturna**, Izzi ligeramente supera a Totalplay por su red más dedicada y menor latencia. Si usas mucho streaming 4K o gaming, Izzi ofrece mejor prioridad de tráfico. Pero si buscas velocidad teórica máxima (1,000 Mbps) y quieres usar el router Totalplay App para monitoreo en tiempo real, Totalplay es una excelente opción. Lee nuestra comparativa [Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html) para decisiones más precisas.
 
 ### ¿Vale la pena pagar más por un plan premium para evitar internet lento en la noche?
 
@@ -136,7 +136,7 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 ::: {.related-articles style="margin-top: 32px;"}
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
--   [→ Mejor internet para casa 2026](/blog/mejor-internet-para-casa-2026.html){style="color: #0066cc; text-decoration: none;"}
--   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 :::

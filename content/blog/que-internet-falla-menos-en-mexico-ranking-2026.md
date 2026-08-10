@@ -81,7 +81,7 @@ Totalplay se ha posicionado en 2026 como la referencia en velocidad. Su apuesta 
 *   **Puntos Débiles:** Cobertura limitada. No llega a todas las colonias. Además, como mencionamos, su tasa de quejas por usuario es alta, lo que sugiere que la atención al cliente a veces no es ágil.
 *   **Veredicto:** Es el rey de la estabilidad técnica, pero solo si tienes cobertura en tu calle. Si la fibra pasa frente a tu casa, difícilmente fallará menos que la competencia.
 
-Para quienes están indecisos entre la calidad de Totalplay y la disponibilidad de Izzi, te recomendamos leer nuestra comparativa detallada: [Izzi vs Totalplay 2026](/internet-en-casa/izzi-vs-totalplay-2026-comparativa/).
+Para quienes están indecisos entre la calidad de Totalplay y la disponibilidad de Izzi, te recomendamos leer nuestra comparativa detallada: [Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html/).
 
 ### Telmex/Infinitum: Volumen de quejas y cobertura
 
@@ -98,7 +98,7 @@ Aquí es donde entra la geografía. En el Bajío (Guadalajara, León, Querétaro
 *   **Megacable:** Suele tener una tasa de quejas más baja (14.20 por cada 100k), lo que indica un buen equilibrio entre servicio y calidad. Sus planes son competitivos en precio.
 *   **Izzi:** Tiene una infraestructura híbrida. En zonas donde solo tienen coaxial, la velocidad es inferior a la fibra. Sin embargo, su atención al cliente suele ser más humana y accesible que la de los gigantes nacionales.
 
-Para entender mejor las diferencias técnicas entre estas opciones y Telmex, consulta nuestra guía: [Megacable vs Telmex Comparativa](/internet-en-casa/megacable-vs-telmex-comparativa/).
+Para entender mejor las diferencias técnicas entre estas opciones y Telmex, consulta nuestra guía: [Megacable vs Telmex Comparativa](/blog/megacable-vs-telmex-comparativa-directa-2026.html/).
 
 <!-- IMAGE: infographic — Mapa de cobertura de los principales ISP en México -->
 

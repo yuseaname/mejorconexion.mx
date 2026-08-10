@@ -2,8 +2,9 @@
 title: "Megacable vs Telmex: cómo comparar internet en tu domicilio"
 slug: "megacable-vs-telmex-comparativa"
 date: 2026-01-01
+updated: 2026-08-10
 description: "Megacable vs Telmex sin promesas universales: compara disponibilidad por dirección, tecnología, costo total, instalación, Wi-Fi, soporte y uso real."
-draft: false
+draft: true
 image: "/images/topic-provider-comparison.webp"
 ---
 

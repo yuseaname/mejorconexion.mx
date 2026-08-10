@@ -62,7 +62,7 @@ En 2026, los precios de internet residencial en México se han estandarizado, pe
 -   **Sin datos excedidos**: Todos los planes de 500 Mbps+ de Izzi, Totalplay, Infinitum y Megacable incluyen tráfico ilimitado --- crucial si hay niños viendo YouTube o Netflix en 4K.
 -   **Soporte técnico 24/7 con técnico en casa**: Infinitum destaca en esto por su red física, pero Totalplay y Izzi han reducido tiempos de respuesta a menos de 24 horas en zonas urbanas.
 
-Si quieres profundizar en la comparativa más exacta entre Izzi y Totalplay ---los dos líderes en rendimiento para gaming---, revisa nuestra guía detallada en [Izzi vs Totalplay 2026: ¿cuál gana para gaming y streaming?](/blog/izzi-vs-totalplay-2026.html)
+Si quieres profundizar en la comparativa más exacta entre Izzi y Totalplay ---los dos líderes en rendimiento para gaming---, revisa nuestra guía detallada en [Izzi vs Totalplay 2026: ¿cuál gana para gaming y streaming?](/blog/izzi-vs-totalplay-telmex-megacable-2026.html)
 
 ## Cómo elegir tu plan: 5 pasos prácticos para familias grandes
 
@@ -102,7 +102,7 @@ El **mejor internet para familias grandes en México 2026** no es uno solo: depe
 -   Para **gaming y streaming 8K** (con gamers o amantes del cine): Totalplay \$699 MXN/1 Gbps --- ping más bajo y router Wi-Fi 6E.
 -   Para **cobertura nacional y soporte presencial** (zonas rurales o semiurbanas): Infinitum \$599 MXN/600 Mbps --- aunque revisa si tienes fibra FTTH en tu colonia.
 
-Recuerda: no compres por velocidad nominal, sino por rendimiento real en tu casa. Usa herramientas como [nuestra guía completa de pruebas de red en México 2026](/blog/mejor-internet-para-casa-2026.html) para validar ofertas antes de firmar.
+Recuerda: no compres por velocidad nominal, sino por rendimiento real en tu casa. Usa herramientas como [nuestra guía completa de pruebas de red en México 2026](/blog/mejor-internet-casa-mexico-2026.html) para validar ofertas antes de firmar.
 
 **¿Listo para cambiar? Compara planes ahora** en la sección de [comparación de internet](https://mejorconexion.mx/compare/internet) y encuentra tu plan ideal con filtros reales: ping, dispositivos, y ciudad.
 
@@ -129,7 +129,7 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 ::: {.related-articles style="margin-top: 32px;"}
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
--   [→ Mejor internet para casa 2026](/blog/mejor-internet-para-casa-2026.html){style="color: #0066cc; text-decoration: none;"}
--   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 :::

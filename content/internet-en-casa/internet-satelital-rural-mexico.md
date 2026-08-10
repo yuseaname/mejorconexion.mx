@@ -220,7 +220,7 @@ Con estos datos puedes decidir sin improvisar. Si el servicio falla en horario p
 5.  Lee resenas locales y pregunta por soporte tecnico.
 6.  Si hay dudas, empieza con un plan sin contrato.
 
-Si aun no estas seguro, regresa a [mejor internet en casa en Mexico](/internet-en-casa/mejor-internet-en-casa-mexico/) para alinear decision con presupuesto.
+Si aun no estas seguro, regresa a [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html/) para alinear decision con presupuesto.
 :::
 
 ::: {.section .decision-links editorial-links="true"}

@@ -107,7 +107,7 @@ El módem necesita recibir señal de la antena celular. Si lo metes en un cuarto
 2. Pregunta si hay plazo forzoso o penalización por cancelación.
 3. Confirma la velocidad garantizada (no la "máxima teórica").
 4. Revisa si el módem se queda o se devuelve al cancelar.
-5. Compara con [otras opciones de internet en casa](/internet-en-casa/mejor-internet-en-casa-mexico.html).
+5. Compara con [otras opciones de internet en casa](/blog/mejor-internet-casa-mexico-2026.html).
 6. Si vives en zona rural, revisa también [internet satelital y opciones rurales](/internet-en-casa/internet-satelital-rural-mexico.html).
 :::
 

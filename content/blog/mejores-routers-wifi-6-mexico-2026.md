@@ -51,15 +51,15 @@ En 2026, el mercado mexicano ofrece routers Wi-Fi 6 en rangos de precio desde lo
   **Linksys MR7350 (Mesh)**     \$4,199 (pack 2 unidades)   6,000 Mbps (total)   Totalplay, Izzi, Megacable                 Sistema mesh Wi-Fi 6, instalación sencilla, app móvil
   **TP-Link Archer AXE11000**   \$8,499                     11,000 Mbps          Izzi, Totalplay, Infinitum (plan 1 Gbps)   Tri-band, 2.5 Gbps + Gigabit, PCIe 3.0, para usuarios avanzados
 
-Como ves, no siempre el más caro es el mejor para ti: si vives solo en un departamento pequeño, el TP-Link AX5400 es más que suficiente. Pero si tienes una casa de dos niveles con 10 dispositivos activos, el [router ASUS RT-AX86U](/blog/izzi-vs-totalplay-2026.html) ---y su soporte para *mesh*--- vale la pena por su estabilidad a largo plazo.
+Como ves, no siempre el más caro es el mejor para ti: si vives solo en un departamento pequeño, el TP-Link AX5400 es más que suficiente. Pero si tienes una casa de dos niveles con 10 dispositivos activos, el [router ASUS RT-AX86U](/blog/izzi-vs-totalplay-telmex-megacable-2026.html) ---y su soporte para *mesh*--- vale la pena por su estabilidad a largo plazo.
 
 ### Factores clave al elegir tu router Wi-Fi 6 en México
 
 -   **Velocidad real vs. teórica**: Los fabricantes anuncian velocidades combinadas en todas las bandas. Lo que importa es el rendimiento en la banda de 5 GHz (donde operan la mayoría de los dispositivos actuales).
--   **Cobertura**: Si tu casa mide más de 100 m², prioriza routers con antenas externas y potencia de transmisión (EIRP) alta. El [TP-Link AX5400](/blog/mejor-internet-para-casa-2026.html) destaca aquí frente a modelos más compactos.
+-   **Cobertura**: Si tu casa mide más de 100 m², prioriza routers con antenas externas y potencia de transmisión (EIRP) alta. El [TP-Link AX5400](/blog/mejor-internet-casa-mexico-2026.html) destaca aquí frente a modelos más compactos.
 -   **Compatibilidad con tu proveedor**: Aunque cualquier router Wi-Fi 6 funcionará con los planes de Infinitum o Megacable, asegúrate de que no requiera puertos DSL si usas fibra óptica (todos los modelos listados arriba son para fibra).
 -   **Facilidad de uso**: Si no eres usuario avanzado, evita modelos con firmware personalizado como el ASUS ROG (aunque el RT-AX86U ya incluye una interfaz simplificada).
--   **Soporte para mesh**: Si ya tienes un router principal y necesitas extensión, el [Linksys MR7350](/blog/megacable-vs-totalplay-2026.html) permite añadir nodos sin cables.
+-   **Soporte para mesh**: Si ya tienes un router principal y necesitas extensión, el [Linksys MR7350](/blog/megacable-vs-totalplay-comparativa-2026.html) permite añadir nodos sin cables.
 
 ## Cómo instalar y configurar tu router Wi-Fi 6 en 2026: paso a paso
 
@@ -81,7 +81,7 @@ Sí, si tienes un plan superior a 200 Mbps o más de 5 dispositivos conectados s
 
 ### ¿Qué routers Wi-Fi 6 funcionan mejor con Izzi o Totalplay?
 
-Tanto Izzi como Totalplay usan tecnología fibra óptica y NO bloquean routers externos. Los más recomendados son el TP-Link AX5400 (por su relación precio-calidad) y el ASUS RT-AX86U (si buscas máximo rendimiento para gaming o streaming 4K simultáneo). [En esta guía detallamos cómo configurar ambos proveedores](/blog/izzi-vs-totalplay-2026.html).
+Tanto Izzi como Totalplay usan tecnología fibra óptica y NO bloquean routers externos. Los más recomendados son el TP-Link AX5400 (por su relación precio-calidad) y el ASUS RT-AX86U (si buscas máximo rendimiento para gaming o streaming 4K simultáneo). [En esta guía detallamos cómo configurar ambos proveedores](/blog/izzi-vs-totalplay-telmex-megacable-2026.html).
 
 ### ¿Vale la pena invertir en routers mesh Wi-Fi 6 en 2026?
 
@@ -105,7 +105,7 @@ Los **mejores routers Wi-Fi 6 México 2026** ya son una inversión accesible y e
 
 Si buscas lo más económico y funcional: el **TP-Link AX5400** (\$2,499 MXN) es tu mejor apuesta. Si tienes una casa grande o usas gaming/streaming intensivo: el **ASUS RT-AX86U** (\$5,299 MXN) o el **Netgear RAX70** (\$6,999 MXN) te darán rendimiento profesional. Y si necesitas cobertura total sin cables: el **Linksys MR7350** es una solución inteligente.
 
-Recuerda: tu router es el corazón de tu red. No lo dejes al azar. [Lee también nuestra guía completa sobre internet para hogares en 2026](/blog/mejor-internet-para-casa-2026.html), donde desglosamos los planes más económicos y rápidos por ciudad.
+Recuerda: tu router es el corazón de tu red. No lo dejes al azar. [Lee también nuestra guía completa sobre internet para hogares en 2026](/blog/mejor-internet-casa-mexico-2026.html), donde desglosamos los planes más económicos y rápidos por ciudad.
 
 **¿Listo para mejorar tu conexión? Compara planes y routers ahora mismo y no sufras más caídas de red.**
 
@@ -132,7 +132,7 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 ::: {.related-articles style="margin-top: 32px;"}
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
--   [→ Mejor internet para casa 2026](/blog/mejor-internet-para-casa-2026.html){style="color: #0066cc; text-decoration: none;"}
--   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 :::

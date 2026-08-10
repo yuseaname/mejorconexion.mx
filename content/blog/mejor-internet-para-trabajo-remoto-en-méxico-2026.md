@@ -70,7 +70,7 @@ Como ves, el **mejor internet para trabajo remoto en México 2026** se divide en
 
 Si vives en la Zona Metropolitana de Guadalajara o Monterrey, **Megacable** es especialmente fuerte gracias a su red propia y baja interferencia. En CDMX y León, **Izzi** y **Totalplay** dominan con menos caídas en horas pico. Y si trabajas desde regiones rurales o semirurales, **Infinitum** sigue siendo el más confiable por su red de cobertura nacional, aunque su fibra óptica está limitada a zonas urbanas.
 
-Lee más sobre la comparativa técnica en [Izzi vs Totalplay: ¿cuál gana para teletrabajo en 2026?](/blog/izzi-vs-totalplay-2026.html) y [Megacable o Infinitum: ¿cuál ofrece más estabilidad para Zoom?](/blog/megacable-vs-infinitum-teletrabajo.html).
+Lee más sobre la comparativa técnica en [Izzi vs Totalplay: ¿cuál gana para teletrabajo en 2026?](/blog/izzi-vs-totalplay-telmex-megacable-2026.html) y [Megacable o Infinitum: ¿cuál ofrece más estabilidad para Zoom?](/blog/megacable-vs-infinitum-teletrabajo.html).
 
 ### Características clave que no debes ignorar
 
@@ -98,7 +98,7 @@ Al elegir el **internet confiable para reuniones Zoom en México**, presta atenc
 -   **Asistente virtual o community manager**: Trabajas con Slack, Canva y Google Workspace. Megacable Internet Pro 300 (\$549 MXN) te ahorra \$150 MXN vs Izzi sin perder estabilidad.
 -   **Emprendedor con equipo pequeño**: 5 personas en tu casa trabajando. Considera **Izzi Business 1 Gbps** (\$1,199 MXN) con 5 IPs dedicadas y soporte técnico por cuenta del proveedor.
 
-Mira nuestro análisis detallado de [los 7 planes más económicos pero rápidos para trabajadores remotos en 2026](/blog/mejor-internet-para-casa-2026.html) para ver opciones desde \$399 MXN con garantía mínima.
+Mira nuestro análisis detallado de [los 7 planes más económicos pero rápidos para trabajadores remotos en 2026](/blog/mejor-internet-casa-mexico-2026.html) para ver opciones desde \$399 MXN con garantía mínima.
 
 ## Preguntas frecuentes
 
@@ -163,7 +163,7 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 ::: {.related-articles style="margin-top: 32px;"}
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
--   [→ Mejor internet para casa 2026](/blog/mejor-internet-para-casa-2026.html){style="color: #0066cc; text-decoration: none;"}
--   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 :::

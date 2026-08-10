@@ -45,7 +45,7 @@ a conexión de 50 Mbps puede colapsar fácilmente. Por eso, en esta guía no sol
 
 ### Requerimientos oficiales vs. realidad en redes mexicanas
 
-Las plataformas publican sus requisitos técnicos, pero en la práctica, la infraestructura local marca la diferencia. Por ejemplo, Netflix recomienda 25 Mbps para 4K, y en redes de fibra óptica modernas (como las de Izzi o Totalplay), con 30--40 Mbps ya funciona sin problemas. Pero en redes basadas en cobre o con congestión, necesitas más margen. Aquí tienes la tabla actualizada con los **requerimientos reales en México 2026**, basados en pruebas físicas y reportes de usuarios en /blog/mejor-internet-para-casa-2026.html:
+Las plataformas publican sus requisitos técnicos, pero en la práctica, la infraestructura local marca la diferencia. Por ejemplo, Netflix recomienda 25 Mbps para 4K, y en redes de fibra óptica modernas (como las de Izzi o Totalplay), con 30--40 Mbps ya funciona sin problemas. Pero en redes basadas en cobre o con congestión, necesitas más margen. Aquí tienes la tabla actualizada con los **requerimientos reales en México 2026**, basados en pruebas físicas y reportes de usuarios en /blog/mejor-internet-casa-mexico-2026.html:
 
   Plataforma           Requerimiento oficial   Requerimiento real en México (con margen)   Latencia máxima recomendada
   -------------------- ----------------------- ------------------------------------------- -----------------------------
@@ -80,7 +80,7 @@ Hoy en día, la mayoría de los grandes proveedores ofrecen planes desde \$349 M
 -   **Latencia promedio**: 18--32 ms (en zonas con fibra directa)
 -   **Beneficios para streaming**: Prioridad de tráfico en su red para Netflix y Disney+, router con QoS integrado
 
-Es ideal si vives en una ciudad donde Izzi tiene red propia (como CDMN, Toluca, Puebla o Querétaro). Consulta su cobertura real en /blog/izzi-vs-totalplay-2026.html.
+Es ideal si vives en una ciudad donde Izzi tiene red propia (como CDMN, Toluca, Puebla o Querétaro). Consulta su cobertura real en /blog/izzi-vs-totalplay-telmex-megacable-2026.html.
 
 ### Totalplay (Grupo Carso)
 
@@ -182,7 +182,7 @@ Primero, verifica si el problema es tu red local o el proveedor:
 3.  Si no mejora, mide la velocidad con Fast.com: si es \<30 Mbps, cambia de plan o proveedor
 4.  Si ya tienes un plan de 100 Mbps y sigue fallando, habla con tu proveedor: puede haber congestión local
 
-En muchos casos, cambiar a un plan de 150--200 Mbps (por \$450--\$600 MXN) resuelve el problema. Revisa los planes de [Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html) para encontrar la mejor opción según tu ciudad.
+En muchos casos, cambiar a un plan de 150--200 Mbps (por \$450--\$600 MXN) resuelve el problema. Revisa los planes de [Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html) para encontrar la mejor opción según tu ciudad.
 
 ## Conclusión: ¿Cuál es la mejor velocidad de internet necesaria para streaming 4k en México en 2026?
 
@@ -221,7 +221,7 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 ::: {.related-articles style="margin-top: 32px;"}
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
--   [→ Mejor internet para casa 2026](/blog/mejor-internet-para-casa-2026.html){style="color: #0066cc; text-decoration: none;"}
--   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 :::

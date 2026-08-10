@@ -22,7 +22,7 @@ Guías y comparativas
 Aquí hablamos de lo que sí pega: estabilidad, velocidad real, contrato, instalación y servicio en México. Sin tecnicismos raros.
 
 ::: button-row
-[Ver la guía principal](/internet-en-casa/mejor-internet-en-casa-mexico/){.btn .primary} [Buscar por ciudad](/ciudades/){.btn}
+[Ver la guía principal](/blog/mejor-internet-casa-mexico-2026.html/){.btn .primary} [Buscar por ciudad](/ciudades/){.btn}
 :::
 :::
 
@@ -35,7 +35,7 @@ Aquí hablamos de lo que sí pega: estabilidad, velocidad real, contrato, instal
 ::: {.section .hub-intro hub-intro="true"}
 Esta sección de **internet en casa** está diseñada para tomar decisiones reales, no para memorizar siglas. En México, el "mejor plan" depende de la tecnología disponible, la calidad de instalación y cómo usas la red en casa: streaming, videollamadas, gaming o trabajo remoto. Aquí reunimos comparativas y guías para entender estabilidad, velocidad real, latencia/ping y Wi‑Fi sin humo ni tecnicismos innecesarios.
 
-Cómo usar este hub de **internet en casa**: empieza con la guía principal de [mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico/) y luego baja al detalle según tu caso. Si dudas entre tecnologías, revisa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico/) y ajusta expectativas. Para dimensionar tu plan, apóyate en [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/). Y si tu zona cambia mucho, pasa por [ciudades](/ciudades/) para aterrizar la decisión a lo local.
+Cómo usar este hub de **internet en casa**: empieza con la guía principal de [mejor internet en casa en México](/blog/mejor-internet-casa-mexico-2026.html/) y luego baja al detalle según tu caso. Si dudas entre tecnologías, revisa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico/) y ajusta expectativas. Para dimensionar tu plan, apóyate en [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/). Y si tu zona cambia mucho, pasa por [ciudades](/ciudades/) para aterrizar la decisión a lo local.
 
 Dentro de este hub de **internet en casa** encontrarás guías por tecnología, casos de uso (home office, estudiantes, streaming), y pasos prácticos para mejorar la red interna. La meta es evitar errores comunes: pagar por Mbps que no usas, ignorar el router, o firmar sin validar estabilidad en horario pico. Todo está escrito para México y para la vida real en casa: paredes, distancia, interferencias y soporte.
 
@@ -59,7 +59,7 @@ El objetivo es que tu conexión en casa sea estable y predecible. Aquí explicam
 
 Cómo elegir por tecnología, uso y evidencia (no por promesas).
 
-[](/internet-en-casa/mejor-internet-en-casa-mexico/){.card}
+[](/blog/mejor-internet-casa-mexico-2026.html/){.card}
 
 ## Mejor internet en casa en México {#mejor-internet-en-casa-en-méxico style="margin:0 0 8px"}
 

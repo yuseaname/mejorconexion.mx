@@ -37,7 +37,7 @@ En 2026, los juegos online ya no esperan: con juegos como *EA Sports FC 25* y *C
 
 En México, la cobertura de fibra óptica ha crecido un 22% en dos años, pero su despliegue sigue concentrado en zonas urbanas: CDMX, Guadalajara, Monterrey, Puebla y Cancún lideran la calidad de conexión para gaming. Las redes basadas en cable coaxial (como Megacable y Dish) ofrecen hasta 1 Gbps, pero su latencia tiende a ser más variable en horas pico. Por eso, en 2026, la elección no solo depende del plan que contrates, sino también de tu ciudad, la topología de red local y cómo configuras tu router.
 
-Si quieres entender cómo funciona la priorización de tráfico y por qué no basta con contratar 500 Mbps, te recomendamos leer: [Mejor internet para casa en 2026: qué revisar antes de contratar](/blog/mejor-internet-para-casa-2026.html).
+Si quieres entender cómo funciona la priorización de tráfico y por qué no basta con contratar 500 Mbps, te recomendamos leer: [Mejor internet para casa en 2026: qué revisar antes de contratar](/blog/mejor-internet-casa-mexico-2026.html).
 
 ## Comparativa real: planes para gaming en 2026
 
@@ -49,7 +49,7 @@ Totalplay se lleva la delantera en 2026 gracias a su red **fibra óptica 100% de
 -   **Plan 500 Mbps: \$599 MXN/mes** (incluye router dual-band Wi-Fi 6 con QoS avanzado)
 -   **Plan 1 Gbps: \$1,199 MXN/mes** (fibra 100% dedicada, antirretraso en juegos multijugador)
 
-El único detail: su cobertura aún es limitada a 18 estados, con foco en CDMX y zona metropolitana. Si vives en una ciudad pequeña, conviene revisar su cobertura en [Izzi vs Totalplay 2026: ¿cuál es mejor para gaming?](/blog/izzi-vs-totalplay-2026.html)
+El único detail: su cobertura aún es limitada a 18 estados, con foco en CDMX y zona metropolitana. Si vives en una ciudad pequeña, conviene revisar su cobertura en [Izzi vs Totalplay 2026: ¿cuál es mejor para gaming?](/blog/izzi-vs-totalplay-telmex-megacable-2026.html)
 
 ### Izzi: equilibrio entre precio y rendimiento
 
@@ -128,8 +128,8 @@ Si juegas FIFA, Call of Duty o cualquier juego multijugador competitivo: prioriz
 
 **Compara planes ahora** y encuentra el internet gaming barato con garantía de qos mexico que realmente funciona para ti:
 
--   [Izzi vs Totalplay 2026: ¿cuál es mejor para gaming?](/blog/izzi-vs-totalplay-2026.html)
--   [Mejor internet para casa en 2026: qué revisar antes de contratar](/blog/mejor-internet-para-casa-2026.html)
+-   [Izzi vs Totalplay 2026: ¿cuál es mejor para gaming?](/blog/izzi-vs-totalplay-telmex-megacable-2026.html)
+-   [Mejor internet para casa en 2026: qué revisar antes de contratar](/blog/mejor-internet-casa-mexico-2026.html)
 -   [Latencia real en juegos online: cómo medirla y qué es aceptable](/blog/latencia-gaming-mexico-2026.html)
 
 ::: {.author-bio style="margin-top: 48px; padding: 24px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #0066cc;"}
@@ -155,7 +155,7 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 ::: {.related-articles style="margin-top: 32px;"}
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
--   [→ Mejor internet para casa 2026](/blog/mejor-internet-para-casa-2026.html){style="color: #0066cc; text-decoration: none;"}
--   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 :::

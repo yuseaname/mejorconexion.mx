@@ -31,7 +31,7 @@ Calculadoras y checklists para decidir sin rodeos. Hechas para México, con ejem
 ::: {.section .hub-intro hub-intro="true"}
 Este hub de **herramientas** reúne recursos prácticos para decidir sin adivinar: calculadoras y checklists que aterrizan tu uso real en México. Si estás comparando internet en casa, planes móviles o eSIM, aquí encuentras recursos simples para estimar consumo, detectar cuellos de botella y preparar la contratación con datos, no con corazonadas.
 
-Para aprovechar estos recursos, empieza por medir tu consumo y luego cruza con guías claras. La calculadora te ayuda a estimar GB al mes; después puedes contrastar con [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/) o con la comparativa de [mejor internet en casa](/internet-en-casa/mejor-internet-en-casa-mexico/). Si quieres validar velocidad real, revisa [cómo medir tu velocidad](/guias/como-medir-velocidad-real-internet/), y si piensas cambiar, usa [cómo cambiar de proveedor](/internet-en-casa/como-cambiar-proveedor-internet-mexico/).
+Para aprovechar estos recursos, empieza por medir tu consumo y luego cruza con guías claras. La calculadora te ayuda a estimar GB al mes; después puedes contrastar con [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/) o con la comparativa de [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html/). Si quieres validar velocidad real, revisa [cómo medir tu velocidad](/guias/como-medir-velocidad-real-internet/), y si piensas cambiar, usa [cómo cambiar de proveedor](/internet-en-casa/como-cambiar-proveedor-internet-mexico/).
 
 Estos recursos están pensados para casa, trabajo y escuela. Te ayudan a tomar decisiones con base en cobertura, estabilidad, latencia/ping y reglas de contrato, sin tecnicismos raros. Sirven para aterrizar cuánto consumes en realidad, qué tan estable está tu red y qué esperar de la instalación. Úsalos como base para hablar con soporte o para comparar opciones cuando el mercado se pone confuso.
 
@@ -74,7 +74,7 @@ Antes de firmar, confirma lo que sí afecta la experiencia real.
 -   ¿Qué router entregan y con qué Wi‑Fi?
 -   ¿Qué dicen vecinos sobre horario pico?
 
-Complementa con [la comparativa principal](/internet-en-casa/mejor-internet-en-casa-mexico/) y la guía de [Mbps](/guias/cuantos-mbps-necesito/).
+Complementa con [la comparativa principal](/blog/mejor-internet-casa-mexico-2026.html/) y la guía de [Mbps](/guias/cuantos-mbps-necesito/).
 :::
 :::
 

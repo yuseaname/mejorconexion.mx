@@ -59,7 +59,7 @@ Si tienes la suerte de vivir en una zona urbana, la fibra óptica sigue siendo e
 
 El mercado está dominado por Totalplay, Izzi, Megacable y, cada vez más, CFE Fibra. La guerra de precios ha resultado en planes que van desde **\$389 MXN hasta \$999 MXN** mensuales, dependiendo de la velocidad (100, 300, 500 o 1000 Mbps) y si incluye televisión o teléfono.
 
-Si estás decidiendo entre los dos gigantes privados, la comparativa [Izzi vs Totalplay 2026](/internet-en-casa/izzi-vs-totalplay-2026-comparativa/) es fundamental. Totalplay suele ofrecer velocidades más altas (hasta 1 Gbps) pero a un precio más elevado, mientras que Izzi compite fuerte en el rango medio y con paquetes de televisión. Megacable ha ganado terreno en zonas suburbanas con precios muy competitivos. Por otro lado, CFE Fibra ha sido una sorpresa positiva, llegando a zonas donde los privados no querían invertir, ofreciendo precios accesibles, aunque su servicio al cliente sigue siendo el punto débil.
+Si estás decidiendo entre los dos gigantes privados, la comparativa [Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html/) es fundamental. Totalplay suele ofrecer velocidades más altas (hasta 1 Gbps) pero a un precio más elevado, mientras que Izzi compite fuerte en el rango medio y con paquetes de televisión. Megacable ha ganado terreno en zonas suburbanas con precios muy competitivos. Por otro lado, CFE Fibra ha sido una sorpresa positiva, llegando a zonas donde los privados no querían invertir, ofreciendo precios accesibles, aunque su servicio al cliente sigue siendo el punto débil.
 
 ### La Tecnología: ¿Por qué es mejor?
 

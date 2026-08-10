@@ -22,7 +22,7 @@ Blog
 El router define la experiencia diaria: velocidad real, alcance y estabilidad. Esta guia explica lo que si importa y lo que solo suena bien en la caja para que compres con criterio, no con marketing.
 
 ::: button-row
-[Ver comparativa de internet en casa](/internet-en-casa/mejor-internet-en-casa-mexico/){.btn .primary} [Mejorar WiFi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.btn}
+[Ver comparativa de internet en casa](/blog/mejor-internet-casa-mexico-2026.html/){.btn .primary} [Mejorar WiFi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.btn}
 :::
 :::
 
@@ -141,7 +141,7 @@ Antes de comprar, revisa que tu proveedor permita usar router propio. La mayoria
 
 En algunos casos, el proveedor usa telefonia fija integrada. Si quieres conservarla, tal vez necesites dejar el modem original conectado. Aun asi puedes apagar su WiFi y usar tu router nuevo para todo lo demas. Es un ajuste sencillo que mejora mucho la estabilidad.
 
-Si no estas seguro, revisa las guias de tu proveedor o consulta su soporte. Tambien puedes ver nuestra comparativa de [mejor internet en casa](/internet-en-casa/mejor-internet-en-casa-mexico/) para entender que tecnologas se usan en tu zona.
+Si no estas seguro, revisa las guias de tu proveedor o consulta su soporte. Tambien puedes ver nuestra comparativa de [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html/) para entender que tecnologas se usan en tu zona.
 :::
 
 ::: {#checklist-compra .section}

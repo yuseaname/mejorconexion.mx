@@ -159,7 +159,7 @@ Si tu uso es streaming o trabajo remoto, combina con [internet para streaming](/
 
 ### Pruebas recomendadas
 
-Haz al menos tres pruebas en cada zona: una por la manana, otra por la tarde y otra por la noche. Si la velocidad cae mucho en horario pico, el problema no es el mesh sino la saturacion del proveedor. En ese caso, revisa [mejor internet en casa en Mexico](/internet-en-casa/mejor-internet-en-casa-mexico/).
+Haz al menos tres pruebas en cada zona: una por la manana, otra por la tarde y otra por la noche. Si la velocidad cae mucho en horario pico, el problema no es el mesh sino la saturacion del proveedor. En ese caso, revisa [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html/).
 :::
 
 ::: {#errores-comunes .section}
@@ -262,7 +262,7 @@ Si, y es la mejor opcion. Consulta [red domestica pro](/internet-en-casa/red-dom
 
 ### Como saber si necesito cambiar de proveedor?
 
-Si con mesh la cobertura mejora pero la velocidad sigue mala, revisa [mejor internet en casa en Mexico](/internet-en-casa/mejor-internet-en-casa-mexico/).
+Si con mesh la cobertura mejora pero la velocidad sigue mala, revisa [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html/).
 
 ::: {.section .callout related-block="" style="margin-top:18px"}
 ## Siguiente lectura

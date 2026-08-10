@@ -214,7 +214,7 @@ Reporta el bloqueo inmediatamente a PROFECO y a la **Comisión Federal de Teleco
 ## Recursos útiles  
 
 - [Guía para elegir el mejor internet en casa (2026)](./mejor-internet-casa-mexico-2026)  
-- [Comparativa de proveedores: Izzi vs Totalplay vs Telmex (2026)](./izzi-vs-totalplay-vs-telmex-2026)  
+- [Comparativa de proveedores: Izzi vs Totalplay vs Telmex (2026)](/blog/izzi-vs-totalplay-telmex-megacable-2026.html)  
 - [Cuánto cuesta el internet en México en 2026](./cuanto-cuesta-internet-en-mexico-2026)  
 - [Cómo usar Speedtest para probar tu conexión](./como-usar-speedtest-para-probar-internet)  
 - [Errores comunes al contratar internet (2026)](./errores-comunes-contratar-internet-2026)  

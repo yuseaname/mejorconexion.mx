@@ -53,7 +53,7 @@ Totalplay no vende routers WiFi 6E de fábrica (aún usa su propio equipo en com
 
 Izzi ha empezado a ofrecer su propio router WiFi 6E (el Izzi Smart Hub Pro), pero su firmware es cerrado y limita ajustes avanzados. Para usuarios avanzados, el **ASUS ROG Rapture GT-AXE11000** es la opción estelar: puede conectarse en modo puente al modem Izzi y desbloquear todo su potencial. Es especialmente útil para planes de 1 Gbps (Izzi 1000) donde la latencia y el tráfico simultáneo son críticos (ej. streaming en 4K + videoconferencia + gaming).
 
-[¿Izzi o Totalplay? Nuestro comparison completo con los mejores routers para cada uno](/blog/izzi-vs-totalplay-2026.html).
+[¿Izzi o Totalplay? Nuestro comparison completo con los mejores routers para cada uno](/blog/izzi-vs-totalplay-telmex-megacable-2026.html).
 
 ### Compatibilidad con Infinitum (Telmex)
 
@@ -75,7 +75,7 @@ Megacable usa modems DOCSIS 3.1 con cable coaxial. El router WiFi 6E debe ser co
   Atherton Jetstream AX5400   5.4 Gbps            2x Gigabit                 Sí (6 GHz, 80 MHz)                  \$2,799             Virgin Mobile, Dish, presupuesto ajustado
   Netgear CPE3200 (combo)     1.8 Gbps (DOCSIS)   1x 2.5 Gbps + 2x Gigabit   Sí                                  \$4,899             Megacable, hogares con cable coaxial
 
-[¿Cómo elegir tu plan de internet según tu uso? Guía 2026 con recomendaciones por hogar](/blog/mejor-internet-para-casa-2026.html).
+[¿Cómo elegir tu plan de internet según tu uso? Guía 2026 con recomendaciones por hogar](/blog/mejor-internet-casa-mexico-2026.html).
 
 ## Cómo instalar tu router WiFi 6E en casa: paso a paso
 
@@ -134,7 +134,7 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 ::: {.related-articles style="margin-top: 32px;"}
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
--   [→ Mejor internet para casa 2026](/blog/mejor-internet-para-casa-2026.html){style="color: #0066cc; text-decoration: none;"}
--   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 :::

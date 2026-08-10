@@ -98,7 +98,7 @@ En algunas zonas sí. Pregunta específicamente por tu dirección. En zonas dond
 
 ### ¿Izzi o Totalplay es mejor?
 
-Depende de la zona. Donde Totalplay tiene fibra directa, suele ser más estable. Donde Izzi tiene fibra, la diferencia se reduce. Compara en [Izzi vs Totalplay](/blog/izzi-vs-totalplay-2026.html).
+Depende de la zona. Donde Totalplay tiene fibra directa, suele ser más estable. Donde Izzi tiene fibra, la diferencia se reduce. Compara en [Izzi vs Totalplay](/blog/izzi-vs-totalplay-telmex-megacable-2026.html).
 
 ### ¿Puedo usar mi propio router con Izzi?
 
@@ -112,7 +112,7 @@ Documenta mediciones por cable, llama a soporte y si no resuelven, presenta quej
 ::: {.section related-block="" style="margin-top:18px"}
 ## Sigue aprendiendo
 
-- Para comparar con Totalplay, checa [Izzi vs Totalplay](/blog/izzi-vs-totalplay-2026.html).
+- Para comparar con Totalplay, checa [Izzi vs Totalplay](/blog/izzi-vs-totalplay-telmex-megacable-2026.html).
 - Para ver todos los proveedores, lee [compañías de internet en México](/internet-en-casa/companias-internet-mexico.html).
 - Para entender tecnologías, revisa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
 :::

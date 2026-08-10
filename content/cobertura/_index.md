@@ -13,7 +13,7 @@ Este hub sirve para tomar decisiones por ciudad sin caer en promesas vagas. El f
 -   Luego identifica la tecnología disponible en tu zona.
 -   Por último, valida con pruebas y vecinos en horario pico.
 
-Con ese orden evitas contratar por marketing y te enfocas en estabilidad real. Si además quieres entender diferencias entre tecnologías, revisa [mejor internet en casa](/internet-en-casa/mejor-internet-en-casa-mexico/).
+Con ese orden evitas contratar por marketing y te enfocas en estabilidad real. Si además quieres entender diferencias entre tecnologías, revisa [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html/).
 :::
 
 ::: {#que-es .section}

@@ -78,7 +78,7 @@ Si tu internet va bien de día pero se arrastra en la noche (7-11 PM), es conges
 
 La congestión en horario pico no se arregla con más megas ni con un router nuevo. Se arregla cambiando a un proveedor con menos sobresuscripción en tu zona (a menudo, fibra dedicada vs cable compartido).
 
-Compara opciones en [nuestra guía de mejor internet en casa](/internet-en-casa/mejor-internet-en-casa-mexico.html).
+Compara opciones en [nuestra guía de mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html).
 :::
 
 <!-- ADSENSE_BREAK -->

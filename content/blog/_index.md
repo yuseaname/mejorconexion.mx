@@ -192,15 +192,15 @@ Cómo funciona y cuándo te conviene en México.
 
 Qué comparar: compatibilidad, red, vigencia y letra chica.
 
-[](/blog/mejor-internet-para-casa-2026.html){.card .card--post}
+[](/blog/mejor-internet-casa-mexico-2026.html){.card .card--post}
 
-## Mejor internet para casa 2026 {#mejor-internet-para-casa-2026 style="margin:0 0 8px"}
+## Mejor internet para casa 2026 {#/blog/mejor-internet-casa-mexico-2026.html style="margin:0 0 8px"}
 
 Guía completa de proveedores, precios reales y recomendaciones actualizadas para México.
 
-[](/blog/izzi-vs-totalplay-2026.html){.card .card--post}
+[](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){.card .card--post}
 
-## izzi vs Totalplay 2026 {#izzi-vs-totalplay-2026 style="margin:0 0 8px"}
+## izzi vs Totalplay 2026 {#/blog/izzi-vs-totalplay-telmex-megacable-2026.html style="margin:0 0 8px"}
 
 Comparativa definitiva: precios, velocidad, cobertura y opiniones reales de usuarios.
 
@@ -228,9 +228,9 @@ Comparativa con testimonios verificados, precios y cuál elegir según tu zona.
 
 Guía con datos reales de ping, velocidad y estabilidad entre Totalplay, Izzi, Infinitum y Megacable.
 
-[](/blog/megacable-vs-totalplay-2026.html){.card .card--post}
+[](/blog/megacable-vs-totalplay-comparativa-2026.html){.card .card--post}
 
-## Megacable vs Totalplay 2026 {#megacable-vs-totalplay-2026 style="margin:0 0 8px"}
+## Megacable vs Totalplay 2026 {#/blog/megacable-vs-totalplay-comparativa-2026.html style="margin:0 0 8px"}
 
 Comparativa honesta de precios, cobertura y velocidad real entre los dos proveedores de fibra.
 

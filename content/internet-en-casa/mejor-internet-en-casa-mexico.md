@@ -2,8 +2,9 @@
 title: "Mejor internet en casa en México (guía 2025)"
 slug: "mejor-internet-en-casa-mexico"
 date: 2026-01-01
+updated: 2026-08-10
 description: "Esto es lo que realmente importa al contratar internet en casa en México: estabilidad, tipo de red, contrato, instalación y soporte. Comparativa clara."
-draft: false
+draft: true
 image: "/images/topic-provider-comparison.webp"
 ---
 ::: container

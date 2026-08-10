@@ -127,7 +127,7 @@ Si la TV está lejos del router, mejor usa un adaptador Powerline o cable Ethern
 
 No hay ganador universal. El mejor internet para streaming es el que instala fibra óptica en tu domicilio, entrega estabilidad en horario pico, incluye un router decente o te deja usar el propio, y tiene un precio total razonable después de la promoción.
 
-Compara opciones reales en [nuestra guía de mejor internet en casa](/internet-en-casa/mejor-internet-en-casa-mexico.html) y verifica cobertura antes de contratar.
+Compara opciones reales en [nuestra guía de mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html) y verifica cobertura antes de contratar.
 :::
 
 ::: {.ad-slot ad-slot="before-faq"}

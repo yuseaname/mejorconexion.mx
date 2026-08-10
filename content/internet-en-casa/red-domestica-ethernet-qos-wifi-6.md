@@ -190,7 +190,7 @@ Despues de instalar, mide en varias horas del dia. Ajusta nodos o antenas si hay
 4.  Configurar QoS para videollamadas.
 5.  Medir velocidad real en horario pico.
 
-Si aun te sientes perdido, vuelve a [mejor internet en casa en Mexico](/internet-en-casa/mejor-internet-en-casa-mexico/) para alinear decisiones con tu presupuesto.
+Si aun te sientes perdido, vuelve a [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html/) para alinear decisiones con tu presupuesto.
 :::
 
 ::: {#presupuesto-niveles .section}

@@ -278,7 +278,7 @@ Si tu internet se vuelve lento, revisa causas reales: [por qué el internet es l
 4.  Valida cobertura en tu calle.
 5.  Pregunta por costos de instalación y equipo.
 
-Si quieres una guía más general para elegir, revisa: [mejor internet en casa](/internet-en-casa/mejor-internet-en-casa-mexico/).
+Si quieres una guía más general para elegir, revisa: [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html/).
 :::
 
 ::: {#tecnologias .section}

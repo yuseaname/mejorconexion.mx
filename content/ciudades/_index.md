@@ -116,7 +116,7 @@ Directorio completo con todas las guías locales disponibles.
 ::: callout
 **Regla de oro:** valida con vecinos y prueba en horario pico. En serio, eso te evita el 80% de malas decisiones.
 
-Lecturas clave: [mejor internet en casa](/internet-en-casa/mejor-internet-en-casa-mexico/) y [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/).
+Lecturas clave: [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html/) y [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/).
 :::
 :::
 

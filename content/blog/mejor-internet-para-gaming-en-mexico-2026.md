@@ -62,7 +62,7 @@ Como ves, **Totalplay** lidera en rendimiento de ping, especialmente en CDMX y G
 No todos los planes "gaming" son iguales. Aquí te damos un método práctico para elegir el **mejor plan de internet para streamers y gamers** en tu ciudad:
 
 1.  **Verifica cobertura:** Usa el buscador de cada proveedor para confirmar si ofrecen fibra en tu colonia. En 2026, Totalplay e Izzi cubren las principales zonas urbanas, pero Infinitum gana en colonias populares de zonascentro y periférico.
-2.  **Prueba el ping real:** Pide a un amigo que te comparta el resultado de un *ping test* a un servidor local (como `ping 189.202.100.10`, IP de PACHA, proveedor mexicano de contenido) o usa [nuestra guía de pruebas de red](/blog/mejor-internet-para-casa-2026.html) para verificar latencia antes de contratar.
+2.  **Prueba el ping real:** Pide a un amigo que te comparta el resultado de un *ping test* a un servidor local (como `ping 189.202.100.10`, IP de PACHA, proveedor mexicano de contenido) o usa [nuestra guía de pruebas de red](/blog/mejor-internet-casa-mexico-2026.html) para verificar latencia antes de contratar.
 3.  **Asegura el QoS:** En el contrato, pregunta explícitamente por "priorización de tráfico para videojuegos" o "QoS activo por defecto". Totalplay e Izzi lo incluyen en sus planes desde \$499 MXN, pero Infinitum lo requiere en planes ≥ \$699 MXN.
 4.  **Elige el router adecuado:** Si el router incluido no tiene QoS (como algunos de Dish), considera adquirir uno como el *ASUS RT-AX55* (\$2,200 MXN), que permite reglas de priorización por IP y puerto.
 5.  **Para streamers: suma velocidad de subida:** Un stream en 1080p60 requiere al menos 6 Mbps estables de subida. Totalplay ofrece hasta 100 Mbps de subida en su plan de 1,000 Mbps, mientras que Izzi da 50 Mbps en su plan "Gaming Unlimited".
@@ -93,7 +93,7 @@ Para streamers, lo ideal es un plan con al menos 500 Mbps de bajada, 50 Mbps de 
 
 El **mejor internet para gaming en Mexico 2026** ya es una realidad, con proveedores ofreciendo infraestructura y funcionalidades específicas para gamers. Totalplay se erige como líder absoluto en rendimiento y bajo ping, especialmente si vives en una zona con cobertura de su red 100% óptica. Izzi es la mejor opción económica para quienes buscan equilibrio entre precio y calidad, mientras que Infinitum mejora año con año y se vuelve competitivo si ya usas telefonía fija con Telmex. Megacable y Dish son buenas para gamers casuales, pero no para quienes quieren competir o streamear sin riesgos.
 
-Recuerda: no basta con velocidad. Prioriza el ping, el QoS y la estabilidad real. Si quieres comparar planes directamente según tu colonia, consulta [nuestra comparativa detallada Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html) o [cómo elegir tu plan ideal](/blog/como-elegir-internet-gaming.html).
+Recuerda: no basta con velocidad. Prioriza el ping, el QoS y la estabilidad real. Si quieres comparar planes directamente según tu colonia, consulta [nuestra comparativa detallada Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html) o [cómo elegir tu plan ideal](/blog/como-elegir-internet-gaming.html).
 
 ¿Listo para mejorar tu experiencia de juego? **Compara planes ahora** en mejorconexion.mx y encuentra el internet que te da ventaja real en cada partida.
 
@@ -120,7 +120,7 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 ::: {.related-articles style="margin-top: 32px;"}
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
--   [→ Mejor internet para casa 2026](/blog/mejor-internet-para-casa-2026.html){style="color: #0066cc; text-decoration: none;"}
--   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
+-   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 :::
