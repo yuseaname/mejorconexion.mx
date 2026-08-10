@@ -4,7 +4,7 @@ slug: "como-aumentar-velocidad-internet-mexico"
 date: 2026-08-09
 description: "10 formas reales de aumentar la velocidad de tu internet en México sin cambiar de plan: cable Ethernet, canal WiFi, DNS, QoS, ubicación del router y más."
 draft: false
-image: "/images/generated/hero-aumentar-velocidad.png"
+image: "/images/generated/hero-aumentar-velocidad.webp"
 ---
 
 ::: container

@@ -4,7 +4,7 @@ slug: "dns-que-es-como-cambiar-mexico"
 date: 2026-08-09
 description: "Qué es el DNS, por qué cambiarlo puede hacer que tus páginas abran más rápido y cómo configurarlo en tu router o celular en México. Gratis y en 5 minutos."
 draft: false
-image: "/images/generated/hero-dns.png"
+image: "/images/generated/hero-dns.webp"
 ---
 
 ::: container

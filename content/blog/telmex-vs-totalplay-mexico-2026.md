@@ -11,7 +11,7 @@ keywords:
   - "precios totalplay 2026"
   - "comparativa internet mexico 2026"
 draft: true
-image: "/images/12-telmex-vs-totalplay-mexico-2026/12-telmex-vs-totalplay-mexico-2026-hero.jpg"
+image: "/images/12-telmex-vs-totalplay-mexico-2026/12-telmex-vs-totalplay-mexico-2026-hero.webp"
 ---
 <h1>Telmex vs Totalplay 2026: precio real, velocidad y cuál conviene más</h1>
     <figure class="article-image">

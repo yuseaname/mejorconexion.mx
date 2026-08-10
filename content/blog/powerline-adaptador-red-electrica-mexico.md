@@ -4,7 +4,7 @@ slug: "powerline-adaptador-red-electrica-mexico"
 date: 2026-08-09
 description: "El adaptador Powerline usa el cable eléctrico de tu casa para transmitir internet. Cómo funciona, cuánto cuesta en MXN y cuándo conviene vs repetidor o mesh."
 draft: false
-image: "/images/generated/hero-powerline.png"
+image: "/images/generated/hero-powerline.webp"
 ---
 
 ::: container

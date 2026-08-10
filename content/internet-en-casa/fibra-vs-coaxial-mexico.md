@@ -4,7 +4,7 @@ slug: "fibra-vs-coaxial-mexico"
 date: 2026-01-01
 description: "Fibra óptica vs cable coaxial en México: qué es cada uno, diferencias de velocidad, estabilidad, subida y latencia. Tabla comparativa y cuándo elegir cada uno."
 draft: false
-image: "/images/generated/hero-fibra-vs-coaxial.png"
+image: "/images/generated/hero-fibra-vs-coaxial.webp"
 ---
 
 ::: container

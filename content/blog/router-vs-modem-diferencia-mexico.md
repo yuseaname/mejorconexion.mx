@@ -4,7 +4,7 @@ slug: "router-vs-modem-diferencia"
 date: 2026-08-09
 description: "Cuál es la diferencia entre router y módem: qué hace cada uno, por qué tu proveedor te entrega ambos (o uno combinado) y cuándo cambiarlos."
 draft: false
-image: "/images/generated/hero-router-vs-modem.png"
+image: "/images/generated/hero-router-vs-modem.webp"
 ---
 
 ::: container

@@ -4,7 +4,7 @@ slug: "internet-roku-fire-tv-stick-mexico"
 date: 2026-08-09
 description: "Velocidad de internet para Roku y Fire TV Stick en México: Mbps necesarios, fibra vs cable, cómo conectar por cable o WiFi y por qué se traba el streaming."
 draft: false
-image: "/images/generated/hero-roku-fire-tv.png"
+image: "/images/generated/hero-roku-fire-tv.webp"
 ---
 
 ::: container

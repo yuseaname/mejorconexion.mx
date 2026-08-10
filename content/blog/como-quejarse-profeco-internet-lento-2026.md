@@ -4,7 +4,7 @@ slug: "como-quejarse-profeco-internet-lento-2026"
 date: 2026-08-09
 description: "Guía paso a paso para quejarte en PROFECO si tu proveedor de internet no entrega lo contratado. Qué documentos necesitas, cómo presentarla y qué esperar."
 draft: false
-image: "/images/generated/hero-profeco-queja.png"
+image: "/images/generated/hero-profeco-queja.webp"
 ---
 
 ::: container

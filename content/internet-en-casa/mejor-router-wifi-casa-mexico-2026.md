@@ -4,7 +4,7 @@ slug: "mejor-router-wifi-casa-mexico-2026"
 date: 2026-08-09
 description: "Cuál router WiFi comprar en México según tu casa, presupuesto y plan de internet. Tabla comparativa con precios en MXN, WiFi 6 vs WiFi 5 y cuándo NO cambiar."
 draft: false
-image: "/images/generated/hero-mejor-router.png"
+image: "/images/generated/hero-mejor-router.webp"
 ---
 
 ::: container

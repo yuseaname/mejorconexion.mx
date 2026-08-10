@@ -4,7 +4,7 @@ slug: "mejor-repetidor-wifi-mexico-2026"
 date: 2026-08-09
 description: "Cuál repetidor WiFi conviene en México según tu problema real: casa grande, señal débil o router lejano. Tabla comparativa con precios en MXN y cuándo NO comprar uno."
 draft: false
-image: "/images/generated/hero-repetidor-wifi.png"
+image: "/images/generated/hero-repetidor-wifi.webp"
 ---
 
 ::: container

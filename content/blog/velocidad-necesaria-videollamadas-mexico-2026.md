@@ -4,7 +4,7 @@ slug: "velocidad-necesaria-videollamadas-mexico-2026"
 date: 2026-08-09
 description: "Cuántos Mbps necesitas para videollamadas en México (Zoom, Google Meet, Teams): descarga, subida, latencia y cómo evitar que se congele tu video."
 draft: false
-image: "/images/generated/hero-videollamadas.png"
+image: "/images/generated/hero-videollamadas.webp"
 ---
 
 ::: container

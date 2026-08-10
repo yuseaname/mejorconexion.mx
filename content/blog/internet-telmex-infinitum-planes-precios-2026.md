@@ -4,7 +4,7 @@ slug: "internet-telmex-infinitum-planes-precios-2026"
 date: 2026-08-09
 description: "Telmex Infinitum en 2026: planes disponibles, precios en MXN, fibra vs cobre, cobertura, cómo contratar y qué revisar antes de firmar. Sin humo."
 draft: false
-image: "/images/generated/hero-internet-telmex.png"
+image: "/images/generated/hero-internet-telmex.webp"
 ---
 
 ::: container

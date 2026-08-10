@@ -4,7 +4,7 @@ slug: "starlink-mexico-precio-cobertura-2026"
 date: 2026-08-09
 description: "Starlink en México 2026: precio mensual en MXN, cobertura, velocidad real, instalación y comparación vs fibra y 4G fijo. ¿Vale la pena para zonas rurales?"
 draft: false
-image: "/images/generated/hero-starlink-mexico.png"
+image: "/images/generated/hero-starlink-mexico.webp"
 ---
 
 ::: container

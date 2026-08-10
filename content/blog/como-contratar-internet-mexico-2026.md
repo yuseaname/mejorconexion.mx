@@ -4,7 +4,7 @@ slug: "como-contratar-internet-mexico-2026"
 date: 2026-08-09
 description: "Guía paso a paso para contratar internet en México en 2026: verificar cobertura, comparar proveedores, instalar, probar y evitar costos ocultos. Sin humo, con MXN."
 draft: false
-image: "/images/generated/hero-como-contratar-internet.png"
+image: "/images/generated/hero-como-contratar-internet.webp"
 ---
 
 ::: container

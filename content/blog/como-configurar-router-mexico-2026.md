@@ -4,7 +4,7 @@ slug: "como-configurar-router-mexico-2026"
 date: 2026-08-09
 description: "Guía para configurar tu router desde cero: entrar al panel, cambiar contraseña WiFi, canal, bandas, DNS y QoS. Paso a paso y sin tecnicismos para México."
 draft: false
-image: "/images/generated/hero-router-config.png"
+image: "/images/generated/hero-router-config.webp"
 ---
 
 ::: container

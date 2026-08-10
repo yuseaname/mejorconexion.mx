@@ -4,7 +4,7 @@ slug: "por-que-se-cae-wifi-casa-mexico"
 date: 2026-08-09
 description: "Tu WiFi se cae sin razón: diagnóstico de las 5 causas más comunes en México y cómo arreglar cada una — del router mal ubicado al proveedor saturado."
 draft: false
-image: "/images/generated/hero-wifi-se-cae.png"
+image: "/images/generated/hero-wifi-se-cae.webp"
 ---
 
 ::: container
