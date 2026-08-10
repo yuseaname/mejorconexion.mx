@@ -4,7 +4,7 @@ slug: "por-que-el-internet-es-lento-a-veces"
 date: 2026-01-01
 description: "Guía 2026 en español mexicano: por qué el internet se pone lento, cómo diagnosticar la causa real, qué arreglar en Wi‑Fi, router, horarios pico y cuándo cambiar de plan o proveedor."
 draft: false
-image: "/images/generated/speed-test-cdmx.webp"
+image: "/images/topic-provider-comparison.webp"
 ---
 <div>
 

@@ -4,7 +4,7 @@ slug: "mejor-internet-para-clases-en-linea"
 date: 2026-01-01
 description: "Guía 2026 para elegir internet para clases en línea en México: estabilidad, Wi‑Fi, videollamadas, router, y checklist para evitar cortes."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/mejorconexion-mx-internet-en-casa-index-html-hero-bfb68d99.webp"
 ---
 ::: container
 ::: breadcrumbs

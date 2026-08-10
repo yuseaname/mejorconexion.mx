@@ -6,7 +6,7 @@ slug: "mejor-internet-gaming-mexico-2026"
 description: "Descubre cuál es el mejor internet para gaming en México en 2026. Comparamos latencia, velocidad y precios de Totalplay, Telmex, Megacable e Izzi para que juegues sin lag."
 tags: ["gaming", "internet", "comparativa", "totalplay", "telmex", "megacable"]
 categories: ["comparativas"]
-image: "/images/generated/speed-test-cdmx.webp"
+image: "/images/topic-provider-comparison.webp"
 ---
 
 ![Mejor internet para gaming en México 2026 — setup gamer con fibra óptica](images/mejor-internet-gaming-mexico-2026/mejor-internet-gaming-mexico-2026-hero.jpg)

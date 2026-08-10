@@ -4,7 +4,7 @@ slug: "wifi-5-vs-wifi-6-vale-cambiar-mexico"
 date: 2026-08-09
 description: "WiFi 5 vs WiFi 6 en México: diferencias de velocidad, alcance, manejo de dispositivos y precio. Si vale la pena actualizar tu router en 2026."
 draft: false
-image: "/images/topic-router-wifi.webp"
+image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 
 ::: container

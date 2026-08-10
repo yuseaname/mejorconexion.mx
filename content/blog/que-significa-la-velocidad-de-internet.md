@@ -4,7 +4,7 @@ slug: "que-significa-la-velocidad-de-internet"
 date: 2026-01-01
 description: "Entiende qué significa la velocidad de internet, qué miden los Mbps y por qué descarga, subida, latencia y Wi-Fi pueden dar resultados distintos."
 draft: false
-image: "/images/generated/speed-test-cdmx.webp"
+image: "/images/topic-router-wifi.webp"
 ---
 
 Cuando un plan dice 100, 300 o 500 Mbps, habla de la cantidad de datos que la conexión puede mover por segundo en condiciones determinadas. Esa cifra importa, pero no describe toda la experiencia: una videollamada puede fallar por mala subida, un juego puede sentirse lento por latencia y una prueba por Wi-Fi puede medir más el estado de tu router que la conexión contratada.

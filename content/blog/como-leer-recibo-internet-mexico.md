@@ -4,7 +4,7 @@ slug: "como-leer-recibo-internet-mexico"
 date: 2026-08-09
 description: "Tu recibo de internet tiene cargos ocultos: renta de equipo, servicios no solicitados, impuestos. Aprende a leerlo y a identificar cobros de más en México."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 
 ::: container

@@ -4,7 +4,7 @@ slug: "control-parental-internet-hogar-mexico"
 date: 2026-01-01
 description: "Guia completa de control parental en Mexico: filtros, horarios, perfiles por edad y configuraciones en router, Android, iOS, Windows y consolas."
 draft: false
-image: "/images/topic-router-wifi.webp"
+image: "/images/generated/mejorconexion-mx-blog-index-html-hero-4ae7da93.webp"
 ---
 ::: container
 ::: breadcrumbs

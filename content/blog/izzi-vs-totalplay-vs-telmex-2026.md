@@ -11,7 +11,7 @@ keywords:
   - "izzi internet vale la pena"
   - "que internet conviene en mexico"
 draft: true
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/mejorconexion-mx-internet-en-casa-index-html-hero-bfb68d99.webp"
 ---Elegir internet en México no se trata de encontrar “el plan con más megas” ni “la promo más bonita”. Si comparas solo por precio de entrada, puedes terminar con cortes constantes, mala latencia en videollamadas, o una factura más alta de lo que esperabas cuando se acaba la promoción.
 
 La comparación útil entre **Izzi, Totalplay y Telmex** en 2026 tiene que responder esta pregunta:

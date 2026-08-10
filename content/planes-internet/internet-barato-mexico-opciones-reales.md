@@ -4,7 +4,7 @@ slug: "internet-barato-mexico-opciones-reales"
 date: 2026-01-01
 description: "Guía 2026 de internet barato en México con enfoque realista: señales de una oferta sana, costos ocultos, opciones por uso y checklist de contratación."
 draft: false
-image: "/images/generated/hero-telcel-att-movistar.webp"
+image: "/images/topic-router-wifi.webp"
 ---
 <div>
 

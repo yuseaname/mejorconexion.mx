@@ -10,7 +10,7 @@ keywords:
   - "mejorar internet noche"
   - "congestión internet"
 draft: false
-image: "/images/generated/speed-test-cdmx.webp"
+image: "/images/topic-provider-comparison.webp"
 ---Tu internet vuela a las 10 de la mañana pero se arrastra a las 9 de la noche. No es tu imaginación — y no siempre es culpa del proveedor. Aquí te decimos qué pasa y cómo arreglarlo.
 
 <img src="https://images.unsplash.com/photo-1489549132488-d00b7eee80f1?w=1200&h=630&fit=crop&q=80" alt="Persona frustrada con internet lento en la noche" width="1200" height="630" loading="lazy" />

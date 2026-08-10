@@ -4,7 +4,7 @@ slug: "que-es-internet-simétrico"
 date: 2026-05-30
 description: "Entiende qué es el internet simétrico, por qué importa la velocidad de subida y cómo mejora tu experiencia de videollamadas y envío de archivos."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/speed-test-cdmx.webp"
 ---
 <figure class="article-image article-hero">
 <img src="./images/06-que-es-internet-simétrico/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Internet simétrico: qué es y por qué mejora tus videollamadas y subida de archivos" />

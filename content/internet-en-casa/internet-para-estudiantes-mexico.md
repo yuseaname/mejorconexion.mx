@@ -4,7 +4,7 @@ slug: "internet-para-estudiantes-mexico"
 date: 2026-01-01
 description: "Cómo elegir internet para estudiantes en México: velocidad mínima para clases en línea, opciones económicas, compartir gastos y qué priorizar (estabilidad vs precio)."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 
 ::: container

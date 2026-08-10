@@ -4,7 +4,7 @@ slug: "internet-para-jugar-online-mexico"
 date: 2026-01-01
 description: "Para jugar online no necesitas los megas más altos: necesitas baja latencia, estabilidad y la conexión correcta. Guía real para gamers en México con fibra vs cable vs Wi-Fi."
 draft: false
-image: "/images/topic-router-wifi.webp"
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 
 ::: container

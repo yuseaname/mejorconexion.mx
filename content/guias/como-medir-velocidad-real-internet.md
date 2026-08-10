@@ -4,7 +4,7 @@ slug: "como-medir-velocidad-real-internet"
 date: 2026-01-01
 description: "Guía paso a paso para medir la velocidad real de tu internet en México: pruebas por cable vs Wi-Fi, horario pico, qué números importan y cómo interpretar resultados."
 draft: false
-image: "/images/generated/speed-test-cdmx.webp"
+image: "/images/topic-router-wifi.webp"
 ---
 
 ::: container

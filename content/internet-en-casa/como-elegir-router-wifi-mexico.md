@@ -4,7 +4,7 @@ slug: "como-elegir-router-wifi-mexico"
 date: 2026-01-01
 description: "Guía para elegir router Wi-Fi en México: cuándo cambiar el del proveedor, qué buscar (WiFi 6, bandas, puertos), presupuesto y si conviene mesh. Precios en MXN."
 draft: false
-image: "/images/topic-router-wifi.webp"
+image: "/images/topic-provider-comparison.webp"
 ---
 
 ::: container

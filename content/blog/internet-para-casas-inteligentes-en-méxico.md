@@ -4,7 +4,7 @@ slug: "internet-para-casas-inteligentes-en-méxico"
 date: 2026-05-29
 description: "Descubre cuál es el internet para casas inteligentes en México en 2026. Comparativa con precios reales, velocidades y cobertura."
 draft: false
-image: "/images/topic-router-wifi.webp"
+image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 <figure class="article-image article-hero">
 <img src="./images/internet-para-casas-inteligentes-en-méxico/internet-para-casas-inteligentes-en-méxico_hero_00003_.png" loading="eager" decoding="async" width="1200" height="630" alt="internet para casas inteligentes en México 2026, modern setup" />

@@ -4,7 +4,7 @@ slug: "internet-camaras-seguridad-videovigilancia"
 date: 2026-08-09
 description: "Qué internet necesitas para cámaras de seguridad en México: cuánto consume cada cámara (1080p/4K), fibra vs cable, almacenamiento en la nube vs local y cuántos Mbps necesitas."
 draft: false
-image: "/images/topic-router-wifi.webp"
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 
 ::: container

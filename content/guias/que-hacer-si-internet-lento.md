@@ -4,7 +4,7 @@ slug: "que-hacer-si-internet-lento"
 date: 2026-01-01
 description: "Internet lento en México: checklist práctico para diagnosticar si el problema es tu Wi-Fi, tu proveedor o el horario pico. Pasos claros y qué pedir al soporte."
 draft: false
-image: "/images/generated/speed-test-cdmx.webp"
+image: "/images/topic-provider-comparison.webp"
 ---
 
 ::: container

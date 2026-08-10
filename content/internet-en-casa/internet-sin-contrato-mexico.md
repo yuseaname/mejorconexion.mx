@@ -4,7 +4,7 @@ slug: "internet-sin-contrato-mexico"
 date: 2026-01-01
 description: "Internet sin contrato en México: opciones reales, precios, ventajas, riesgos y cuándo conviene vs un plan con plazo forzoso. Guía sin humo con datos concretos."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 
 ::: container

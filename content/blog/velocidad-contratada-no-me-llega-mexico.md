@@ -4,7 +4,7 @@ slug: "velocidad-contratada-no-me-llega-mexico"
 date: 2026-08-09
 description: "Si pagas 200 Mbps pero solo recibes 30, aquí están las causas reales y qué hacer: Wi-Fi vs cable, saturación del proveedor, router viejo y cómo reclamar."
 draft: false
-image: "/images/generated/speed-test-cdmx.webp"
+image: "/images/topic-provider-comparison.webp"
 ---
 
 ::: container

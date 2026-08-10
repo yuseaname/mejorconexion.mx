@@ -10,7 +10,7 @@ keywords:
   - "cuanto cuesta internet en mexico"
   - "CFE internet para todos"
 draft: false
-image: "/images/generated/planes-comparacion-mexico.webp"
+image: "/images/topic-provider-comparison.webp"
 ---*Por el equipo editorial de MejorConexión.mx · Datos recopilados el 14 de marzo de 2026*  
 *Metodología: Precios verificados en sitios oficiales de cada proveedor, datos de quejas de PROFECO (2025-2026) y reportes de usuarios en foros y redes sociales. Comparador IFT consultado como referencia adicional.*
 

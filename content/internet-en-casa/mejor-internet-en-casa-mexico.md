@@ -5,7 +5,7 @@ date: 2026-01-01
 updated: 2026-08-10
 description: "Esto es lo que realmente importa al contratar internet en casa en México: estabilidad, tipo de red, contrato, instalación y soporte. Comparativa clara."
 draft: true
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/mejorconexion-mx-internet-en-casa-index-html-hero-bfb68d99.webp"
 ---
 ::: container
 ::: breadcrumbs

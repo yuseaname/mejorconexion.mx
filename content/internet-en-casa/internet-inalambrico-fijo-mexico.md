@@ -4,7 +4,7 @@ slug: "internet-inalambrico-fijo-mexico"
 date: 2026-01-01
 description: "Qué es el internet inalámbrico fijo (4G/5G) en México, cuándo conviene, qué revisar de señal y horario pico, y cómo compararlo contra fibra y cable. Precios en MXN."
 draft: false
-image: "/images/topic-router-wifi.webp"
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 
 ::: container

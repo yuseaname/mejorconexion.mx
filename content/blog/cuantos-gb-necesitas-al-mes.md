@@ -4,7 +4,7 @@ slug: "cuantos-gb-necesitas-al-mes"
 date: 2026-01-01
 description: "Guía 2026 para estimar cuántos GB necesitas al mes en México: perfiles de uso, tablas reales, hábitos y cómo elegir plan sin pagar de más."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
 ::: {#idea-clave .section}
 ## La idea clave

@@ -4,7 +4,7 @@ slug: "red-invitados-iot-segura-mexico"
 date: 2026-01-01
 description: "Guia completa para separar WiFi principal, red de invitados y dispositivos inteligentes (IoT) en casa. Pasos claros, riesgos reales y checklist."
 draft: false
-image: "/images/topic-router-wifi.webp"
+image: "/images/generated/mejorconexion-mx-blog-index-html-hero-4ae7da93.webp"
 ---
 ::: container
 ::: breadcrumbs

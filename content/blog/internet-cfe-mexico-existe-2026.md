@@ -4,7 +4,7 @@ slug: "internet-cfe-mexico-existe-2026"
 date: 2026-08-09
 description: "CFE y el internet en México 2026: ¿CFE ofrece internet? CFE Telecom, cobertura, precios y alternativas reales para zonas donde CFE tiene presencia."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 
 ::: container

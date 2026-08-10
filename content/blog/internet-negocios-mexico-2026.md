@@ -4,7 +4,7 @@ slug: "internet-negocios-mexico-2026"
 date: 2026-08-09
 description: "Internet para negocios en México: fibra simétrica, SLA, respaldo 4G, planes empresariales vs residenciales y qué revisar antes de contratar para tu negocio."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 
 ::: container

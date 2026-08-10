@@ -4,7 +4,7 @@ slug: "como-saber-si-tengo-fibra-optica-2026"
 date: 2026-08-09
 description: "Cómo verificar si tienes fibra óptica o cable coaxial en tu casa en México: revisar el cable, el módem, la velocidad de subida y preguntar al proveedor."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 
 ::: container

@@ -4,7 +4,7 @@ slug: "wifi-mesh-cobertura-total"
 date: 2026-01-01
 description: "Guia completa de Wi-Fi Mesh en casa: como elegir nodos, backhaul, ubicacion, Wi-Fi 6/6E y pruebas reales. Evita zonas muertas y mejora estabilidad."
 draft: false
-image: "/images/topic-router-wifi.webp"
+image: "/images/generated/mejorconexion-mx-guias-index-html-hero-fdd3f4cb.webp"
 ---
 ::: container
 ::: breadcrumbs

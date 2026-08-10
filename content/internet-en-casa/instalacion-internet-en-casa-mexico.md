@@ -4,7 +4,7 @@ slug: "instalacion-internet-en-casa-mexico"
 date: 2026-01-01
 description: "Qué pasa en una instalación de internet en México (fibra, coaxial o inalámbrico): tiempos, cableado, pruebas, qué revisar antes de firmar y checklist final."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 
 ::: container

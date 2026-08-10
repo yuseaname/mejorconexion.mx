@@ -4,7 +4,7 @@ slug: "plan-internet-casa-segun-personas-mexico"
 date: 2026-01-01
 description: "Guía 2026 para elegir tu plan en casa según número de personas, uso simultáneo, streaming, home office y gaming. En español claro y más de 2,000 palabras."
 draft: false
-image: "/images/generated/hero-telcel-att-movistar.webp"
+image: "/images/generated/home-office-cdmx.webp"
 ---
 <div>
 

@@ -4,7 +4,7 @@ slug: "fibra-vs-inalambrico-mexico"
 date: 2026-01-01
 description: "Fibra óptica vs internet inalámbrico (4G/5G fijo) en México: diferencias de velocidad, latencia, estabilidad, instalación y cuándo elegir cada uno. Comparativa real."
 draft: false
-image: "/images/topic-router-wifi.webp"
+image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 
 ::: container

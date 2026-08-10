@@ -4,7 +4,7 @@ slug: "internet-lento-en-la-noche-solucion"
 date: 2026-05-26
 description: "Descubre cuál es el internet lento en la noche solución en 2026. Comparativa con precios reales, velocidades y cobertura de Totalplay, Izzi, Infinitum y má"
 draft: false
-image: "/images/generated/speed-test-cdmx.webp"
+image: "/images/topic-provider-comparison.webp"
 ---
 <figure class="article-image">
 <img src="./images/internet-lento-en-la-noche-solución/internet-lento-en-la-noche-solución_hero_00001_.png" loading="eager" decoding="async" width="1200" height="630" alt="internet lento en la noche solución en México 2026, setup moderno" />
