@@ -3,37 +3,111 @@
 
   {{ partial "breadcrumbs.html" . }}
 
-  <!-- Page Header -->
-  <header class="mb-10">
-    <h1 class="text-3xl sm:text-4xl font-bold text-gray-900">{{ .Title }}</h1>
-    {{ with .Params.description }}<p class="text-lg text-gray-600 mt-2 max-w-2xl">{{ . }}</p>{{ end }}
+  <!-- Hub Hero -->
+  <header class="hub-hero">
+    <div class="hub-hero-body">
+      <h1 class="hub-hero-title">{{ .Title }}</h1>
+      {{ with .Params.description }}
+        <p class="hub-hero-lede">{{ . }}</p>
+      {{ else }}
+        <p class="hub-hero-lede">Guías, comparativas y criterios para decidir con calma. Sin humo, sin tecnicismos raros.</p>
+      {{ end }}
+      {{ $count := len (where .RegularPages ".Kind" "page") }}
+      <p class="hub-hero-count">{{ $count }} artículo{{ if ne $count 1 }}s{{ end }} de ayuda</p>
+    </div>
+    {{ with .Params.image }}
+      <div class="hub-hero-media">
+        <img src="{{ . }}" alt="" loading="eager" fetchpriority="high">
+      </div>
+    {{ end }}
   </header>
 
-  {{/* Ad: top of list */}}
+  {{/* Ad: below hero on list pages */}}
   {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "below_title" "ctx" .) }}{{ end }}
 
-  <!-- Articles Grid -->
-  <div class="section-grid">
-    {{ range .RegularPages }}
-      <article class="card">
-        <a href="{{ .RelPermalink }}" class="block">
-          {{ with .Params.image }}
-            <div class="overflow-hidden">
-              <img src="{{ . }}" alt="{{ $.Title }}" class="card-image" loading="lazy">
+  {{/* Featured articles (pinned via .Params.featured = true on regular pages) */}}
+  {{ $featured := where .RegularPages ".Params.featured" true }}
+  {{ with $featured }}
+  <section class="mb-12" aria-label="Artículos destacados">
+    <h2 class="text-2xl font-bold text-[var(--ink)] mb-6">Destacados en {{ $.Title }}</h2>
+    <div class="section-grid">
+      {{ range first 3 . }}
+        <article class="card card-featured">
+          <a href="{{ .RelPermalink }}" class="block">
+            {{ with .Params.image }}
+              <div class="overflow-hidden">
+                <img src="{{ . }}" alt="{{ $.Title }}" class="card-image" loading="lazy">
+              </div>
+            {{ end }}
+            <div class="card-body">
+              <h3 class="card-title">{{ .Title }}</h3>
+              <p class="card-text">{{ .Params.description | default (truncate 120 .Plain) }}</p>
+              <span class="inline-flex items-center gap-1 text-sm font-medium text-[var(--brand)] mt-3">
+                Leer ahora
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+              </span>
             </div>
-          {{ end }}
-          <div class="card-body">
-            <h2 class="card-title">{{ .Title }}</h2>
-            <p class="card-text">{{ .Params.description | default (truncate 120 .Plain) }}</p>
-            <div class="flex items-center justify-between mt-3">
-              <time datetime="{{ .Date.Format "2006-01-02" }}" class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</time>
-              <span class="text-xs text-gray-400">{{ .ReadingTime }} min read</span>
-            </div>
+          </a>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* Sub-sections as hub cards */}}
+  {{ with .Sections }}
+  <section class="mb-12" aria-label="Subsecciones">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {{ range . }}
+        <a href="{{ .RelPermalink }}" class="category-card">
+          <div class="category-card-icon">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/>
+            </svg>
           </div>
+          <div class="category-card-content">
+            <div class="category-card-title">{{ .Title }}</div>
+            <div class="category-card-count">{{ len .Pages }} artículo{{ if ne (len .Pages) 1 }}s{{ end }}</div>
+          </div>
+          <svg class="w-4 h-4 text-[var(--ink-muted)] flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+          </svg>
         </a>
-      </article>
-    {{ end }}
-  </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <!-- Articles Grid -->
+  <section class="mb-12" aria-label="Todos los artículos">
+    <div class="flex items-center justify-between mb-6">
+      <h2 class="text-2xl font-bold text-[var(--ink)]">Todos los artículos</h2>
+      {{ if gt (len .RegularPages) 12 }}
+        <span class="text-sm text-[var(--ink-muted)]">{{ len .RegularPages }} total</span>
+      {{ end }}
+    </div>
+    <div class="section-grid">
+      {{ range .RegularPages }}
+        <article class="card">
+          <a href="{{ .RelPermalink }}" class="block">
+            {{ with .Params.image }}
+              <div class="overflow-hidden">
+                <img src="{{ . }}" alt="{{ $.Title }}" class="card-image" loading="lazy">
+              </div>
+            {{ end }}
+            <div class="card-body">
+              <h3 class="card-title">{{ .Title }}</h3>
+              <p class="card-text">{{ .Params.description | default (truncate 120 .Plain) }}</p>
+              <div class="flex items-center justify-between mt-3">
+                <time datetime="{{ .Date.Format "2006-01-02" }}" class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</time>
+                <span class="text-xs text-[var(--ink-muted)]">{{ .ReadingTime }} min</span>
+              </div>
+            </div>
+          </a>
+        </article>
+      {{ end }}
+    </div>
+  </section>
 
   {{ template "_internal/pagination.html" . }}
 </div>

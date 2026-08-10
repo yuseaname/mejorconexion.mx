@@ -3,60 +3,111 @@
 
   {{ partial "breadcrumbs.html" . }}
 
-  <!-- Category Hero -->
-  <div class="category-hero -mx-4 sm:-mx-6 px-4 sm:px-6 rounded-b-2xl">
-    <header class="max-w-7xl mx-auto">
-      <h1 class="text-3xl sm:text-4xl font-bold">{{ .Title }}</h1>
-      {{ with .Params.description }}<p class="text-lg mt-2 max-w-2xl">{{ . }}</p>{{ end }}
+  <!-- Section Hero -->
+  <header class="hub-hero">
+    <div class="hub-hero-body">
+      <h1 class="hub-hero-title">{{ .Title }}</h1>
+      {{ with .Params.description }}
+        <p class="hub-hero-lede">{{ . }}</p>
+      {{ else }}
+        <p class="hub-hero-lede">Guías claras para decidir sobre internet y conectividad en México.</p>
+      {{ end }}
       {{ $count := len (where .RegularPages ".Kind" "page") }}
-      <p class="text-sm mt-3 opacity-80">{{ $count }} guide{{ if ne $count 1 }}s{{ end }} available</p>
-    </header>
-  </div>
+      <p class="hub-hero-count">{{ $count }} artículo{{ if ne $count 1 }}s{{ end }} de ayuda</p>
+    </div>
+    {{ with .Params.image }}
+      <div class="hub-hero-media">
+        <img src="{{ . }}" alt="" loading="eager" fetchpriority="high">
+      </div>
+    {{ end }}
+  </header>
+
+  {{/* Ad: below hero on section pages */}}
+  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "below_title" "ctx" .) }}{{ end }}
+
+  {{/* Featured articles (pinned via .Params.featured = true) */}}
+  {{ $featured := where .RegularPages ".Params.featured" true }}
+  {{ with $featured }}
+  <section class="mb-12" aria-label="Artículos destacados">
+    <h2 class="text-2xl font-bold text-[var(--ink)] mb-6">Destacados en {{ $.Title }}</h2>
+    <div class="section-grid">
+      {{ range first 3 . }}
+        <article class="card card-featured">
+          <a href="{{ .RelPermalink }}" class="block">
+            {{ with .Params.image }}
+              <div class="overflow-hidden">
+                <img src="{{ . }}" alt="{{ $.Title }}" class="card-image" loading="lazy">
+              </div>
+            {{ end }}
+            <div class="card-body">
+              <h3 class="card-title">{{ .Title }}</h3>
+              <p class="card-text">{{ .Params.description | default (truncate 120 .Plain) }}</p>
+              <span class="inline-flex items-center gap-1 text-sm font-medium text-[var(--brand)] mt-3">
+                Leer ahora
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+              </span>
+            </div>
+          </a>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
 
   {{/* Show sub-sections if they exist */}}
   {{ with .Sections }}
-  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
-    {{ range . }}
-      <a href="{{ .RelPermalink }}" class="category-card">
-        <div class="category-card-icon">
-          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/>
+  <section class="mb-12" aria-label="Subsecciones">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {{ range . }}
+        <a href="{{ .RelPermalink }}" class="category-card">
+          <div class="category-card-icon">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/>
+            </svg>
+          </div>
+          <div class="category-card-content">
+            <div class="category-card-title">{{ .Title }}</div>
+            <div class="category-card-count">{{ len .Pages }} artículo{{ if ne (len .Pages) 1 }}s{{ end }}</div>
+          </div>
+          <svg class="w-4 h-4 text-[var(--ink-muted)] flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
           </svg>
-        </div>
-        <div class="category-card-content">
-          <div class="category-card-title">{{ .Title }}</div>
-          <div class="category-card-count">{{ len .Pages }} article{{ if ne (len .Pages) 1 }}s{{ end }}</div>
-        </div>
-        <svg class="w-4 h-4 text-gray-300 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
-        </svg>
-      </a>
-    {{ end }}
-  </div>
+        </a>
+      {{ end }}
+    </div>
+  </section>
   {{ end }}
 
   <!-- Articles Grid -->
-  <div class="section-grid">
-    {{ range where .Pages ".Kind" "page" }}
-      <article class="card">
-        <a href="{{ .RelPermalink }}" class="block">
-          {{ with .Params.image }}
-            <div class="overflow-hidden">
-              <img src="{{ . }}" alt="{{ $.Title }}" class="card-image" loading="lazy">
+  <section class="mb-12" aria-label="Todos los artículos">
+    <div class="flex items-center justify-between mb-6">
+      <h2 class="text-2xl font-bold text-[var(--ink)]">Todos los artículos</h2>
+      {{ if gt (len (where .Pages ".Kind" "page")) 12 }}
+        <span class="text-sm text-[var(--ink-muted)]">{{ len (where .Pages ".Kind" "page") }} total</span>
+      {{ end }}
+    </div>
+    <div class="section-grid">
+      {{ range where .Pages ".Kind" "page" }}
+        <article class="card">
+          <a href="{{ .RelPermalink }}" class="block">
+            {{ with .Params.image }}
+              <div class="overflow-hidden">
+                <img src="{{ . }}" alt="{{ $.Title }}" class="card-image" loading="lazy">
+              </div>
+            {{ end }}
+            <div class="card-body">
+              <h3 class="card-title">{{ .Title }}</h3>
+              <p class="card-text">{{ .Params.description | default (truncate 120 .Plain) }}</p>
+              <div class="flex items-center justify-between mt-3">
+                <time datetime="{{ .Date.Format "2006-01-02" }}" class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</time>
+                <span class="text-xs text-[var(--ink-muted)]">{{ .ReadingTime }} min</span>
+              </div>
             </div>
-          {{ end }}
-          <div class="card-body">
-            <h2 class="card-title">{{ .Title }}</h2>
-            <p class="card-text">{{ .Params.description | default (truncate 120 .Plain) }}</p>
-            <div class="flex items-center justify-between mt-3">
-              <time datetime="{{ .Date.Format "2006-01-02" }}" class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</time>
-              <span class="text-xs text-gray-400">{{ .ReadingTime }} min read</span>
-            </div>
-          </div>
-        </a>
-      </article>
-    {{ end }}
-  </div>
+          </a>
+        </article>
+      {{ end }}
+    </div>
+  </section>
 
   {{ template "_internal/pagination.html" . }}
 </div>

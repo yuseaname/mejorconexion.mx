@@ -1,11 +1,11 @@
-{{/* Breadcrumbs: Home > Section > Subsection > Page Title (enhanced with SVG separator) */}}
+{{/* Breadcrumbs: Home > Section > Subsection > Page Title (works with uglyURLs via RelPermalink) */}}
 {{ with . }}
 {{ $ancestors := .Ancestors.Reverse }}
 <nav aria-label="Breadcrumb" class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
   {{/* Home */}}
   <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-    <a href="{{ .Site.BaseURL | relURL }}" itemprop="item">
-      <span itemprop="name">Home</span>
+    <a href="{{ "/" | relURL }}" itemprop="item">
+      <span itemprop="name">Inicio</span>
     </a>
     <meta itemprop="position" content="1">
   </span>
