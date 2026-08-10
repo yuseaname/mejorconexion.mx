@@ -65,6 +65,8 @@
     <script src="{{ .RelPermalink }}"></script>
   {{ end }}
 
+  {{ block "scripts" . }}{{ end }}
+
   {{/* Rybbit Analytics */}}
   {{ partial "rybbit-analytics.html" . }}
 

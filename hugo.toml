@@ -49,4 +49,12 @@ uglyURLs = true
   cobertura = '/cobertura/:slug/'
 
 [outputs]
-  home = ['HTML']
+  home = ["HTML", "SearchIndex"]
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "search-index"
+    isPlainText = true
+    notAlternative = true
+
