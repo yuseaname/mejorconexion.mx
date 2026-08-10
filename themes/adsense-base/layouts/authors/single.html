@@ -1,0 +1,25 @@
+{{ define "main" }}
+<article class="article-shell">
+  <div class="article-container">
+    {{ partial "breadcrumbs.html" . }}
+
+    <header class="author-hero">
+      {{ $author := .Params.name | default .Title }}
+      <div class="author-hero-avatar" aria-hidden="true">{{ substr $author 0 1 }}</div>
+      <div class="author-hero-body">
+        <h1 class="author-hero-name">{{ $author }}</h1>
+        {{ with .Params.role }}
+          <p class="author-hero-role">{{ . }}</p>
+        {{ end }}
+        {{ with .Params.bio }}
+          <p class="author-hero-bio">{{ . }}</p>
+        {{ end }}
+      </div>
+    </header>
+
+    <div class="article-content">
+      {{ .Content }}
+    </div>
+  </div>
+</article>
+{{ end }}

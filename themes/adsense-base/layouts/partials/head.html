@@ -15,6 +15,11 @@
   <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
 {{ end }}
 
+{{/* Author page CSS via Hugo Pipes */}}
+{{ with resources.Get "css/author.css" | resources.Minify | resources.Fingerprint "sha512" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+{{ end }}
+
 {{/* Primary meta tags */}}
 <title>{{ .Title }}{{ with .Site.Title }} | {{ . }}{{ end }}</title>
 {{- with .Params.description -}}

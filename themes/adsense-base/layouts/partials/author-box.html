@@ -1,10 +1,11 @@
 {{- /* author-box.html — byline + bio block for articles */ -}}
 {{ $author := .Params.author | default "Equipo Mejor Conexión" }}
 {{ $bio := .Params.author_bio | default "Comparamos internet y datos en México con criterio real, sin promesas raras." }}
+{{ $authorSlug := .Params.author_slug | default "equipo" }}
 <div class="author-box">
   <div class="author-avatar" aria-hidden="true">{{ substr $author 0 1 }}</div>
   <div>
-    <p class="author-name">{{ $author }}</p>
+    <a href="{{ "/authors/" | relURL }}{{ $authorSlug }}.html" class="author-name-link"><p class="author-name">{{ $author }}</p></a>
     <p class="author-bio">{{ $bio }}</p>
   </div>
 </div>
