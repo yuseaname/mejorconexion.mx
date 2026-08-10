@@ -11,8 +11,6 @@ image: "/assets/images/generated/about-hero.webp"
 [Inicio](/) / Acerca de
 :::
 
-# Acerca de Mejor Conexión
-
 Mejor Conexión existe para ayudarte a elegir tu internet y datos en México sin caer en promesas raras ni en letras chiquitas.
 
 ::: section

@@ -17,10 +17,7 @@ aliases:
   - /internet-en-casa/izzi-vs-totalplay-2026-comparativa.html
 draft: false
 image: "/images/generated/hero-telcel-att-movistar.webp"
----
-# Izzi vs Totalplay vs Telmex vs Megacable: Comparativa 2026 (Con Datos Reales)
-
-Elegir proveedor de internet en México es confuso. Cada uno dice ser el mejor. Aquí comparamos con datos reales para que elijas con información.
+---Elegir proveedor de internet en México es confuso. Cada uno dice ser el mejor. Aquí comparamos con datos reales para que elijas con información.
 
 <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&h=630&fit=crop&q=80" alt="Comparativa de proveedores de internet en México" width="1200" height="630" loading="lazy" />
 

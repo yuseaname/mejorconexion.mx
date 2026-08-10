@@ -5,10 +5,7 @@ date: 2026-03-03
 description: "Pasos claros para reclamar formalmente cuando tu proveedor no cumple."
 draft: false
 image: "/images/topic-provider-comparison.webp"
----
-# Cómo levantar una queja en PROFECO por mal internet en 2026 (paso a paso)  
-
-Cuando tu internet falla de forma recurrente y el proveedor no corrige, no necesitas “pelear”: necesitas **proceso + evidencia**.  
+---Cuando tu internet falla de forma recurrente y el proveedor no corrige, no necesitas “pelear”: necesitas **proceso + evidencia**.  
 
 <figure class="article-image">  
   <img src="./images/queja-profeco-internet-guia-2026/01-hero.png" alt="Usuario documentando fallas de internet en casa" loading="lazy" decoding="async" width="1200" height="630" />  

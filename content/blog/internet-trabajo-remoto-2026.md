@@ -11,10 +11,7 @@ keywords:
   - "WFH internet México"
 draft: false
 image: "/images/generated/home-office-cdmx.webp"
----
-# Internet para Trabajo Remoto en México: Lo Que Realmente Necesitas en 2026
-
-Tu trabajo depende de tu internet. Una mala conexión = mala imagen en reuniones, archivos que no se envían, estrés constante. Aquí está todo lo que necesitas para que tu internet no te falle.
+---Tu trabajo depende de tu internet. Una mala conexión = mala imagen en reuniones, archivos que no se envían, estrés constante. Aquí está todo lo que necesitas para que tu internet no te falle.
 
 <img src="https://images.unsplash.com/photo-1587560699334-cc4ff634909a?w=1200&h=630&fit=crop&q=80" alt="Persona trabajando desde casa con laptop y buena conexión" width="1200" height="630" loading="lazy" />
 
