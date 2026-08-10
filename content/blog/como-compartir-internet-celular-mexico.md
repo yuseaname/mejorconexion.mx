@@ -4,7 +4,7 @@ slug: "como-compartir-internet-celular-mexico"
 date: 2026-08-09
 description: "Cómo activar hotspot en iPhone y Android para compartir internet en México. Límites de datos, velocidad, cuándo sirve y cómo evitar consumir todo tu plan."
 draft: false
-image: "/images/generated/hero-telcel-att-movistar.webp"
+image: "/images/generated/guide-compartir-internet-celular.webp"
 ---
 
 ::: container

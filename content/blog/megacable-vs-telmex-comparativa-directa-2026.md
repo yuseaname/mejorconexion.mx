@@ -5,7 +5,7 @@ date: 2026-08-09
 updated: 2026-08-10
 description: "Megacable vs Telmex en México 2026: tecnología, velocidad, estabilidad, precios en MXN, cobertura y cuál elegir según tu zona. Comparativa directa."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/generated/guide-megacable-vs-telmex.webp"
 aliases:
   - /internet-en-casa/megacable-vs-telmex-comparativa.html
 ---
