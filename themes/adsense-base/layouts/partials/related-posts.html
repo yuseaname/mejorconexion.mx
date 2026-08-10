@@ -1,22 +1,26 @@
-{{/* Related Posts: show up to 3 posts from the same section, excluding current */}}
+{{- /* related-posts.html — topic-aware: same section first, then fallback */ -}}
 {{ $current := . }}
-{{ $allPages := where .Site.RegularPages ".Permalink" "!=" $current.Permalink }}
-{{ $related := $allPages | first 3 }}
+{{ $sectionPages := where .Site.RegularPages "Section" .Section }}
+{{ $sameSection := where $sectionPages "Permalink" "!=" $current.Permalink | first 2 }}
+{{ $fallback := where .Site.RegularPages "Permalink" "!=" $current.Permalink | first (sub 3 (len $sameSection)) }}
+{{ $related := $sameSection | append $fallback }}
 
 {{ if gt (len $related) 0 }}
-  <section class="mt-12 pt-8 border-t border-gray-200" aria-label="Related articles">
-    <h2 class="text-xl font-bold text-gray-900 mb-6">Related Articles</h2>
-    <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+  <section class="related-section" aria-label="Artículos relacionados">
+    <h2 class="related-title">Artículos relacionados</h2>
+    <div class="related-grid">
       {{ range $related }}
-        <article class="group">
-          <a href="{{ .RelPermalink }}" class="block">
+        <article class="related-card group">
+          <a href="{{ .RelPermalink }}" class="related-link">
             {{ with .Params.image }}
-              <div class="aspect-video bg-gray-100 rounded-lg overflow-hidden mb-3">
-                <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-200" loading="lazy">
+              <div class="related-image">
+                <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async" width="400" height="225">
               </div>
             {{ end }}
-            <h3 class="font-semibold text-gray-900 group-hover:text-blue-600 transition-colors line-clamp-2">{{ .Title }}</h3>
-            {{ with .Date }}<time datetime="{{ .Format "2006-01-02" }}" class="text-xs text-gray-400 mt-1 block">{{ .Format "January 2, 2006" }}</time>{{ end }}
+            <div class="related-card-body">
+              <h3 class="related-card-title">{{ .Title }}</h3>
+              {{ with .Date }}<time datetime="{{ .Format "2006-01-02" }}" class="related-card-date">{{ .Format "2 Jan 2006" }}</time>{{ end }}
+            </div>
           </a>
         </article>
       {{ end }}

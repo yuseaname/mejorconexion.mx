@@ -1,0 +1,10 @@
+{{- /* update-log.html — publication + last-updated metadata */ -}}
+{{ if or .Date .Params.updated }}
+<p class="update-log">
+  {{ with .Date }}Publicado: <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2 Jan 2006" }}</time>{{ end }}
+  {{ with .Params.updated }}
+  · Actualizado: <time datetime="{{ . }}">{{ dateFormat "2 Jan 2006" . }}</time>
+  {{ end }}
+  {{ with $.Params.author }}<span class="update-log-author"> · por {{ . }}</span>{{ end }}
+</p>
+{{ end }}

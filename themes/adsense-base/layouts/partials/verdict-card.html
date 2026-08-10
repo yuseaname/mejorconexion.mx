@@ -1,0 +1,17 @@
+{{- /* verdict-card.html — editorial recommendation summary for single articles */ -}}
+{{ with .Params.verdict }}
+<aside class="verdict-card" aria-label="Resumen de recomendación">
+  <div class="verdict-section">
+    <span class="verdict-label">Para quién conviene</span>
+    <p>{{ .best_for }}</p>
+  </div>
+  <div class="verdict-section">
+    <span class="verdict-label">Qué revisar</span>
+    <p>{{ .watch_out }}</p>
+  </div>
+  <div class="verdict-section verdict-section-bottom">
+    <span class="verdict-label">Veredicto</span>
+    <p>{{ .bottom_line }}</p>
+  </div>
+</aside>
+{{ end }}

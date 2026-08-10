@@ -5,9 +5,10 @@
 {{- $slots := .ctx.Site.Params.adsense.slots -}}
 {{- if and $client $slots -}}
   {{- with index $slots $pos -}}
-<div class="my-6 {{ if eq $pos "sidebar" }}sticky top-4{{ else }}text-center{{ end }}">
+<div class="ad-slot ad-slot-{{ $pos }}" data-position="{{ $pos }}">
+  <span class="ad-label">Publicidad</span>
   <ins class="adsbygoogle"
-       style="display:block"
+       style="display:block; min-height:90px;"
        data-ad-client="{{ $client }}"
        data-ad-slot="{{ .id }}"
        data-ad-format="{{ .format | default "auto" }}"
