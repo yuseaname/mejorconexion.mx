@@ -2,6 +2,7 @@
 title: "Internet en casa en México"
 date: 2026-01-01
 description: ""
+image: "/assets/images/generated/hub-elegir-internet.webp"
 draft: false
 ---
 ::: container

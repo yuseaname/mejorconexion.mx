@@ -2,6 +2,7 @@
 title: "Blog"
 date: 2026-01-01
 description: ""
+image: "/assets/images/generated/hub-wifi-red.webp"
 draft: false
 ---
 ::: container

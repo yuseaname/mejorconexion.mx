@@ -2,6 +2,7 @@
 title: "Planes móviles en México"
 date: 2026-01-01
 description: "Comparativas de planes celulares y datos móviles en México: Telcel, AT&T, Movistar, prepago vs pospago y cobertura."
+image: "/assets/images/generated/hub-datos-moviles.webp"
 draft: false
 ---
 ::: container
