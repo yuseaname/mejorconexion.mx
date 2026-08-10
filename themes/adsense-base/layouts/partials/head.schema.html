@@ -3,11 +3,17 @@
 
 {{/* ── WebSite schema (homepage only) ── */}}
 {{- if .IsHome -}}
+  {{- $searchAction := dict
+      "@type" "SearchAction"
+      "target" (printf "%sbuscar?q={search_term_string}" .Site.BaseURL)
+      "query-input" "required name=search_term_string"
+  -}}
   {{- $ws := dict
       "@context" "https://schema.org"
       "@type" "WebSite"
       "name" .Site.Title
       "url" .Site.BaseURL
+      "potentialAction" $searchAction
   -}}
   {{- with .Site.Params.description -}}
     {{- $ws = dict "description" . | merge $ws -}}

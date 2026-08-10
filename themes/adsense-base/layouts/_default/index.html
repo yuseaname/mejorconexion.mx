@@ -1,114 +1,195 @@
 {{ define "main" }}
 <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
 
-  <!-- Hero Section -->
-  <section class="relative overflow-hidden rounded-2xl bg-gradient-to-br from-primary-700 via-primary-800 to-primary-900 mb-12 p-8 sm:p-12 lg:p-16">
-    <div class="relative z-10 max-w-3xl">
-      {{ with .Site.Params.tagline }}
-      <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/15 text-white/90 text-xs font-semibold uppercase tracking-wider mb-4">
-        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"/>
-        </svg>
-        {{ . }}
-      </span>
-      {{ end }}
-
-      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-white leading-tight">
-        {{ .Site.Params.site_name | default .Site.Title }}
-      </h1>
-
-      {{ with .Site.Params.description }}
-      <p class="text-lg sm:text-xl text-primary-200 mt-4 max-w-2xl leading-relaxed">
-        {{ . }}
-      </p>
-      {{ end }}
-
-      <!-- Quick access CTA -->
-      <div class="mt-8 flex flex-col sm:flex-row gap-3">
-        <a href="/blog/" class="inline-flex items-center justify-center gap-2 px-6 py-3 bg-white text-primary-700 font-semibold rounded-xl hover:bg-primary-50 transition-colors shadow-lg">
-          Browse All Guides
-          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+  <!-- Warm Editorial Hero -->
+  <section class="relative overflow-hidden rounded-2xl bg-[var(--paper)] border border-[var(--border)] mb-12">
+    <div class="grid lg:grid-cols-2 gap-0">
+      <div class="p-8 sm:p-12 lg:p-16 flex flex-col justify-center">
+        {{ with .Site.Params.tagline }}
+        <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[var(--accent-100)] text-[var(--accent-700)] text-xs font-semibold uppercase tracking-wider mb-5 w-fit">
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
           </svg>
-        </a>
-      </div>
-    </div>
+          {{ . }}
+        </span>
+        {{ end }}
 
-    <!-- Decorative background pattern -->
-    <div class="absolute inset-0 opacity-10" aria-hidden="true">
-      <svg class="w-full h-full" viewBox="0 0 1000 600" preserveAspectRatio="none">
-        <defs>
-          <pattern id="hero-grid" width="40" height="40" patternUnits="userSpaceOnUse">
-            <path d="M 40 0 L 0 0 0 40" fill="none" stroke="white" stroke-width="0.5"/>
-          </pattern>
-        </defs>
-        <rect width="100%" height="100%" fill="url(#hero-grid)"/>
-      </svg>
+        <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-[var(--ink)] leading-tight">
+          {{ .Site.Params.site_name | default .Site.Title }}
+        </h1>
+
+        {{ with .Site.Params.description }}
+        <p class="text-lg sm:text-xl text-[var(--ink-muted)] mt-5 max-w-xl leading-relaxed">
+          {{ . }}
+        </p>
+        {{ end }}
+
+        <!-- Decision hub CTA -->
+        <div class="mt-8 flex flex-col sm:flex-row gap-3">
+          <a href="/internet-en-casa/" class="inline-flex items-center justify-center gap-2 px-6 py-3 bg-[var(--brand)] text-white font-semibold rounded-xl hover:bg-[var(--brand-700)] transition-colors shadow-md">
+            Elegir internet en casa
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+            </svg>
+          </a>
+          <a href="/planes-moviles/" class="inline-flex items-center justify-center gap-2 px-6 py-3 bg-white border border-[var(--border)] text-[var(--ink)] font-semibold rounded-xl hover:bg-[var(--color-neutral-50)] transition-colors">
+            Comparar planes móviles
+          </a>
+        </div>
+      </div>
+
+      <div class="relative min-h-[260px] lg:min-h-full">
+        <img src="/assets/images/homepage/home-hero-main.webp" alt="Familia mexicana eligiendo internet en casa" class="absolute inset-0 w-full h-full object-cover" loading="eager" fetchpriority="high" width="1200" height="900">
+        <div class="absolute inset-0 bg-gradient-to-r from-[var(--paper)] via-transparent to-transparent lg:bg-gradient-to-l lg:from-transparent lg:via-transparent lg:to-[var(--paper)]/30" aria-hidden="true"></div>
+      </div>
     </div>
   </section>
 
-  {{/* Ad slot: homepage top */}}
-  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "below_title" "ctx" .) }}{{ end }}
-
-  <!-- Trust Indicators -->
+  <!-- Trust Bar -->
   <div class="trust-bar mb-12">
     <div class="trust-item">
-      <svg class="w-5 h-5 text-primary-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+      <svg class="w-5 h-5 text-[var(--success)]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
       </svg>
-      <span>Expert-reviewed guides</span>
+      <span>Guías actualizadas para México</span>
     </div>
     <div class="trust-item">
-      <svg class="w-5 h-5 text-primary-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/>
+      <svg class="w-5 h-5 text-[var(--accent)]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
       </svg>
-      <span>{{ len (where .Site.RegularPages ".Kind" "page") }}+ troubleshooting guides</span>
+      <span>Comparativas por uso real, no por marketing</span>
     </div>
     <div class="trust-item">
-      <svg class="w-5 h-5 text-primary-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+      <svg class="w-5 h-5 text-[var(--brand)]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
       </svg>
-      <span>Quick solutions, no fluff</span>
+      <span>{{ len (where .Site.RegularPages ".Kind" "page") }}+ guías y comparativas</span>
     </div>
   </div>
 
-  <!-- Categories Grid -->
-  {{ if .Site.Sections }}
-  <section class="mb-12" aria-label="Categories">
-    <h2 class="text-2xl font-bold text-gray-900 mb-6">Browse by Topic</h2>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-      {{ range .Site.Sections }}
-        {{ $count := len (where .RegularPages ".Kind" "page") }}
-        {{ if gt $count 0 }}
-        {{ $iconSVG := `<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/></svg>` }}
-        <a href="{{ .RelPermalink }}" class="category-card">
-          <div class="category-card-icon">
-            {{ $iconSVG | safeHTML }}
-          </div>
-          <div class="category-card-content">
-            <div class="category-card-title">{{ .Title }}</div>
-            <div class="category-card-count">{{ $count }} guide{{ if ne $count 1 }}s{{ end }}</div>
-          </div>
-          <svg class="w-4 h-4 text-gray-300 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+  <!-- 4 Hub Cards -->
+  <section class="mb-12" aria-label="Elige por decisión">
+    <h2 class="text-2xl font-bold text-[var(--ink)] mb-6">¿Qué necesitas decidir?</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+      <a href="/internet-en-casa/" class="hub-card">
+        <div class="hub-card-icon bg-[var(--brand-100)] text-[var(--brand)]">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
           </svg>
+        </div>
+        <h3 class="hub-card-title">Internet en casa</h3>
+        <p class="hub-card-text">Compara proveedores, tecnologías y precios según tu hogar.</p>
+        <span class="hub-card-cta">Ver opciones <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></span>
+      </a>
+
+      <a href="/planes-moviles/" class="hub-card">
+        <div class="hub-card-icon bg-[var(--success-50)] text-[var(--success)]">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"/>
+          </svg>
+        </div>
+        <h3 class="hub-card-title">Planes móviles</h3>
+        <p class="hub-card-text">Elige entre Telcel, AT&T, Movistar y opciones de prepago.</p>
+        <span class="hub-card-cta">Comparar planes <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></span>
+      </a>
+
+      <a href="/esim/" class="hub-card">
+        <div class="hub-card-icon bg-[var(--accent-50)] text-[var(--accent)]">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+          </svg>
+        </div>
+        <h3 class="hub-card-title">eSIM local y viajera</h3>
+        <p class="hub-card-text">Activa una eSIM en México o antes de viajar al extranjero.</p>
+        <span class="hub-card-cta">Ver guías eSIM <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></span>
+      </a>
+
+      <a href="/cobertura/" class="hub-card">
+        <div class="hub-card-icon bg-[var(--color-secondary-100)] text-[var(--color-secondary-700)]">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+          </svg>
+        </div>
+        <h3 class="hub-card-title">Cobertura por ciudad</h3>
+        <p class="hub-card-text">Encuentra las mejores opciones en tu ciudad o zona.</p>
+        <span class="hub-card-cta">Ver ciudades <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></span>
+      </a>
+    </div>
+  </section>
+
+  <!-- Tools Strip -->
+  <section class="mb-12" aria-label="Herramientas útiles">
+    <div class="tools-strip">
+      <div class="tools-strip-content">
+        <h2 class="text-xl font-bold text-[var(--ink)]">Herramientas para decidir sin adivinar</h2>
+        <p class="text-sm text-[var(--ink-muted)] mt-1 max-w-xl">Calculadoras, checklists y tests de velocidad para aterrizar tu decisión en números reales.</p>
+      </div>
+      <div class="tools-strip-links">
+        <a href="/herramientas/" class="tool-chip">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"/></svg>
+          Calculadora de datos
         </a>
-        {{ end }}
+        <a href="/internet-en-casa/test-velocidad-internet-mexico.html" class="tool-chip">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+          Test de velocidad
+        </a>
+        <a href="/guias/cuantos-mbps-necesito/" class="tool-chip">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 002 2h2a2 2 0 002-2z"/></svg>
+          ¿Cuántos Mbps necesito?
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Comparisons -->
+  <section class="mb-12" aria-label="Comparativas destacadas">
+    <div class="flex items-center justify-between mb-6">
+      <h2 class="text-2xl font-bold text-[var(--ink)]">Comparativas destacadas</h2>
+      <a href="/planes-internet/" class="text-sm font-medium text-[var(--brand)] hover:text-[var(--brand-700)] transition-colors">Ver todas →</a>
+    </div>
+    <div class="section-grid">
+      {{ $featured := slice
+        (dict "url" "/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html" "image" "/images/generated/hero-telcel-att-movistar.webp" "title" "Telmex vs Izzi vs Totalplay" "desc" "Cuál conviene según estabilidad, subida, latencia y costo real en 2026.")
+        (dict "url" "/planes-moviles/telcel-vs-att-vs-movistar.html" "image" "/images/generated/hero-telcel-att-movistar.webp" "title" "Telcel vs AT&T vs Movistar" "desc" "Cobertura real, precios y velocidad: cuál operador conviene en tu zona.")
+        (dict "url" "/internet-en-casa/fibra-vs-coaxial-mexico.html" "image" "/images/generated/hero-fibra-vs-coaxial.png" "title" "Fibra vs coaxial" "desc" "Diferencias de velocidad, estabilidad y latencia en México.")
+        (dict "url" "/internet-en-casa/starlink-vs-fibra-optica-mexico-2026.html" "image" "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp" "title" "Starlink vs fibra óptica" "desc" "¿Vale la pena Starlink o es mejor la fibra? Precio, latencia y cobertura.")
+        (dict "url" "/internet-en-casa/izzi-vs-totalplay-2026-comparativa.html" "image" "/images/topic-provider-comparison.webp" "title" "Izzi vs Totalplay" "desc" "Comparativa directa de precios, velocidad real y contratos en 2026.")
+        (dict "url" "/esim/mejor-esim-mexico.html" "image" "/images/generated/mejorconexion-mx-esim-index-html-hero-d8a4b5e8.webp" "title" "Mejor eSIM en México" "desc" "Cómo elegir una eSIM que sí funcione según tu equipo y uso.")
+      }}
+      {{ range $featured }}
+      <article class="card">
+        <a href="{{ .url }}" class="block">
+          {{ with .image }}
+          <div class="overflow-hidden">
+            <img src="{{ . }}" alt="{{ $.Title }}" class="card-image" loading="lazy">
+          </div>
+          {{ end }}
+          <div class="card-body">
+            <h3 class="card-title">{{ .title }}</h3>
+            <p class="card-text">{{ .desc }}</p>
+            <span class="inline-flex items-center gap-1 text-sm font-medium text-[var(--brand)] mt-3">
+              Leer comparativa
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+            </span>
+          </div>
+        </a>
+      </article>
       {{ end }}
     </div>
   </section>
-  {{ end }}
 
-  <!-- Latest Articles -->
-  <section aria-label="Latest articles">
+  {{/* Ad slot: homepage mid */}}
+  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "mid_article" "ctx" .) }}{{ end }}
+
+  <!-- Latest Guides -->
+  <section class="mb-12" aria-label="Últimas guías">
     <div class="flex items-center justify-between mb-6">
-      <h2 class="text-2xl font-bold text-gray-900">Latest Guides</h2>
-      <a href="/blog/" class="text-sm font-medium text-primary-600 hover:text-primary-800 transition-colors">
-        View all →
-      </a>
+      <h2 class="text-2xl font-bold text-[var(--ink)]">Últimas guías</h2>
+      <a href="/blog/" class="text-sm font-medium text-[var(--brand)] hover:text-[var(--brand-700)] transition-colors">Ver todas →</a>
     </div>
     <div class="section-grid">
-      {{ range first 9 .Site.RegularPages.ByDate.Reverse }}
+      {{ range first 6 .Site.RegularPages.ByDate.Reverse }}
         <article class="card">
           <a href="{{ .RelPermalink }}" class="block">
             {{ with .Params.image }}
@@ -129,6 +210,40 @@
           </a>
         </article>
       {{ end }}
+    </div>
+  </section>
+
+  <!-- Cities Strip -->
+  <section class="mb-12" aria-label="Cobertura por ciudad">
+    <div class="cities-strip">
+      <div class="cities-strip-header">
+        <h2 class="text-xl font-bold text-[var(--ink)]">Internet en tu ciudad</h2>
+        <p class="text-sm text-[var(--ink-muted)] mt-1">Cobertura y mejores opciones por zona.</p>
+      </div>
+      <div class="cities-strip-links">
+        <a href="/cobertura/mejor-internet-cdmx.html" class="city-chip">CDMX</a>
+        <a href="/cobertura/guadalajara.html" class="city-chip">Guadalajara</a>
+        <a href="/cobertura/monterrey.html" class="city-chip">Monterrey</a>
+        <a href="/cobertura/puebla.html" class="city-chip">Puebla</a>
+        <a href="/cobertura/queretaro.html" class="city-chip">Querétaro</a>
+        <a href="/cobertura/" class="city-chip city-chip-more">Ver todas <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Decision Footer Strip -->
+  <section class="decision-footer" aria-label="Empieza a decidir">
+    <div class="decision-footer-content">
+      <h2 class="text-2xl font-bold text-[var(--ink)]">¿Listo para elegir mejor?</h2>
+      <p class="text-[var(--ink-muted)] mt-2 max-w-xl">Explora comparativas, calcula tu consumo o encuentra la mejor opción en tu ciudad.</p>
+    </div>
+    <div class="decision-footer-actions">
+      <a href="/internet-en-casa/" class="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-[var(--brand)] text-white font-semibold rounded-lg hover:bg-[var(--brand-700)] transition-colors">
+        Internet en casa
+      </a>
+      <a href="/planes-moviles/" class="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-white border border-[var(--border)] text-[var(--ink)] font-semibold rounded-lg hover:bg-[var(--color-neutral-50)] transition-colors">
+        Planes móviles
+      </a>
     </div>
   </section>
 
