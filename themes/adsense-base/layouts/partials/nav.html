@@ -13,18 +13,20 @@
       <div class="hidden sm:flex items-center gap-1">
         {{ $currentPage := . }}
         {{ $currentRel := $currentPage.RelPermalink }}
-        {{ $menuItems := .Site.Menus.main }}
+        {{ $menuItems := .Site.Data.navigation.main }}
         {{ if and $menuItems (gt (len $menuItems) 0) }}
           {{ range $menuItems }}
-            {{ $itemURL := .URL }}
+            {{ $itemURL := .url }}
+            {{ $itemName := .name }}
             {{ $isHome := eq $itemURL "/" }}
             {{ $isExact := eq $currentRel $itemURL }}
-            {{ $isPrefix := and (not $isHome) (hasPrefix $currentRel $itemURL) }}
+            {{ $isHTMLLeaf := hasSuffix $itemURL ".html" }}
+            {{ $isPrefix := and (not $isHome) (not $isHTMLLeaf) (hasPrefix $currentRel $itemURL) }}
             {{ $isActive := or $isExact $isPrefix }}
             <a href="{{ $itemURL }}"
                class="px-3 py-2 text-sm font-medium rounded-lg transition-colors
                {{ if $isActive }}bg-primary-50 text-primary-700{{ else }}text-gray-600 hover:text-gray-900 hover:bg-gray-50{{ end }}">
-              {{ .Name }}
+              {{ $itemName }}
             </a>
           {{ end }}
         {{ else }}
@@ -64,18 +66,20 @@
       <div class="pt-3 space-y-1">
         {{ $currentPage := . }}
         {{ $currentRel := $currentPage.RelPermalink }}
-        {{ $menuItems := .Site.Menus.main }}
+        {{ $menuItems := .Site.Data.navigation.main }}
         {{ if and $menuItems (gt (len $menuItems) 0) }}
           {{ range $menuItems }}
-            {{ $itemURL := .URL }}
+            {{ $itemURL := .url }}
+            {{ $itemName := .name }}
             {{ $isHome := eq $itemURL "/" }}
             {{ $isExact := eq $currentRel $itemURL }}
-            {{ $isPrefix := and (not $isHome) (hasPrefix $currentRel $itemURL) }}
+            {{ $isHTMLLeaf := hasSuffix $itemURL ".html" }}
+            {{ $isPrefix := and (not $isHome) (not $isHTMLLeaf) (hasPrefix $currentRel $itemURL) }}
             {{ $isActive := or $isExact $isPrefix }}
             <a href="{{ $itemURL }}"
                class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors
                {{ if $isActive }}bg-primary-50 text-primary-700{{ else }}text-gray-600 hover:text-gray-900 hover:bg-gray-50{{ end }}"
-               role="menuitem">{{ .Name }}</a>
+               role="menuitem">{{ $itemName }}</a>
           {{ end }}
         {{ else }}
           {{ range .Site.Sections }}

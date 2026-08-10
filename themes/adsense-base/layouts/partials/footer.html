@@ -15,20 +15,20 @@
         <p class="text-xs text-gray-400 mt-4">© {{ now.Year }} All rights reserved.</p>
       </div>
 
-      <!-- Quick Links -->
+      <!-- Atajos -->
       <div>
-        <h3 class="footer-heading">Quick Links</h3>
+        <h3 class="footer-heading">Atajos</h3>
         <ul class="space-y-2">
-          <li><a href="/" class="text-sm text-gray-500 hover:text-primary-600 transition-colors">Home</a></li>
+          <li><a href="/" class="text-sm text-gray-500 hover:text-primary-600 transition-colors">Inicio</a></li>
           <li><a href="/blog.html" class="text-sm text-gray-500 hover:text-primary-600 transition-colors">Blog</a></li>
-          <li><a href="/about.html" class="text-sm text-gray-500 hover:text-primary-600 transition-colors">About</a></li>
-          <li><a href="/contact.html" class="text-sm text-gray-500 hover:text-primary-600 transition-colors">Contact</a></li>
+          <li><a href="/about.html" class="text-sm text-gray-500 hover:text-primary-600 transition-colors">Acerca de</a></li>
+          <li><a href="/contact.html" class="text-sm text-gray-500 hover:text-primary-600 transition-colors">Contacto</a></li>
         </ul>
       </div>
 
-      <!-- Popular Categories -->
+      <!-- Categorías -->
       <div>
-        <h3 class="footer-heading">Categories</h3>
+        <h3 class="footer-heading">Categorías</h3>
         <ul class="space-y-2">
           {{ range first 6 .Site.Sections }}
           <li><a href="{{ .RelPermalink }}" class="text-sm text-gray-500 hover:text-primary-600 transition-colors">{{ .Title }}</a></li>
@@ -36,9 +36,9 @@
         </ul>
       </div>
 
-      <!-- Policies -->
+      <!-- Editorial -->
       <div>
-        <h3 class="footer-heading">Policies</h3>
+        <h3 class="footer-heading">Editorial</h3>
         <ul class="space-y-2">
           {{ $allPages := where .Site.Pages "Kind" "page" }}
           {{ $slugs := slice "privacy" "privacy-policy" "disclosure" "editorial-policy" "terms" "terms-of-service" }}
@@ -62,8 +62,8 @@
     <!-- AdSense disclosure -->
     <div class="mt-10 pt-6 border-t border-gray-200">
       <p class="text-xs text-gray-400 max-w-3xl">
-        This site may display advertisements provided by third parties. Ad placements are automated and not personally endorsed.
-        {{ with .Site.Params.adsense.client_id }}We use Google AdSense to serve ads.{{ end }}
+        Este sitio muestra anuncios de terceros. Los espacios publicitarios son automáticos y no constituyen una recomendación personal.
+        {{ with .Site.Params.adsense.client_id }}Usamos Google AdSense para mostrarlos.{{ end }}
       </p>
     </div>
   </div>
