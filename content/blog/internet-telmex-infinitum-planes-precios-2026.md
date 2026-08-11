@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-internet-telmex.webp"
 ---
 
+## Respuesta Rápida
+
+**Telmex Infinitum 2026 ofrece desde $299/mes (50 Mbps) hasta $799/mes (300 Mbps simétrico) con cobertura nacional y línea fija incluida; el paquete Infinitum TV suma $499/mes adicionales. Su mayor ventaja es la cobertura (80% del país) y bundles con Netflix/Amazon Prime incluidos.**
+
+- **Top Infinitum**: 100 Mbps a $399, 200 Mbps a $499, 300 Mbps a $799
+- **Acción**: pide precio fijo 12 meses con línea y TV incluidos, ahorra $100-$150/mes
+
+Para más detalle, consulta [/blog/infinitum-vs-izzi-opiniones-2026/](/blog/infinitum-vs-izzi-opiniones-2026/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Telmex Infinitum

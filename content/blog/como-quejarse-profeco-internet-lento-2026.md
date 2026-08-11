@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-profeco-queja.webp"
 ---
 
+## Respuesta Rápida
+
+**Para quejarte en PROFECO por internet lento, entra a Concilianet (concilianet.profeco.gob.mx) y abre una queja en línea con tu contrato y pruebas de velocidad; el proveedor tiene 15-30 días para resolver o recibirás conciliación gratuita. Mantén tus pruebas en la app Speedtest con fecha.**
+
+- **Requisito**: 3+ pruebas de velocidad debajo del 70% de lo contratado
+- **Acción**: guarda screenshots con fecha y número de ticket
+
+Para más detalle, consulta [/blog/cancelar-servicio-internet-mexico/](/blog/cancelar-servicio-internet-mexico/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Queja PROFECO internet

@@ -6,6 +6,16 @@ description: "Descubre cuál es el cambiar de proveedor de internet sin cortes e
 draft: false
 image: "/images/topic-provider-comparison.webp"
 ---
+
+## Respuesta Rápida
+
+**Solicita la portabilidad con 10 días hábiles de anticipación; el nuevo ISP activa tu servicio primero y luego se cancela el anterior, evitando quedarte sin internet más de 24 horas. La mayoría de proveedores en México (Totalplay, Izzi, Telmex) ofrecen instalación gratis como incentivo.**
+
+- **Plazo legal**: 10 días hábiles según el Instituto Federal de Telecomunicaciones
+- **Acción**: confirma fecha de instalación antes de solicitar la baja del viejo
+
+Para más detalle, consulta [/blog/cambiar-proveedor-internet-sin-perder-número/](/blog/cambiar-proveedor-internet-sin-perder-número/).
+
 <figure class="article-image article-hero">
 <img src="./images/cambiar-de-proveedor-de-internet-sin-cortes/cambiar-de-proveedor-de-internet-sin-cortes_hero_00003_.png" loading="eager" decoding="async" width="1200" height="630" alt="cambiar de proveedor de internet sin cortes 2026, modern setup" />
 </figure>

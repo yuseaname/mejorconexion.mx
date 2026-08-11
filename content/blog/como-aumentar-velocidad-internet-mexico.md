@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-aumentar-velocidad.webp"
 ---
 
+## Respuesta Rápida
+
+**Conectar por cable Ethernet Cat 6, cambiar el router a 5 GHz y configurar QoS te devuelve 30-80% de velocidad perdida; en planes de 100-200 Mbps Infinitum/$299-$499 puedes pasar de 25 Mbps WiFi a 90+ Mbps reales sin pagar más.**
+
+- **Truco #1 con impacto medible**: cable Ethernet = +50% de velocidad estable
+- **Acción**: reinicia el router cada 30 días y borra dispositivos que no uses
+
+Para más detalle, consulta [/blog/como-mejorar-wifi-en-casa-guia-2026/](/blog/como-mejorar-wifi-en-casa-guia-2026/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Aumentar velocidad internet

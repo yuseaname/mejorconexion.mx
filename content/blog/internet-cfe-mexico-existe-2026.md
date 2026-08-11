@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 
+## Respuesta Rápida
+
+**Sí existe internet de CFE en México: CFE Telecomunicaciones ofrece desde 2021 paquetes residenciales rurales con fibra y Wimax en zonas marginadas, desde $199/mes por 20 Mbps hasta $499/mes por 100 Mbps; la cobertura aún es limitada (5-15% del territorio) y depende de tu estado.**
+
+- **Cobertura CFE Internet**: activa en Oaxaca, Chiapas, Puebla, Guerrero, Veracruz
+- **Acción**: consulta disponibilidad en https://cfeteinternet.mx con tu CP
+
+Para más detalle, consulta [/blog/internet-mas-barato-en-mexico/](/blog/internet-mas-barato-en-mexico/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet CFE México

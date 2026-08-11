@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 
+## Respuesta Rápida
+
+**Tu recibo de internet en México desglosa: renta mensual ($299-$899), IVA 16%, equipos rentados ($50-$150), servicios extra y adeudos; un recibo típico de Izzi 200 Mbps suma $569 IVA incluido; revisa cargos como “servicios digitales” que suman $30-$80 sin avisar.**
+
+- **Cargos sorpresa frecuentes**: seguros, antivirus, plataformas streaming = +$50-$200
+- **Acción**: pide estado de cuenta detallado y cancela servicios no contratados
+
+Para más detalle, consulta [/blog/cancelar-servicio-internet-mexico/](/blog/cancelar-servicio-internet-mexico/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Leer recibo de internet

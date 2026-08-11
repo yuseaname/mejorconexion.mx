@@ -6,6 +6,16 @@ description: "Guia completa de control parental en Mexico: filtros, horarios, pe
 draft: false
 image: "/images/generated/mejorconexion-mx-blog-index-html-hero-4ae7da93.webp"
 ---
+
+## Respuesta Rápida
+
+**Activa el control parental en `192.168.1.1` filtra por MAC o usa apps como Google Family Link (gratis) o Kaspersky Safe Kids ($90/año) para bloquear sitios y limitar horarios; en familias mexicanas con planes de 100-200 Mbps Infinitum, esta configuración toma 15 minutos.**
+
+- **Cobertura típica**: 1-10 dispositivos por familia, filtros de 0-18 años
+- **Acción**: crea perfil independiente para menores de 12 años con horario 7am-9pm
+
+Para más detalle, consulta [/blog/dns-seguro-filtros-malware-mexico/](/blog/dns-seguro-filtros-malware-mexico/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog/) / Control parental

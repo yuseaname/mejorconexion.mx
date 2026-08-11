@@ -6,6 +6,16 @@ description: "Compara internet residencial y datos móviles en México. Descubre
 draft: false
 image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
+
+## Respuesta Rápida
+
+**El internet residencial en México ($299-$899/mes por 50-500 Mbps ilimitado) gana en precio por GB al hogar vs. datos móviles ($299/mes por 30 GB); una familia consume 200-500 GB/mes donde datos móviles costaría $2,000-$5,000. Usa WiFi de casa con plan móvil de respaldo de 5-10 GB ($199/mes).**
+
+- **Internet casa**: $0.5-1.5 MXN por GB vs. móvil $10-15 por GB
+- **Acción**: contrato plan mixto: residencial principal + móvil 10 GB de soporte
+
+Para más detalle, consulta [/blog/datos-moviles-que-son-cuanto-consumes-2026/](/blog/datos-moviles-que-son-cuanto-consumes-2026/).
+
 <figure class="article-image article-hero">
 <img src="./images/04-internet-residencial-vs-datos-moviles/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Internet residencial vs datos móviles en México: comparativa de velocidad, precio y confiabilidad" />
 </figure>

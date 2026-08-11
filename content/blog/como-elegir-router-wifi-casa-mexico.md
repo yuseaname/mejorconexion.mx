@@ -6,6 +6,16 @@ description: "Guia completa para elegir router WiFi en Mexico: estandares, banda
 draft: false
 image: "/images/generated/mejorconexion-mx-guias-index-html-hero-fdd3f4cb.webp"
 ---
+
+## Respuesta Rápida
+
+**Para una casa de 1-2 recámaras en México, el router ideal es WiFi 6 de doble banda (2.4 + 5 GHz) con al menos 4 antenas; modelos como TP-Link Archer AX21 ($1,299) o Mercusys MR80X ($899) cubren hasta 80 m² y soportan planes de 200-500 Mbps.**
+
+- **Presupuesto sugerido**: $800-$2,000 MXN para un router que soporte 500 Mbps
+- **Acción**: prioriza WiFi 6 sobre WiFi 5 y evita routers del operador
+
+Para más detalle, consulta [/blog/como-configurar-router-mexico-2026/](/blog/como-configurar-router-mexico-2026/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog/) / Como elegir un router WiFi

@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-router-config.webp"
 ---
 
+## Respuesta Rápida
+
+**Los routers en México suelen configurarse desde `192.168.1.1` o `tplinkwifi.net` con usuario `admin`/`admin`; cambiar SSID, contraseña WPA2-AES de 12+ caracteres y canal WiFi toma 5-10 minutos y es obligatorio cambiar la contraseña por defecto para evitar intrusos.**
+
+- **Credenciales típicas**: usuario `admin`, contraseña `admin` o la del sticker
+- **Acción**: actualiza firmware antes de cualquier otro cambio, evita hackeos
+
+Para más detalle, consulta [/blog/como-elegir-router-wifi-casa-mexico/](/blog/como-elegir-router-wifi-casa-mexico/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Configurar router

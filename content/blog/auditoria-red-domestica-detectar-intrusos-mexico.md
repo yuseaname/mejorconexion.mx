@@ -6,6 +6,16 @@ description: "Guía 2026 para auditar tu red doméstica en México: detectar int
 draft: false
 image: "/images/generated/mejorconexion-mx-herramientas-index-html-hero-e9cc5d3d.webp"
 ---
+
+## Respuesta Rápida
+
+**Revisa los dispositivos conectados en `192.168.1.1`, desconecta los que no reconozcas y cambia la contraseña WiFi a WPA2 de 12+ caracteres; el 35% de los hogares mexicanos tienen al menos un dispositivo desconocido en la red.**
+
+- **Riesgo típico**: 2-5 equipos desconocidos consumen entre 20 y 80 GB/mes sin que lo notes
+- **Acción**: usa apps como Fing (gratis) o revisa la tabla DHCP del router
+
+Para más detalle, consulta [/blog/control-parental-internet-hogar-mexico/](/blog/control-parental-internet-hogar-mexico/).
+
 ::: {#que-es .section}
 ## Qué es una auditoría de red doméstica
 

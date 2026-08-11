@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-internet-netflix.webp"
 ---
 
+## Respuesta Rápida
+
+**Para Netflix en calidad 4K necesitas 25 Mbps por pantalla; un hogar mexicano con 2 TVs requiere 50-100 Mbps mínimo. Planes recomendados: Totalplay 100 Mbps $449/mes, Izzi 200 Mbps $449/mes o Megacable 100 Mbps $349/mes; Netflix paquete Izzi cuesta +$199/mes o lo pagas aparte $269.**
+
+- **Consumo Netflix**: SD = 1 GB/h, HD = 3 GB/h, 4K = 7 GB/h por pantalla
+- **Acción**: elige plan Izzi con Netflix incluido y ahorras $50-$80/mes vs. planes separados
+
+Para más detalle, consulta [/blog/internet-roku-fire-tv-stick-mexico/](/blog/internet-roku-fire-tv-stick-mexico/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet para Netflix

@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-internet-totalplay.webp"
 ---
 
+## Respuesta Rápida
+
+**Totalplay 2026 arranca en $399/mes (80 Mbps) y llega hasta $999/mes (500 Mbps) con fibra óptica simétrica real; el paquete Totalplay Max incluye TV, Netflix y Disney+ por $1,299/mes. Es la mejor opción si tu CP tiene cobertura con 4.7/5 en satisfacción y latencia de 5-12 ms.**
+
+- **Top Totalplay**: 300 Mbps a $599, 500 Mbps a $899, Max todo incluido $1,299
+- **Acción**: usa el chat en línea para negociar 6 meses adicionales de precio promo
+
+Para más detalle, consulta [/blog/izzi-vs-totalplay-2026/](/blog/izzi-vs-totalplay-2026/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet Totalplay

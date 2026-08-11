@@ -7,6 +7,16 @@ draft: false
 image: "/images/topic-router-wifi.webp"
 ---
 
+## Respuesta Rápida
+
+**La velocidad de internet se mide en Mbps (megabits por segundo) y describe datos que viajan por segundo. Un plan de 100 Mbps mueve 100 megabits por segundo; descarga, subida y latencia son tres medidas distintas que afectan video, videollamadas y gaming de forma diferente.**
+
+- **1 Mbps = 0.125 MB/s** (8 bits = 1 byte, por eso tu descarga se ve menor que los Mbps anunciados)
+- **La latencia (ping)** mide tiempo de respuesta, en milisegundos (ms); baja latencia = mejor experiencia en juegos y videollamadas
+- **Mide por cable Ethernet** antes de concluir que tu plan falla; el Wi-Fi y el router pueden ser el cuello de botella real
+
+Para entender cómo elegir entre planes según tu uso, consulta [cuántos Mbps necesito realmente](/guias/cuantos-mbps-necesito/). Si buscas opciones para casa en México, nuestra guía [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/) compara los planes reales por operador.
+
 Cuando un plan dice 100, 300 o 500 Mbps, habla de la cantidad de datos que la conexión puede mover por segundo en condiciones determinadas. Esa cifra importa, pero no describe toda la experiencia: una videollamada puede fallar por mala subida, un juego puede sentirse lento por latencia y una prueba por Wi-Fi puede medir más el estado de tu router que la conexión contratada.
 
 La pregunta útil no es solo "¿cuántos megas tengo?", sino **qué actividad falla, en qué dispositivo, a qué hora y por qué tipo de conexión**.
@@ -14,11 +24,13 @@ La pregunta útil no es solo "¿cuántos megas tengo?", sino **qué actividad fa
 ## Mbps no es lo mismo que MB
 
 - **Mbps** significa megabits por segundo. Es la unidad que suelen usar los proveedores para anunciar velocidad.
-- **MB/s** significa megabytes por segundo. Un byte contiene ocho bits, por lo que no se comparan uno a uno.
+- **MB/s** significa megabytes por segundo. Un byte contiene **ocho bits**, por lo que no se comparan uno a uno.
 
 Por eso una descarga mostrada por una aplicación puede verse menor que la cifra de tu plan aunque no haya un problema. También influyen el servidor desde el que descargas, otros dispositivos conectados y la red Wi-Fi de tu casa.
 
 Si quieres profundizar en las unidades, consulta [la diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
+
+Para entender el costo de estos planes en México, revisa [cuánto cuesta internet en México 2026](/blog/cuanto-cuesta-internet-en-mexico-2026.html). Y si quieres ver opciones concretas para tu hogar, nuestra guía [mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico/) compara proveedores por uso real.
 
 ## Descarga, subida y latencia: cada una responde una pregunta distinta
 

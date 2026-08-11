@@ -6,6 +6,17 @@ description: "Mejor internet en CDMX 2026: proveedores disponibles por alcaldía
 draft: false
 image: "/images/generated/mejorconexion-mx-cobertura-cdmx-mejor-internet-cdmx-index-html-hero-378e2b52.webp"
 ---
+
+## Respuesta Rápida
+
+**En CDMX los tres proveedores principales (Telmex, Izzi, Totalplay) superan 99% de cobertura 4G en zonas urbanas; la experiencia real cambia por alcaldía, edificio y piso. Fibra óptica gana en estabilidad, cable coaxial es sensible al horario pico (7pm–11pm), y el inalámbrico fijo es la alternativa en zonas sin cableado.**
+
+- **Fibra óptica** es la mejor opción cuando está disponible: más estable, mejor subida, ideal para home office y streaming 4K
+- **Valida por edificio, no solo por alcaldía**: dos colonias vecinas pueden tener resultados muy distintos por cableado interno
+- **Prueba en horario pico (7pm–11pm)**: ahí verás la saturación real; si falla, cambiar de plan no lo resuelve
+
+Para entender qué significan los Mbps que anuncia cada plan, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Si quieres comparar las opciones reales de proveedores, revisa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/). Y para entender la latencia que afecta tus videollamadas y gaming, consulta [qué es el ping](/blog/que-es-el-ping.html).
+
 ::: {#panorama .section}
 ## Panorama local en CDMX
 
@@ -17,6 +28,8 @@ image: "/images/generated/mejorconexion-mx-cobertura-cdmx-mejor-internet-cdmx-in
 La CDMX tiene gran diversidad de infraestructura. Hay zonas con fibra avanzada y otras donde el servicio depende de cableado más antiguo.
 
 La experiencia cambia por colonia, edificio y hasta piso. Por eso es clave validar localmente.
+
+Para una comparativa detallada de los tres proveedores principales, consulta [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/). Y si quieres entender cuánto pagarás por estos planes en 2026, revisa [cuánto cuesta internet en México](/blog/cuanto-cuesta-internet-en-mexico-2026.html).
 :::
 
 ::: {#tecnologias .section}
@@ -166,7 +179,7 @@ Si todo es estable, la cobertura es buena. Si falla alguna, investiga antes de c
 ::: {#escenarios .section}
 ## Escenarios por uso
 
-Tu uso ideal define qué buscar. No necesitas el plan más caro --- necesitas el que coincida con lo que haces:
+Tu uso ideal define qué buscar. No necesitas el plan más caro --- necesitas el que coincida con lo que haces. Si tu prioridad es entender cuántos Mbps necesitas según tu caso, consulta [cuántos Mbps necesito](/guias/cuantos-mbps-necesito/).
 
 ::: scenario-grid
 ::: scenario-card

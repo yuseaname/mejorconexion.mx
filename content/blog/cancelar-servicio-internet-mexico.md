@@ -6,6 +6,16 @@ description: "Guía paso a paso para cancelar tu servicio de internet en México
 draft: false
 image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
+
+## Respuesta Rápida
+
+**Puedes cancelar tu servicio de internet en México en cualquier momento, pero si firmas contrato de 12 o 24 meses tendrás penalización de 20-80% del plan mensual; el trámite se hace por teléfono o sucursal y tarda 5-10 días hábiles.**
+
+- **Penalización típica**: $599-$3,500 si sales antes del plazo mínimo
+- **Acción**: llama a cancelar, te mandan folio y luego devuelves el modem en sucursal
+
+Para más detalle, consulta [/blog/c%C3%B3mo-quejarse-profeco-internet-lento-2026/](/blog/c%C3%B3mo-quejarse-profeco-internet-lento-2026/).
+
 <figure class="article-image article-hero">
 <img src="./images/07-cancelar-servicio-internet-mexico/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Cancelar servicio de internet en México: guía paso a paso sin cargos extra" />
 </figure>

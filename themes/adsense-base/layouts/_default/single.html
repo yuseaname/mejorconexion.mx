@@ -58,7 +58,10 @@
       {{ partial "adsense.html" (dict "position" "end_article" "ctx" .) }}
     {{ end }}
 
-    {{ partial "related-posts.html" . }}
+    {{/* Email capture */}}
+  {{ partial "email-capture.html" . }}
+
+  {{ partial "related-posts.html" . }}
 
     {{/* Article trust strip */}}
     <nav class="article-trust-strip" aria-label="Trust and methodology">

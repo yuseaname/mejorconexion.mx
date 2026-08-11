@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-internet-noche.webp"
 ---
 
+## Respuesta Rápida
+
+**El internet lento nocturno en México (CDMX, Guadalajara, Monterrey) lo causa la saturación de nodos entre 19:00 y 23:00; en planes Infinitum 100 Mbps pasas de 90 a 15 Mbps. Mejora: cambia de 2.4 a 5 GHz, conecta por cable o升级 a 200+ Mbps por $499-$899/mes.**
+
+- **Pérdida horaria pico**: 50-85% de la velocidad contratada
+- **Acción**: corre speedtest 3 noches seguidas con timestamp como evidencia
+
+Para más detalle, consulta [/blog/como-aumentar-velocidad-internet-mexico/](/blog/como-aumentar-velocidad-internet-mexico/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet lento en la noche

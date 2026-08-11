@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 
+## Respuesta Rápida
+
+**Tienes fibra óptica si la roseta de tu pared es tipo SC/APC verde (no coaxial roscado) y la velocidad real supera los 200 Mbps simétricos; Totalplay, Izzi y algunos planes Telmex ya entregan fibra al hogar (FTTH) desde $499/mes por 200 Mbps hasta $899/mes por 500 Mbps.**
+
+- **Prueba rápida**: speedtest debe dar 90%+ de la velocidad contratada, ambos sentidos
+- **Acción**: revisa la etiqueta del ONT (caja blanca con láser verde)
+
+Para más detalle, consulta [/blog/fibra-optica-vs-cable-mexico/](/blog/fibra-optica-vs-cable-mexico/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Cómo saber si tengo fibra

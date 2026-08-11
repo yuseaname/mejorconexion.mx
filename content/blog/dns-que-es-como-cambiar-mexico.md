@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-dns.webp"
 ---
 
+## Respuesta Rápida
+
+**Cambiar tu DNS a Cloudflare (1.1.1.1) o Google (8.8.8.8) mejora entre 10 y 50 ms la latencia de navegación y desbloquea sitios filtrados por tu operador; la configuración toma 2 minutos en Windows, Mac o el router (192.168.1.1). Es gratis y reversible.**
+
+- **DNS recomendados**: Cloudflare 1.1.1.1 (rápido y privado), Google 8.8.8.8 (amplia compatibilidad)
+- **Acción**: configura DNS en router para que aplique a todos los dispositivos
+
+Para más detalle, consulta [/blog/dns-seguro-filtros-malware-mexico/](/blog/dns-seguro-filtros-malware-mexico/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / DNS qué es

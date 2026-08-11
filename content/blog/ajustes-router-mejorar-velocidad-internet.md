@@ -8,6 +8,16 @@ aliases:
 draft: false
 image: "/images/topic-router-wifi.webp"
 ---
+
+## Respuesta Rápida
+
+**Cambiar el canal WiFi a uno menos saturado (1, 6 u 11 en 2.4 GHz), activar QoS para priorizar tráfico y subir el router a 1.5 m de altura puede devolverte entre 30% y 60% de velocidad sin pagar un solo peso extra.**
+
+- **Impacto promedio**: de 25 Mbps a 80 Mbps en una red típica de 100 Mbps Infinitum
+- **Acción**: entra a `192.168.1.1` o `192.168.0.1`, cambia el canal automático por uno fijo
+
+Para más detalle, consulta [/blog/como-mejorar-wifi-en-casa-guia-2026/](/blog/como-mejorar-wifi-en-casa-guia-2026/).
+
 ::: answer-box
 **Tu router puede estar robándote hasta el 60% de la velocidad que ya pagas.** Esta guía es para cualquier persona en México que tiene internet pero siente que no alcanza lo prometido --- especialmente si usas el router que te dio tu proveedor sin configurarlo. En 30 minutos aprenderás a cambiar la ubicación, el canal WiFi y las configuraciones clave para recuperar la velocidad real de tu conexión.
 :::

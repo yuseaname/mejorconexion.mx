@@ -6,6 +6,16 @@ description: "Guía 2026 para estimar cuántos GB necesitas al mes en México: p
 draft: false
 image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
+
+## Respuesta Rápida
+
+**Una familia mexicana promedio consume entre 200 y 500 GB/mes (Netflix, TikTok, redes); un hogar de 3 personas con streaming moderado necesita 250 GB, y si trabajan remoto + estudian, sube a 600-800 GB. Planes residenciales típicos son ilimitados, pero los móviles Telcel/AT&T topan en 30-150 GB.**
+
+- **Consumo referencia**: 1 hora Netflix HD = 3 GB, Zoom = 1.5 GB, TikTok = 0.7 GB
+- **Acción**: revisa consumo en la app de tu operador al final del ciclo
+
+Para más detalle, consulta [/blog/datos-moviles-que-son-cuanto-consumes-2026/](/blog/datos-moviles-que-son-cuanto-consumes-2026/).
+
 ::: {#idea-clave .section}
 ## La idea clave
 

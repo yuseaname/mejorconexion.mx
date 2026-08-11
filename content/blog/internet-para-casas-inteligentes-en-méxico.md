@@ -6,6 +6,16 @@ description: "Descubre cuál es el internet para casas inteligentes en México e
 draft: false
 image: "/images/generated/planes-comparacion-mexico.webp"
 ---
+
+## Respuesta Rápida
+
+**Para una casa inteligente con 15-30 dispositivos IoT en México necesitas 200-500 Mbps simétricos con WiFi 6 Mesh (red dual SSID); Totalplay 300 Mbps $599/mes o Izzi 500 Mbps $799/mes son ideales. Los routers Mesh como TP-Link Deco M5 ($3,499) o Google Nest WiFi ($2,899) cubren 150-250 m².**
+
+- **Cobertura Mesh**: 150-250 m² por pack de 2 nodos
+- **Acción**: separa red IoT (2.4 GHz) de equipos personales (5 GHz) en tu router
+
+Para más detalle, consulta [/blog/internet-casa-inteligente-mexico-2026/](/blog/internet-casa-inteligente-mexico-2026/).
+
 <figure class="article-image article-hero">
 <img src="./images/internet-para-casas-inteligentes-en-méxico/internet-para-casas-inteligentes-en-méxico_hero_00003_.png" loading="eager" decoding="async" width="1200" height="630" alt="internet para casas inteligentes en México 2026, modern setup" />
 </figure>

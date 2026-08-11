@@ -6,6 +6,16 @@ description: "Compara cable coaxial y fibra óptica para internet en México. Di
 draft: false
 image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
+
+## Respuesta Rápida
+
+**La fibra óptica entrega velocidades simétricas de hasta 1000 Mbps por $599-$899/mes (Totalplay, Izzi); el cable coaxial se queda en 100-500 Mbps asimétricos desde $399/mes, con menor latencia que el cobre pero sin la estabilidad de la fibra pura.**
+
+- **Diferencia clave**: fibra = 5-15 ms de latencia; cable coaxial = 18-40 ms en horas pico
+- **Acción**: si juegas online o haces videollamadas, pide migración a fibra sin costo
+
+Para más detalle, consulta [/blog/fibra-optica-vs-cable-mexico/](/blog/fibra-optica-vs-cable-mexico/).
+
 <figure class="article-image article-hero">
 <img src="./images/10-cable-coaxial-vs-fibra-optica/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Cable coaxial vs fibra óptica en México: diferencias en velocidad, estabilidad y precio" />
 </figure>

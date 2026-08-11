@@ -22,6 +22,8 @@
     {{ end }}
   </header>
 
+  {{ .Content }}
+
   {{/* Ad: below hero on list pages */}}
   {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "below_title" "ctx" .) }}{{ end }}
 

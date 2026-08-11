@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 
+## Respuesta Rápida
+
+**Para 2-4 cámaras de seguridad WiFi (tipo Xiaomi, Ezviz, Tapo) necesitas 20-50 Mbps simétricos y entre 100 y 500 GB/mes de datos; un plan Izzi 100 Mbps ($349/mes) o Totalplay 200 Mbps ($499/mes) cubre grabación 24/7 en la nube o local sin problemas.**
+
+- **Consumo por cámara**: 5-15 GB/día grabando en HD 24/7
+- **Acción**: prefiere cámaras con almacenamiento microSD para no depender de la nube
+
+Para más detalle, consulta [/blog/internet-casa-inteligente-mexico-2026/](/blog/internet-casa-inteligente-mexico-2026/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet para cámaras

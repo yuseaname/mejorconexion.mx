@@ -7,6 +7,15 @@ draft: false
 image: "/images/topic-router-wifi.webp"
 ---
 
+## Respuesta Rápida
+
+**Una casa inteligente mexicana con 15-25 dispositivos (lámparas, cámaras, asistentes, cerraduras) necesita entre 100 y 300 Mbps con WiFi 6 Mesh; planes recomendados: Totalplay 300 Mbps $599/mes o Izzi 200 Mbps $449/mes, con doble banda 2.4/5 GHz para IoT.**
+
+- **Consumo datos**: ~50-200 GB/mes en automatización doméstica estándar
+- **Acción**: separa red IoT de la principal y usa VLAN si tu router lo permite
+
+Para más detalle, consulta [/blog/internet-para-casas-inteligentes-en-m%C3%A9xico/](/blog/internet-para-casas-inteligentes-en-m%C3%A9xico/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet casa inteligente

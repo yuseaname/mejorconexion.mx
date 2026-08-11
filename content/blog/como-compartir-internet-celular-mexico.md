@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/guide-compartir-internet-celular.webp"
 ---
 
+## Respuesta Rápida
+
+**Activar el hotspot de Telcel/AT&T/Movistar cuesta $0 con tu plan; compartirás entre 5 y 30 GB/mes según tu paquete ($299-$599/mes) y hasta 10 dispositivos conectados. La velocidad varía de 10 a 50 Mbps según la cobertura 4G/5G de tu zona.**
+
+- **Consumo promedio**: 1 hora de Netflix HD = 3 GB; videollamada Zoom = 1.5 GB/hora
+- **Acción**: usa 5 GHz si tu teléfono lo soporta y limita dispositivos conectados
+
+Para más detalle, consulta [/blog/datos-moviles-que-son-cuanto-consumes-2026/](/blog/datos-moviles-que-son-cuanto-consumes-2026/).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Compartir internet celular

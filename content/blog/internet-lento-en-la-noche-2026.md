@@ -11,7 +11,18 @@ keywords:
   - "congestión internet"
 draft: false
 image: "/images/topic-provider-comparison.webp"
----Tu internet vuela a las 10 de la mañana pero se arrastra a las 9 de la noche. No es tu imaginación — y no siempre es culpa del proveedor. Aquí te decimos qué pasa y cómo arreglarlo.
+---
+
+## Respuesta Rápida
+
+**El internet lento en la noche mexicana (19:00-23:00) se debe a saturación del barrio: entre 50-200% más usuarios en misma zona; en planes Infinitum/Izzi de 100 Mbps puedes caer de 90 Mbps a 10-25 Mbps reales. Soluciones: cambiar de 2.4 a 5 GHz, mover el router, o升级 a 200 Mbps por $449-$499/mes.**
+
+- **Pérdida típica**: 50-80% de velocidad contratada en hora pico
+- **Acción**: corre speedtest a las 21:00 con prueba anexa para queja en PROFECO
+
+Para más detalle, consulta [/blog/como-mejorar-wifi-en-casa-guia-2026/](/blog/como-mejorar-wifi-en-casa-guia-2026/).
+
+Tu internet vuela a las 10 de la mañana pero se arrastra a las 9 de la noche. No es tu imaginación — y no siempre es culpa del proveedor. Aquí te decimos qué pasa y cómo arreglarlo.
 
 <img src="https://images.unsplash.com/photo-1489549132488-d00b7eee80f1?w=1200&h=630&fit=crop&q=80" alt="Persona frustrada con internet lento en la noche" width="1200" height="630" loading="lazy" />
 

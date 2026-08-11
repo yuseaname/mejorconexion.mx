@@ -10,7 +10,18 @@ keywords:
   - "como mejorar cobertura wifi casa"
 draft: false
 image: "/images/topic-router-wifi.webp"
----Tienes internet de 500 Mbps pero en tu cuarto solo llegan 50 Mbps. O peor: la señal desaparece cuando te alejas del router. Este es uno de los problemas más comunes en hogares mexicanos y la solución no siempre es contratar un plan más caro.
+---
+
+## Respuesta Rápida
+
+**Mover el router al centro de la casa a 1.5 m de altura, separar redes 2.4 y 5 GHz, y actualizar a WiFi 6 mejora entre 40% y 70% la cobertura; en planes de 200 Mbps ($499-$699) puedes pasar de 60 Mbps en esquina a 180 Mbps en punto central.**
+
+- **Inversión**: $0 a $1,500 MXN para Mesh si la casa pasa 80 m² o tiene muros gruesos
+- **Acción**: cambia el SSID a `TuRed_5G` para separar bandas y conecta ahí tus equipos
+
+Para más detalle, consulta [/blog/como-configurar-router-mexico-2026/](/blog/como-configurar-router-mexico-2026/).
+
+Tienes internet de 500 Mbps pero en tu cuarto solo llegan 50 Mbps. O peor: la señal desaparece cuando te alejas del router. Este es uno de los problemas más comunes en hogares mexicanos y la solución no siempre es contratar un plan más caro.
 
 En esta guía te explico las causas reales de la mala señal Wi-Fi y cómo solucionarlas, desde ajustes gratuitos hasta equipos que realmente funcionan.
 
