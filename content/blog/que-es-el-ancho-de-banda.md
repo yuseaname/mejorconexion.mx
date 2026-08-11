@@ -38,11 +38,15 @@ Imagina que tu conexión de internet es una tubería de agua. El **ancho de band
 
 El "agua" son los datos: video de Netflix, videollamadas de Zoom, mensajes de WhatsApp, descargas de Steam. Cada actividad consume una parte del tubo.
 
+### Analogía ampliada: la autopista
+
+Otra forma de verlo: el ancho de banda es como una autopista. Cuantos más carriles (más Mbps), más autos (datos) pueden circular al mismo tiempo sin tráfico. Si tienes una autopista de 2 carriles (50 Mbps) y hay 10 autos (10 apps/devices) queriendo pasar, hay tráfico. Si tienes una autopista de 10 carriles (500 Mbps), los 10 autos pasan sin problema.
+
 ### Ancho de banda vs Velocidad vs Latencia
 
 | Concepto | Qué es | Analogía |
 |---|---|---|
-| Ancho de banda | Tamaño del tubo | Diámetro de una manguera |
+| Ancho de banda | Tamaño del tubo / carriles de autopista | Diámetro de una manguera |
 | Velocidad | Qué tan rápido llegan los datos | Velocidad del agua en la manguera |
 | Latencia | Tiempo de ida y vuelta | Tiempo en que el agua llega del grifo al jardín |
 
@@ -68,6 +72,7 @@ Cada actividad online consume una porción de tu ancho de banda. Si la suma de t
 | Gaming online | 3-10 Mbps | 0.1-0.5 GB/h |
 | Descarga de juegos | 10-100+ Mbps | Según tamaño |
 | Smart home (cámaras) | 2-5 Mbps por cámara | Variable |
+| Streaming en Twitch 1080p60 | 10-15 Mbps subida | 5-8 GB/h |
 
 ### Ejemplo: hogar mexicano típico
 
@@ -80,6 +85,18 @@ Una familia de 4 personas un martes a las 8 PM:
 
 Si tienen un plan de 50 Mbps, están al límite. Si alguien más abre YouTube o descarga algo, el ancho de banda se agota y todo se pone lento.
 
+### Ejemplo: home office
+
+Un profesional trabajando desde casa:
+- Zoom grupal HD: 10 Mbps
+- Google Drive sincronizando: 5 Mbps
+- Spotify: 1 Mbps
+- WhatsApp web: 0.5 Mbps
+- Navegación: 2 Mbps
+- **Total: ~18.5 Mbps**
+
+Con 50 Mbps, sobra ancho de banda. Con 20 Mbps, está justo al límite.
+
 ## Cómo se agota el ancho de banda
 
 El ancho de banda se agota de tres maneras:
@@ -88,6 +105,15 @@ El ancho de banda se agota de tres maneras:
 
 Cada dispositivo conectado consume una porción del ancho de banda. En un hogar moderno con 10-20 dispositivos (celulares, tablets, smart TV, consolas, dispositivos smart home), el consumo se acumula rápido.
 
+| Dispositivos conectados | Ancho de banda consumido (estimado) |
+|------------------------|-------------------------------------|
+| 1 celular (WhatsApp) | 0.5 Mbps |
+| 1 smart TV (Netflix HD) | 8 Mbps |
+| 1 consola (gaming online) | 5 Mbps |
+| 1 laptop (navegación) | 2 Mbps |
+| 1 cámara smart home | 3 Mbps |
+| **Total (5 dispositivos)** | **18.5 Mbps** |
+
 ### 2. Aplicaciones que consumen en segundo plano
 
 Muchas apps consumen ancho de banda sin que te des cuenta:
@@ -95,6 +121,8 @@ Muchas apps consumen ancho de banda sin que te des cuenta:
 - **Actualizaciones automáticas:** Windows, macOS, apps móviles
 - **Descargas de Steam/Epic:** Los juegos se actualizan solos
 - **Dispositivos smart home:** Cámaras de seguridad transmiten video constantemente
+
+Estas apps pueden consumir 20-50 Mbps en segundo plano sin que te des cuenta.
 
 ### 3. Uso intensivo en horas pico
 
@@ -109,12 +137,15 @@ Entre 7 y 11 PM, tu proveedor reparte ancho de banda entre miles de usuarios. Si
 - Las páginas web tardan en cargar
 - El gaming tiene lag repentino
 - Las descargas van extremadamente lentas
+- El internet funciona bien de día pero lento en la noche
 
 ### Cómo medirlo
 
 1. **Haz un speed test** ([speedtest.net](https://www.speedtest.net)) cuando todo funciona bien y anota el resultado
 2. **Repite el test** cuando experimentes lentitud
-3. Si la velocidad baja significativamente, tu ancho de banda está saturado por otros dispositivos o apps
+3. **Si la velocidad baja significativamente**, tu ancho de banda está saturado por otros dispositivos o apps
+
+Lee nuestra guía de [cómo medir tu internet correctamente](/blog/medidor-internet-speedtest-mexico.html).
 
 ## Cuánto ancho de banda necesitas según tu hogar
 
@@ -162,30 +193,46 @@ Para más tips, lee [cómo aumentar la velocidad de internet](/blog/como-aumenta
 
 ## Comparativa: cuánto ancho de banda ofrece cada proveedor
 
-| Proveedor | Plan | Ancho de banda | Precio | Ideal para |
-|---|---|---|---|---|
-| Megacable | 100 Mbps | 100 Mbps | $299/mes | Uso ligero |
-| Telmex | 100 Mbps | 100 Mbps | $399/mes | 1-2 personas |
-| Izzi | 200 Mbps | 200 Mbps | $449/mes | Familia pequeña |
-| Totalplay | 300 Mbps | 300 Mbps simétrico | $599/mes | WFH, familia |
-| Totalplay | 500 Mbps | 500 Mbps simétrico | $899/mes | Familia grande |
+| Proveedor | Plan | Ancho de banda bajada | Ancho de banda subida | Precio | Ideal para |
+|---|---|---|---|---|---|
+| Megacable | 80 Mbps | 80 Mbps | 5-8 Mbps | $299/mes | Uso ligero |
+| Telmex | 100 Mbps | 100 Mbps | 20-30 Mbps | $399/mes | 1-2 personas |
+| Izzi | 200 Mbps + TV | 200 Mbps | 15-20 Mbps | $449/mes | Familia pequeña |
+| Totalplay | 300 Mbps | 300 Mbps simétrico | 300 Mbps | $599/mes | WFH, familia |
+| Totalplay | 500 Mbps | 500 Mbps simétrico | 500 Mbps | $699/mes | Familia grande |
+| Totalplay | 1 Gbps | 1000 Mbps simétrico | 1000 Mbps | $1,499/mes | Uso extremo |
 
 Para más detalles, lee [cuánto cuesta el internet en México](/blog/cuanto-cuesta-internet-en-mexico-2026.html).
+
+### ¿Simétrico o asimétrico? Por qué importa
+
+| Tipo | Bajada | Subida | Proveedores | Ideal para |
+|------|--------|--------|-------------|------------|
+| Simétrico | X Mbps | X Mbps | Totalplay | Streaming, trabajo remoto |
+| Asimétrico | X Mbps | 10-20% de bajada | Telmex, Izzi, Megacable | Uso general |
+
+**Ancho de banda simétrico**: Totalplay ofrece la misma velocidad de subida que de bajada. Ideal para subir archivos grandes, streaming en Twitch, videollamadas y backups.
+
+**Ancho de banda asimétrico**: La mayoría de proveedores dan más bajada que subida. Adecuado para uso general (Netflix, navegación), pero limitante si necesitas subir datos frecuentemente.
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Qué es exactamente el ancho de banda de internet?" >}}
-El ancho de banda es la cantidad máxima de datos que pueden viajar por tu conexión por segundo, medido en Mbps. Imagina que es el diámetro de una tubería: cuanto más ancha, más datos pueden fluir simultáneamente. No es lo mismo que velocidad o latencia, aunque están relacionados.
+El ancho de banda es la cantidad máxima de datos que pueden viajar por tu conexión por segundo, medido en Mbps. Imagina que es el diámetro de una tubería: cuanto más ancha, más datos pueden fluir simultáneamente. No es lo mismo que velocidad o latencia, aunque están relacionados. El ancho de banda determina cuántas actividades pueden ocurrir al mismo tiempo sin que todo se ponga lento.
 {{< /faq >}}
 
 {{< faq "¿Por qué mi internet se pone lento si tengo 100 Mbps?" >}}
-Porque el ancho de banda se reparte entre todos los dispositivos y aplicaciones conectadas. Si Netflix usa 25 Mbps, Zoom 10 Mbps y una descarga 50 Mbps, ya consumiste 85 de tus 100 Mbps. Cualquier cosa adicional hace que todo se ponga lento. Solución: cierra apps innecesarias o sube a un plan mayor.
+Porque el ancho de banda se reparte entre todos los dispositivos y aplicaciones conectadas. Si Netflix usa 25 Mbps, Zoom 10 Mbps y una descarga 50 Mbps, ya consumiste 85 de tus 100 Mbps. Cualquier cosa adicional hace que todo se ponga lento. Solución: cierra apps innecesarias, usa QoS para priorizar, o sube a un plan mayor (200-300 Mbps).
 {{< /faq >}}
 
 {{< faq "¿Cuánto ancho de banda necesito para mi casa?" >}}
-Depende del número de personas y actividades: 1 persona con uso ligero necesita 50 Mbps; 2-3 personas con Netflix y redes sociales necesitan 100 Mbps; una familia de 4+ con streaming 4K y gaming necesita 200-300 Mbps; familias grandes con smart home y home office necesitan 500+ Mbps.
+Depende del número de personas y actividades: 1 persona con uso ligero necesita 50 Mbps; 2-3 personas con Netflix y redes sociales necesitan 100 Mbps; una familia de 4+ con streaming 4K y gaming necesita 200-300 Mbps; familias grandes con smart home y home office necesitan 500+ Mbps. Usa nuestra [calculadora de velocidad](/herramientas/calculadora-velocidad-internet.html).
 {{< /faq >}}
 
 {{< faq "¿El ancho de banda es lo mismo que los datos (GB)?" >}}
-No. El ancho de banda es la cantidad de datos por segundo (Mbps); los datos son el total acumulado (GB). Analogía: el ancho de banda es el diámetro de una manguera; los datos son la cantidad total de agua que usas en un mes. Para más información sobre datos, lee [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
+No. El ancho de banda es la cantidad de datos por segundo (Mbps); los datos son el total acumulado (GB). Analogía: el ancho de banda es el diámetro de una manguera; los datos son la cantidad total de agua que usas en un mes. Puedes tener un ancho de banda grande (500 Mbps) y consumir pocos datos (100 GB/mes), o viceversa. Para más información sobre datos, lee [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
+{{< /faq >}}
+
+{{< faq "¿Cómo aumento mi ancho de banda?" >}}
+La única forma de aumentar realmente tu ancho de banda es contratar un plan mayor con tu proveedor (o cambiar de proveedor). No hay trucos mágicos para "aumentar" el ancho de banda que contrataste. Lo que SÍ puedes hacer es optimizar el uso del ancho de banda existente: QoS, cable Ethernet, cerrar apps en segundo plano y actualizar tu router. Lee [cómo aumentar la velocidad de internet](/blog/como-aumentar-velocidad-internet-mexico.html).
 {{< /faq >}}

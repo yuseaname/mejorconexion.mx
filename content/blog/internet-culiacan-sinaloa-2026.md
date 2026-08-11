@@ -120,6 +120,18 @@ La cobertura cambia dramáticamente entre la zona residencial norte y las coloni
 
 PROFECO recibe quejas frecuentes de Izzi y Megacable en Culiacán. Totalplay tiene mejor reputación en soporte. Para quejarte, lee [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
 
+### Cómo cambiar de proveedor en Culiacán
+
+Si quieres cambiar de proveedor para mejorar tu servicio:
+
+1. **Verifica qué llega a tu dirección**: no todos los proveedores llegan a todas las colonias.
+2. **No canceles tu servicio actual antes de tener el nuevo instalado**: contrata el nuevo, espera a que funcione, y luego cancela el viejo.
+3. **Negocia con tu proveedor actual**: amenazando con irte, muchas veces te ofrecen mejor plan o precio.
+4. **Revisa plazo forzoso**: si estás en contrato, puede haber penalización de $1,000-$3,000 MXN.
+5. **Conserva tu número de teléfono si lo tienes**: usa portabilidad numeraria.
+
+Para más detalles, lee [cómo cambiar de proveedor de internet](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html).
+
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor internet en Culiacán?" >}}

@@ -120,6 +120,14 @@ La cobertura cambia dramáticamente entre Toluca, Metepec y municipios periféri
 
 Toluca tiene inviernos fríos que pueden afectar cables exteriores. Reporta cortes rápidamente. Para mejorar tu WiFi, lee [cómo mejorar el WiFi en casa](/blog/como-mejorar-wifi-en-casa-guia-2026.html).
 
+### Cómo contratar internet en Toluca paso a paso
+
+1. **Verifica cobertura**: ingresa tu código postal exacto en los sitios oficiales de Totalplay, Izzi y Telmex. La cobertura cambia por cuadra, no asumas por colonia.
+2. **Compara precios**: usa las tablas de este artículo. Recuerda que los precios promocionales suben después de 6-12 meses.
+3. **Contrata en línea**: las mejores promociones suelen estar en los sitios web, no en sucursal.
+4. **Agenda instalación**: la mayoría instala en 3-7 días hábiles. Ten lista tu identificación y comprobante de domicilio.
+5. **Prueba la velocidad**: tras la instalación, mide con speedtest.net. Si no recibes al menos el 80% de la velocidad contratada, reporta inmediatamente a tu proveedor.
+
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor internet en Toluca?" >}}

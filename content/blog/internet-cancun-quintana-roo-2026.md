@@ -118,6 +118,14 @@ Cancún está en zona de huracanes (junio-noviembre). Los cortes de electricidad
 
 La cobertura cambia de la zona hotelera a las colonias populares. Verifica siempre por código postal exacto.
 
+### Clima salitre y humedad
+
+El clima costero de Cancún es especialmente agresivo para equipos electrónicos. El salitre y la humedad corroen conectores y routers. Considera proteger tus equipos en gabinetes ventilados y reemplazar routers cada 2-3 años si notas corrosión.
+
+### Turismo estacional
+
+En temporada alta (diciembre-abril) la red celular y de internet puede saturarse por el incremento de usuarios. Si trabajas desde casa o necesitas estabilidad, prioriza fibra óptica de Totalplay sobre cable coaxial o 4G fijo.
+
 ### Atención al cliente
 
 PROFECO recibe quejas frecuentes de Izzi y Megacable. Totalplay tiene mejor reputación en soporte en Cancún. Para quejarte, lee [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).

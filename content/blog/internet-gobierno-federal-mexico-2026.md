@@ -134,6 +134,49 @@ Necesita videollamadas estables y subida de archivos. El internet del gobierno n
 :::
 
 ::: section
+## Redes Comunitarias y proyectos locales
+
+Más allá de los programas federales, existen iniciativas locales y comunitarias que llevan internet a zonas marginadas:
+
+### Redes Comunitarias de Telecomunicaciones
+
+Organizaciones como **Rhizomatica** y **Telecomunicaciones Indígenas Comunitarias (TIC)** operan redes celulares comunitarias en zonas indígenas y rurales donde ninguna empresa comercial llega. Estas redes:
+
+- Son administradas por las propias comunidades
+- Usan espectro concedido por el IFT
+- Ofrecen llamadas y datos locales (a veces con conexión a internet)
+- Tienen precios simbólicos o gratuitas para la comunidad
+
+**Limitaciones**: Estas redes cubren áreas muy específicas y su capacidad de datos es limitada. Son más para comunicación básica que para streaming o trabajo remoto.
+
+### Red 5G de Altán (BAIT/Mercury Mobile)
+
+Altán Redes opera la **Red Compartida Independiente** (RCCI), una red 4G/5G que da servicio a operadores mayoristas (OMVs) como:
+- **Mercury Mobile**
+- **Opcionesnet/BAIT**
+- **Cierto Mobile**
+
+Estos operadores ofrecen planes de datos móviles más baratos que Telcel/AT&T/Movistar, usando la red de Altán. Aunque son móviles (no fijos), algunos usuarios usan routers con SIM para internet casero.
+
+| Operador | Precio típico | Datos incluidos | Red |
+|----------|-------------|-----------------|-----|
+| Mercury Mobile | $100-$200/mes | 3-10 GB | Altán 4G |
+| Cierto Mobile | $150-$300/mes | 5-15 GB | Altán + roaming |
+| BAIT/Wholesale | $50-$150/mes | 2-8 GB | Altán 4G |
+
+**Para zonas rurales**: La cobertura de Altán está enfocada en zonas que las grandes operadoras no cubren. Verifica cobertura antes de contratar.
+
+### Programas estatales
+
+Algunos estados tienen sus propios programas de conectividad:
+- **CDMX**: WiFi gratuito en espacios públicos y el programa "Pilares"
+- **Estado de México**: Programas de conectividad escolar
+- **Jalisco**: Programa de expansión digital
+
+Estos programas varían por administración y no tienen la consistencia de los programas federales.
+:::
+
+::: section
 ## El futuro del internet gubernamental en México
 
 El gobierno mexicano ha anunciado varias iniciativas para expandir la conectividad:

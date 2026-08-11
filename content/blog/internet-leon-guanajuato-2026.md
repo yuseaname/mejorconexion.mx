@@ -120,6 +120,20 @@ Fraccionamientos muy cercanos pueden tener o no fibra. Verifica siempre por cód
 
 PROFECO recibe quejas frecuentes de Izzi y Megacable en León. Totalplay tiene mejor reputación en soporte. Para quejarte, lee [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
 
+### Clima y cableado
+
+León tiene un clima semiárido con veranos calurosos y lluvias torrenciales en junio-septiembre. Las lluvias pueden afectar cables exteriores viejos (especialmente cobre de Telmex). Si experimentas cortes después de lluvias, reporta a tu proveedor y considera migrar a fibra óptica si está disponible en tu calle.
+
+## Cómo contratar internet en León paso a paso
+
+1. **Verifica cobertura**: ingresa tu código postal en totalplay.com.mx, izzi.mx, y telmex.com para ver qué llega a tu calle exacta.
+2. **Compara precios y planes**: usa las tablas de este artículo como referencia. No confíes solo en el precio promocional; pregunta el precio regular del mes 7+.
+3. **Llama o contrata en línea**: en línea suele tener mejores promociones que sucursal.
+4. **Agenda instalación**: la mayoría de proveedores instalan en 3-7 días hábiles.
+5. **Verifica la velocidad real**: tras la instalación, mide con speedtest.net. Si no llegas al 80% de la velocidad contratada, reporta inmediatamente.
+
+Para una guía detallada, lee [cómo contratar internet en México](/blog/como-contratar-internet-mexico-2026.html).
+
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor internet en León Guanajuato?" >}}

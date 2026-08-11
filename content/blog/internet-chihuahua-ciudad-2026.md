@@ -112,9 +112,13 @@ Megacable 100 Mbps ($349/mes) o Infinitum 100 Mbps ($389/mes). Lee [internet bar
 
 Chihuahua tiene veranos calurosos (40°C+) e inviernos fríos (bajo cero). Estos extremos afectan cables y equipos exteriores.
 
-### Cobertura irregular entre colonias
+### Cómo elegir proveedor en Chihuahua
 
-La cobertura cambia dramáticamente entre San Felipe/Distrito 1 y las colonias populares del oriente. Verifica siempre por código postal exacto.
+1. **Verifica cobertura por código postal**: la disponibilidad cambia por cuadra. Nunca asumas que porque un vecino tiene un proveedor, tú también.
+2. **Prefiere fibra sobre cable coaxial**: la fibra de Totalplay o Infinitum fibra es más estable que el cable de Izzi/Megacable.
+3. **Pregunta el precio regular**: las promociones de 6 meses terminan y el precio puede subir 30-50%.
+4. **Verifica si hay plazo forzoso**: algunos planes te amarran 12-24 meses con penalización por cancelación.
+5. **Mide la velocidad real después de instalar**: si no llegas al 80% de lo contratado, reporta inmediatamente.
 
 ### Atención al cliente
 
