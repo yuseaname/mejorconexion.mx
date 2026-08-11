@@ -380,13 +380,4 @@ Sí, por estabilidad y subida. Si no hay fibra, busca cable con buena reputació
 Es típico de saturación local. Haz pruebas en horario pico para confirmarlo.
 :::
 
-::: {#status .section}
-## Estado del contenido
-
-**CONTENT STATUS:**
-
--   **Word Count:** 2000+
--   **SEO Expansion:** COMPLETE
--   **Eligible for AdSense Monetization:** YES
--   **Last Updated:** 2026-01-17
 :::

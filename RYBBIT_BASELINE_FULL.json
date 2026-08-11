@@ -1,0 +1,42 @@
+{
+  "date": "2026-08-10",
+  "window": "2026-05-12 to 2026-08-10 (90 days)",
+  "site_id": "095d6520421b",
+  "overview": {
+    "sessions": 324,
+    "pageviews": 468,
+    "users": 305,
+    "bounce_rate": 80.56,
+    "pages_per_session": 1.44,
+    "session_duration": 40.45
+  },
+  "traffic_sources": {
+    "organic_search": {"sessions": 223, "pct": 68.83, "bounce": 78.03},
+    "direct": {"sessions": 76, "pct": 23.46, "bounce": 88.16},
+    "ai": {"sessions": 11, "pct": 3.4, "bounce": 63.64},
+    "organic_social": {"sessions": 10, "pct": 3.09, "bounce": 90.0}
+  },
+  "referrers": {
+    "google": 82, "bing": 82, "duckduckgo": 23, "yahoo_mx": 16, "brave": 10
+  },
+  "geography": {
+    "MX": {"sessions": 223, "pct": 68.83, "bounce": 78.92},
+    "US": {"sessions": 34, "pct": 10.49, "bounce": 76.47}
+  },
+  "devices": {
+    "desktop": {"sessions": 196, "pct": 60.49, "bounce": 74.49},
+    "mobile": {"sessions": 128, "pct": 39.51, "bounce": 89.84}
+  },
+  "top_10_pages": [
+    {"path": "/planes-moviles/telcel-vs-att-vs-movistar/", "sessions": 102, "bounce": 90.2, "time_on_page": 29.1, "pageviews": 114},
+    {"path": "/", "sessions": 35, "bounce": 74.3, "time_on_page": 6.4, "pageviews": 39},
+    {"path": "/cobertura/cdmx/mejor-internet-cdmx/", "sessions": 34, "bounce": 67.7, "time_on_page": 6.0, "pageviews": 61},
+    {"path": "/blog/que-significa-la-velocidad-de-internet.html", "sessions": 33, "bounce": 69.7, "time_on_page": 17.4, "pageviews": 39},
+    {"path": "/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/", "sessions": 13, "bounce": 92.3, "time_on_page": 0.23, "pageviews": 14},
+    {"path": "/cobertura/monterrey/", "sessions": 8, "bounce": 75.0, "time_on_page": 50.8, "pageviews": 9},
+    {"path": "/blog/que-son-los-datos-moviles.html", "sessions": 7, "bounce": 71.4, "time_on_page": 19.4, "pageviews": 13},
+    {"path": "/cobertura/guadalajara/", "sessions": 7, "bounce": 85.7, "time_on_page": 1.7, "pageviews": 7},
+    {"path": "/blog/que-es-el-ping.html", "sessions": 6, "bounce": 83.3, "time_on_page": 0.67, "pageviews": 7},
+    {"path": "/blog/cuanto-cuesta-internet-en-mexico-2026.html", "sessions": 5, "bounce": 60.0, "time_on_page": 13.6, "pageviews": 6}
+  ]
+}

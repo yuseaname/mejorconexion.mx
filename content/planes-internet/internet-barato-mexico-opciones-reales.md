@@ -367,13 +367,4 @@ Sí, si tu uso real es menor de lo que creías. Primero mide tu consumo y revisa
 Revisa tu Wi‑Fi y la instalación antes de cambiar de proveedor.
 :::
 
-::: {#status .section}
-## Estado del contenido
-
-**CONTENT STATUS:**
-
--   **Word Count:** 2000+
--   **SEO Expansion:** COMPLETE
--   **Eligible for AdSense Monetization:** YES
--   **Last Updated:** 2026-01-17
 :::

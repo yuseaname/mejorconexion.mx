@@ -545,3 +545,14 @@ Puede ser cableado interno viejo o saturación local. Pregunta a vecinos y revis
 
 Prueba por cable directo al router en horario pico. Si por cable sigue mal, es proveedor o zona. Si por cable funciona bien, es tu Wi‑Fi.
 :::
+
+
+::: {#ciudades-relacionadas .section}
+## Otras guías por ciudad
+
+- [Mejor internet en Monterrey](/cobertura/monterrey/)
+- [Mejor internet en Guadalajara](/cobertura/guadalajara/)
+- [Comparativa: Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/)
+- [Cuántos Mbps necesito](/guias/cuantos-mbps-necesito/)
+- [Qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html)
+:::

@@ -342,13 +342,4 @@ Sí, si tu uso es básico. Pero si el consumo es alto, el plan puede quedarse co
 Si hay zonas muertas en casa o la señal cae mucho con distancia, conviene mejorar la cobertura.
 :::
 
-::: {#status .section}
-## Estado del contenido
-
-**CONTENT STATUS:**
-
--   **Word Count:** 2000+
--   **SEO Expansion:** COMPLETE
--   **Eligible for AdSense Monetization:** YES
--   **Last Updated:** 2026-01-17
 :::

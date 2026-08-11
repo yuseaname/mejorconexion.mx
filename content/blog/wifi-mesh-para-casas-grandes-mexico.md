@@ -422,13 +422,4 @@ Solo si hay zonas muertas. Si el router actual cubre bien, no es necesario.
 Lo mejor es usar un sistema del mismo fabricante para evitar incompatibilidades.
 :::
 
-::: {#status .section}
-## Estado del contenido
-
-**CONTENT STATUS:**
-
--   **Word Count:** 2000+
--   **SEO Expansion:** COMPLETE
--   **Eligible for AdSense Monetization:** YES
--   **Last Updated:** 2026-01-17
 :::

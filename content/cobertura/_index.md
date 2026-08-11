@@ -369,13 +369,4 @@ Cuando cambias de casa, la cobertura puede cambiar por completo. Este mini check
 Una buena decisión de cobertura puede ahorrarte meses de frustración.
 :::
 
-::: {#status .section}
-## Estado del contenido
-
-**CONTENT STATUS:**
-
--   **Word Count:** 2000+
--   **SEO Expansion:** COMPLETE
--   **Eligible for AdSense Monetization:** YES
--   **Last Updated:** 2026-01-17
 :::

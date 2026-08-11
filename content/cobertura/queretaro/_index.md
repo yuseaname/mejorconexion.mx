@@ -456,13 +456,4 @@ Si puedes, pide que midan señal en el punto exacto donde trabajas.
 Antes de cerrar la visita, verifica que todo funcione sin cortes.
 :::
 
-::: {#status .section}
-## Estado del contenido
-
-**CONTENT STATUS:**
-
--   **Word Count:** 2000+
--   **SEO Expansion:** COMPLETE
--   **Eligible for AdSense Monetization:** YES
--   **Last Updated:** 2026-01-17
 :::

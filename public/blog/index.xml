@@ -585,26 +585,8 @@ La ley te da tiempo para resolver con el proveedor antes de recurrir a PROFECO. 
 &lt;li>&lt;strong>Desactiva 5G automático en Ajustes &amp;gt; Red; si con LTE la velocidad sube, tu zona no tiene 5G real todavía.&lt;/strong>&lt;/li>
 &lt;/ul>
 &lt;p>Para más detalle, consulta &lt;a href="https://mejorconexion.mx/planes-moviles/mejores-planes-mexico.html">elegir mejor plan de datos&lt;/a>.
-::: {#idea-clave .section}&lt;/p></description></item><item><title>Qué es el ping y por qué importa (latencia, jitter y juegos)</title><link>https://mejorconexion.mx/blog/que-es-el-ping.html</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/blog/que-es-el-ping.html</guid><description>&lt;div>
-&lt;h1 id="qué-es-el-ping-y-por-qué-importa-latencia-jitter-y-juegos">Qué es el ping y por qué importa (latencia, jitter y juegos)&lt;/h1>
-&lt;p>El ping es el tiempo de respuesta de tu conexión. Aunque tengas muchos Mbps, un ping alto se siente lento en videollamadas, juegos y llamadas de voz. Aquí te explicamos qué es, cómo medirlo y cómo mejorarlo en México.&lt;/p>
-&lt;/div>
-&lt;h2 id="tabla-de-contenidos">Tabla de contenidos&lt;/h2>
-&lt;ol>
-&lt;li>&lt;a href="#definicion">Qué es el ping (latencia) en palabras simples&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#rangos">Rangos de ping: qué es bueno y qué es malo&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#jitter">Qué es el jitter y por qué lo sientes&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#perdida">Pérdida de paquetes: el problema silencioso&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#causas">Causas comunes de ping alto&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#medir">Cómo medir ping correctamente&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#gaming">Ping en gaming: lo que realmente importa&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#video">Ping en videollamadas y trabajo remoto&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#wifi">Wi‑Fi vs cable: impacto real en latencia&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#mejorar">Cómo mejorar el ping en casa&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#faq">Preguntas frecuentes&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#status">Estado del contenido&lt;/a>&lt;/li>
-&lt;/ol>
-&lt;p>::: {#definicion .section}&lt;/p></description></item><item><title>Qué es una eSIM y cómo saber si te conviene en México</title><link>https://mejorconexion.mx/blog/que-es-una-esim.html</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/blog/que-es-una-esim.html</guid><description>&lt;h2 id="respuesta-rápida">Respuesta Rápida&lt;/h2>
+::: {#idea-clave .section}&lt;/p></description></item><item><title>Qué es el ping y por qué importa (latencia, jitter y juegos)</title><link>https://mejorconexion.mx/blog/que-es-el-ping.html</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/blog/que-es-el-ping.html</guid><description>&lt;h2 id="respuesta-rápida">Respuesta Rápida&lt;/h2>
+&lt;p>&lt;strong>El ping (o latencia) es el tiempo que tarda tu dispositivo en enviar una señal a un servidor y recibir respuesta, medido en milisegundos (ms). Un ping bajo (menos de 50 ms) significa respuestas rápidas en juegos y videollamadas; un ping alto (más de 100 ms) causa retraso, &amp;ldquo;lag&amp;rdquo; y cortes. El ping NO es lo mismo que los Mbps de velocidad: puedes tener un plan de 300 Mbps y sentir todo lento si el ping es alto.&lt;/strong>&lt;/p></description></item><item><title>Qué es una eSIM y cómo saber si te conviene en México</title><link>https://mejorconexion.mx/blog/que-es-una-esim.html</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/blog/que-es-una-esim.html</guid><description>&lt;h2 id="respuesta-rápida">Respuesta Rápida&lt;/h2>
 &lt;p>&lt;strong>Una eSIM es una SIM digital integrada en tu teléfono que te permite cambiar de operador sin chip físico. En México la soportan Telcel, AT&amp;amp;T y Movistar en equipos recientes (iPhone XS+, Galaxy S20+, Pixel 3+). Es ideal para viajes, doble línea o portabilidad rápida.&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>eSIM requiere que tu equipo esté desbloqueado; los teléfonos de operador mexicano en plan de renta suelen venir bloqueados.&lt;/strong>&lt;/li>
@@ -617,11 +599,17 @@ La ley te da tiempo para resolver con el proveedor antes de recurrir a PROFECO. 
 &lt;li>&lt;strong>La latencia (ping)&lt;/strong> mide tiempo de respuesta, en milisegundos (ms); baja latencia = mejor experiencia en juegos y videollamadas&lt;/li>
 &lt;li>&lt;strong>Mide por cable Ethernet&lt;/strong> antes de concluir que tu plan falla; el Wi-Fi y el router pueden ser el cuello de botella real&lt;/li>
 &lt;/ul>
-&lt;p>Para entender cómo elegir entre planes según tu uso, consulta &lt;a href="https://mejorconexion.mx/guias/cuantos-mbps-necesito/">cuántos Mbps necesito realmente&lt;/a>. Si buscas opciones para casa en México, nuestra guía &lt;a href="https://mejorconexion.mx/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/">Telmex vs Izzi vs Totalplay&lt;/a> compara los planes reales por operador.&lt;/p></description></item><item><title>Qué son los datos móviles (4G/5G) y cómo se consumen</title><link>https://mejorconexion.mx/blog/que-son-los-datos-moviles.html</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/blog/que-son-los-datos-moviles.html</guid><description>&lt;p>::: {#definicion .section}&lt;/p>
-&lt;h2 id="qué-son-los-datos-móviles">Qué son los datos móviles&lt;/h2>
-&lt;p>Los datos móviles son el acceso a internet que te da tu operador cuando no estás conectado a Wi‑Fi. En lugar de pasar por un módem de casa, tu celular se conecta a antenas cercanas y usa la red 4G o 5G.&lt;/p>
-&lt;p>Ese acceso se mide en gigabytes (GB). Cada video, audio, imagen o app que uses consume una parte de esos GB. Por eso tu plan incluye un límite o una política de uso justo.
-:::&lt;/p></description></item><item><title>Red de invitados e IoT seguro en casa en Mexico</title><link>https://mejorconexion.mx/blog/red-invitados-iot-segura-mexico.html</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/blog/red-invitados-iot-segura-mexico.html</guid><description>&lt;h2 id="respuesta-rápida">Respuesta Rápida&lt;/h2>
+&lt;p>Para entender cómo elegir entre planes según tu uso, consulta &lt;a href="https://mejorconexion.mx/guias/cuantos-mbps-necesito/">cuántos Mbps necesito realmente&lt;/a>. Si buscas opciones para casa en México, nuestra guía &lt;a href="https://mejorconexion.mx/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/">Telmex vs Izzi vs Totalplay&lt;/a> compara los planes reales por operador.&lt;/p></description></item><item><title>Qué son los datos móviles (4G/5G) y cómo se consumen</title><link>https://mejorconexion.mx/blog/que-son-los-datos-moviles.html</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/blog/que-son-los-datos-moviles.html</guid><description>&lt;h2 id="respuesta-rápida">Respuesta Rápida&lt;/h2>
+&lt;p>&lt;strong>Los datos móviles son la conexión a internet que usa tu celular a través de la red celular (4G/5G) cuando no estás conectado a Wi-Fi. Se miden en gigabytes (GB): un plan de 10 GB te permite consumir hasta 10 GB al mes. El streaming de video consume más (1 hora de Netflix HD = ~3 GB), mientras que navegar y WhatsApp consumen mucho menos.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>1 GB ≈&lt;/strong> 1,000 MB — suficiente para ~6 horas de redes sociales o ~10,000 mensajes de WhatsApp&lt;/li>
+&lt;li>&lt;strong>Streaming HD:&lt;/strong> ~3 GB por hora (lo que más consume)&lt;/li>
+&lt;li>&lt;strong>Streaming de música:&lt;/strong> ~1 GB por hora&lt;/li>
+&lt;li>&lt;strong>Navegación web:&lt;/strong> ~60 MB por hora&lt;/li>
+&lt;li>&lt;strong>Para ahorrar datos:&lt;/strong> usa Wi-Fi cuando puedas, descarga contenido offline, desactiva auto-play de video&lt;/li>
+&lt;/ul>
+&lt;p>Para entender la diferencia entre Mbps y GB, consulta &lt;a href="https://mejorconexion.mx/blog/que-significa-la-velocidad-de-internet.html">qué significa la velocidad de internet&lt;/a>. Si necesitas calcular cuántos GB necesitas al mes, revisa &lt;a href="https://mejorconexion.mx/blog/cuantos-gb-necesitas-al-mes/">cuántos GB necesitas&lt;/a>.
+::: {#definicion .section}&lt;/p></description></item><item><title>Red de invitados e IoT seguro en casa en Mexico</title><link>https://mejorconexion.mx/blog/red-invitados-iot-segura-mexico.html</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/blog/red-invitados-iot-segura-mexico.html</guid><description>&lt;h2 id="respuesta-rápida">Respuesta Rápida&lt;/h2>
 &lt;p>&lt;strong>Para tener una red segura en México 2026, separa en 3 redes Wi-Fi: principal (celulares/laptops), invitados (visitas) e IoT (cámaras, TVs, bocinas). La red IoT nunca debe tener acceso a la principal. La mayoría de routers 2022+ soportan VLAN o redes múltiples.&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>Dispositivos IoT viejos (cámaras 2018-) son el vector #1 de ataques a redes domésticas en México.&lt;/strong>&lt;/li>

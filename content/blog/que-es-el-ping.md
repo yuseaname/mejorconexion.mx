@@ -6,6 +6,17 @@ description: "Guía 2026: qué es el ping, cómo se mide, qué rangos son buenos
 draft: false
 image: "/images/generated/speed-test-cdmx.webp"
 ---
+
+## Respuesta Rápida
+
+**El ping (o latencia) es el tiempo que tarda tu dispositivo en enviar una señal a un servidor y recibir respuesta, medido en milisegundos (ms). Un ping bajo (menos de 50 ms) significa respuestas rápidas en juegos y videollamadas; un ping alto (más de 100 ms) causa retraso, "lag" y cortes. El ping NO es lo mismo que los Mbps de velocidad: puedes tener un plan de 300 Mbps y sentir todo lento si el ping es alto.**
+
+- **0–50 ms:** excelente — ideal para gaming competitivo y videollamadas fluidas
+- **51–100 ms:** aceptable — se nota un ligero retraso pero funciona bien
+- **101–150 ms:** alto — lag visible en juegos y llamadas
+- **150+ ms:** problemático — cortes y retrasos constantes
+
+Para entender la diferencia entre velocidad y latencia, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Si tu internet se siente lento a pesar de tener buenos Mbps, revisa [qué hacer cuando tu internet está lento](/guias/que-hacer-si-internet-lento/).
 <div>
 
 # Qué es el ping y por qué importa (latencia, jitter y juegos)
@@ -326,13 +337,4 @@ No necesariamente. El ping depende más de la ruta y la estabilidad que de la ve
 Con conexión por cable, mejor Wi‑Fi interno y evitando saturar la red con descargas pesadas.
 :::
 
-::: {#status .section}
-## Estado del contenido
-
-**CONTENT STATUS:**
-
--   **Word Count:** 2000+
--   **SEO Expansion:** COMPLETE
--   **Eligible for AdSense Monetization:** YES
--   **Last Updated:** 2026-01-17
 :::
