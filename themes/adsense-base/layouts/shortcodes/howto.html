@@ -1,0 +1,22 @@
+{{- /* howto.html — HowTo guide shortcode with microdata + JSON-LD collection */ -}}
+{{- /* Usage: */}}
+{{- /* {{< howto "Cómo configurar tu router" >}}                                          */}}
+{{- /* {{< howto-step name="Conecta el router" >Conecta el cable de alimentación...{{< /howto-step >}}  */}}
+{{- /* {{< /howto >}}                                                                     */}}
+{{- $title := .Get 0 | default .Page.Title -}}
+{{- $desc := .Get 1 | default "" -}}
+{{- $inner := .Inner | strings.TrimSpace -}}
+
+{{- /* Store title for JSON-LD output in head.schema.html */ -}}
+{{- .Page.Store.Set "howto-title" $title -}}
+{{- with $desc -}}
+{{- .Page.Store.Set "howto-desc" . -}}
+{{- end -}}
+
+<div class="howto-section my-6 p-5 rounded-xl border border-gray-200 bg-gray-50" itemscope itemtype="https://schema.org/HowTo">
+  <h2 class="text-xl font-bold text-gray-900 mb-2" itemprop="name">{{ $title }}</h2>
+  {{- with $desc }}<p class="text-sm text-gray-600 mb-4" itemprop="description">{{ . }}</p>{{- end -}}
+  <ol class="howto-steps space-y-4">
+    {{- $inner | safeHTML -}}
+  </ol>
+</div>

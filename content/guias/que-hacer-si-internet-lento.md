@@ -2,9 +2,19 @@
 title: "Qué hacer si tu internet está lento: checklist sin pánico"
 slug: "que-hacer-si-internet-lento"
 date: 2026-01-01
-description: "Internet lento en México: checklist práctico para diagnosticar si el problema es tu Wi-Fi, tu proveedor o el horario pico. Pasos claros y qué pedir al soporte."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 draft: false
 image: "/images/topic-provider-comparison.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet mexico 2026"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "totalplay vs telmex vs izzi"
+  - "wifi mesh mexico"
+
 ---
 
 ## Respuesta Rápida
@@ -15,6 +25,26 @@ image: "/images/topic-provider-comparison.webp"
 - **Apaga módem + router 60 segundos, enciende primero el módem, espera 2 minutos y luego el router; prueba por cable.**
 
 Para más detalle, consulta [saber si te llega la velocidad](/blog/velocidad-contratada-no-me-llega-mexico.html).
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
+Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< /faq >}}}
+
+{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
+Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< /faq >}}}
+
+{{< faq "¿Los precios promocionales duran para siempre?" >}}
+No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< /faq >}}}
+
+{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
+Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< /faq >}}}
+
 
 ::: container
 ::: breadcrumbs
@@ -141,7 +171,7 @@ Solo si confirmaste que la velocidad que llega por cable es menor a la que pagas
 
 Sí, si tienes datos (velocidad real vs contratada, horario del problema). Sin datos, el soporte técnico te va a pedir que reinicies el router y corten la llamada.
 
-### ¿Puedo cambiar de proveedor si tengo contrato?
+### ¿Puedo [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html) si tengo contrato?
 
 Sí, pero revisa las condiciones de cancelación. Algunos cobran penalización. Lee [cómo cambiar de proveedor de internet en México](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
 :::

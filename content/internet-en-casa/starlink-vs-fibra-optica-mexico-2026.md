@@ -2,9 +2,19 @@
 title: "Starlink vs Fibra Óptica en México 2026: ¿Cuál Conviene Más?"
 slug: "starlink-vs-fibra-optica-mexico-2026"
 date: 2026-01-01
-description: "¿Starlink o fibra óptica en México 2026? Comparamos precios, latencia, velocidad y cobertura. Descubre cuál internet conviene más para tu zona."
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 draft: false
 image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet mexico 2026"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "totalplay vs telmex vs izzi"
+  - "wifi mesh mexico"
+
 ---
 
 ## Respuesta Rápida

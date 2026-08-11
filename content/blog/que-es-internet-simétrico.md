@@ -2,9 +2,19 @@
 title: "¿Qué es internet simétrico? La guía definitiva para mejorar tu conexión en casa"
 slug: "que-es-internet-simétrico"
 date: 2026-05-30
-description: "Entiende qué es el internet simétrico, por qué importa la velocidad de subida y cómo mejora tu experiencia de videollamadas y envío de archivos."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 draft: false
 image: "/images/generated/speed-test-cdmx.webp"
+keywords:
+  - "internet lento mexico"
+  - "lag internet"
+  - "internet para jugar online"
+  - "internet gaming mexico"
+  - "cuantos mbps necesito"
+  - "ping gaming"
+
 ---
 
 ## Respuesta Rápida
@@ -113,3 +123,23 @@ En conclusión, el **internet simétrico** no es solo un lujo para profesionales
 Si sientes que tu conexión actual te limita cada vez que intentas enviar un archivo o participar en una videollamada, es momento de revisar tu contrato.
 
 **¿Tu internet actual te está frenando?** No esperes a la próxima caída de señal. Revisa las especificaciones de tu plan hoy mismo y, si es necesario, contacta a tu proveedor para preguntar por sus opciones de fibra óptica simétrica. ¡Tu productividad y tu entretenimiento te lo agradecerán!
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
+Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< /faq >}}}
+
+{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
+Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< /faq >}}}
+
+{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
+Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< /faq >}}}
+
+{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
+Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< /faq >}}}
+

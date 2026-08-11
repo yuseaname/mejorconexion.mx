@@ -2,9 +2,19 @@
 title: "Internet barato en México: opciones reales sin trampas (2026)"
 slug: "internet-barato-mexico-opciones-reales"
 date: 2026-01-01
-description: "Guía 2026 de internet barato en México con enfoque realista: señales de una oferta sana, costos ocultos, opciones por uso y checklist de contratación."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 draft: false
 image: "/images/topic-router-wifi.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet barato mexico"
+  - "cuanto cuesta internet mexico"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "wifi mesh mexico"
+
 ---
 <div>
 
@@ -27,6 +37,26 @@ Buscar internet barato no tiene por qué ser un volado. Esta guía te ayuda a pa
 9.  [Checklist para contratar sin sorpresas](#checklist)
 10. [Preguntas frecuentes](#faq)
 11. [Estado del contenido](#status)
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
+Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< /faq >}}}
+
+{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
+Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< /faq >}}}
+
+{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
+Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< /faq >}}}
+
+{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
+Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< /faq >}}}
+
 
 ::: {#significa .section}
 ## Qué significa "barato" en internet
@@ -326,7 +356,7 @@ Haz pruebas reales antes de cambiar de plan:
 2.  Revisa si el problema es horario pico.
 3.  Verifica la subida con una videollamada larga.
 
-Guía paso a paso: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet/).
+Guía paso a paso: [cómo [medir tu velocidad](/guias/como-medir-velocidad-real-internet.html) real](/guias/como-medir-velocidad-real-internet/).
 :::
 
 ::: {#glosario .section}

@@ -2,7 +2,9 @@
 title: "Internet Lento en la Noche: Por Qué Pasa y Cómo Solucionarlo"
 slug: "internet-lento-en-la-noche-2026"
 date: 2026-01-01
-description: "Tu internet funciona bien de día pero se traba en la noche. Te explicamos por qué y cómo arreglarlo — no siempre es culpa de tu proveedor."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 keywords:
   - "internet lento en la noche"
   - "por qué internet lento noche"
@@ -79,7 +81,7 @@ Los proveedores comparten el ancho de banda entre muchos usuarios. Si todos usan
 
 | Solución | Efectividad | Dificultad |
 |----------|-------------|------------|
-| Cambiar de proveedor | Alta | Media |
+| [Cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html) | Alta | Media |
 | Subir de plan | Media | Baja |
 | Usar internet temprano | Alta | Baja |
 | Quejarse con PROFECO | Variable | Alta |

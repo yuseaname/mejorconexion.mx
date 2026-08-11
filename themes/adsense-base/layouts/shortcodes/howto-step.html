@@ -1,0 +1,13 @@
+{{- /* howto-step.html — Individual step inside a HowTo */ -}}
+{{- /* Usage: {{< howto-step name="Conecta el router" >Descripción del paso{{< /howto-step >}} */}}
+{{- $name := .Get "name" | default (.Get 0) -}}
+{{- $desc := .Inner | strings.TrimSpace | plainify -}}
+{{- /* Collect step for JSON-LD */ -}}
+{{- .Page.Store.Add "howto-steps" (slice (dict "name" $name "text" $desc)) -}}
+<li class="howto-step flex gap-3" itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+  <span class="howto-step-num flex-shrink-0 w-7 h-7 rounded-full bg-blue-600 text-white text-sm font-bold flex items-center justify-center">{{- .Ordinal | add 1 -}}</span>
+  <div class="flex-1">
+    <h3 class="font-semibold text-gray-900" itemprop="name">{{ $name }}</h3>
+    <div class="text-gray-600 text-sm mt-1" itemprop="text">{{ $desc }}</div>
+  </div>
+</li>

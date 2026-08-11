@@ -2,9 +2,19 @@
 title: "Red domestica pro: cableado, switches, QoS y Wi-Fi 6"
 slug: "red-domestica-ethernet-qos-wifi-6"
 date: 2026-01-01
-description: "Guia de red domestica pro: cableado Ethernet, switches, QoS y Wi-Fi 6/6E. Mejora estabilidad para streaming, trabajo y gaming."
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 draft: false
 image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet mexico 2026"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "totalplay vs telmex vs izzi"
+  - "wifi mesh mexico"
+
 ---
 
 ## Respuesta Rápida
@@ -15,6 +25,26 @@ Una red doméstica pro en México combina **cable Ethernet Cat 6** desde el mód
 - Activa **QoS** en el router para que las videollamadas tengan prioridad sobre descargas y torrents.
 
 Para más detalle, consulta [cómo elegir router Wi-Fi en México](/internet-en-casa/como-elegir-router-wifi-mexico.html).
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
+Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< /faq >}}}
+
+{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
+Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< /faq >}}}
+
+{{< faq "¿Los precios promocionales duran para siempre?" >}}
+No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< /faq >}}}
+
+{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
+Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< /faq >}}}
+
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa/) / Red domestica pro

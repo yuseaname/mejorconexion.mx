@@ -2,9 +2,19 @@
 title: "Internet para home office en México: qué contratar (2026)"
 slug: "internet-para-home-office-mexico"
 date: 2026-01-01
-description: "Qué internet necesitas para home office en México: velocidad mínima para videollamadas, subida, estabilidad y qué proveedores convienen para trabajo remoto."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 draft: false
 image: "/images/generated/home-office-cdmx.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet mexico 2026"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "totalplay vs telmex vs izzi"
+  - "wifi mesh mexico"
+
 ---
 
 ## Respuesta Rápida
@@ -15,6 +25,26 @@ Para home office en México necesitas mínimo **50-100 Mbps de descarga y 20 Mbp
 - Pide al menos **20 Mbps de subida** garantizados y un router con puerto Ethernet directo a tu computadora.
 
 Para más detalle, consulta [fibra vs coaxial en México](/internet-en-casa/fibra-vs-coaxial-mexico.html).
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
+Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< /faq >}}}
+
+{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
+Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< /faq >}}}
+
+{{< faq "¿Los precios promocionales duran para siempre?" >}}
+No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< /faq >}}}
+
+{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
+Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< /faq >}}}
+
 
 ::: container
 ::: breadcrumbs

@@ -1,1 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Herramientas de conectividad y datos on Mejor Conexión</title><link>https://mejorconexion.mx/herramientas.html</link><description>Recent content in Herramientas de conectividad y datos on Mejor Conexión</description><generator>Hugo</generator><language>es-mx</language><lastBuildDate/><atom:link href="https://mejorconexion.mx/herramientas/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Herramientas on Mejor Conexión</title><link>https://mejorconexion.mx/herramientas.html</link><description>Recent content in Herramientas on Mejor Conexión</description><generator>Hugo</generator><language>es-mx</language><lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mejorconexion.mx/herramientas/index.xml" rel="self" type="application/rss+xml"/><item><title>Calculadora de Velocidad de Internet</title><link>https://mejorconexion.mx/herramientas/calculadora-velocidad-internet.html</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/herramientas/calculadora-velocidad-internet.html</guid><description>&lt;p>::: container
+::: breadcrumbs
+&lt;a href="https://mejorconexion.mx/">Inicio&lt;/a> / &lt;a href="https://mejorconexion.mx/herramientas/">Herramientas&lt;/a> / Calculadora de Velocidad
+:::&lt;/p>
+&lt;h1 id="calculadora-de-velocidad-de-internet">Calculadora de Velocidad de Internet&lt;/h1>
+&lt;p>¿No sabes cuántos Mbps necesitas? Usa nuestra calculadora interactiva. Selecciona tus actividades y dispositivos y te diremos qué plan contratar.&lt;/p>
+&lt;div id="speed-calculator" style="max-width:600px;margin:2rem auto;padding:2rem;border-radius:1rem;background:#f0f9ff;border:2px solid #0284c7;">
+&lt;h3 style="text-align:center;margin-bottom:1.5rem;color:#0c4a6e;">Tu uso de internet&lt;/h3>
+&lt;div style="margin-bottom:1rem;">
+&lt;label style="display:block;font-weight:600;margin-bottom:0.5rem;">¿Cuántas personas viven en tu casa?&lt;/label>
+&lt;select id="persons" style="width:100%;padding:0.5rem;border-radius:0.5rem;border:1px solid #ccc;">
+&lt;option value="1">1 persona&lt;/option>
+&lt;option value="2">2 personas&lt;/option>
+&lt;option value="3" selected>3 personas&lt;/option>
+&lt;option value="4">4 personas&lt;/option>
+&lt;option value="5">5 personas&lt;/option>
+&lt;option value="6">6+ personas&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div style="margin-bottom:1rem;">
+&lt;label style="display:block;font-weight:600;margin-bottom:0.5rem;">Streaming de video&lt;/label>
+&lt;select id="streaming" style="width:100%;padding:0.5rem;border-radius:0.5rem;border:1px solid #ccc;">
+&lt;option value="0">No vemos streaming&lt;/option>
+&lt;option value="5">Netflix HD ocasional&lt;/option>
+&lt;option value="10" selected>Netflix HD diario&lt;/option>
+&lt;option value="25">Netflix 4K diario&lt;/option>
+&lt;option value="50">Multiple pantallas 4K&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div style="margin-bottom:1rem;">
+&lt;label style="display:block;font-weight:600;margin-bottom:0.5rem;">Gaming&lt;/label>
+&lt;select id="gaming" style="width:100%;padding:0.5rem;border-radius:0.5rem;border:1px solid #ccc;">
+&lt;option value="0">No jugamos online&lt;/option>
+&lt;option value="5">Gaming casual&lt;/option>
+&lt;option value="10" selected>Gaming regular&lt;/option>
+&lt;option value="25">Gaming competitivo + streaming&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div style="margin-bottom:1rem;">
+&lt;label style="display:block;font-weight:600;margin-bottom:0.5rem;">Videollamadas / Home Office&lt;/label>
+&lt;select id="work" style="width:100%;padding:0.5rem;border-radius:0.5rem;border:1px solid #ccc;">
+&lt;option value="0">No trabajamos desde casa&lt;/option>
+&lt;option value="5">Ocasional (1-2 horas/día)&lt;/option>
+&lt;option value="10" selected>Regular (3-5 horas/día)&lt;/option>
+&lt;option value="20">Full-time (8+ horas/día)&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div style="margin-bottom:1rem;">
+&lt;label style="display:block;font-weight:600;margin-bottom:0.5rem;">Dispositivos IoT / Casa inteligente&lt;/label>
+&lt;select id="iot" style="width:100%;padding:0.5rem;border-radius:0.5rem;border:1px solid #ccc;">
+&lt;option value="0">Ninguno&lt;/option>
+&lt;option value="2">1-3 dispositivos&lt;/option>
+&lt;option value="5" selected>4-10 dispositivos&lt;/option>
+&lt;option value="10">10+ dispositivos&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;p>&lt;button onclick="calculateSpeed()" style="width:100%;padding:1rem;background:#0284c7;color:white;border:none;border-radius:0.5rem;font-size:1.1rem;font-weight:600;cursor:pointer;margin-top:1rem;">Calcular velocidad recomendada&lt;/button>&lt;/p></description></item></channel></rss>

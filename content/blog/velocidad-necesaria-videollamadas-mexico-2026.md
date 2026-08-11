@@ -2,9 +2,19 @@
 title: "Velocidad de internet para videollamadas en México (Zoom, Meet, Teams)"
 slug: "velocidad-necesaria-videollamadas-mexico-2026"
 date: 2026-08-09
-description: "Cuántos Mbps necesitas para videollamadas en México (Zoom, Google Meet, Teams): descarga, subida, latencia y cómo evitar que se congele tu video."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 draft: false
 image: "/images/generated/hero-videollamadas.webp"
+keywords:
+  - "internet lento mexico"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "lag internet"
+  - "internet gaming mexico"
+  - "internet para jugar online"
+
 ---
 
 ## Respuesta Rápida
@@ -15,6 +25,26 @@ image: "/images/generated/hero-videollamadas.webp"
 - **Conecta tu laptop por cable Ethernet al router antes de una llamada importante y cierra otras descargas.**
 
 Para más detalle, consulta [elegir internet para home office](/blog/mejor-internet-home-office-mexico-2026.html).
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
+Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< /faq >}}}
+
+{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
+Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< /faq >}}}
+
+{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
+Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< /faq >}}}
+
+{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
+Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< /faq >}}}
+
 
 ::: container
 ::: breadcrumbs

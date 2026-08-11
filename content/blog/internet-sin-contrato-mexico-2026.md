@@ -2,9 +2,19 @@
 title: "Internet sin Contrato en México 2026: Opciones, Precios y Cómo Elegir"
 slug: "internet-sin-contrato-mexico-2026"
 date: 2026-05-26
-description: "Internet sin contrato en México 2026: opciones reales de prepago, 4G fijo y WISP sin plazo forzoso. Compara precios y velocidad."
+author: "Lic. Patricia Núñez"
+author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en quejas PROFECO, contratos y portabilidad."
+author_slug: "patricia-nunez"
 draft: false
 image: "/images/generated/planes-comparacion-mexico.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet barato mexico"
+  - "cuanto cuesta internet mexico"
+  - "internet mexico 2026"
+  - "totalplay vs telmex vs izzi"
+  - "internet economico"
+
 ---
 
 ## Respuesta Rápida

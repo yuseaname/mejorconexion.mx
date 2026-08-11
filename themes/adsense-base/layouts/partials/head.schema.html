@@ -48,10 +48,13 @@
   {{- $pub := dict
       "@type" "Organization"
       "name" (or .Site.Params.org_name .Site.Title)
+      "url" .Site.BaseURL
   -}}
   {{- with .Site.Params.logo -}}
     {{- $pub = dict "logo" (dict "@type" "ImageObject" "url" .) | merge $pub -}}
   {{- end -}}
+  {{- /* Add sameAs links for E-E-A-T */ -}}
+  {{- $pub = dict "sameAs" (slice "https://mejorconexion.mx/") | merge $pub -}}
   {{- $article = dict "publisher" $pub | merge $article -}}
   {{- with .Date -}}
     {{- $article = dict "datePublished" (.Format "2006-01-02T15:04:05-07:00") | merge $article -}}
@@ -118,6 +121,33 @@
         "mainEntity" $faqItems
     -}}
     {{- $schemas = $schemas | append $faqSchema -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* ── HowTo schema (if howto shortcodes were used on this page) ── */}}
+{{- $howtoTitle := .Store.Get "howto-title" -}}
+{{- $howtoSteps := .Store.Get "howto-steps" -}}
+{{- if and $howtoTitle $howtoSteps -}}
+  {{- if gt (len $howtoSteps) 0 -}}
+    {{- $stepItems := slice -}}
+    {{- range $i, $step := $howtoSteps -}}
+      {{- $stepItems = $stepItems | append (dict
+          "@type" "HowToStep"
+          "position" (add $i 1)
+          "name" $step.name
+          "text" $step.text
+      ) -}}
+    {{- end -}}
+    {{- $howtoSchema := dict
+        "@context" "https://schema.org"
+        "@type" "HowTo"
+        "name" $howtoTitle
+        "step" $stepItems
+    -}}
+    {{- with .Store.Get "howto-desc" -}}
+      {{- $howtoSchema = dict "description" . | merge $howtoSchema -}}
+    {{- end -}}
+    {{- $schemas = $schemas | append $howtoSchema -}}
   {{- end -}}
 {{- end -}}
 

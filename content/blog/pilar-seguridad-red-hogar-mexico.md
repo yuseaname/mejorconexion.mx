@@ -2,9 +2,19 @@
 title: "Seguridad de red en casa en México: guía pilar 2026"
 slug: "pilar-seguridad-red-hogar-mexico"
 date: 2026-01-01
-description: "Guía pilar 2026 para proteger tu red en casa en México: router, Wi‑Fi, IoT, control parental, DNS seguro y auditorías simples."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 draft: false
 image: "/images/topic-router-wifi.webp"
+keywords:
+  - "configurar router mexico"
+  - "proteger wifi casa"
+  - "router wifi mexico"
+  - "control parental router"
+  - "mejorar wifi casa"
+  - "ajustes router internet"
+
 ---
 
 ## Respuesta Rápida
@@ -22,6 +32,26 @@ En muchos hogares el internet funciona, pero la seguridad es un tema borroso. Se
 
 Este pilar organiza una ruta simple para México: primero asegurar el router y el Wi‑Fi, luego separar dispositivos, después configurar filtros y controles por edad. No es para vivir con miedo, sino para tener una red estable y segura sin gastar de más.
 :::
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cómo mejoro la señal del Wi-Fi en mi casa?" >}}
+Mueve el router al centro de la casa a 1.5 metros de altura, separa las redes 2.4 GHz y 5 GHz, y cambia a un canal menos saturado. Si la casa tiene más de 80 m² o muros gruesos, considera un sistema mesh.
+{{< /faq >}}}
+
+{{< faq "¿Vale la pena comprar un router propio en lugar del del proveedor?" >}}
+Sí, especialmente si tienes más de 10 dispositivos o un plan de más de 200 Mbps. Un router Wi-Fi 6 propio ($1,200-$3,500 MXN) ofrece mejor cobertura, más estabilidad y funciones que el router básico del proveedor no tiene.
+{{< /faq >}}}
+
+{{< faq "¿Mesh o repetidor Wi-Fi?" >}}
+Mesh es mejor para casas grandes (>120 m²) o de dos pisos porque crea una sola red sin cortes. Los repetidores son más baratos ($300-$600 MXN) pero crean una red separada y reducen la velocidad a la mitad.
+{{< /faq >}}}
+
+{{< faq "¿Wi-Fi 5 o Wi-Fi 6?" >}}
+Wi-Fi 6 ofrece hasta 40% más rendimiento real con muchos dispositivos conectados. Si tienes más de 10 dispositivos o un plan de 300+ Mbps, el cambio a Wi-Fi 6 vale la pena.
+{{< /faq >}}}
+
 
 ::: {#principios .section}
 ## Principios que sí funcionan

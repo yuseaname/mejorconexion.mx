@@ -2,9 +2,19 @@
 title: "Qué plan de internet necesito en casa según cuántas personas somos (2026)"
 slug: "plan-internet-casa-segun-personas-mexico"
 date: 2026-01-01
-description: "Guía 2026 para elegir tu plan en casa según número de personas, uso simultáneo, streaming, home office y gaming. En español claro y más de 2,000 palabras."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 draft: false
 image: "/images/generated/home-office-cdmx.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet mexico 2026"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "totalplay vs telmex vs izzi"
+  - "wifi mesh mexico"
+
 ---
 <div>
 
@@ -27,6 +37,26 @@ El número de personas en casa cambia todo: cuántos dispositivos se conectan, c
 9.  [Mitos comunes sobre "más megas"](#mitos)
 10. [Preguntas frecuentes](#faq)
 11. [Estado del contenido](#status)
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
+Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< /faq >}}}
+
+{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
+Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< /faq >}}}
+
+{{< faq "¿Los precios promocionales duran para siempre?" >}}
+No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< /faq >}}}
+
+{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
+Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< /faq >}}}
+
 
 ::: {#reparto .section}
 ## Cómo se reparte la velocidad en casa
@@ -325,7 +355,7 @@ La descarga sirve para ver y bajar contenido. La subida es clave para videollama
 
 Puede ser Wi‑Fi, saturación o instalación. Revisa: [por qué el internet es lento a veces](/blog/por-que-el-internet-es-lento-a-veces.html).
 
-### ¿Necesito cambiar de proveedor?
+### ¿Necesito [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html)?
 
 No siempre. Primero revisa tu Wi‑Fi y la instalación.
 

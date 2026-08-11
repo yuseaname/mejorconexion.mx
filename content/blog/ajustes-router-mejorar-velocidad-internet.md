@@ -2,11 +2,21 @@
 title: "Cómo Ajustar Tu Router para Mejorar la Velocidad de Internet (Guía 2026)"
 slug: "ajustes-router-mejorar-velocidad-internet"
 date: 2026-01-01
-description: "Aprende a optimizar tu router y mejorar la velocidad de internet en casa. Configuraciones simples, ubicación ideal y consejos prácticos para México."
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 aliases:
   - "/blog/ajustes-router-mejorar-velocidad-2026.html"
 draft: false
 image: "/images/topic-router-wifi.webp"
+keywords:
+  - "internet lento mexico"
+  - "prepago vs pospago"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "wifi mesh mexico"
+  - "planes moviles mexico"
+
 ---
 
 ## Respuesta Rápida

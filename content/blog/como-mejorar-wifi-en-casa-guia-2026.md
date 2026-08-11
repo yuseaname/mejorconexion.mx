@@ -2,7 +2,9 @@
 title: "Cómo Mejorar la Señal Wi-Fi en Casa: Guía Completa 2026"
 slug: "como-mejorar-wifi-en-casa-guia-2026"
 date: 2026-01-01
-description: "Señal Wi-Fi débil en casa: guía práctica para mejorar cobertura. Router, mesh, extensores, canales y posiciones que funcionan en 2026."
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 keywords:
   - "mejorar señal wifi"
   - "wifi debil soluciones"
@@ -161,3 +163,23 @@ Entra a la configuración de tu router y verifica si hay una actualización disp
 ## Conclusión
 
 No necesitas pagar más por internet si el problema es tu Wi-Fi. Empieza con las soluciones gratuitas (reposicionar el router, cambiar de canal, usar cable). Si eso no es suficiente, un sistema mesh de $3,000-$5,000 MXN transformará tu experiencia en casa — vale más que pagar $200 extra al mes por un plan de internet más rápido que nunca aprovecharás por culpa de una mala señal inalámbrica.
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
+Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< /faq >}}}
+
+{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
+Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< /faq >}}}
+
+{{< faq "¿Los precios promocionales duran para siempre?" >}}
+No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< /faq >}}}
+
+{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
+Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< /faq >}}}
+

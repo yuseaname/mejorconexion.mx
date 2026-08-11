@@ -2,9 +2,19 @@
 title: "Red de invitados e IoT seguro en casa en Mexico"
 slug: "red-invitados-iot-segura-mexico"
 date: 2026-01-01
-description: "Guia completa para separar WiFi principal, red de invitados y dispositivos inteligentes (IoT) en casa. Pasos claros, riesgos reales y checklist."
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 draft: false
 image: "/images/generated/mejorconexion-mx-blog-index-html-hero-4ae7da93.webp"
+keywords:
+  - "internet barato mexico"
+  - "cuanto cuesta internet mexico"
+  - "internet mexico 2026"
+  - "router wifi mexico"
+  - "totalplay vs telmex vs izzi"
+  - "internet economico"
+
 ---
 
 ## Respuesta Rápida
@@ -15,6 +25,26 @@ image: "/images/generated/mejorconexion-mx-blog-index-html-hero-4ae7da93.webp"
 - **Crea hoy la red 'IoT' en tu router, mueve las cámaras y TVs inteligentes ahí, y bloquea su acceso a la red principal.**
 
 Para más detalle, consulta [guía completa de seguridad](/blog/pilar-seguridad-red-hogar-mexico.html).
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
+Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< /faq >}}}
+
+{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
+Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< /faq >}}}
+
+{{< faq "¿Los precios promocionales duran para siempre?" >}}
+No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< /faq >}}}
+
+{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
+Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< /faq >}}}
+
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog/) / Red de invitados e IoT seguro

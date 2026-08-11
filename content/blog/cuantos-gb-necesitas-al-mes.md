@@ -2,9 +2,19 @@
 title: "Cuántos GB necesitas al mes en México (2026)"
 slug: "cuantos-gb-necesitas-al-mes"
 date: 2026-01-01
-description: "Guía 2026 para estimar cuántos GB necesitas al mes en México: perfiles de uso, tablas reales, hábitos y cómo elegir plan sin pagar de más."
+author: "Mtro. Daniel Cruz"
+author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."
+author_slug: "daniel-cruz"
 draft: false
 image: "/images/generated/hero-telcel-att-movistar.webp"
+keywords:
+  - "internet barato mexico"
+  - "cuanto cuesta internet mexico"
+  - "prepago vs pospago"
+  - "lag internet"
+  - "internet para jugar online"
+  - "internet economico"
+
 ---
 
 ## Respuesta Rápida
@@ -23,6 +33,26 @@ No necesitas "muchos GB" por marketing. Necesitas los GB que correspondan a tu u
 
 La mejor estrategia es medir tu consumo real, entender qué apps gastan más y elegir un plan con margen razonable.
 :::
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuál es el internet más barato en México?" >}}
+El internet más barato arranca desde $199-$299/mes para 30-50 Mbps con CFE Telecomunicaciones (rural), Totalplay promo o Megacable. En zonas urbanas, lo más accesible es Megacable 80 Mbps ($299) o Izzi 100 Mbps ($349).
+{{< /faq >}}}
+
+{{< faq "¿Cómo evito que suba el precio de mi internet?" >}}
+Exige precio fijo por escrito antes de firmar. Las promociones de bienvenida suben 30-50% después de 6-12 meses. Negocia con tu proveedor: amenaza con cambiar y pide retención, muchas veces ofrecen descuentos.
+{{< /faq >}}}
+
+{{< faq "¿Conviene contratar internet por 12 o 24 meses?" >}}
+Depende. Los contratos largos suelen tener mejor precio mensual pero te atan. Si planeas mudarte o el proveedor tiene mala cobertura en tu zona, prefiere planes sin contrato o de 12 meses máximo.
+{{< /faq >}}}
+
+{{< faq "¿Qué cargos extra debo revisar en mi recibo de internet?" >}}
+Revisa: renta de equipo (modem/router), instalación, servicios no solicitados (telefonía, TV), cargos por pago tardío y IVA. Si ves cargos que no reconoces, el proveedor está obligado a eliminarlos.
+{{< /faq >}}}
+
 
 ::: {#perfiles .section}
 ## Perfiles de consumo

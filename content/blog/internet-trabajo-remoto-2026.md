@@ -2,7 +2,9 @@
 title: "Internet para Trabajo Remoto en México: Lo Que Realmente Necesitas en 2026"
 slug: "internet-trabajo-remoto-2026"
 date: 2026-01-01
-description: "Trabajas desde casa y el internet te falla en videollamadas. Aquí tienes la guía completa: velocidad, proveedores, configuración y backup."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 keywords:
   - "internet trabajo remoto"
   - "velocidad videollamadas"
@@ -277,7 +279,7 @@ Haz esta prueba:
 La velocidad de subida está limitada por tu plan. Opciones:
 
 1. **Cambiar de plan** a uno con más subida
-2. **Cambiar de proveedor** (algunos ofrecen más subida)
+2. **[Cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html)** (algunos ofrecen más subida)
 3. **Plan empresarial** (generalmente mejor subida)
 4. **Fibra dedicada** (si disponible en tu zona)
 

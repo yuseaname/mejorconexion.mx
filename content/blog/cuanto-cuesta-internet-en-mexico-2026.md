@@ -1,7 +1,9 @@
 ---
 title: "¿Cuánto Cuesta Internet en México en 2026? Precios Reales por ISP"
 date: 2026-03-15
-visual_audit: passed
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 visual_audit_date: 2026-03-16
 draft: false
 slug: "cuanto-cuesta-internet-en-mexico-2026"
@@ -9,6 +11,14 @@ description: "Precios actualizados de internet en México en 2026. Comparamos lo
 image: "/images/cuanto-cuesta-internet-en-mexico-2026/cuanto-cuesta-internet-en-mexico-2026-hero.jpg"
 tags: ["precios", "telmex", "totalplay", "megacable", "izzi", "comparativa"]
 categories: ["precios"]
+keywords:
+  - "internet lento mexico"
+  - "internet barato mexico"
+  - "cuanto cuesta internet mexico"
+  - "internet mexico 2026"
+  - "totalplay vs telmex vs izzi"
+  - "internet economico"
+
 ---
 
 ## Respuesta Rápida

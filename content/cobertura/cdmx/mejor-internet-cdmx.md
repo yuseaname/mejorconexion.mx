@@ -2,9 +2,19 @@
 title: "Mejor internet en CDMX: cómo elegir por zona (2026)"
 slug: "mejor-internet-cdmx"
 date: 2026-01-01
-description: "Mejor internet en CDMX 2026: proveedores disponibles por alcaldía, fibra vs cable, precios y cobertura. Guía sin humo para elegir."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 draft: false
 image: "/images/generated/mejorconexion-mx-cobertura-cdmx-mejor-internet-cdmx-index-html-hero-378e2b52.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet barato mexico"
+  - "cuanto cuesta internet mexico"
+  - "internet mexico 2026"
+  - "totalplay vs telmex vs izzi"
+  - "internet economico"
+
 ---
 
 ## Respuesta Rápida
@@ -16,6 +26,26 @@ image: "/images/generated/mejorconexion-mx-cobertura-cdmx-mejor-internet-cdmx-in
 - **Prueba en horario pico (7pm–11pm)**: ahí verás la saturación real; si falla, cambiar de plan no lo resuelve
 
 Para entender qué significan los Mbps que anuncia cada plan, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Si quieres comparar las opciones reales de proveedores, revisa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/). Y para entender la latencia que afecta tus videollamadas y gaming, consulta [qué es el ping](/blog/que-es-el-ping.html).
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
+Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< /faq >}}}
+
+{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
+Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< /faq >}}}
+
+{{< faq "¿Los precios promocionales duran para siempre?" >}}
+No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< /faq >}}}
+
+{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
+Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< /faq >}}}
+
 
 ::: {#panorama .section}
 ## Panorama local en CDMX
@@ -179,7 +209,7 @@ Si todo es estable, la cobertura es buena. Si falla alguna, investiga antes de c
 ::: {#escenarios .section}
 ## Escenarios por uso
 
-Tu uso ideal define qué buscar. No necesitas el plan más caro --- necesitas el que coincida con lo que haces. Si tu prioridad es entender cuántos Mbps necesitas según tu caso, consulta [cuántos Mbps necesito](/guias/cuantos-mbps-necesito/).
+Tu uso ideal define qué buscar. No necesitas el plan más caro --- necesitas el que coincida con lo que haces. Si tu prioridad es entender [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html) según tu caso, consulta [cuántos Mbps necesito](/guias/cuantos-mbps-necesito/).
 
 ::: scenario-grid
 ::: scenario-card
@@ -322,7 +352,7 @@ Invierte en router o sistema mesh. En departamentos grandes, un mesh mejora más
 ::: {#diagnostico-actual .section}
 ## Si ya contrataste y algo falla
 
-Antes de cambiar de proveedor, haz este diagnóstico rápido:
+Antes de [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html), haz este diagnóstico rápido:
 
 1.  [→]{.arrow} **Prueba por cable directo** al router (elimina Wi‑Fi como variable)
 2.  [→]{.arrow} **Compara horario pico vs valle** (si la diferencia es enorme, es saturación)

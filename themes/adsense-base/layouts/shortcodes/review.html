@@ -1,0 +1,53 @@
+{{- /* review.html — Review schema shortcode for product/provider comparisons */ -}}
+{{- /* Usage: */}}
+{{- /* {{< review name="Totalplay Fibra 300" rating="4.6" pros="Rápido;Estable;Buen precio" cons="Cobertura limitada;Soporte lento" >}}Resumen del review{{< /review >}} */}}
+{{- $name := .Get "name" -}}
+{{- $rating := .Get "rating" | default "4.0" -}}
+{{- $pros := .Get "pros" | default "" -}}
+{{- $cons := .Get "cons" | default "" -}}
+{{- $summary := .Inner | strings.TrimSpace -}}
+{{- $prosList := split $pros ";" -}}
+{{- $consList := split $cons ";" -}}
+
+<div class="review-card my-6 p-6 rounded-xl border-2 border-blue-200 bg-white shadow-sm" itemscope itemtype="https://schema.org/Review">
+  <div class="flex items-center justify-between mb-4">
+    <h2 class="text-xl font-bold text-gray-900" itemprop="itemReviewed" itemscope itemtype="https://schema.org/Product">
+      <span itemprop="name">{{ $name }}</span>
+    </h2>
+    <div class="review-rating flex items-center gap-2" itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+      <span class="text-2xl font-bold text-blue-600" itemprop="ratingValue">{{ $rating }}</span>
+      <meta itemprop="bestRating" content="5">
+      <meta itemprop="worstRating" content="1">
+      <span class="text-sm text-gray-500">/5</span>
+    </div>
+  </div>
+
+  {{- if $prosList -}}
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+    <div class="pros-list">
+      <h3 class="font-semibold text-green-700 mb-2">✓ Pros</h3>
+      <ul class="space-y-1">
+      {{- range $prosList -}}
+        {{- if ne (len .) 0 -}}
+        <li class="text-sm text-gray-700 flex items-start gap-2"><span class="text-green-500">+</span> {{ . }}</li>
+        {{- end -}}
+      {{- end -}}
+      </ul>
+    </div>
+    {{- if $consList -}}
+    <div class="cons-list">
+      <h3 class="font-semibold text-red-700 mb-2">✗ Contras</h3>
+      <ul class="space-y-1">
+      {{- range $consList -}}
+        {{- if ne (len .) 0 -}}
+        <li class="text-sm text-gray-700 flex items-start gap-2"><span class="text-red-500">−</span> {{ . }}</li>
+        {{- end -}}
+      {{- end -}}
+      </ul>
+    </div>
+    {{- end -}}
+  </div>
+  {{- end -}}
+
+  <div class="review-summary text-gray-700" itemprop="reviewBody">{{ $summary | markdownify }}</div>
+</div>

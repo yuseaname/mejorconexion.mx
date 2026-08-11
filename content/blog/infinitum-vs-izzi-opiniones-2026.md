@@ -2,9 +2,19 @@
 title: "Infinitum vs izzi 2026: Opiniones Reales, Precios y Cuál Elegir"
 slug: "infinitum-vs-izzi-opiniones-2026"
 date: 2026-05-26
-description: "Infinitum vs Izzi 2026: opiniones reales, cobertura, velocidad, precios y atención al cliente. Cuál conviene según tu zona."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 draft: false
 image: "/images/topic-provider-comparison.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet mexico 2026"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "totalplay vs telmex vs izzi"
+  - "wifi mesh mexico"
+
 ---
 
 ## Respuesta Rápida

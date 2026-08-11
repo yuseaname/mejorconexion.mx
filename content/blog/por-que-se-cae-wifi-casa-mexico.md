@@ -2,9 +2,19 @@
 title: "Por qué se cae el WiFi en casa y cómo arreglarlo (2026)"
 slug: "por-que-se-cae-wifi-casa-mexico"
 date: 2026-08-09
-description: "Tu WiFi se cae sin razón: diagnóstico de las 5 causas más comunes en México y cómo arreglar cada una — del router mal ubicado al proveedor saturado."
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 draft: false
 image: "/images/generated/hero-wifi-se-cae.webp"
+keywords:
+  - "configurar router mexico"
+  - "prepago vs pospago"
+  - "router wifi mexico"
+  - "planes moviles mexico"
+  - "datos moviles"
+  - "mejor plan celular mexico"
+
 ---
 
 ## Respuesta Rápida
@@ -15,6 +25,26 @@ image: "/images/generated/hero-wifi-se-cae.webp"
 - **Mueve el router al centro de la casa, a 1.5 m de altura, lejos de microondas y paredes gruesas; reinicia cada 30 días.**
 
 Para más detalle, consulta [decidir entre repetidor y mesh](/blog/wifi-mesh-para-casas-grandes-mexico.html).
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cómo mejoro la señal del Wi-Fi en mi casa?" >}}
+Mueve el router al centro de la casa a 1.5 metros de altura, separa las redes 2.4 GHz y 5 GHz, y cambia a un canal menos saturado. Si la casa tiene más de 80 m² o muros gruesos, considera un sistema mesh.
+{{< /faq >}}}
+
+{{< faq "¿Vale la pena comprar un router propio en lugar del del proveedor?" >}}
+Sí, especialmente si tienes más de 10 dispositivos o un plan de más de 200 Mbps. Un router Wi-Fi 6 propio ($1,200-$3,500 MXN) ofrece mejor cobertura, más estabilidad y funciones que el router básico del proveedor no tiene.
+{{< /faq >}}}
+
+{{< faq "¿Mesh o repetidor Wi-Fi?" >}}
+Mesh es mejor para casas grandes (>120 m²) o de dos pisos porque crea una sola red sin cortes. Los repetidores son más baratos ($300-$600 MXN) pero crean una red separada y reducen la velocidad a la mitad.
+{{< /faq >}}}
+
+{{< faq "¿Wi-Fi 5 o Wi-Fi 6?" >}}
+Wi-Fi 6 ofrece hasta 40% más rendimiento real con muchos dispositivos conectados. Si tienes más de 10 dispositivos o un plan de 300+ Mbps, el cambio a Wi-Fi 6 vale la pena.
+{{< /faq >}}}
+
 
 ::: container
 ::: breadcrumbs

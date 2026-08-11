@@ -2,9 +2,19 @@
 title: "Portabilidad numérica en México: cómo cambiar sin perder tu número"
 slug: "portabilidad-numeraria-mexico-2026"
 date: 2026-08-09
-description: "Cómo hacer portabilidad numérica en México: cambiar de Telcel a AT&T o Movistar sin perder tu número. Requisitos, tiempos, costos y errores comunes."
+author: "Lic. Patricia Núñez"
+author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en quejas PROFECO, contratos y portabilidad."
+author_slug: "patricia-nunez"
 draft: false
 image: "/images/generated/hero-telcel-att-movistar.webp"
+keywords:
+  - "configurar router mexico"
+  - "internet barato mexico"
+  - "cuanto cuesta internet mexico"
+  - "prepago vs pospago"
+  - "internet economico"
+  - "planes moviles mexico"
+
 ---
 
 ## Respuesta Rápida
@@ -15,6 +25,26 @@ image: "/images/generated/hero-telcel-att-movistar.webp"
 - **Acude al nuevo operador con INE, último recibo y tu celular; pide el NIP de portabilidad y espera confirmación por SMS.**
 
 Para más detalle, consulta [elegir nuevo plan móvil](/planes-moviles/mejores-planes-mexico.html).
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuál es el internet más barato en México?" >}}
+El internet más barato arranca desde $199-$299/mes para 30-50 Mbps con CFE Telecomunicaciones (rural), Totalplay promo o Megacable. En zonas urbanas, lo más accesible es Megacable 80 Mbps ($299) o Izzi 100 Mbps ($349).
+{{< /faq >}}}
+
+{{< faq "¿Cómo evito que suba el precio de mi internet?" >}}
+Exige precio fijo por escrito antes de firmar. Las promociones de bienvenida suben 30-50% después de 6-12 meses. Negocia con tu proveedor: amenaza con cambiar y pide retención, muchas veces ofrecen descuentos.
+{{< /faq >}}}
+
+{{< faq "¿Conviene contratar internet por 12 o 24 meses?" >}}
+Depende. Los contratos largos suelen tener mejor precio mensual pero te atan. Si planeas mudarte o el proveedor tiene mala cobertura en tu zona, prefiere planes sin contrato o de 12 meses máximo.
+{{< /faq >}}}
+
+{{< faq "¿Qué cargos extra debo revisar en mi recibo de internet?" >}}
+Revisa: renta de equipo (modem/router), instalación, servicios no solicitados (telefonía, TV), cargos por pago tardío y IVA. Si ves cargos que no reconoces, el proveedor está obligado a eliminarlos.
+{{< /faq >}}}
+
 
 ::: container
 ::: breadcrumbs

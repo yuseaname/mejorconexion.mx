@@ -2,9 +2,19 @@
 title: "Cómo elegir router Wi-Fi para tu casa (México, 2026)"
 slug: "como-elegir-router-wifi-mexico"
 date: 2026-01-01
-description: "Guía para elegir router Wi-Fi en México: cuándo cambiar el del proveedor, qué buscar (WiFi 6, bandas, puertos), presupuesto y si conviene mesh. Precios en MXN."
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 draft: false
 image: "/images/topic-provider-comparison.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet barato mexico"
+  - "cuanto cuesta internet mexico"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "wifi mesh mexico"
+
 ---
 
 ## Respuesta Rápida
@@ -14,7 +24,27 @@ Elige un router Wi-Fi con **WiFi 6** (AX), doble banda simultánea y al menos **
 - Solo cambia el router si tienes más de 10 dispositivos o tu casa pasa de 80 m²; si no, basta con optimizar bandas.
 - Verifica que el router soporte los **1,000 Mbps** que entrega la fibra de Totalplay o Telmex.
 
-Para más detalle, consulta [cómo mejorar tu Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
+Para más detalle, consulta [cómo [mejorar tu Wi-Fi](/blog/como-mejorar-wifi-en-casa-guia-2026.html) en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
+Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< /faq >}}}
+
+{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
+Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< /faq >}}}
+
+{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
+Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< /faq >}}}
+
+{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
+Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< /faq >}}}
+
 
 ::: container
 ::: breadcrumbs

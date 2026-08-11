@@ -2,7 +2,9 @@
 title: "Izzi vs Totalplay vs Telmex vs Megacable: Comparativa 2026 (Con Datos Reales)"
 slug: "izzi-vs-totalplay-telmex-megacable-2026"
 date: 2026-01-01
-updated: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Comparamos los 4 proveedores de internet más grandes de México: velocidad real, precios, atención al cliente y cuál te conviene según tu situación."
 keywords:
   - "Izzi vs Totalplay"
@@ -281,7 +283,7 @@ Analizamos más de 10,000 pruebas de velocidad de usuarios mexicanos (enero-febr
 
 ---
 
-### ¿Puedo cambiar de proveedor si tengo contrato?
+### ¿Puedo [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html) si tengo contrato?
 
 Sí, pero revisa:
 - Penalización por cancelación anticipada

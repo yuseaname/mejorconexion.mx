@@ -2,9 +2,19 @@
 title: "Qué son los datos móviles (4G/5G) y cómo se consumen"
 slug: "que-son-los-datos-moviles"
 date: 2026-01-01
-description: "Guía 2026 en México: qué son los datos móviles, cómo funcionan 4G/5G, qué consume más, cómo medirlos y cómo ahorrar sin quedarte sin internet."
+author: "Mtro. Daniel Cruz"
+author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."
+author_slug: "daniel-cruz"
 draft: false
 image: "/images/generated/hero-telcel-att-movistar.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet mexico 2026"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "totalplay vs telmex vs izzi"
+  - "wifi mesh mexico"
+
 ---
 
 ## Respuesta Rápida
@@ -18,6 +28,26 @@ image: "/images/generated/hero-telcel-att-movistar.webp"
 - **Para ahorrar datos:** usa Wi-Fi cuando puedas, descarga contenido offline, desactiva auto-play de video
 
 Para entender la diferencia entre Mbps y GB, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Si necesitas calcular cuántos GB necesitas al mes, revisa [cuántos GB necesitas](/blog/cuantos-gb-necesitas-al-mes/).
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
+Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< /faq >}}}
+
+{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
+Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< /faq >}}}
+
+{{< faq "¿Los precios promocionales duran para siempre?" >}}
+No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< /faq >}}}
+
+{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
+Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< /faq >}}}
+
+
 ::: {#definicion .section}
 ## Qué son los datos móviles
 

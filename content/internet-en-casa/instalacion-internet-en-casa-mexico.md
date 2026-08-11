@@ -2,9 +2,19 @@
 title: "Instalación de internet en casa en México: qué esperar (2026)"
 slug: "instalacion-internet-en-casa-mexico"
 date: 2026-01-01
-description: "Qué pasa en una instalación de internet en México (fibra, coaxial o inalámbrico): tiempos, cableado, pruebas, qué revisar antes de firmar y checklist final."
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 draft: false
 image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet mexico 2026"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "totalplay vs telmex vs izzi"
+  - "wifi mesh mexico"
+
 ---
 
 ## Respuesta Rápida
@@ -14,7 +24,27 @@ Una instalación estándar de internet en casa en México tarda entre **2 y 4 ho
 - La instalación suele ser **gratis** con planes desde $399 MXN/mes; algunos proveedores cobran $500-$1,500 MXN en promociones.
 - Antes de que se vaya, pide una **prueba de velocidad por cable** y por Wi-Fi desde tu recámara principal.
 
-Para más detalle, consulta [cómo cambiar de proveedor de internet](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
+Para más detalle, consulta [cómo [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html) de internet](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
+Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< /faq >}}}
+
+{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
+Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< /faq >}}}
+
+{{< faq "¿Los precios promocionales duran para siempre?" >}}
+No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< /faq >}}}
+
+{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
+Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< /faq >}}}
+
 
 ::: container
 ::: breadcrumbs

@@ -2,9 +2,19 @@
 title: "Internet barato en México: cómo ahorrar sin comprar un problema"
 slug: "internet-barato-mexico"
 date: 2026-01-01
-description: "Cómo encontrar internet barato en México sin caer en trampas: qué revisar (horario pico, contrato, instalación, Wi-Fi), cuándo conviene sin contrato y opciones reales."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 draft: false
 image: "/images/topic-router-wifi.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet barato mexico"
+  - "cuanto cuesta internet mexico"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "wifi mesh mexico"
+
 ---
 
 ## Respuesta Rápida
@@ -15,6 +25,26 @@ El internet más barato y confiable en México está en **$249-$399 MXN/mes**: l
 - Para presupuesto mínimo, busca un plan **sin contrato** de prepago de $200-$350 MXN/mes con tu operador celular.
 
 Para más detalle, consulta [internet sin contrato en México](/internet-en-casa/internet-sin-contrato-mexico.html).
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
+Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< /faq >}}}
+
+{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
+Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< /faq >}}}
+
+{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
+Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< /faq >}}}
+
+{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
+Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< /faq >}}}
+
 
 ::: container
 ::: breadcrumbs
@@ -126,7 +156,7 @@ Sí. Si ya eres cliente y amenazas con irte (de verdad, no solo de boca), muchos
 ## Sigue aprendiendo
 
 - Para comparar proveedores, checa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-- Para saber cuántos Mbps necesitas, lee [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
+- Para saber [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html), lee [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Si quieres opciones sin amarrarte, revisa [internet sin contrato](/internet-en-casa/internet-sin-contrato-mexico.html).
 :::
 

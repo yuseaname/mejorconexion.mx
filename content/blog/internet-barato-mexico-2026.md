@@ -2,7 +2,9 @@
 title: "¿Cuál es el Internet Más Barato en México? Guía Completa (Marzo 2026)"
 slug: "internet-barato-mexico-2026"
 date: 2026-01-01
-description: "¿Buscas internet barato en México? Comparamos Telmex, Megacable, Izzi y CFE. Descubre cuánto cuesta realmente y cómo pagar menos. Guía Marzo 2026."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 keywords:
   - "internet barato mexico"
   - "internet 300 pesos"

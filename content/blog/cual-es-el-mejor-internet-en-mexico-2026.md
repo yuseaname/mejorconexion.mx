@@ -1,13 +1,23 @@
 ---
-title: "Cuál es el Mejor Internet en México 2026: Ranking de Proveedores"
+title: "Cuál es el Mejor Internet en México 2026: [Ranking de Proveedores](/blog/cual-es-el-mejor-internet-en-mexico-2026.html)"
 slug: "cual-es-el-mejor-internet-en-mexico-2026"
 date: 2026-05-26
-description: "Ranking de proveedores de internet en México 2026: Totalplay, Telmex, Izzi y Megacable comparados por velocidad, estabilidad, precio y cobertura."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 aliases:
   - "/blog/mejor-internet-2026.html"
   - "/internet-en-casa/comparativa-de-proveedores-de-internet-en-mexico-2026.html"
 draft: false
 image: "/images/topic-provider-comparison.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet barato mexico"
+  - "cuanto cuesta internet mexico"
+  - "internet mexico 2026"
+  - "totalplay vs telmex vs izzi"
+  - "internet economico"
+
 ---
 
 ## Respuesta Rápida

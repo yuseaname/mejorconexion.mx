@@ -2,10 +2,20 @@
 title: "Mejor Internet para Casa 2026: Guía Completa de Proveedores y Precios en México"
 slug: "mejor-internet-para-casa-2026"
 date: 2026-05-26
-updated: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Mejor internet para casa en México 2026: guía por proveedor, tecnología, velocidad y presupuesto real. Compara fibra vs cable."
 draft: true
 image: "/images/topic-provider-comparison.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet barato mexico"
+  - "cuanto cuesta internet mexico"
+  - "internet mexico 2026"
+  - "totalplay vs telmex vs izzi"
+  - "internet economico"
+
 ---
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog/)

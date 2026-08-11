@@ -2,6 +2,9 @@
 title: "¿Cuánta Velocidad de Internet Necesitas en 2026? (Guía por Uso Real)"
 slug: "cuanta-velocidad-internet-necesitas-2026"
 date: 2026-01-01
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Calcula exactamente cuántos megas necesitas según tu uso real. Streaming, gaming, home office, familia completa — todo explicado con números claros."
 keywords:
   - "cuánta velocidad internet necesito"

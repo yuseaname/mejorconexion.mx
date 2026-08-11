@@ -2,9 +2,19 @@
 title: "Planes de internet con teléfono incluido: ¿Vale la pena el paquete?"
 slug: "internet-con-teléfono-incluido"
 date: 2026-05-30
-description: "Descubre si un plan de internet con teléfono fijo incluido vale la pena para tu hogar en México. Compara costos, ventajas y alternativas actuales."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 draft: false
 image: "/images/generated/planes-comparacion-mexico.webp"
+keywords:
+  - "internet lento mexico"
+  - "internet barato mexico"
+  - "cuanto cuesta internet mexico"
+  - "internet mexico 2026"
+  - "totalplay vs telmex vs izzi"
+  - "internet economico"
+
 ---
 
 ## Respuesta Rápida
@@ -86,7 +96,7 @@ Si tu familia solo utiliza WhatsApp, Telegram y llamadas de celular, el costo ex
 
 ### 2. Falta de flexibilidad y contratos de permanencia {#2-falta-de-flexibilidad-y-contratos-de-permanencia}
 
-Muchos paquetes atractivos vienen ligados a contratos de 12 o 18 meses. Si decides cambiar de proveedor porque encontraste una mejor oferta de internet puro, podrías enfrentar penalizaciones por cancelar el servicio de telefonía asociado.
+Muchos paquetes atractivos vienen ligados a contratos de 12 o 18 meses. Si decides [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html) porque encontraste una mejor oferta de internet puro, podrías enfrentar penalizaciones por cancelar el servicio de telefonía asociado.
 
 ### 3. El riesgo de la tecnología obsoleta {#3-el-riesgo-de-la-tecnologia-obsoleta}
 

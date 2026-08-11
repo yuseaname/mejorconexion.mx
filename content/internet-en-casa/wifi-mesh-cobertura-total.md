@@ -2,9 +2,19 @@
 title: "Wi-Fi Mesh en casa: cobertura total sin zonas muertas"
 slug: "wifi-mesh-cobertura-total"
 date: 2026-01-01
-description: "Guia completa de Wi-Fi Mesh en casa: como elegir nodos, backhaul, ubicacion, Wi-Fi 6/6E y pruebas reales. Evita zonas muertas y mejora estabilidad."
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 draft: false
 image: "/images/generated/mejorconexion-mx-guias-index-html-hero-fdd3f4cb.webp"
+keywords:
+  - "internet lento mexico"
+  - "proteger wifi casa"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "wifi mesh mexico"
+  - "control parental router"
+
 ---
 
 ## Respuesta Rápida
@@ -15,6 +25,26 @@ Un sistema Wi-Fi mesh (2-3 nodos) elimina zonas muertas en casas de **80-200 m²
 - Elige mesh **WiFi 6** si tu plan de fibra pasa de 300 Mbps; con WiFi 5 la velocidad se reduce a la mitad entre nodos.
 
 Para más detalle, consulta [WiFi mesh en México: ¿vale la pena?](/internet-en-casa/wifi-mesh-mexico-vale-pena-2026.html).
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
+Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< /faq >}}}
+
+{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
+Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< /faq >}}}
+
+{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
+Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< /faq >}}}
+
+{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
+Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< /faq >}}}
+
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa/) / Wi-Fi Mesh

@@ -2,9 +2,19 @@
 title: "Auditoría de red doméstica: detectar intrusos en México"
 slug: "auditoria-red-domestica-detectar-intrusos-mexico"
 date: 2026-01-01
-description: "Guía 2026 para auditar tu red doméstica en México: detectar intrusos, revisar dispositivos, asegurar router y aplicar un checklist mensual."
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 draft: false
 image: "/images/generated/mejorconexion-mx-herramientas-index-html-hero-e9cc5d3d.webp"
+keywords:
+  - "prepago vs pospago"
+  - "proteger wifi casa"
+  - "router wifi mexico"
+  - "planes moviles mexico"
+  - "control parental router"
+  - "datos moviles"
+
 ---
 
 ## Respuesta Rápida
@@ -23,6 +33,26 @@ Es una revisión rápida para saber quién está conectado a tu Wi‑Fi, si tu r
 
 No necesitas software raro ni ser experto. La mayoría de acciones se hacen desde la app del router o desde su panel web.
 :::
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cómo mejoro la señal del Wi-Fi en mi casa?" >}}
+Mueve el router al centro de la casa a 1.5 metros de altura, separa las redes 2.4 GHz y 5 GHz, y cambia a un canal menos saturado. Si la casa tiene más de 80 m² o muros gruesos, considera un sistema mesh.
+{{< /faq >}}}
+
+{{< faq "¿Vale la pena comprar un router propio en lugar del del proveedor?" >}}
+Sí, especialmente si tienes más de 10 dispositivos o un plan de más de 200 Mbps. Un router Wi-Fi 6 propio ($1,200-$3,500 MXN) ofrece mejor cobertura, más estabilidad y funciones que el router básico del proveedor no tiene.
+{{< /faq >}}}
+
+{{< faq "¿Mesh o repetidor Wi-Fi?" >}}
+Mesh es mejor para casas grandes (>120 m²) o de dos pisos porque crea una sola red sin cortes. Los repetidores son más baratos ($300-$600 MXN) pero crean una red separada y reducen la velocidad a la mitad.
+{{< /faq >}}}
+
+{{< faq "¿Wi-Fi 5 o Wi-Fi 6?" >}}
+Wi-Fi 6 ofrece hasta 40% más rendimiento real con muchos dispositivos conectados. Si tienes más de 10 dispositivos o un plan de 300+ Mbps, el cambio a Wi-Fi 6 vale la pena.
+{{< /faq >}}}
+
 
 ::: {#senales .section}
 ## Señales de que algo anda raro

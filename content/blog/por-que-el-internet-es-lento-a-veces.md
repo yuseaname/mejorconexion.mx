@@ -2,9 +2,19 @@
 title: "Por qué el internet es lento a veces: causas y soluciones reales (2026)"
 slug: "por-que-el-internet-es-lento-a-veces"
 date: 2026-01-01
-description: "Guía 2026 en español mexicano: por qué el internet se pone lento, cómo diagnosticar la causa real, qué arreglar en Wi‑Fi, router, horarios pico y cuándo cambiar de plan o proveedor."
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 draft: false
 image: "/images/topic-provider-comparison.webp"
+keywords:
+  - "internet lento mexico"
+  - "configurar router mexico"
+  - "repetidor wifi"
+  - "router wifi mexico"
+  - "wifi mesh mexico"
+  - "cuantos mbps necesito"
+
 ---
 <div>
 
@@ -37,6 +47,26 @@ Por eso dos personas con el mismo proveedor pueden tener resultados distintos. L
 
 Si necesitas entender la base de velocidad, revisa: [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
 :::
+
+
+## Preguntas Frecuentes
+
+{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
+Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< /faq >}}}
+
+{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
+Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< /faq >}}}
+
+{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
+Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< /faq >}}}
+
+{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
+Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< /faq >}}}
+
 
 ::: {#causas .section}
 ## Causas más comunes de lentitud
@@ -96,7 +126,7 @@ Si no estás seguro, revisa: [plan según personas](/planes-internet/plan-intern
 3.  Repite en horario pico.
 4.  Apaga y enciende el router para descartar saturación temporal.
 
-Guía completa: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet/).
+Guía completa: [cómo [medir tu velocidad](/guias/como-medir-velocidad-real-internet.html) real](/guias/como-medir-velocidad-real-internet/).
 :::
 
 ::: {#soluciones .section}

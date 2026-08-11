@@ -2,7 +2,9 @@
 title: "Mejor eSIM para Viajeros Mexicanos: Guía Completa 2026"
 slug: "mejor-esim-para-viajeros-mexicanos-2026"
 date: 2026-01-01
-description: "Descubre la mejor eSIM para viajar desde México en 2026. Comparamos Holafly, Airalo, Nomad y Maya Mobile en precio, cobertura y datos."
+author: "Mtro. Daniel Cruz"
+author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."
+author_slug: "daniel-cruz"
 keywords:
   - "mejor eSIM para viajeros mexicanos"
   - "eSIM viajar México"
