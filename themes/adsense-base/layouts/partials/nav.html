@@ -2,9 +2,9 @@
   <div class="max-w-7xl mx-auto px-4 sm:px-6">
     <div class="flex items-center justify-between h-14">
       <!-- Logo -->
-      <a href="{{ .Site.BaseURL | relURL }}" class="flex items-center gap-2 text-lg font-bold text-gray-900 hover:text-primary-600 transition-colors">
-        <svg class="w-6 h-6 text-primary-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+      <a href="{{ .Site.BaseURL | relURL }}" class="flex items-center gap-2 text-lg font-bold hover:opacity-80 transition-opacity" style="color: #F0F4FA;">
+        <svg class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true" style="color: var(--brand-bright);">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0"/>
         </svg>
         <span>{{ .Site.Params.site_name | default .Site.Title }}</span>
       </a>
@@ -24,19 +24,23 @@
             {{ $isPrefix := and (not $isHome) (not $isHTMLLeaf) (hasPrefix $currentRel $itemURL) }}
             {{ $isActive := or $isExact $isPrefix }}
             <a href="{{ $itemURL }}"
-               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors
-               {{ if $isActive }}bg-primary-50 text-primary-700{{ else }}text-gray-600 hover:text-gray-900 hover:bg-gray-50{{ end }}">
+               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               style="{{ if $isActive }}background: var(--brand-100); color: var(--brand-bright);{{ else }}color: var(--ink-secondary);{{ end }}"
+               onmouseover="{{ if not $isActive }}this.style.background='var(--surface-2)';this.style.color='#F0F4FA'{{ end }}"
+               onmouseout="{{ if not $isActive }}this.style.background='';this.style.color='var(--ink-secondary)'{{ end }}">
               {{ $itemName }}
             </a>
           {{ end }}
         {{ else }}
           {{ range .Site.Sections }}
-            <a href="{{ .RelPermalink }}" class="px-3 py-2 text-sm font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-lg transition-colors">{{ .Title }}</a>
+            <a href="{{ .RelPermalink }}" class="px-3 py-2 text-sm font-medium rounded-lg transition-colors" style="color: var(--ink-secondary);">{{ .Title }}</a>
           {{ end }}
         {{ end }}
 
         <!-- Search icon -->
-        <a href="/buscar.html" class="ml-1 p-2 text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-lg transition-colors" aria-label="Buscar">
+        <a href="/buscar.html" class="ml-1 p-2 rounded-lg transition-colors" style="color: var(--ink-secondary);" aria-label="Buscar"
+           onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+           onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
           <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
           </svg>
@@ -45,12 +49,16 @@
 
       <!-- Mobile controls -->
       <div class="flex items-center sm:hidden">
-        <a href="/buscar.html" class="mr-1 p-2 text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-lg transition-colors" aria-label="Buscar">
+        <a href="/buscar.html" class="mr-1 p-2 rounded-lg transition-colors" style="color: var(--ink-secondary);" aria-label="Buscar"
+           onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+           onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
           <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
           </svg>
         </a>
-        <button class="p-2 text-gray-600 hover:text-gray-900 rounded-lg hover:bg-gray-50 transition-colors" id="nav-toggle" aria-label="Abrir menú" aria-expanded="false" aria-controls="mobile-menu">
+        <button class="p-2 rounded-lg transition-colors" style="color: var(--ink-secondary);" id="nav-toggle" aria-label="Abrir menú" aria-expanded="false" aria-controls="mobile-menu"
+           onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+           onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
           <svg class="w-6 h-6" id="hamburger-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
           </svg>
@@ -62,7 +70,7 @@
     </div>
 
     <!-- Mobile menu -->
-    <div class="sm:hidden hidden border-t border-gray-200 pb-4" id="mobile-menu" role="menu">
+    <div class="sm:hidden hidden border-t pb-4" style="border-color: var(--border);" id="mobile-menu" role="menu">
       <div class="pt-3 space-y-1">
         {{ $currentPage := . }}
         {{ $currentRel := $currentPage.RelPermalink }}
@@ -77,13 +85,13 @@
             {{ $isPrefix := and (not $isHome) (not $isHTMLLeaf) (hasPrefix $currentRel $itemURL) }}
             {{ $isActive := or $isExact $isPrefix }}
             <a href="{{ $itemURL }}"
-               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors
-               {{ if $isActive }}bg-primary-50 text-primary-700{{ else }}text-gray-600 hover:text-gray-900 hover:bg-gray-50{{ end }}"
+               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               style="{{ if $isActive }}background: var(--brand-100); color: var(--brand-bright);{{ else }}color: var(--ink-secondary);{{ end }}"
                role="menuitem">{{ $itemName }}</a>
           {{ end }}
         {{ else }}
           {{ range .Site.Sections }}
-            <a href="{{ .RelPermalink }}" class="block px-3 py-2.5 text-base font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-lg transition-colors" role="menuitem">{{ .Title }}</a>
+            <a href="{{ .RelPermalink }}" class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors" style="color: var(--ink-secondary);" role="menuitem">{{ .Title }}</a>
           {{ end }}
         {{ end }}
       </div>
