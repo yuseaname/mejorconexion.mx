@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-fibra-vs-coaxial.webp"
 ---
 
+## Respuesta Rápida
+
+En México, la **fibra óptica** (Totalplay, Telmex en zonas modernas) ofrece velocidades simétricas de hasta 1 Gbps con latencia de 5-15 ms, mientras que el **cable coaxial** (Izzi, Megacable) entrega 200-500 Mbps de descarga pero solo 10-20 Mbps de subida, con más variación en horario pico (8-11 PM).
+
+- La fibra cuesta entre **$549 y $899 MXN/mes**; el cable suele ser $100-$200 MXN más barato en plan básico.
+- Para home office, streaming 4K o gaming, elige **fibra**; para uso básico de YouTube y redes sociales, el cable sigue siendo válido.
+
+Para más detalle, consulta [fibra vs inalámbrico en México](/internet-en-casa/fibra-vs-inalambrico-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Fibra vs coaxial

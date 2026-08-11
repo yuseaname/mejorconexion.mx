@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 
+## Respuesta Rápida
+
+Para gaming online en México, la **latencia** y la **conexión por cable Ethernet** importan más que los Mbps: con un plan de fibra de **100-200 Mbps** ($449-$599 MXN) y ping menor a 30 ms, juegas competitivo sin lag; evita Wi-Fi durante partidas y el cable coaxial en horario pico.
+
+- La meta es **ping < 50 ms** y **jitter < 10 ms**; la fibra de Totalplay/Telmex suele dar 10-20 ms vs 40-80 ms del cable.
+- Conecta tu consola o PC por **Ethernet directo al módem**; el Wi-Fi añade 20-50 ms de latencia variable.
+
+Para más detalle, consulta [fibra vs coaxial en México](/internet-en-casa/fibra-vs-coaxial-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet para jugar online

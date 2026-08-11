@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/mejorconexion-mx-esim-index-html-hero-d8a4b5e8.webp"
 ---
 
+## Respuesta Rápida
+
+Activar una eSIM en México se hace con un **código QR** o desde la app del operador (Telcel, AT&T, Movistar o Bait); necesitas Wi-Fi estable, el modelo exacto del teléfono confirmado como compatible y la línea lista para migrar — nunca borres tu SIM física hasta que el nuevo perfil tenga señal.
+
+- El proceso completo tarda entre 5 y 20 minutos si el operador entrega el QR por correo o app.
+- Haz una llamada de prueba y usa datos móviles antes de eliminar la SIM anterior.
+
+Para más detalle, consulta [celulares compatibles con eSIM en México](/internet-en-casa/celulares-compatibles-con-esim-mexico.html).
+
 Activar una eSIM no siempre sigue el mismo camino. El operador puede usar un código QR, su aplicación, una notificación en el teléfono, datos manuales o atención asistida. El fabricante también cambia los nombres de los menús según el modelo y la versión de software.
 
 Por eso, el objetivo no es memorizar una secuencia universal, sino llegar preparado, seguir las instrucciones del proveedor de tu línea y confirmar que todo funciona antes de eliminar la SIM o perfil anterior.

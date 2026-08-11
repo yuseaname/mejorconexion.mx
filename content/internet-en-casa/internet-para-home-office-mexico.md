@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/home-office-cdmx.webp"
 ---
 
+## Respuesta Rápida
+
+Para home office en México necesitas mínimo **50-100 Mbps de descarga y 20 Mbps de subida** con latencia menor a 50 ms; un plan de **fibra** de Telmex o Totalplay de $599-$799 MXN/mes es la opción más segura para videollamadas sin cortes y subida de archivos pesados.
+
+- La **velocidad de subida** es más importante que la de descarga: evita planes de cable con solo 5-10 Mbps de upload.
+- Pide al menos **20 Mbps de subida** garantizados y un router con puerto Ethernet directo a tu computadora.
+
+Para más detalle, consulta [fibra vs coaxial en México](/internet-en-casa/fibra-vs-coaxial-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet para home office

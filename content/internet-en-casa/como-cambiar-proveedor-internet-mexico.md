@@ -7,6 +7,15 @@ draft: false
 image: "/images/topic-provider-comparison.webp"
 ---
 
+## Respuesta Rápida
+
+Para cambiar de proveedor de internet en México sin quedarte sin servicio: (1) confirma cobertura en tu CP, (2) contrata el nuevo con fecha de instalación, (3) solicita la **baja del anterior** con al menos 5 días hábiles y exige tu **carta de no adeudo**, (4) coordina cancelaciones para que coincidan y nunca te quedes sin las dos.
+
+- La mayoría de planes actuales ($299-$899 MXN/mes) tienen penalización de **$1,500-$3,000 MXN** si cancelas antes de los 12 meses.
+- Negocia el precio: el departamento de retención suele ofrecer 20-30% de descuento para no perderte.
+
+Para más detalle, consulta [cómo elegir compañía de internet](/internet-en-casa/companias-internet-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Cambiar de proveedor

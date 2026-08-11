@@ -7,6 +7,15 @@ draft: false
 image: "/images/topic-router-wifi.webp"
 ---
 
+## Respuesta Rápida
+
+El internet más barato y confiable en México está en **$249-$399 MXN/mes**: los planes básicos de Megacable (200 Mbps, $299), Izzi (100 Mbps, $400) y Telmex (100 Mbps, $399); evita las promociones de $199 MXN porque suelen subir a $499-$599 después del tercer mes y atan a 18-24 meses.
+
+- Antes de contratar, pregunta el **precio total después de la promoción** y la **penalización por cancelación anticipada** (suele ser $1,500-$3,000 MXN).
+- Para presupuesto mínimo, busca un plan **sin contrato** de prepago de $200-$350 MXN/mes con tu operador celular.
+
+Para más detalle, consulta [internet sin contrato en México](/internet-en-casa/internet-sin-contrato-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet barato

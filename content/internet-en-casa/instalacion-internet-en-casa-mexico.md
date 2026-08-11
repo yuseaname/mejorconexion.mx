@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
 
+## Respuesta Rápida
+
+Una instalación estándar de internet en casa en México tarda entre **2 y 4 horas**: el técnico lleva la fibra o coaxial desde la caja de distribución hasta tu módem, configura el router con el SSID y contraseña, y verifica que entregues al menos el 80% de la velocidad contratada antes de firmar.
+
+- La instalación suele ser **gratis** con planes desde $399 MXN/mes; algunos proveedores cobran $500-$1,500 MXN en promociones.
+- Antes de que se vaya, pide una **prueba de velocidad por cable** y por Wi-Fi desde tu recámara principal.
+
+Para más detalle, consulta [cómo cambiar de proveedor de internet](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Instalación

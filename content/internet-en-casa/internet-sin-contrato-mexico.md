@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 
+## Respuesta Rápida
+
+Internet sin contrato en México cuesta **$249-$499 MXN/mes** con velocidades de 20-100 Mbps: opciones reales son los **hotspots 4G/5G** de Telcel y AT&T, o planes de prepago de WISPs locales; conviene para rentas cortas (<6 meses) o si aún no tienes certeza de cuánto tiempo estarás en un domicilio.
+
+- No hay penalización por cancelar: pagas mes a mes o recargas saldo.
+- La velocidad es menor que un plan con contrato, y el equipo (módem/hotspot) puede costar $1,500-$3,500 MXN.
+
+Para más detalle, consulta [internet inalámbrico fijo en México](/internet-en-casa/internet-inalambrico-fijo-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet sin contrato

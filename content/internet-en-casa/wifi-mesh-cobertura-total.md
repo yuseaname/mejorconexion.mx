@@ -6,6 +6,15 @@ description: "Guia completa de Wi-Fi Mesh en casa: como elegir nodos, backhaul, 
 draft: false
 image: "/images/generated/mejorconexion-mx-guias-index-html-hero-fdd3f4cb.webp"
 ---
+
+## Respuesta Rápida
+
+Un sistema Wi-Fi mesh (2-3 nodos) elimina zonas muertas en casas de **80-200 m²** en México: opciones como **TP-Link Deco X20** (2 nodos, $1,800-$2,500 MXN) o **Google Nest WiFi** ($2,500-$3,500 MXN) dan una sola red con roaming inteligente, a diferencia de los repetidores que duplican el SSID.
+
+- Coloca el nodo principal junto al módem y los secundarios a **mitad de camino** entre el router y la zona muerta.
+- Elige mesh **WiFi 6** si tu plan de fibra pasa de 300 Mbps; con WiFi 5 la velocidad se reduce a la mitad entre nodos.
+
+Para más detalle, consulta [WiFi mesh en México: ¿vale la pena?](/internet-en-casa/wifi-mesh-mexico-vale-pena-2026.html).
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa/) / Wi-Fi Mesh

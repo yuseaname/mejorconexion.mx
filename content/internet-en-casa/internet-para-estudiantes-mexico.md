@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/planes-comparacion-mexico.webp"
 ---
 
+## Respuesta Rápida
+
+Para estudiantes en México, lo mínimo recomendable son **30-50 Mbps** estables por $299-$449 MXN/mes: un plan básico de Megacable o Izzi sirve para clases por Zoom, descargar tareas y ver videos; prioriza estabilidad sobre velocidad punta para evitar que la clase se corte en horario pico.
+
+- Comparte gastos con 2-3 compañeros y contrata un plan de 200-300 Mbps ($499-$599 MXN) que rinda para todos.
+- Si solo necesitas Wi-Fi en tu cuarto, un hotspot 4G con 20 GB por $259 MXN puede ser suficiente.
+
+Para más detalle, consulta [internet para home office en México](/internet-en-casa/internet-para-home-office-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet para estudiantes

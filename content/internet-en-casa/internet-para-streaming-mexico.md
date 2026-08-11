@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/home-office-cdmx.webp"
 ---
 
+## Respuesta Rápida
+
+Para streaming en Netflix, Disney+, YouTube y Prime Video en México necesitas al menos **25 Mbps por dispositivo** en 4K (HD basta con 10 Mbps); un plan de **fibra de 200-300 Mbps** ($499-$699 MXN) cubre una familia de 3-4 pantallas sin buffering.
+
+- La fibra evita el **buffering nocturno** (8-11 PM) que sufre el cable coaxial por saturación del nodo.
+- Usa **Wi-Fi de 5 GHz** o cable Ethernet directo al Smart TV para no perder velocidad.
+
+Para más detalle, consulta [fibra vs coaxial en México](/internet-en-casa/fibra-vs-coaxial-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet para streaming

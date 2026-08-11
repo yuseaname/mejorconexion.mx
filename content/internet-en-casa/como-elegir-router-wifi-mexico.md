@@ -7,6 +7,15 @@ draft: false
 image: "/images/topic-provider-comparison.webp"
 ---
 
+## Respuesta Rápida
+
+Elige un router Wi-Fi con **WiFi 6** (AX), doble banda simultánea y al menos **4 puertos Gigabit Ethernet**; para planes de fibra de 300-500 Mbps en México, un TP-Link Archer AX21 o ASUS RT-AX58U ($1,200-$2,200 MXN) rinde mejor que el router básico que regala tu proveedor.
+
+- Solo cambia el router si tienes más de 10 dispositivos o tu casa pasa de 80 m²; si no, basta con optimizar bandas.
+- Verifica que el router soporte los **1,000 Mbps** que entrega la fibra de Totalplay o Telmex.
+
+Para más detalle, consulta [cómo mejorar tu Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Elegir router

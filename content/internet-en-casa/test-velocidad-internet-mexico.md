@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-test-velocidad.webp"
 ---
 
+## Respuesta Rápida
+
+Para medir bien tu velocidad de internet en México, haz el test **por cable Ethernet** desde speedtest.net o Fast.com en **horario pico (8-10 PM)**; si te da menos del 80% de lo contratado, reclama a tu proveedor con la captura — por Wi-Fi perderás 30-50% y eso no es culpa del servicio.
+
+- El ping aceptable en México es **< 50 ms**; arriba de 100 ms se nota lag en videollamadas y juegos.
+- Cierra Netflix, YouTube y descargas antes de medir para que el resultado refleje la velocidad real disponible.
+
+Para más detalle, consulta [cómo mejorar tu Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Test de velocidad

@@ -6,6 +6,15 @@ description: "Guia de red domestica pro: cableado Ethernet, switches, QoS y Wi-F
 draft: false
 image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
 ---
+
+## Respuesta Rápida
+
+Una red doméstica pro en México combina **cable Ethernet Cat 6** desde el módem al router principal, **WiFi 6** en las zonas de uso y **QoS** priorizando videollamadas y juegos; con un switch Gigabit de 8 puertos ($600-$1,200 MXN) y un router AX ($1,500-$2,500 MXN) eliminas el Wi-Fi inestable y el lag en home office.
+
+- Conecta por **cable** la PC de home office, el Smart TV y la consola; deja solo celulares y tablets en Wi-Fi.
+- Activa **QoS** en el router para que las videollamadas tengan prioridad sobre descargas y torrents.
+
+Para más detalle, consulta [cómo elegir router Wi-Fi en México](/internet-en-casa/como-elegir-router-wifi-mexico.html).
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa/) / Red domestica pro
