@@ -79,7 +79,7 @@ El Pedregal y zonas altas de Tlalpan tienen cobertura variable. Telmex con fibra
 
 **Recomendación: Telmex Infinitum 100 Mbps ($399/mes)**
 
-Iztapalapa tiene cobertura limitada de fibra de Totalplay. Telmex es la opción más universal, aunque en algunas zonas la conexión puede ser de cobre (VDSL) en lugar de fibra. Izzi también tiene cobertura moderada. Para zonas sin fibra, considera internet inalámbrico fijo. Para más información, lee [internet satelital vs inalámbrico](/blog/internet-satelital-vs-inalambrico-mexico.md).
+Iztapalapa tiene cobertura limitada de fibra de Totalplay. Telmex es la opción más universal, aunque en algunas zonas la conexión puede ser de cobre (VDSL) en lugar de fibra. Izzi también tiene cobertura moderada. Para zonas sin fibra, considera internet inalámbrico fijo. Para más información, lee [internet satelital vs inalámbrico](/blog/internet-satelital-vs-inalambrico-mexico.html).
 
 ### Gustavo A. Madero (GAM)
 
