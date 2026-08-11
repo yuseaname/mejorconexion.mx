@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/home-office-cdmx.webp"
 ---
 
+## Respuesta Rápida
+
+**Para clases en línea en México 2026 necesitas 25-50 Mbps de bajada y 5-10 Mbps de subida, preferentemente por fibra. Totalplay 100 Mbps ($499 MXN) o Telmex Infinitum 200 Mbps ($599 MXN) son opciones económicas y estables. Evita horas pico (7-10 PM) si tienes problemas de saturación.**
+
+- **Zoom/Meet/Teams consume ~5 Mbps por llamada en HD; 25 Mbps soportan 3 clases simultáneas sin problema.**
+- **Conecta la laptop por cable Ethernet durante la clase y desactiva actualizaciones automáticas y torrents.**
+
+Para más detalle, consulta [calcular Mbps necesarios](/guias/cuantos-mbps-necesito.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet para clases en línea

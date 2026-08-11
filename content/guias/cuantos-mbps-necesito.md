@@ -6,6 +6,15 @@ description: "Cuántos Mbps necesito: tabla por actividad (streaming, gaming, ho
 draft: false
 image: "/images/generated/mejorconexion-mx-guias-cuantos-mbps-necesito-index-html-hero-b8c3d779.webp"
 ---
+
+## Respuesta Rápida
+
+**En México 2026, las velocidades mínimas recomendadas son: 25 Mbps para 1-2 personas con uso básico, 100 Mbps para familia de 3-4 con streaming 4K, 200-500 Mbps para 4+ personas con gaming y home office, y 1 Gbps solo si tienes 8+ dispositivos 4K simultáneos. Más Mbps no siempre es mejor: la estabilidad importa más.**
+
+- **Streaming 4K consume 25 Mbps por pantalla; gaming en línea necesita 50 Mbps pero con ping <30 ms.**
+- **Calcula multiplicando los Mbps por servicio × dispositivos simultáneos + 30% de margen para hora pico.**
+
+Para más detalle, consulta [qué es internet simétrico](/blog/que-es-internet-simétrico.html).
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Guías](/guias/) / ¿Cuántos Mbps necesito?

@@ -7,6 +7,15 @@ draft: false
 image: "/images/topic-provider-comparison.webp"
 ---
 
+## Respuesta Rápida
+
+**Si tu internet está lento en México, sigue este orden: 1) reinicia router y módem (60 segundos apagados), 2) prueba por cable Ethernet directo, 3) corre speedtest.net, 4) revisa cables y filtros, 5) llama a soporte con número de ticket y resultados. Si tu plan tiene menos de 1 año, exige visita técnica gratuita.**
+
+- **El 80% de los problemas de internet lento en casa se resuelven con reinicio del equipo y prueba por cable.**
+- **Apaga módem + router 60 segundos, enciende primero el módem, espera 2 minutos y luego el router; prueba por cable.**
+
+Para más detalle, consulta [saber si te llega la velocidad](/blog/velocidad-contratada-no-me-llega-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Guías](/guias.html) / Internet lento

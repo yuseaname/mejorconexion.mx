@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
 
+## Respuesta Rápida
+
+**La portabilidad numérica en México 2026 toma entre 24 horas y 5 días hábiles, sin costo. Necesitas: identificación oficial, último recibo del operador actual y el IMEI del equipo. Puedes iniciar el proceso en línea o en tienda del nuevo operador; tu número se mantiene.**
+
+- **Desde 2024, el NIP de portabilidad se solicita al operador DONDE te vas, no al que te vas.**
+- **Acude al nuevo operador con INE, último recibo y tu celular; pide el NIP de portabilidad y espera confirmación por SMS.**
+
+Para más detalle, consulta [elegir nuevo plan móvil](/planes-moviles/mejores-planes-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Portabilidad numérica

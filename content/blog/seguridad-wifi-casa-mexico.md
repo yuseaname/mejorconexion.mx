@@ -6,6 +6,15 @@ description: "Guia completa de seguridad WiFi en Mexico: contrasenas, WPA3, firm
 draft: false
 image: "/images/generated/mejorconexion-mx-blog-index-html-hero-4ae7da93.webp"
 ---
+
+## Respuesta Rápida
+
+**Para proteger tu Wi-Fi en México en 2026 necesitas cifrado WPA2 o WPA3, contraseña de 12+ caracteres y firmware actualizado. Activa una red de invitados para visitas y dispositivos IoT; nunca uses la contraseña que viene de fábrica. Cambia el usuario 'admin' del router si tu equipo lo permite.**
+
+- **WPA3 ya está disponible en la mayoría de routers 2024-2026; si tu equipo solo soporta WPA2, cámbialo o actualiza firmware.**
+- **Cambia hoy la contraseña del Wi-Fi a una de 15 caracteres con números, y activa WPA2/WPA3 en el panel del router.**
+
+Para más detalle, consulta [crear red de invitados segura](/blog/red-invitados-iot-segura-mexico.html).
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog/) / Seguridad WiFi en casa

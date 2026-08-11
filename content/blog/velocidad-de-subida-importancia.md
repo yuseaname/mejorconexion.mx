@@ -6,6 +6,15 @@ description: "Descubre por qué la velocidad de subida es crucial para videollam
 draft: false
 image: "/images/generated/speed-test-cdmx.webp"
 ---
+
+## Respuesta Rápida
+
+**La velocidad de subida es crucial para videollamadas, subir videos a YouTube, hacer backups en la nube y home office. En México, los planes asimétricos (200/10 Mbps) rinden mal al subir; pide plan simétrico o con al menos 25 Mbps de subida. Totalplay y Telmex Fibra ofrecen 100/100 Mbps desde $599 MXN.**
+
+- **Videollamada HD necesita 5 Mbps de subida; subir video 4G a YouTube requiere 25+ Mbps para no esperar horas.**
+- **Si haces home office o subes contenido, contrata plan simétrico o con al menos 25 Mbps de subida.**
+
+Para más detalle, consulta [qué es internet simétrico](/blog/que-es-internet-simétrico.html).
 <figure class="article-image article-hero">
 <img src="./images/08-velocidad-de-subida-importancia/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Velocidad de subida: por qué es crucial para videollamadas, streaming y teletrabajo" />
 </figure>

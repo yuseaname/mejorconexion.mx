@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/mejorconexion-mx-esim-index-html-hero-d8a4b5e8.webp"
 ---
 
+## Respuesta Rápida
+
+**Una eSIM es una SIM digital integrada en tu teléfono que te permite cambiar de operador sin chip físico. En México la soportan Telcel, AT&T y Movistar en equipos recientes (iPhone XS+, Galaxy S20+, Pixel 3+). Es ideal para viajes, doble línea o portabilidad rápida.**
+
+- **eSIM requiere que tu equipo esté desbloqueado; los teléfonos de operador mexicano en plan de renta suelen venir bloqueados.**
+- **Verifica en Ajustes > Datos móviles que tu equipo tenga número EID y esté desbloqueado antes de contratar.**
+
+Para más detalle, consulta [elegir la mejor eSIM](/esim/mejor-esim-mexico.html).
+
 Una **eSIM** es una SIM digital integrada en el dispositivo. Cumple la misma función básica que un chip físico: permite que tu teléfono se conecte a la red de un operador. La diferencia es que el perfil de la línea se descarga y se administra desde el equipo, en lugar de insertar una tarjeta de plástico.
 
 No es automáticamente "mejor" que una SIM física. Puede ser muy práctica para una segunda línea, para viajar o para cambiar de perfil sin manipular una bandeja, pero solo funciona bien cuando coinciden tres cosas: tu teléfono es compatible, está en condiciones de usar el operador elegido y el plan que compras responde a tu uso real.

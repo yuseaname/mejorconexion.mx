@@ -6,6 +6,15 @@ description: "Guía 2026 en México: por qué tus datos van lentos en 5G. Causas
 draft: false
 image: "/images/generated/hero-telcel-att-movistar.webp"
 ---
+
+## Respuesta Rápida
+
+**Si tus datos 5G van lentos en México, suele ser porque estás en zona con cobertura 4G/LTE disfrazada de 5G, o el plan tiene hotspot deshabilitado o throttling. Revisa el icono: si dice '5G' con barras bajas y velocidad <10 Mbps, no es 5G real. Forzar LTE puede darte más velocidad en zonas mixtas.**
+
+- **El '5G NSA' en México reutiliza torres 4G; en zonas sin banda C (3.5 GHz) rinde igual o peor que 4G LTE+.**
+- **Desactiva 5G automático en Ajustes > Red; si con LTE la velocidad sube, tu zona no tiene 5G real todavía.**
+
+Para más detalle, consulta [elegir mejor plan de datos](/planes-moviles/mejores-planes-mexico.html).
 ::: {#idea-clave .section}
 ## La idea clave
 

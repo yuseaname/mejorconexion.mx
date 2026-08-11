@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-seguridad-wifi.webp"
 ---
 
+## Respuesta Rápida
+
+**Para proteger tu Wi-Fi en México 2026: cambia la contraseña de fábrica, activa WPA2 o WPA3, oculta el SSID si quieres discreción, filtra MAC para dispositivos conocidos y desactiva WPS. Actualiza el firmware del router cada 6 meses o activa actualizaciones automáticas.**
+
+- **Un router con firmware de 2020 o anterior tiene vulnerabilidades conocidas explotables desde internet.**
+- **Cambia hoy la contraseña del Wi-Fi a 15+ caracteres; ve al panel del router (192.168.0.1) y desactiva WPS.**
+
+Para más detalle, consulta [crear red de invitados](/blog/red-invitados-iot-segura-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Seguridad WiFi

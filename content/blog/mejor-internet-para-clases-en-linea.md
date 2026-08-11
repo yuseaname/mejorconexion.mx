@@ -6,6 +6,15 @@ description: "Guía 2026 para elegir internet para clases en línea en México: 
 draft: false
 image: "/images/generated/mejorconexion-mx-internet-en-casa-index-html-hero-bfb68d99.webp"
 ---
+
+## Respuesta Rápida
+
+**Para clases en línea en México necesitas al menos 25-50 Mbps de bajada y 5-10 Mbps de subida, con ping menor a 50 ms. La fibra óptica (Totalplay, Telmex Infinitum) es la opción más estable; el Wi-Fi debe estar cerca del router. Evita clases entre 7 y 10 PM si tienes problemas de saturación.**
+
+- **Mínimo estable: 25 Mbps bajada / 5 Mbps subida con ping < 50 ms para Zoom, Meet y Teams sin cortes.**
+- **Conecta la laptop por cable Ethernet al router y acércate a menos de 3 metros si usas Wi-Fi durante la clase.**
+
+Para más detalle, consulta [elegir velocidad según número de usuarios](/guias/cuantos-mbps-necesito.html).
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog/) / Internet para clases en línea

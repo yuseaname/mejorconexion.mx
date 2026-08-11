@@ -6,6 +6,15 @@ description: "Guía 2026 en México: por qué hay lag con internet rápido. Expl
 draft: false
 image: "/images/generated/speed-test-cdmx.webp"
 ---
+
+## Respuesta Rápida
+
+**El lag con internet rápido casi nunca es por Mbps: es por ping alto, jitter o bufferbloat. En México el Wi-Fi saturado, el router del operador y los servidores de juego en el extranjero son las causas más comunes. Conecta por cable, prioriza tu IP en QoS y cambia a servidor regional.**
+
+- **Ping <30 ms es ideal para competitivo; 50-80 ms causa lag visible; >100 ms hace injugable títulos rápidos.**
+- **Conecta por cable Ethernet y reinicia el router del operador; si sigue, pide al operador que desactive CG-NAT.**
+
+Para más detalle, consulta [qué velocidad necesitas para gaming](/blog/mejor-velocidad-para-gaming.html).
 ::: {#que-es-lag .section}
 ## Qué es lag (y qué no es)
 

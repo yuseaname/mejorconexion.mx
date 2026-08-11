@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-router-vs-modem.webp"
 ---
 
+## Respuesta Rápida
+
+**Si tu módem parpadea en rojo, normalmente hay un problema de sincronía con tu proveedor (Telmex, Totalplay, Izzi o Megacable). El primer paso es apagar 60 segundos, revisar cables y reiniciar; si persiste, es falla de línea o del operador. Evita abrir el equipo: la garantía se invalida.**
+
+- **Luz roja fija = sin sincronía con la central; parpadeo lento = en proceso; parpadeo rápido = tráfico de datos.**
+- **Apaga el módem 60 segundos, revisa que el cable coaxial/光纤 esté firme y prueba otro enchufe antes de llamar a soporte.**
+
+Para más detalle, consulta [diagnosticar problemas de conexión](/guias/que-hacer-si-internet-lento.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Módem parpadea rojo

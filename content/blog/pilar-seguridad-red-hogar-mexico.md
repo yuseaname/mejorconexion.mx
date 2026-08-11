@@ -6,6 +6,15 @@ description: "Guía pilar 2026 para proteger tu red en casa en México: router, 
 draft: false
 image: "/images/topic-router-wifi.webp"
 ---
+
+## Respuesta Rápida
+
+**La seguridad de red en casa en México 2026 se basa en 5 pilares: WPA3, contraseña única, firmware al día, red separada para IoT y DNS seguro (1.1.1.1 o 8.8.8.8). El router del operador no cumple los últimos tres: necesitas uno propio o ajustar el que tienes.**
+
+- **El 60% de los hogares mexicanos nunca cambia la contraseña Wi-Fi que vino de fábrica; es la vulnerabilidad #1.**
+- **Cambia hoy la contraseña del Wi-Fi, activa WPA2/WPA3 y crea una red 'IoT' separada para cámaras y bocinas.**
+
+Para más detalle, consulta [crear red de invitados IoT](/blog/red-invitados-iot-segura-mexico.html).
 ::: {#que-resuelve .section}
 ## Qué resuelve este pilar
 

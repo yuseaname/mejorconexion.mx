@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/hero-wifi-se-cae.webp"
 ---
 
+## Respuesta Rápida
+
+**El Wi-Fi se cae en casa en México por 5 causas: router mal ubicado, demasiados dispositivos, interferencia de vecinos, firmware viejo o proveedor saturado. Reiniciar el router, moverlo al centro de la casa y actualizar firmware resuelve el 70% de los casos. Si persiste, evalúa cambiar a mesh.**
+
+- **El 70% de los problemas de Wi-Fi en casa se resuelven con: reinicio, reubicación y actualización de firmware.**
+- **Mueve el router al centro de la casa, a 1.5 m de altura, lejos de microondas y paredes gruesas; reinicia cada 30 días.**
+
+Para más detalle, consulta [decidir entre repetidor y mesh](/blog/wifi-mesh-para-casas-grandes-mexico.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Por qué se cae el WiFi

@@ -6,6 +6,15 @@ description: "Entiende qué es el internet simétrico, por qué importa la veloc
 draft: false
 image: "/images/generated/speed-test-cdmx.webp"
 ---
+
+## Respuesta Rápida
+
+**Internet simétrico es aquel donde la velocidad de subida es igual a la de bajada (ej: 200/200 Mbps). Es ideal para videollamadas, home office, subir videos a YouTube y backups en la nube. En México, Totalplay y Telmex Infinitum Fibra lo ofrecen en sus planes de 100 Mbps+ desde $599 MXN/mes.**
+
+- **Subida de 10 Mbps es lo mínimo para videollamadas estables; 25 Mbps permite subir videos sin esperar horas.**
+- **Si haces home office o subes videos, contrata plan con al menos 100/100 Mbps; vale $100-$200 MXN extra al mes.**
+
+Para más detalle, consulta [entender velocidad de subida](/blog/velocidad-de-subida-importancia.html).
 <figure class="article-image article-hero">
 <img src="./images/06-que-es-internet-simétrico/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Internet simétrico: qué es y por qué mejora tus videollamadas y subida de archivos" />
 </figure>

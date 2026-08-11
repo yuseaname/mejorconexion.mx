@@ -7,6 +7,15 @@ draft: false
 image: "/images/generated/speed-test-cdmx.webp"
 ---
 
+## Respuesta Rápida
+
+**Mbps (megabits por segundo) mide velocidad de internet; MB (megabytes) mide tamaño de archivo. Una conexión de 100 Mbps tarda ~80 segundos en descargar 1 GB (1,000 MB). Divide Mbps entre 8 para obtener MB/s: 100 Mbps ≈ 12.5 MB/s reales. Por eso tu descarga de Netflix parece 'lenta' aunque 'tengas 100 megas'.**
+
+- **8 bits = 1 byte; por eso 100 Mbps ÷ 8 = 12.5 MB/s reales de descarga.**
+- **Cuando veas 'Mbps' en tu plan y 'MB/s' en tu descarga, divide entre 8 para entender la velocidad real.**
+
+Para más detalle, consulta [calcular Mbps necesarios](/guias/cuantos-mbps-necesito.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Guías](/guias.html) / Mbps vs MB

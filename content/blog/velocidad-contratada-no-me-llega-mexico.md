@@ -7,6 +7,15 @@ draft: false
 image: "/images/topic-provider-comparison.webp"
 ---
 
+## Respuesta Rápida
+
+**Si pagas 200 Mbps y solo recibes 30, el problema suele ser Wi-Fi (no cable) o saturación del proveedor en horas pico. Primero prueba por cable Ethernet directo al módem; si ahí llegas a la velocidad, es Wi-Fi. Si por cable tampoco llega, llama a tu operador con resultados de speedtest.**
+
+- **El Wi-Fi 5 en condiciones reales entrega 40-60% de la velocidad del cable; Wi-Fi 6 sube a 70-80%.**
+- **Conecta tu laptop por cable al módem y mide en speedtest.net; si llegas al 80%+ de lo contratado, el problema es Wi-Fi.**
+
+Para más detalle, consulta [diagnosticar internet lento](/guias/que-hacer-si-internet-lento.html).
+
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Velocidad no llega

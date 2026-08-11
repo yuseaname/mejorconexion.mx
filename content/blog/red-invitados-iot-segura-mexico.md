@@ -6,6 +6,15 @@ description: "Guia completa para separar WiFi principal, red de invitados y disp
 draft: false
 image: "/images/generated/mejorconexion-mx-blog-index-html-hero-4ae7da93.webp"
 ---
+
+## Respuesta Rápida
+
+**Para tener una red segura en México 2026, separa en 3 redes Wi-Fi: principal (celulares/laptops), invitados (visitas) e IoT (cámaras, TVs, bocinas). La red IoT nunca debe tener acceso a la principal. La mayoría de routers 2022+ soportan VLAN o redes múltiples.**
+
+- **Dispositivos IoT viejos (cámaras 2018-) son el vector #1 de ataques a redes domésticas en México.**
+- **Crea hoy la red 'IoT' en tu router, mueve las cámaras y TVs inteligentes ahí, y bloquea su acceso a la red principal.**
+
+Para más detalle, consulta [guía completa de seguridad](/blog/pilar-seguridad-red-hogar-mexico.html).
 ::: container
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog/) / Red de invitados e IoT seguro

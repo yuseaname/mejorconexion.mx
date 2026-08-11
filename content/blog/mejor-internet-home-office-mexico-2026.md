@@ -13,6 +13,15 @@ image: "/images/topic-provider-comparison.webp"
 
 ---
 
+## Respuesta Rápida
+
+**Para home office en México 2026, Totalplay Fibra 500 Mbps ($699 MXN/mes) ofrece la mejor combinación de latencia, estabilidad y precio. Necesitas mínimo 50 Mbps simétricos con ping <30 ms. Considera un respaldo 4G ($200-$300 MXN/mes) si trabajas en zona con caídas frecuentes.**
+
+- **Fibra dedicada con 100/100 Mbps simétricos vale $100 MXN extra vs asimétrica y elimina 90% de problemas de videollamada.**
+- **Contrata plan simétrico de al menos 100 Mbps; si tu trabajo depende de internet, suma un plan 4G de respaldo.**
+
+Para más detalle, consulta [crear red estable home office](/blog/red-estable-home-office-mexico.html).
+
 ## 1) ¿Qué debe tener un internet bueno para home office?
 
 Para trabajar de forma remota, las prioridades no son solo "más megas", sino una conexión que cumpla con estándares técnicos y operativos. Estos son los cinco elementos esenciales:
