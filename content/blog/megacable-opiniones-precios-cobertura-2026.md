@@ -2,6 +2,9 @@
 title: "Megacable en México: opiniones, precios y cobertura (2026)"
 slug: "megacable-opiniones-precios-cobertura-2026"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Megacable en México 2026: planes, precios reales, cobertura, ventajas y desventajas del cuarto proveedor más grande del país."
 keywords:
   - "megacable mexico"

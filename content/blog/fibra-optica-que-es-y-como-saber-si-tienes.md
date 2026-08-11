@@ -2,6 +2,9 @@
 title: "Fibra óptica: qué es, ventajas y cómo saber si la tienes en casa"
 slug: "fibra-optica-que-es-y-como-saber-si-tienes"
 date: 2026-08-10
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESIME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 description: "Qué es la fibra óptica, sus ventajas sobre cobre y coaxial, y cómo saber si tu conexión en casa es de fibra. Guía fácil para usuarios en México con fotos y checklist."
 keywords:
   - "que es fibra optica"

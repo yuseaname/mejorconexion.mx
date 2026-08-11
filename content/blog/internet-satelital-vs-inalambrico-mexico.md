@@ -2,6 +2,9 @@
 title: "Internet satelital vs inalámbrico fijo: cuál conviene en México"
 slug: "internet-satelital-vs-inalambrico-mexico"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Internet satelital (Starlink) vs inalámbrico fijo en México: velocidades, precios, latencia y cobertura. Cuál elegir según tu zona y necesidades en 2026."
 keywords:
   - "internet satelital vs inalambrico"

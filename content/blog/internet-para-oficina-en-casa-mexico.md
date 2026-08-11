@@ -2,6 +2,9 @@
 title: "Internet para oficina en casa: qué plan necesitas según tu trabajo (2026)"
 slug: "internet-para-oficina-en-casa-mexico"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Qué plan de internet necesitas para oficina en casa según tu tipo de trabajo: videollamadas, diseño, programación, ventas. Velocidades y proveedores en México 2026."
 keywords:
   - "internet oficina en casa"

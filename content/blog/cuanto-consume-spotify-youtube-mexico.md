@@ -2,6 +2,9 @@
 title: "Cuánto consumen Spotify, YouTube y TikTok en GB (México 2026)"
 slug: "cuanto-consume-spotify-youtube-mexico"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Tabla real de consumo de GB de Spotify, YouTube, TikTok, Netflix y más en México. Calcula cuántos datos necesitas al mes según tus apps."
 keywords:
   - "cuanto consume spotify"

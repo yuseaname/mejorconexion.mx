@@ -2,6 +2,9 @@
 title: "Mejor internet para trabajo desde casa (WFH): comparativa 2026"
 slug: "mejor-internet-para-wfh-mexico"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Comparativa del mejor internet para trabajo desde casa (WFH) en México 2026: Totalplay vs Telmex vs Izzi vs Megacable. Velocidad, latencia, simetría y precios."
 keywords:
   - "mejor internet wfh"

@@ -2,6 +2,9 @@
 title: "Internet saturado en México: por qué pasa y cómo solucionarlo"
 slug: "internet-saturado-mexico-solucion"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Tu internet se satura en horas pico. Explicamos por qué pasa en México y cómo solucionarlo con router, QoS y horarios."
 keywords:
   - "internet saturado"

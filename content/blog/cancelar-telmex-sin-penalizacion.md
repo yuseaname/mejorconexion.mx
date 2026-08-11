@@ -2,6 +2,9 @@
 title: "Cómo cancelar Telmex/Infinitum sin penalización (2026)"
 slug: "cancelar-telmex-sin-penalizacion"
 date: 2026-08-10
+author: "Lic. Patricia Núñez"
+author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en PROFECO y contratos."
+author_slug: "patricia-nunez"
 description: "Guía paso a paso para cancelar Telmex Infinitum sin penalización en 2026. Requisitos, devolución de modem, trámite en sucursal y cómo evitar cargos ocultos."
 keywords:
   - "cancelar telmex"

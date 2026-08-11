@@ -2,6 +2,9 @@
 title: "Internet en Monterrey: mejor proveedor por zona (2026)"
 slug: "internet-en-monterrey-mejores-opciones-2026"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Mejores proveedores de internet en Monterrey por zona: San Pedro, Cumbres, Coyoacán, Apodaca, Guadalupe. Cobertura de fibra, precios en MXN y recomendaciones 2026."
 keywords:
   - "internet monterrey"

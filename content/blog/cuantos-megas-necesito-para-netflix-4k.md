@@ -2,6 +2,9 @@
 title: "Cuántos megas necesito para Netflix 4K y HD en México (2026)"
 slug: "cuantos-megas-necesito-para-netflix-4k"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Velocidad exacta que necesitas para Netflix en HD y 4K, cuántos GB consume, y qué plan de internet contratar en México para streaming sin buffering."
 keywords:
   - "megas para netflix"

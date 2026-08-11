@@ -2,6 +2,9 @@
 title: "Internet Totalplay: planes, precios y cobertura (2026)"
 slug: "internet-totalplay-planes-precios-2026"
 date: 2026-08-09
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Totalplay en 2026: planes, precios en MXN, cobertura de fibra, ventajas, desventajas y qué revisar antes de contratar. Guía completa sin humo."
 draft: false
 image: "/images/generated/hero-internet-totalplay.webp"

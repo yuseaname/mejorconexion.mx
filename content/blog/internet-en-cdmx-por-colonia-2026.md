@@ -2,6 +2,9 @@
 title: "Internet en CDMX por zona: las mejores opciones por alcaldía (2026)"
 slug: "internet-en-cdmx-por-colonia-2026"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Mejores proveedores de internet en CDMX por alcaldía: Polanco, Roma, Coyoacán, Iztapalapa, Tlalpan y más. Cobertura de fibra, precios y recomendaciones 2026."
 keywords:
   - "internet cdmx"

@@ -2,6 +2,9 @@
 title: "Cómo medir tu internet correctamente: guía Speedtest México 2026"
 slug: "medidor-internet-speedtest-mexico"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Cómo medir tu velocidad de internet correctamente en México: qué medir, qué herramientas usar, cómo interpretar resultados y cuándo reclamar."
 keywords:
   - "medidor internet"

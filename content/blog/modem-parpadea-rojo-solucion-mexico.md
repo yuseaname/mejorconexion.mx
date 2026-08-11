@@ -2,6 +2,9 @@
 title: "El módem parpadea en rojo: qué hacer (Guía México)"
 slug: "modem-parpadea-rojo-solucion"
 date: 2026-08-09
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESIME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 description: "Si tu módem de internet parpadea en rojo, hay un problema de conexión. Aquí están las causas comunes y cómo resolverlo con Telmex, Totalplay, Izzi y Megacable."
 draft: false
 image: "/images/generated/hero-router-vs-modem.webp"

@@ -2,6 +2,9 @@
 title: "Internet para negocio en México: planes empresariales y PyME (2026)"
 slug: "internet-para-negocio-mexico"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Qué plan de internet contratar para tu negocio o PyME en México: velocidad necesaria, planes empresariales, fibra dedicada y precios reales 2026."
 keywords:
   - "internet negocios mexico"

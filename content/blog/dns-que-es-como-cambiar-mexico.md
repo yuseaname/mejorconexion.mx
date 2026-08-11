@@ -2,6 +2,9 @@
 title: "DNS: qué es y cómo cambiarlo para que tu internet abra más rápido"
 slug: "dns-que-es-como-cambiar-mexico"
 date: 2026-08-09
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESIME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 description: "Qué es el DNS, por qué cambiarlo puede hacer que tus páginas abran más rápido y cómo configurarlo en tu router o celular en México. Gratis y en 5 minutos."
 draft: false
 image: "/images/generated/hero-dns.webp"

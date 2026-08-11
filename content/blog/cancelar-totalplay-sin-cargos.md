@@ -2,6 +2,9 @@
 title: "Cómo cancelar Totalplay sin cargos ni penalizaciones (2026)"
 slug: "cancelar-totalplay-sin-cargos"
 date: 2026-08-10
+author: "Lic. Patricia Núñez"
+author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en PROFECO y contratos."
+author_slug: "patricia-nunez"
 description: "Guía paso a paso para cancelar Totalplay sin cargos ni penalizaciones en México 2026. Requisitos, devolución de equipo, folio de baja y cómo evitar trampas."
 keywords:
   - "cancelar totalplay"

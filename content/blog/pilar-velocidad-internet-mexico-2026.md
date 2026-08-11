@@ -2,6 +2,9 @@
 title: "Velocidad de internet en México: guía completa para entender y medir tus Mbps"
 slug: "pilar-velocidad-internet-mexico-2026"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Guía pilar 2026 sobre velocidad de internet en México: qué son los Mbps, cuántos necesitas, cómo medirlos, por qué va lento, ping y simetría. Precios y datos reales."
 keywords:
   - "velocidad internet mexico"

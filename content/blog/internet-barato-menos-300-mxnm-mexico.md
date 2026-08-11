@@ -2,6 +2,9 @@
 title: "Internet barato en México: opciones por menos de $300 MXN (2026)"
 slug: "internet-barato-menos-300-mxn-mexico"
 date: 2026-08-09
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Internet en México por menos de $300 MXN al mes: opciones reales de prepago, 4G fijo, WISP y planes básicos. Qué esperar de cada una y qué evitar."
 draft: false
 image: "/images/generated/planes-comparacion-mexico.webp"

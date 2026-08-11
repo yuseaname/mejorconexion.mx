@@ -2,6 +2,9 @@
 title: "Internet para TikTok y redes sociales: cuántos Mbps necesitas"
 slug: "internet-para-tiktok-y-redes-sociales"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Cuántos Mbps necesitas para TikTok, Instagram, Facebook y X en México. Consumo de datos por app, mejores planes y cómo evitar que las redes te tumben el internet."
 keywords:
   - "internet para tiktok"

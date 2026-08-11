@@ -2,6 +2,9 @@
 title: "Telcel Hogar: internet fijo inalámbrico en México (2026)"
 slug: "telcel-hogar-internet-fijo-mexico"
 date: 2026-08-10
+author: "Mtro. Daniel Cruz"
+author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."
+author_slug: "daniel-cruz"
 description: "Telcel Hogar ofrece internet fijo usando red 4G/5G. Planes, precios, cobertura y cuándo conviene vs fibra óptica tradicional."
 keywords:
   - "telcel hogar"

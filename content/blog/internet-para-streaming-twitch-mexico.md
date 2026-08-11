@@ -2,6 +2,9 @@
 title: "Internet para hacer streaming en Twitch desde México: guía 2026"
 slug: "internet-para-streaming-twitch-mexico"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Qué velocidad de subida necesitas para transmitir en Twitch, YouTube Gaming y Kick desde México. Planes recomendados y configuración."
 keywords:
   - "internet streaming twitch"

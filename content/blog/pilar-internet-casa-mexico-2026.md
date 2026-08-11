@@ -2,6 +2,9 @@
 title: "Guía definitiva: Internet para casa en México 2026"
 slug: "pilar-internet-casa-mexico-2026"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Guía pilar 2026 para elegir internet para casa en México: comparativa de proveedores, velocidades, precios en MXN, instalación y solución de problemas."
 keywords:
   - "internet para casa mexico"

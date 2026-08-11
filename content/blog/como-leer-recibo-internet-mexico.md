@@ -2,6 +2,9 @@
 title: "Cómo leer tu recibo de internet en México (y qué cobran de más)"
 slug: "como-leer-recibo-internet-mexico"
 date: 2026-08-09
+author: "Lic. Patricia Núñez"
+author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en PROFECO y contratos."
+author_slug: "patricia-nunez"
 description: "Tu recibo de internet tiene cargos ocultos: renta de equipo, servicios no solicitados, impuestos. Aprende a leerlo y a identificar cobros de más en México."
 draft: false
 image: "/images/generated/planes-comparacion-mexico.webp"

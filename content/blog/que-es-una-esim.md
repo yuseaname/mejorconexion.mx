@@ -2,6 +2,9 @@
 title: "Qué es una eSIM y cómo saber si te conviene en México"
 slug: "que-es-una-esim"
 date: 2026-01-01
+author: "Mtro. Daniel Cruz"
+author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."
+author_slug: "daniel-cruz"
 description: "Qué es una eSIM, qué cambia frente a un chip físico y qué revisar en México antes de activarla: equipo, operador, desbloqueo y uso de datos."
 draft: false
 image: "/images/generated/mejorconexion-mx-esim-index-html-hero-d8a4b5e8.webp"

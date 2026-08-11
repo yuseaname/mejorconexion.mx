@@ -2,6 +2,9 @@
 title: "Calculadora de Velocidad de Internet"
 slug: "calculadora-velocidad-internet"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Calcula cuántos Mbps necesitas según tu uso real: streaming, gaming, videollamadas y dispositivos. Herramienta interactiva para México."
 keywords:
   - "calculadora velocidad internet"

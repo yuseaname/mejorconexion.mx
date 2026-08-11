@@ -2,6 +2,9 @@
 title: "Seguridad WiFi en casa: cómo proteger tu red en México (2026)"
 slug: "seguridad-wifi-casa-proteger-2026"
 date: 2026-08-09
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESIME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 description: "Cómo proteger tu WiFi en casa en México: cambiar contraseña, cifrado WPA2/WPA3, ocultar red, filtrar dispositivos y evitar que vecinos usen tu internet."
 draft: false
 image: "/images/generated/hero-seguridad-wifi.webp"

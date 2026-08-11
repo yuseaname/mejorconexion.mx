@@ -2,6 +2,9 @@
 title: "Internet Izzi en México: planes, precios y opiniones (2026)"
 slug: "internet-izzi-planes-precios-opiniones-2026"
 date: 2026-08-09
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Izzi en 2026: planes disponibles, precios en MXN, fibra vs cable, cobertura, opiniones reales y qué revisar antes de contratar. Guía sin humo."
 draft: false
 image: "/images/topic-provider-comparison.webp"

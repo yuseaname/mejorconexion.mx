@@ -2,6 +2,9 @@
 title: "4G LTE vs 5G en México: diferencias reales y cuándo cambia (2026)"
 slug: "diferencia-4g-lte-y-5g-mexico"
 date: 2026-08-10
+author: "Mtro. Daniel Cruz"
+author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."
+author_slug: "daniel-cruz"
 description: "Diferencias entre 4G LTE y 5G en México: velocidades reales, cobertura por ciudad, precios y si vale la pena cambiar de plan móvil en 2026."
 keywords:
   - "4g vs 5g mexico"

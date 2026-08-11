@@ -2,6 +2,9 @@
 title: "Qué es el ancho de banda y por qué se agota tu internet"
 slug: "que-es-el-ancho-de-banda"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Qué es el ancho de banda de internet, cómo se mide, por qué se agota y cómo optimizarlo. Explicación fácil con ejemplos y tablas para usuarios en México."
 keywords:
   - "que es ancho de banda"

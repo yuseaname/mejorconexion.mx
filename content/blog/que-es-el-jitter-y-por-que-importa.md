@@ -2,6 +2,9 @@
 title: "Qué es el jitter y por qué arruina tu internet (explicación fácil)"
 slug: "que-es-el-jitter-y-por-que-importa"
 date: 2026-08-10
+author: "Equipo Mejor Conexión"
+author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
+author_slug: "equipo"
 description: "Qué es el jitter (variación de latencia) en internet, cómo medirlo, por qué arruina videollamadas y juegos online, y cómo reducirlo en tu conexión en México."
 keywords:
   - "que es el jitter"

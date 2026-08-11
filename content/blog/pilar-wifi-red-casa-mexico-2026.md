@@ -2,6 +2,9 @@
 title: "Guía completa: Red Wi-Fi y router para casa en México 2026"
 slug: "pilar-wifi-red-casa-mexico-2026"
 date: 2026-08-10
+author: "Ing. Roberto Mendoza"
+author_bio: "Ingeniero en telecomunicaciones (ESIME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
+author_slug: "roberto-mendoza"
 description: "Guía pilar 2026 de red Wi-Fi y router para casa en México: configuración, cobertura, mesh, seguridad, Wi-Fi 6/6E/7, extender señal, con precios reales MXN."
 keywords:
   - "wifi casa mexico"
