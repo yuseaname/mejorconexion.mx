@@ -1,6 +1,6 @@
 # MejorConexion.mx — Inventario Vivo de Crecimiento
 
-> Fuente de verdad: repositorio actual, build local y baseline Rybbit del 2026-08-10. Generado: 2026-08-15.
+> Fuente de verdad: repositorio actual, build local y baselines Rybbit del 2026-08-10 y 2026-08-15. Actualizado: 2026-08-15.
 > Regla: consultar este archivo antes de tocar contenido para evitar repetir trabajo o alterar URLs existentes.
 
 ## Estado y restricciones confirmadas
@@ -8,7 +8,7 @@
 - Dominio/stack: `https://mejorconexion.mx/`, Hugo 0.141.0, `uglyURLs = true`; las canónicas publicadas terminan en `.html`.
 - Infraestructura preservada: AdSense `ca-pub-5566942094411042`, ads.txt, Rybbit, sitemap, robots y GitHub Actions → Hostinger.
 - Live check inicial: raíz, ads.txt, robots.txt y sitemap devolvieron HTTP 200; AdSense y Rybbit están presentes en el HTML.
-- Analítica fresca: bloqueada durante este ciclo porque `RYBBIT_API_KEY` no está disponible en el entorno. La siguiente medición debe renovar la baseline con una clave válida; no se inventarán cifras.
+- Analítica fresca: consultada el 2026-08-15 con Rybbit API; el snapshot saneado está en `RYBBIT_BASELINE_2026-08-15.json`. La credencial no se guarda en el repositorio.
 - Git al inicio: `main` estaba 4 commits por delante de `origin/main`; no se mezclan cambios ajenos.
 
 ## Baseline disponible (90 días terminados 2026-08-10)
@@ -16,6 +16,14 @@
 | Sesiones | Usuarios | Pageviews | Rebote | Págs/sesión | Duración media | Orgánico | Móvil |
 |---:|---:|---:|---:|---:|---:|---:|---:|
 | 324 | 305 | 468 | 80.56% | 1.44 | 40.45 s | 223 (68.83%) | 128 (39.51%) |
+
+### Snapshot Rybbit fresco (consultado 2026-08-15)
+
+| Sesiones | Usuarios | Pageviews | Rebote | Págs/sesión | Duración media |
+|---:|---:|---:|---:|---:|---:|
+| 1,269 | 1,202 | 1,828 | 82.51% | 1.44 | 39.59 s |
+
+La API devolvió este mismo agregado ante ventanas solicitadas de 7, 30 y 90 días; por ello **no debe usarse para comparar periodos** hasta resolver ese comportamiento. El desglose pathname de la solicitud de 30 días sí identifica demanda actual: móvil comparativo 293 sesiones (89.42% rebote), inicio 214 (80.37%), CDMX 190 (71.05%), guía de velocidad 66 (66.67%), Telmex/Izzi/Totalplay 48 (62.5%), Guadalajara 36 (72.22%), Mbps vs MB 31 (80.65%) y Puebla 30 (90%).
 
 ### Landing pages con evidencia histórica
 
@@ -46,6 +54,13 @@
 - **Cambios realizados:** reglas Apache 301 exactas para los tres URLs históricos; corrección de 7 referencias de imagen rotas en las dos páginas con mayor volumen histórico; meta description añadida a la guía CDMX.
 - **Verificación:** build Hugo limpio pasa; las dos páginas modificadas no tienen `src` locales ausentes. El deploy CI de `732b80c` terminó exitosamente y los tres URLs históricos devuelven HTTP 301 exacto; las 7 imágenes reemplazadas, AdSense y Rybbit devolvieron/están presentes en producción.
 - **Riesgo:** las métricas de engagement no pueden compararse hasta contar con datos post-despliegue y una clave Rybbit vigente.
+
+## Ciclo 2 — retención en guía de velocidad + legibilidad de FAQ
+
+- **Baseline/hipótesis:** la guía `que-significa-la-velocidad-de-internet.html` conserva demanda actual (66 sesiones; 66.67% rebote; 26.7 s). Su FAQ era contenido genérico de proveedores, la meta description estaba truncada y el shortcode compartido usaba texto oscuro heredado que era casi ilegible en el tema oscuro.
+- **Cambios realizados:** metadata y keywords alineados con Mbps/descarga/subida/latencia; reemplazo por cuatro FAQ específicas y verificables; dos fuentes IFT enlazadas; shortcode FAQ migrado a las clases de diseño oscuro existentes para reparar la legibilidad de las FAQ en todo el sitio.
+- **Verificación:** build Hugo limpio pasa; cuatro shortcodes FAQ balanceados; no hay assets locales ausentes; revisión visual local confirmó enlaces limpios, FAQ legibles, tabla/hero legibles y sin overflow de escritorio. La prueba de navegador móvil no fue necesaria para esta modificación de contenido/CSS responsivo; el HTML conserva `viewport` y las tarjetas FAQ son de una columna.
+- **Riesgo/medición:** FAQPage JSON-LD no se emite en esta página porque el partial del `<head>` se procesa antes de que los shortcodes poblen `Page.Store`. Es un defecto técnico separado, no se fuerza schema inválido. Medir rebote, duración y páginas/sesión de esta URL tras el despliegue.
 
 ## Inventario por página
 

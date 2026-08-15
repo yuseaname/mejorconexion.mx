@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-15T15:07:25Z",
+  "site_id": "5132",
+  "source": "Rybbit API: overview and pathname/page-title breakdown",
+  "overview_response": {
+    "sessions": 1269,
+    "users": 1202,
+    "pageviews": 1828,
+    "bounce_rate": 82.50591016548464,
+    "pages_per_session": 1.4405043341213555,
+    "session_duration_seconds": 39.586288416075654
+  },
+  "api_window_note": "The overview endpoint returned the identical aggregate for 7, 30 and 90-day timestamp requests. Treat this aggregate as a current API snapshot, not as a reliable period comparison until the endpoint behavior is resolved.",
+  "top_pathname_rows_30d": [
+    {"path": "/planes-moviles/telcel-vs-att-vs-movistar/", "sessions": 293, "pageviews": 325, "bounce_rate": 89.42, "time_on_page_seconds": 26.35076923076923},
+    {"path": "/", "sessions": 214, "pageviews": 240, "bounce_rate": 80.37, "time_on_page_seconds": 25.766666666666666},
+    {"path": "/cobertura/cdmx/mejor-internet-cdmx/", "sessions": 190, "pageviews": 263, "bounce_rate": 71.05, "time_on_page_seconds": 32.77946768060836},
+    {"path": "/blog/que-significa-la-velocidad-de-internet.html", "sessions": 66, "pageviews": 81, "bounce_rate": 66.67, "time_on_page_seconds": 26.703703703703702},
+    {"path": "/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/", "sessions": 48, "pageviews": 62, "bounce_rate": 62.5, "time_on_page_seconds": 77.1774193548387},
+    {"path": "/cobertura/guadalajara/", "sessions": 36, "pageviews": 39, "bounce_rate": 72.22, "time_on_page_seconds": 3.8205128205128207},
+    {"path": "/guias/diferencia-mbps-vs-mb/", "sessions": 31, "pageviews": 31, "bounce_rate": 80.65, "time_on_page_seconds": 12.064516129032258},
+    {"path": "/cobertura/puebla/", "sessions": 30, "pageviews": 38, "bounce_rate": 90, "time_on_page_seconds": 34.39473684210526}
+  ]
+}
