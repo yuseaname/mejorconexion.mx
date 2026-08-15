@@ -21,11 +21,11 @@
 
 | Ruta histórica | Sesiones | Rebote | Tiempo | Estado al iniciar este ciclo |
 |---|---:|---:|---:|---|
-| `/planes-moviles/telcel-vs-att-vs-movistar/` | 102 | 90.2% | 29.1 s | 404 por migración trailing-slash → .html; corregido en ciclo 1 con 301 explícito (pendiente verificación live) |
+| `/planes-moviles/telcel-vs-att-vs-movistar/` | 102 | 90.2% | 29.1 s | 404 por migración trailing-slash → .html; corregido en ciclo 1 y verificado live: HTTP 301 exacto a la canónica |
 | `/` | 35 | 74.3% | 6.4 s | Inicio existe |
-| `/cobertura/cdmx/mejor-internet-cdmx/` | 34 | 67.7% | 6.0 s | 404 por migración trailing-slash → .html; corregido en ciclo 1 con 301 explícito (pendiente verificación live) |
+| `/cobertura/cdmx/mejor-internet-cdmx/` | 34 | 67.7% | 6.0 s | 404 por migración trailing-slash → .html; corregido en ciclo 1 y verificado live: HTTP 301 exacto a la canónica |
 | `/blog/que-significa-la-velocidad-de-internet.html` | 33 | 69.7% | 17.4 s | Canónica existe |
-| `/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/` | 13 | 92.3% | 0.23 s | 404 por migración trailing-slash → .html; corregido en ciclo 1 con 301 explícito (pendiente verificación live) |
+| `/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/` | 13 | 92.3% | 0.23 s | 404 por migración trailing-slash → .html; corregido en ciclo 1 y verificado live: HTTP 301 exacto a la canónica |
 | `/cobertura/monterrey/` | 8 | 75.0% | 50.8 s | Canónica existe |
 | `/blog/que-son-los-datos-moviles.html` | 7 | 71.4% | 19.4 s | Canónica existe |
 | `/cobertura/guadalajara/` | 7 | 85.7% | 1.7 s | Canónica existe |
@@ -44,7 +44,7 @@
 
 - **Baseline/hipótesis:** 149 sesiones históricas (102 + 34 + 13) aterrizaban en tres URLs trailing-slash que ahora daban 404. Recuperarlas puede restablecer acceso al contenido canónico y reducir rebote sin cambiar slugs ni destinos.
 - **Cambios realizados:** reglas Apache 301 exactas para los tres URLs históricos; corrección de 7 referencias de imagen rotas en las dos páginas con mayor volumen histórico; meta description añadida a la guía CDMX.
-- **Verificación local:** build Hugo limpio pasa; las dos páginas modificadas no tienen `src` locales ausentes. La verificación HTTP real se realiza después del despliegue.
+- **Verificación:** build Hugo limpio pasa; las dos páginas modificadas no tienen `src` locales ausentes. El deploy CI de `732b80c` terminó exitosamente y los tres URLs históricos devuelven HTTP 301 exacto; las 7 imágenes reemplazadas, AdSense y Rybbit devolvieron/están presentes en producción.
 - **Riesgo:** las métricas de engagement no pueden compararse hasta contar con datos post-despliegue y una clave Rybbit vigente.
 
 ## Inventario por página
