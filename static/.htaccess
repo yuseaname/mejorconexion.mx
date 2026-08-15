@@ -4,6 +4,13 @@ RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
 RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+# Preserve proven organic landing URLs from the site's former trailing-slash scheme.
+# Canonical pages use Hugo's .html convention; these redirects retain the old URLs.
+RewriteRule ^planes-moviles/telcel-vs-att-vs-movistar/$ /planes-moviles/telcel-vs-att-vs-movistar.html [R=301,L]
+RewriteRule ^cobertura/cdmx/mejor-internet-cdmx/$ /cobertura/mejor-internet-cdmx.html [R=301,L]
+RewriteRule ^planes-internet/telmex-vs-izzi-vs-totalplay-mexico/$ /planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html [R=301,L]
+
 <IfModule mod_headers.c>
   Header set X-Content-Type-Options "nosniff"
   Header set X-Frame-Options "SAMEORIGIN"

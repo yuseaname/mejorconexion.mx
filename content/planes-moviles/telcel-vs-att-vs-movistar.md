@@ -77,7 +77,7 @@ Comparativa 2026 con datos reales de la CRT: cobertura, precios de planes, 5G, r
 :::
 
 ::: hero-media
-![Persona comparando planes móviles de Telcel, AT&T y Movistar en México](/assets/images/telcel-att-movistar/hero-telcel-att-movistar.webp){width="1280" height="720" fetchpriority="high"}
+![Persona comparando planes móviles de Telcel, AT&T y Movistar en México](/images/generated/hero-telcel-att-movistar.webp){width="1280" height="720" fetchpriority="high"}
 :::
 :::
 :::
@@ -184,7 +184,7 @@ Cobertura con mejor esfuerzo (no garantizada, pero disponible):
 :::
 
 <figure class="section-image">
-<img src="/assets/images/telcel-att-movistar/coverage-mexico-mobile.webp" loading="lazy" width="1280" height="720" alt="Torres de telecomunicaciones y cobertura de red móvil en México" />
+<img src="/images/4g-lte-vs-5g-mexico.webp" loading="lazy" width="1280" height="720" alt="Cobertura y tecnología móvil 4G y 5G en México" />
 <figcaption>La cobertura varía significativamente por estado: en CDMX todos superan 99%, pero en Oaxaca y Chiapas baja al 25-30%.</figcaption>
 </figure>
 
@@ -217,7 +217,7 @@ Planes de renta mensual con equipo propio (BYOD). Precios con IVA incluido, abri
 :::
 
 <figure class="section-image">
-<img src="/assets/images/telcel-att-movistar/planes-comparacion-mexico.webp" loading="lazy" width="1280" height="720" alt="Comparación de planes móviles en México: Telcel, AT&amp;T y Movistar" />
+<img src="/images/generated/planes-comparacion-mexico.webp" loading="lazy" width="1280" height="720" alt="Comparación de planes móviles en México: Telcel, AT&amp;T y Movistar" />
 <figcaption>Los precios varían según promociones vigentes. Siempre verifica en el sitio oficial del operador antes de contratar.</figcaption>
 </figure>
 

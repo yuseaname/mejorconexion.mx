@@ -7,6 +7,7 @@ author_bio: "Comparamos internet y datos en México con criterio real, sin prome
 author_slug: "equipo"
 draft: false
 image: "/images/generated/mejorconexion-mx-cobertura-cdmx-mejor-internet-cdmx-index-html-hero-378e2b52.webp"
+description: "Cómo elegir internet en CDMX por colonia y edificio: compara fibra, cable e inalámbrico, prueba estabilidad y evita promociones engañosas."
 keywords:
   - "internet lento mexico"
   - "internet barato mexico"
@@ -67,7 +68,7 @@ Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Alguno
 ## Panorama local en CDMX
 
 <figure class="inline-figure" style="margin:20px 0">
-<img src="/assets/images/mejor-internet-cdmx/galaxy-state1.webp" style="width:100%;border-radius:10px" decoding="async" loading="lazy" width="1280" height="720" alt="Comparativa de velocidad y cobertura de internet por zona en CDMX" />
+<img src="/images/internet-cdmx-por-zona-2026.webp" style="width:100%;border-radius:10px" decoding="async" loading="lazy" width="1280" height="720" alt="Comparativa de opciones de internet por zona en CDMX" />
 <figcaption>Comparativa de cobertura y velocidad de internet en la CDMX</figcaption>
 </figure>
 
@@ -126,7 +127,7 @@ Opción en zonas con menos cableado. Latencia variable, pero puede servir si no 
 La densidad de usuarios, la antigüedad del cableado y la administración interna del edificio afectan la experiencia. En la CDMX, dos colonias cercanas pueden tener resultados muy distintos.
 
 <figure class="inline-figure" style="margin:20px 0">
-<img src="/assets/images/mejor-internet-cdmx/colonias-cdmx.webp" style="width:100%;border-radius:10px" decoding="async" loading="lazy" width="1024" height="768" alt="Mapa de cobertura de internet por colonias en CDMX" />
+<img src="/images/generated/home-office-cdmx.webp" style="width:100%;border-radius:10px" decoding="async" loading="lazy" width="1024" height="768" alt="Uso de internet estable para home office en CDMX" />
 <figcaption>Cobertura real varía significativamente entre colonias de la CDMX</figcaption>
 </figure>
 
@@ -215,7 +216,7 @@ Sin picos ni saltos. Si el ping sube y baja, hay problemas de latencia.
 :::
 
 <figure class="inline-figure" style="margin:20px 0">
-<img src="/assets/images/mejor-internet-cdmx/speed-test-cdmx.webp" style="width:100%;border-radius:10px" decoding="async" loading="lazy" width="1024" height="768" alt="Prueba de velocidad de internet en CDMX" />
+<img src="/images/generated/speed-test-cdmx.webp" style="width:100%;border-radius:10px" decoding="async" loading="lazy" width="1024" height="768" alt="Prueba de velocidad de internet en CDMX" />
 <figcaption>Realiza pruebas de velocidad mañana y noche para comparar resultados</figcaption>
 </figure>
 
@@ -237,7 +238,7 @@ Tu uso ideal define qué buscar. No necesitas el plan más caro --- necesitas el
 
 Videollamadas sin cortes, subida de archivos fluida. En CDMX la congestión nocturna es común --- prioriza estabilidad sobre velocidad.
 
-![Home office con conexión estable a internet en CDMX](/assets/images/mejor-internet-cdmx/home-office-cdmx.webp){decoding="async" loading="lazy" style="width:100%;border-radius:8px;margin-top:10px" width="1024" height="768"}
+![Videollamada con una conexión estable de internet](/images/generated/hero-videollamadas.webp){decoding="async" loading="lazy" style="width:100%;border-radius:8px;margin-top:10px" width="1024" height="768"}
 
 [Guía: red para home office →](/blog/red-estable-home-office-mexico.html)
 :::

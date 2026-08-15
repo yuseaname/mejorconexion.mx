@@ -14,7 +14,18 @@ jobs:
         with:
           hugo-version: '0.141.0'
           extended: true
-      - run: hugo --minify --gc
+      - name: Build clean Hugo artifact
+        run: |
+          rm -rf public/
+          hugo --minify --gc
+      - name: Verify generated artifact
+        run: |
+          test -f public/index.html
+          test -f public/sitemap.xml
+          test -f public/ads.txt
+          test -f public/planes-moviles/telcel-vs-att-vs-movistar.html
+          grep -q 'ca-pub-5566942094411042' public/index.html
+          grep -q '095d6520421b' public/index.html
       - name: Setup SSH
         run: |
           mkdir -p ~/.ssh
