@@ -1,6 +1,7 @@
 ---
 title: "Mejor velocidad para gaming (Mbps, ping y estabilidad)"
 slug: "mejor-velocidad-para-gaming"
+description: "**Para gaming en México 2026 necesitas 50-100 Mbps de bajada, 10-25 Mbps de subida, ping 1 Gbps con ping alto.** - **Conecta por cable Ethernet, desacti…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +25,7 @@ keywords:
 - **Ping <30 ms es más importante que 500 Mbps: en gaming, 100 Mbps con ping bajo > 1 Gbps con ping alto.**
 - **Conecta por cable Ethernet, desactiva QoS del operador y elige servidor regional en el juego.**
 
-Para más detalle, consulta [comparar proveedores gaming](/blog/mejor-internet-para-gaming-en-mexico-2026.html).
+Para más detalle, consulta [comparar proveedores gaming](/blog/mejor-internet-para-gaming-en-mexico.html).
 ::: {#idea-clave .section}
 ## La idea clave: estabilidad antes que velocidad
 
@@ -87,7 +88,7 @@ La mayoría de juegos online consumen poco ancho de banda. El problema es cuando
   Gaming + creación de contenido      200--500 Mbps       Depende más de la subida.
 :::
 
-Si quieres afinar por número de personas y hábitos, aquí está la guía de [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/).
+Si quieres afinar por número de personas y hábitos, aquí está la guía de [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 
 ::: {#latencia .section}
@@ -114,7 +115,7 @@ Ojo: el servidor también importa. Un servidor en otro país sube el ping aunque
 
 La velocidad de subida importa más de lo que crees. Cuando alguien sube videos, hace respaldo o tiene cámaras activas, la subida se llena y aparece el **bufferbloat**, que es latencia extra por colas en el router.
 
-¿Solución? QoS o SQM, que prioriza juegos y llamadas. Aquí tienes una guía completa: [red doméstica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/).
+¿Solución? QoS o SQM, que prioriza juegos y llamadas. Aquí tienes una guía completa: [red doméstica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html).
 
 Si haces streaming mientras juegas, necesitas subida estable. En fibra suele ser mejor que en coaxial. Comparativa: [fibra óptica vs cable](/blog/fibra-optica-vs-cable-mexico.html).
 :::
@@ -354,7 +355,7 @@ Sí. Si el servidor está lejos, el ping sube aunque tengas buen plan.
 ## Lecturas relacionadas
 
 ::: {.grid .two}
-[](/internet-en-casa/internet-para-jugar-online-mexico/){.card}
+[](/internet-en-casa/internet-para-jugar-online-mexico.html){.card}
 
 ### Internet para jugar online
 

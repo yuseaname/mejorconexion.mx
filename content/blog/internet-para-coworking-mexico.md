@@ -24,7 +24,7 @@ image: "/images/internet-coworking-mexico.webp"
 - **Estándar esperado**: 99.9% uptime mínimo, ideal 99.99%
 - **Acción**: invierte en access points profesionales y switches empresariales
 
-Para entender la importancia de la simetría, lee [qué es internet simétrico](/blog/que-es-internet-simetrico.html).
+Para entender la importancia de la simetría, lee [qué es internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html).
 
 ## Por qué el internet es el producto principal de un coworking
 

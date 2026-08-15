@@ -156,7 +156,7 @@ Sí. Si ya eres cliente y amenazas con irte (de verdad, no solo de boca), muchos
 ## Sigue aprendiendo
 
 - Para comparar proveedores, checa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-- Para saber [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html), lee [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
+- Para saber [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html), lee [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Si quieres opciones sin amarrarte, revisa [internet sin contrato](/internet-en-casa/internet-sin-contrato-mexico.html).
 :::
 

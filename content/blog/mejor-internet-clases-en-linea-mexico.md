@@ -1,6 +1,7 @@
 ---
 title: "Internet para clases en línea en México: qué necesitas (2026)"
 slug: "mejor-internet-clases-en-linea-mexico"
+description: "**Para clases en línea en México 2026 necesitas 25-50 Mbps de bajada y 5-10 Mbps de subida, preferentemente por fibra. Totalplay 100 Mbps ($499 MXN) o T…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +25,7 @@ keywords:
 - **Zoom/Meet/Teams consume ~5 Mbps por llamada en HD; 25 Mbps soportan 3 clases simultáneas sin problema.**
 - **Conecta la laptop por cable Ethernet durante la clase y desactiva actualizaciones automáticas y torrents.**
 
-Para más detalle, consulta [calcular Mbps necesarios](/guias/cuantos-mbps-necesito.html).
+Para más detalle, consulta [calcular Mbps necesarios](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 
 ## Preguntas Frecuentes
@@ -68,7 +69,7 @@ Para clases en línea necesitas estabilidad más que megas. Zoom y Google Meet f
 
 La subida es crítica: si tu plan tiene 2 Mbps de subida, una videollamada lo va a consumir todo. Si alguien más en casa usa internet a la vez, se congela.
 
-Para entender las unidades, checa [la diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
+Para entender las unidades, checa [la diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 
 <!-- ADSENSE_BREAK -->

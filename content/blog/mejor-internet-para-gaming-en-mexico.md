@@ -1,6 +1,9 @@
 ---
 title: "Mejor internet para gaming en méxico: comparativa definitiva 2026"
-slug: "mejor-internet-para-gaming-en-méxico"
+slug: "mejor-internet-para-gaming-en-mexico"
+aliases: ["/blog/mejor-internet-para-gaming-en-méxico.html"]
+description: "**Para gaming en México en 2026, los planes de fibra de Totalplay (500 Mbps, $699 MXN) y Telmex Infinitum (500 Mbps, $799 MXN) ofrecen los mejores pings…"
+aliases: ["/blog/mejor-internet-para-gamers-mexico-2026.html"]
 date: 2026-05-24
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +27,7 @@ keywords:
 - **El cable Ethernet es obligatorio para competitivo; el Wi-Fi solo sirve para casual. Evita cable y DSL para juegos ranked.**
 - **Conecta tu PC/consola por cable Ethernet Cat 6 directo al router y verifica en speedtest que la latencia baje de 30 ms.**
 
-Para más detalle, consulta [entender la diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
+Para más detalle, consulta [entender la diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 ## Introducción: Por qué tu conexión puede arruinar (o salvar) tu partida
 

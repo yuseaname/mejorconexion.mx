@@ -66,7 +66,7 @@ Calculadora detallada: [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas
 - [Portabilidad numérica](/blog/portabilidad-numeraria-mexico-2026.html) — Cambiar sin perder número
 - [Por qué tus datos van lentos en 5G](/blog/por-que-tus-datos-van-lentos-5g.html)
 - [4G LTE vs 5G en México](/blog/diferencia-4g-lte-y-5g-mexico.html)
-- [Internet para casa vs datos móviles](/blog/internet-residencial-vs-datos-móviles.html)
+- [Internet para casa vs datos móviles](/blog/internet-residencial-vs-datos-m%C3%B3viles.html)
 - [Cuánto consume Netflix, TikTok y Spotify](/blog/cuanto-consume-spotify-youtube-mexico.html)
 - [Telcel Hogar internet fijo](/blog/telcel-hogar-internet-fijo-mexico.html)
 - [Internet para TikTok y redes sociales](/blog/internet-para-tiktok-y-redes-sociales.html)

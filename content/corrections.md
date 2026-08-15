@@ -1,51 +1,17 @@
 ---
-title: "Correcciones"
+title: "Política de correcciones"
 slug: "corrections"
-date: 2026-01-01
-description: "Registro de correcciones en Mejor Conexión: errores detectados, cambios confirmados y cómo reportar un dato desactualizado."
+description: "Cómo corregimos errores en las guías de Mejor Conexión."
+date: 2026-08-14
 draft: false
-image: "/images/topic-provider-comparison.webp"
 ---
-::: container
-::: breadcrumbs
-[Inicio](/) / Correcciones
-:::
 
-# Correcciones
+## Política de correcciones
 
-Aunque revisamos cada guía antes de publicar, los precios, planes y condiciones de los proveedores cambian. Si detectamos un error o un dato desactualizado, lo corregimos y lo dejamos registrado aquí.
+Si un dato de nuestras guías está desactualizado o es incorrecto, lo corregimos y anotamos el cambio.
 
-::: section
-## Cómo reportar un error
+1. **Reporta el error** a contacto@mejorconexion.mx con el enlace de la página y, si la tienes, la fuente correcta.
+2. **Verificamos** contra la fuente oficial (sitio del proveedor, IFT, PROFECO).
+3. **Corregimos y fechamos** la actualización en la propia página.
 
-Si ves algo que no cuadra —precio, vigencia, cobertura, velocidad o cualquier dato— ayúdanos a corregirlo:
-
--   Escríbenos en [Contacto](/contacto/).
--   Incluye el enlace del artículo, el dato que crees incorrecto y, si puedes, una fuente o captura.
--   Revisamos cada reporte y actualizamos el artículo con una nota de cambio cuando aplique.
-:::
-
-::: section
-## Registro de correcciones
-
-| Fecha | Artículo | Corrección |
-|-------|----------|------------|
-| 2026-01-01 | — | Página de correcciones creada. |
-
-No hay correcciones documentadas adicionales por el momento.
-:::
-
-::: section
-## Política de actualización
-
--   Las guías se revisan periódicamente, especialmente cuando hay cambios en planes o precios.
--   Cada artículo relevante incluye una fecha de "Última actualización".
--   Si una corrección cambia una recomendación importante, añadimos una nota visible en el artículo.
-
-Más sobre cómo trabajamos en [Política editorial](/editorial-policy/) y [Metodología](/metodologia/).
-:::
-
-------------------------------------------------------------------------
-
-**Última actualización:** 10 de agosto de 2026
-:::
+Los errores de precios se corrigen con prioridad porque afectan decisiones de compra.

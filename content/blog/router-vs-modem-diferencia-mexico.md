@@ -78,7 +78,7 @@ El tipo de módem depende de la tecnología de tu proveedor:
 - La velocidad por cable es mucho menor a la contratada.
 - El módem se reinicia solo.
 
-Si experimentas alguno de estos, lee nuestra guía de [módem que parpadea en rojo](/blog/modem-parpadea-rojo-solucion-mexico.html).
+Si experimentas alguno de estos, lee nuestra guía de [módem que parpadea en rojo](/blog/modem-parpadea-rojo-solucion.html).
 :::
 
 ::: section
@@ -198,7 +198,7 @@ Para más sobre esto, lee [cómo configurar tu router](/blog/como-configurar-rou
 - Para elegir router, checa [mejor router WiFi para casa](/internet-en-casa/mejor-router-wifi-casa-mexico-2026.html).
 - Para entender la velocidad, lee [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
 - Para arreglar problemas, revisa [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
-- Para proteger tu red, lee [seguridad WiFi en casa](/blog/seguridad-wifi-casa-como-proteger-2026.html).
+- Para proteger tu red, lee [seguridad WiFi en casa](/blog/seguridad-wifi-casa-proteger-2026.html).
 :::
 
 ::: meta-row

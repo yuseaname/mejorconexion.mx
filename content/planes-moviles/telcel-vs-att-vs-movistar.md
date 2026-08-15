@@ -25,7 +25,7 @@ keywords:
 - **Movistar para ahorrar** (Plan 10 anual equivale a ~$166 MXN/mes, mejor prepago y relación GB/precio)
 - **AT&T para viajes internacionales** (único con roaming masivo, 77 países incluidos)
 
-Para más detalle, consulta [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/) si también buscas internet en casa, o nuestra guía de [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html) para entender las cifras de Mbps en cada plan.
+Para más detalle, consulta [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html) si también buscas internet en casa, o nuestra guía de [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html) para entender las cifras de Mbps en cada plan.
 
 
 
@@ -331,7 +331,7 @@ El 5G sigue en expansión desigual. Esto es lo que tienen los tres operadores:
 :::
 
 ::: warn-box
-**⚠️ Antes de pagar por un plan 5G** Verifica que realmente haya cobertura 5G en tu zona. En muchos estados la cobertura 5G es inferior al **20%** de la población. Un buen plan 4G puede ser mejor experiencia que un plan 5G sin señal. Si quieres entender qué tan rápido necesitas que sea la conexión para tu uso real, consulta [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/).
+**⚠️ Antes de pagar por un plan 5G** Verifica que realmente haya cobertura 5G en tu zona. En muchos estados la cobertura 5G es inferior al **20%** de la población. Un buen plan 4G puede ser mejor experiencia que un plan 5G sin señal. Si quieres entender qué tan rápido necesitas que sea la conexión para tu uso real, consulta [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 :::
 
@@ -378,7 +378,7 @@ Si viajas fuera de México, esto es lo que ofrece cada operador:
 :::
 :::
 
-Alternativa: una [eSIM de viaje](/esim-viajeros/mejor-esim-para-mexico/) suele ser más barata que el roaming de cualquier operador si vas a usar datos al extranjero.
+Alternativa: una [eSIM de viaje](/esim-viajeros/mejor-esim-para-mexico.html) suele ser más barata que el roaming de cualquier operador si vas a usar datos al extranjero.
 :::
 
 ::: {#pros-contras .section}
@@ -485,9 +485,9 @@ Si quieres controlar tu gasto sin contratos, el prepago bien elegido te da flexi
 **💡 Consejo que nadie te da** Antes de cambiarte de operador, pregunta a tus vecinos y colegas qué operador usan y cómo les funciona. La mejor comparativa es la experiencia de personas que están exactamente donde tú estarás.
 :::
 
-Relacionado: [Mejor eSIM para México](/esim-viajeros/mejor-esim-para-mexico/) --- alternativa sin contrato para datos móviles.
+Relacionado: [Mejor eSIM para México](/esim-viajeros/mejor-esim-para-mexico.html) --- alternativa sin contrato para datos móviles.
 
-Si tu decisión final depende también del internet de tu casa, revisa nuestra comparativa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/). Y para entender bien las velocidades que anuncian los planes (Mbps vs MB, qué necesita tu uso), consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html) y [qué es el ping](/blog/que-es-el-ping.html).
+Si tu decisión final depende también del internet de tu casa, revisa nuestra comparativa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html). Y para entender bien las velocidades que anuncian los planes (Mbps vs MB, qué necesita tu uso), consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html) y [qué es el ping](/blog/que-es-el-ping.html).
 :::
 
 ::: {#preguntas-frecuentes .section}
@@ -532,7 +532,7 @@ Las mejores zonas 5G están en Quintana Roo, Chihuahua y Baja California. Verifi
 ::: {style="margin-top:10px"}
 **AT&T** ofrece roaming en 77 países en su plan Lite Ilimitado (con límite de 5 GB roaming). **Movistar** incluye roaming en EUA, Canadá y +13 países en sus planes Pro. **Telcel** requiere el paquete Óptimo Plus Sin Frontera para EUA/Canadá sin cargo extra.
 
-Para viajes cortos, una [eSIM de viaje](/esim-viajeros/mejor-esim-para-mexico/) suele ser más económica que el roaming de cualquier operador.
+Para viajes cortos, una [eSIM de viaje](/esim-viajeros/mejor-esim-para-mexico.html) suele ser más económica que el roaming de cualquier operador.
 :::
 
 **¿Movistar se va de México?**
@@ -544,7 +544,7 @@ No. En abril de 2026 se confirmó la **adquisición de Movistar por Melisa Acqui
 **¿Puedo usar eSIM en México?**
 
 ::: {style="margin-top:10px"}
-Sí. Los tres operadores principales soportan eSIM en dispositivos compatibles. También puedes usar una eSIM de operadores alternativos como respaldo o para viajes. Ver nuestra guía: [Mejor eSIM en México](/esim/mejor-esim-mexico/).
+Sí. Los tres operadores principales soportan eSIM en dispositivos compatibles. También puedes usar una eSIM de operadores alternativos como respaldo o para viajes. Ver nuestra guía: [Mejor eSIM en México](/esim/mejor-esim-mexico.html).
 :::
 :::
 
@@ -574,7 +574,7 @@ Sí. Los tres operadores principales soportan eSIM en dispositivos compatibles. 
 ::: {.section .callout related-block="" style="margin-top:24px"}
 ## Siguiente lectura
 
-[Mejores planes móviles en México](/planes-moviles/mejores-planes-mexico/)
+[Mejores planes móviles en México](/planes-moviles/mejores-planes-mexico.html)
 
 Comparativa por uso y relación precio/beneficio.
 :::
@@ -589,13 +589,13 @@ Comparativa por uso y relación precio/beneficio.
 
 Hub con comparativas y guías móviles.
 
-[](/planes-moviles/mejores-planes-prepago-mexico/){.card}
+[](/planes-moviles/mejores-planes-prepago-mexico.html){.card}
 
 ### Mejores planes prepago
 
 Paquetes, vigencias y letras chiquitas.
 
-[](/esim/mejor-esim-mexico/){.card}
+[](/esim/mejor-esim-mexico.html){.card}
 
 ### Mejor eSIM en México
 
@@ -606,6 +606,6 @@ Compatibilidad, redes y soporte.
 ------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 18 de abril de 2026 • [Metodología](/metodologia/) • Fuentes: [CRT 4Q25](https://portal.crt.gob.mx/docs-bin/carrusel-principal/documentos/quien-es-quien-en-cobertura-movil.pdf){rel="nofollow noopener" target="_blank"}, sitios oficiales de operadores
+**Última actualización:** 18 de abril de 2026 • [Metodología](/metodologia.html) • Fuentes: [CRT 4Q25](https://portal.crt.gob.mx/docs-bin/carrusel-principal/documentos/quien-es-quien-en-cobertura-movil.pdf){rel="nofollow noopener" target="_blank"}, sitios oficiales de operadores
 :::
 :::

@@ -92,7 +92,7 @@ Estos son los precios típicos de los planes más contratados en Puebla este añ
 
 Los precios incluyen promociones comunes de 6-12 meses. Pregunta siempre el precio regular que pagarás después.
 
-Para entender por qué la subida importa, lee nuestra guía sobre [internet simétrico](/blog/que-es-internet-simetrico.html).
+Para entender por qué la subida importa, lee nuestra guía sobre [internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html).
 
 ## Comparativa: qué proveedor elegir en Puebla
 
@@ -114,7 +114,7 @@ Necesitas 50-100 Mbps por cada pantalla 4K simultánea. Para una familia de 4 pe
 
 Si solo necesitas WhatsApp, correo y YouTube en una pantalla: **Megacable 100 Mbps ($349)** o Infinitum 100 Mbps ($389) son suficientes y económicos.
 
-Para opciones económicas detalladas, lee [internet barato en México](/blog/internet-barato-menos-300-mxnm-mexico.html).
+Para opciones económicas detalladas, lee [internet barato en México](/blog/internet-mas-barato-en-mexico.html).
 
 ## Problemas comunes del internet en Puebla
 

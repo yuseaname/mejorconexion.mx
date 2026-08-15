@@ -1,6 +1,7 @@
 ---
 title: "Wi‑Fi vs Ethernet para jugar: cuál conviene en México"
 slug: "wifi-vs-ethernet-para-jugar"
+description: "Si puedes, usa Ethernet para jugar. Es la opción más estable y con menor latencia. Si no puedes cablear, un buen Wi‑Fi también funciona, pero necesitas…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -171,7 +172,7 @@ Si no puedes cablear, un buen Wi‑Fi sí puede darte una experiencia decente. A
 -   Evita encerrar el router en muebles.
 -   Actualiza el firmware si está disponible.
 
-Guía completa: [cómo mejorar Wi‑Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Guía completa: [cómo mejorar Wi‑Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#latencia-real .section}
@@ -189,7 +190,7 @@ Si juegas casual y estás cerca del router, un Wi‑Fi moderno puede darte una e
 
 También puede funcionar si vives solo, con pocos dispositivos conectados y sin mucha interferencia alrededor.
 
-En ese caso, optimiza el Wi‑Fi antes de hacer cableado. Guía: [cómo mejorar Wi‑Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+En ese caso, optimiza el Wi‑Fi antes de hacer cableado. Guía: [cómo mejorar Wi‑Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#senales-wifi .section}
@@ -413,7 +414,7 @@ Cómo interpretar latencia y jitter.
 
 Las causas que no parecen obvias.
 
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
+[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.card}
 
 ### Cómo mejorar Wi‑Fi en casa
 

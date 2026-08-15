@@ -170,7 +170,7 @@ No. Los repetidores añaden latencia. Mejor tira un cable Ethernet o usa un adap
 4. Reinicia el router antes de jugar.
 5. Si nada funciona, el problema puede ser la ruta de red de tu proveedor.
 
-Para más detalles sobre gaming y proveedores, checa [mejor internet para gaming en México](/blog/mejor-internet-para-gaming-en-mexico-2026.html).
+Para más detalles sobre gaming y proveedores, checa [mejor internet para gaming en México](/blog/mejor-internet-para-gaming-en-mexico.html).
 :::
 
 ::: {.ad-slot ad-slot="before-faq"}

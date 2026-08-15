@@ -1,6 +1,7 @@
 ---
 title: "Internet Lento en la Noche: Por Qué Pasa y Cómo Solucionarlo"
 slug: "internet-lento-en-la-noche-2026"
+description: "**El internet lento en la noche mexicana (19:00-23:00) se debe a saturación del barrio: entre 50-200% más usuarios en misma zona; en planes Infinitum/Iz…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -22,7 +23,7 @@ image: "/images/topic-provider-comparison.webp"
 - **Pérdida típica**: 50-80% de velocidad contratada en hora pico
 - **Acción**: corre speedtest a las 21:00 con prueba anexa para queja en PROFECO
 
-Para más detalle, consulta [/blog/como-mejorar-wifi-en-casa-guia-2026/](/blog/como-mejorar-wifi-en-casa-guia-2026/).
+Para más detalle, consulta [/blog/como-mejorar-wifi-en-casa-guia-2026/](/blog/como-mejorar-wifi-en-casa-guia-2026.html).
 
 Tu internet vuela a las 10 de la mañana pero se arrastra a las 9 de la noche. No es tu imaginación — y no siempre es culpa del proveedor. Aquí te decimos qué pasa y cómo arreglarlo.
 

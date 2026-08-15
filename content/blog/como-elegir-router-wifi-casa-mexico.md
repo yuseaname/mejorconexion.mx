@@ -1,6 +1,7 @@
 ---
 title: "Como elegir un router WiFi para casa en Mexico (guia realista)"
 slug: "como-elegir-router-wifi-casa-mexico"
+description: "**Para una casa de 1-2 recámaras en México, el router ideal es WiFi 6 de doble banda (2.4 + 5 GHz) con al menos 4 antenas; modelos como TP-Link Archer A…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -24,7 +25,7 @@ keywords:
 - **Presupuesto sugerido**: $800-$2,000 MXN para un router que soporte 500 Mbps
 - **Acción**: prioriza WiFi 6 sobre WiFi 5 y evita routers del operador
 
-Para más detalle, consulta [/blog/como-configurar-router-mexico-2026/](/blog/como-configurar-router-mexico-2026/).
+Para más detalle, consulta [/blog/como-configurar-router-mexico-2026/](/blog/como-configurar-router-mexico-2026.html).
 
 
 
@@ -78,7 +79,7 @@ Blog
 El router define la experiencia diaria: velocidad real, alcance y estabilidad. Esta guia explica lo que si importa y lo que solo suena bien en la caja para que compres con criterio, no con marketing.
 
 ::: button-row
-[Ver comparativa de internet en casa](/blog/mejor-internet-casa-mexico-2026.html/){.btn .primary} [Mejorar WiFi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.btn}
+[Ver comparativa de internet en casa](/blog/mejor-internet-casa-mexico-2026.html){.btn .primary} [Mejorar WiFi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.btn}
 :::
 :::
 
@@ -197,7 +198,7 @@ Antes de comprar, revisa que tu proveedor permita usar router propio. La mayoria
 
 En algunos casos, el proveedor usa telefonia fija integrada. Si quieres conservarla, tal vez necesites dejar el modem original conectado. Aun asi puedes apagar su WiFi y usar tu router nuevo para todo lo demas. Es un ajuste sencillo que mejora mucho la estabilidad.
 
-Si no estas seguro, revisa las guias de tu proveedor o consulta su soporte. Tambien puedes ver nuestra comparativa de [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html/) para entender que tecnologas se usan en tu zona.
+Si no estas seguro, revisa las guias de tu proveedor o consulta su soporte. Tambien puedes ver nuestra comparativa de [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html) para entender que tecnologas se usan en tu zona.
 :::
 
 ::: {#checklist-compra .section}
@@ -235,13 +236,13 @@ Cuando un solo router no alcanza y necesitas varios nodos.
 
 Diferencias reales para elegir proveedor y tecnologia.
 
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
+[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.card}
 
 ### Como mejorar tu WiFi en casa
 
 Pasos reales para mejorar senal sin gastar de mas.
 
-[](/guias/cuantos-mbps-necesito/){.card}
+[](/blog/cuanta-velocidad-internet-necesitas-2026.html){.card}
 
 ### Cuantos Mbps necesito
 
@@ -252,6 +253,6 @@ Guia practica para elegir velocidad segun uso real.
 ------------------------------------------------------------------------
 
 ::: meta-row
-**Ultima actualizacion:** 27 de diciembre de 2025 [Metodologia](/metodologia/)
+**Ultima actualizacion:** 27 de diciembre de 2025 [Metodologia](/metodologia.html)
 :::
 :::

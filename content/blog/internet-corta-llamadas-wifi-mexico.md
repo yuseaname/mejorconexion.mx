@@ -1,6 +1,7 @@
 ---
 title: "Por qué el internet corta las llamadas WiFi y cómo solucionarlo"
 slug: "internet-corta-llamadas-wifi-mexico"
+description: "**Las llamadas WiFi se cortan en México por tres causas principales: (1) WiFi débil o saturado que no soporta el tráfico de voz, (2) router sin QoS que…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -123,7 +124,7 @@ La mayoría de planes de internet en México son **asimétricos**: tienen mucha 
 
 - **Pausa backups automáticos** (iCloud, Google Photos) durante videollamadas
 - **Activa QoS** para reservar al menos 3 Mbps de subida para voz
-- **Cambia a un plan con más subida** o un plan simétrico. Lee [qué es internet simétrico](/blog/que-es-internet-simétrico.html)
+- **Cambia a un plan con más subida** o un plan simétrico. Lee [qué es internet simétrico](/blog/que-es-internet-sim%C3%A9trico.html)
 
 ## Causa 6: Configuración NAT o firewall agresiva
 

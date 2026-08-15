@@ -1,6 +1,7 @@
 ---
 title: "Red de invitados e IoT seguro en casa en Mexico"
 slug: "red-invitados-iot-segura-mexico"
+description: "**Para tener una red segura en México 2026, separa en 3 redes Wi-Fi: principal (celulares/laptops), invitados (visitas) e IoT (cámaras, TVs, bocinas). L…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -219,7 +220,7 @@ El control de horarios tambien es una herramienta de control parental. Si tienes
 
 Algunos routers permiten asignar limites de velocidad a cada red. Esto es util para que el streaming o descargas de invitados no afecten el trabajo o las clases.
 
-Si tu router no ofrece esta funcion, puedes usar QoS y priorizar dispositivos del WiFi principal. En [nuestra guia de QoS](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/) explicamos como hacerlo.
+Si tu router no ofrece esta funcion, puedes usar QoS y priorizar dispositivos del WiFi principal. En [nuestra guia de QoS](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html) explicamos como hacerlo.
 
 Un limite razonable evita conflictos y mantiene estabilidad general.
 :::
@@ -266,7 +267,7 @@ Algunos dispositivos inteligentes funcionan mejor con cable: TVs, consolas o hub
 
 El cable tambien es mas seguro. No depende de claves y evita ataques basicos de WiFi. Si tienes un cuarto de trabajo, una conexion cableada es una mejora real.
 
-Para aprender mas sobre cableado domestico, revisa nuestra guia de [Ethernet y QoS](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/).
+Para aprender mas sobre cableado domestico, revisa nuestra guia de [Ethernet y QoS](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html).
 :::
 
 <figure style="margin:18px 0">
@@ -360,7 +361,7 @@ Detecta intrusos y revisa dispositivos conectados.
 
 Mapa completo de guias y ruta de aprendizaje.
 
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
+[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.card}
 
 ### Como mejorar el WiFi en casa
 
@@ -371,6 +372,6 @@ Pasos reales para mejorar cobertura y estabilidad.
 ------------------------------------------------------------------------
 
 ::: meta-row
-**Ultima actualizacion:** 27 de diciembre de 2025 [Metodologia](/metodologia/)
+**Ultima actualizacion:** 27 de diciembre de 2025 [Metodologia](/metodologia.html)
 :::
 :::

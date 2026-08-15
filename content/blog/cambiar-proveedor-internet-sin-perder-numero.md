@@ -1,6 +1,8 @@
 ---
 title: "Cómo cambiar de proveedor de internet sin perder tu número: Guía completa para hogares en México"
 slug: "cambiar-proveedor-internet-sin-perder-número"
+aliases: ["/blog/cambiar-proveedor-internet-sin-perder-número.html"]
+description: "**Tu número telefónico fijo se porta en 5-10 días hábiles sin costo y sin perder llamadas; los四大 operadores (Telmex, Izzi, Totalplay, Megacable) están o…"
 date: 2026-05-30
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +26,7 @@ keywords:
 - **Costo de portabilidad**: $0 por ley, no debe cobrarte nadie
 - **Acción**: tramita la portabilidad al mismo tiempo que contratas el nuevo servicio
 
-Para más detalle, consulta [/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026/](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026/).
+Para más detalle, consulta [/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026/](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
 
 <figure class="article-image article-hero">
 <img src="./images/03-cambiar-proveedor-internet-sin-perder-número/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Cambiar de proveedor de internet en México sin perder tu número fijo: guía paso a paso" />

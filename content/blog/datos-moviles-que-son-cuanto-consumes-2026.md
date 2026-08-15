@@ -1,6 +1,7 @@
 ---
 title: "Datos móviles: qué son y cuánto consumes en México (2026)"
 slug: "datos-moviles-que-son-cuanto-consumes-2026"
+description: "**Los datos móviles en México cuestan $199-$799/mes por paquetes de 5-30 GB (Telcel, AT&T, Movistar, Bait); un mexicano promedio consume 8-15 GB al mes,…"
 date: 2026-08-09
 author: "Mtro. Daniel Cruz"
 author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."
@@ -24,7 +25,7 @@ keywords:
 - **Consumo referencia**: 1 hora TikTok = 0.7 GB, 1 hora YouTube HD = 2.5 GB
 - **Acción**: activa WiFi cuando estés en casa; ahorras 60-80% del paquete móvil
 
-Para más detalle, consulta [/blog/internet-telcel-hogar-mexico-2026/](/blog/internet-telcel-hogar-mexico-2026/).
+Para más detalle, consulta [/blog/internet-telcel-hogar-mexico-2026/](/blog/internet-telcel-hogar-mexico-2026.html).
 
 
 ## Preguntas Frecuentes

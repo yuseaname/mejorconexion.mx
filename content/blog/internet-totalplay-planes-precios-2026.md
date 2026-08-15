@@ -1,6 +1,7 @@
 ---
 title: "Internet Totalplay: planes, precios y cobertura (2026)"
 slug: "internet-totalplay-planes-precios-2026"
+aliases: ["/blog/totalplay-todo-lo-que-necesitas-saber.html"]
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -162,7 +163,7 @@ Antes de firmar con Totalplay, verifica estos puntos:
 7. **Verifica qué incluye el bundle**: ¿Netflix? ¿Disney+? ¿TV? ¿Por cuánto tiempo?
 8. **Pregunta por la instalación**: ¿tiene costo? ¿en cuántos días?
 9. **Pide todo por escrito** (precio, plazo, servicios incluidos).
-10. Lee [cómo contratar internet paso a paso](/blog/como-contratar-internet-mexico-2026.html).
+10. Lee [cómo contratar internet paso a paso](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
 :::
 
 ::: section
@@ -222,7 +223,7 @@ Algunos paquetes promocionales incluyen Netflix por unos meses (3-6 meses). Revi
 
 - Para comparar todos los proveedores, checa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 - Para entender las tecnologías, lee [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
-- Si no sabes [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
+- Si no sabes [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Para entender tu recibo, lee [cómo leer tu recibo de internet](/blog/como-leer-recibo-internet-mexico.html).
 :::
 

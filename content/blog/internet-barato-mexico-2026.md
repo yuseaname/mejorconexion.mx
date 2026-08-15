@@ -1,6 +1,7 @@
 ---
 title: "¿Cuál es el Internet Más Barato en México? Guía Completa (Marzo 2026)"
 slug: "internet-barato-mexico-2026"
+description: "**El internet barato en México en 2026 arranca en $199-$299/mes para 30-100 Mbps (Totalplay promo, Izzi básico, CFE); las ofertas de bienvenida aplican…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -22,7 +23,7 @@ image: "/images/topic-provider-comparison.webp"
 - **Top barato**: Totalplay 50 Mbps $249, Izzi 100 Mbps $349, Megacable 80 Mbps $299
 - **Acción**: compara con calculadora de precio total a 24 meses, no solo la promo
 
-Para más detalle, consulta [/blog/cuanto-cuesta-internet-en-mexico-2026/](/blog/cuanto-cuesta-internet-en-mexico-2026/).
+Para más detalle, consulta [/blog/cuanto-cuesta-internet-en-mexico-2026/](/blog/cuanto-cuesta-internet-en-mexico-2026.html).
 
 *Por el equipo editorial de MejorConexión.mx · Datos recopilados el 14 de marzo de 2026*  
 *Metodología: Precios verificados en sitios oficiales de cada proveedor, datos de quejas de PROFECO (2025-2026) y reportes de usuarios en foros y redes sociales. Comparador IFT consultado como referencia adicional.*
@@ -117,7 +118,7 @@ $$ \text{Costo Total} = (\text{Mensualidad} \times 12) + \text{Instalación} + (
 
 Como puedes ver, aunque CFE parece barato, la velocidad es muy baja. Si necesitas trabajar en casa, el **Telmex** puede ser más eficiente en costo-beneficio a largo plazo, pero requiere paciencia para no pagar de más.
 
-Si quieres saber más sobre cómo evitar cargos ocultos, revisa nuestro artículo sobre [cómo cancelar servicios de internet sin pagar de más](/blog/penalizacion-cancelar-internet-mexico).
+Si quieres saber más sobre cómo evitar cargos ocultos, revisa nuestro artículo sobre [cómo cancelar servicios de internet sin pagar de más](/blog/cancelar-telmex-sin-penalizacion.html).
 
 ## Opciones que Pocos Conocen: CFE y MVNOs
 
@@ -278,7 +279,7 @@ Elegir el proveedor de internet adecuado depende totalmente de tu perfil de usua
 
 Recuerda siempre leer la letra chica. El **internet 300 pesos** existe, pero requiere que sepas cuándo y cómo contratarlo para no caer en aumentos sorpresa. Llama siempre al área de fidelización antes de renovar y compara con la competencia. Con esta guía, estás listo para tomar una decisión informada en marzo de 2026.
 
-**¿Te sirvió esta guía?** Compártela con alguien que esté buscando internet en México. Y si quieres comparar proveedores específicos, revisa nuestra [comparativa Izzi vs Totalplay vs Telmex vs Megacable](/blog/izzi-vs-totalplay-telmex-megacable-2026).
+**¿Te sirvió esta guía?** Compártela con alguien que esté buscando internet en México. Y si quieres comparar proveedores específicos, revisa nuestra [comparativa Izzi vs Totalplay vs Telmex vs Megacable](/blog/izzi-vs-totalplay-telmex-megacable-2026.html).
 
 ## Fuentes
 *   IFT Comparador de Internet (2026)

@@ -1,6 +1,7 @@
 ---
 title: "Guía completa: [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html) de internet sin cortes 2026"
 slug: "cambiar-de-proveedor-de-internet-sin-cortes"
+description: "**Solicita la portabilidad con 10 días hábiles de anticipación; el nuevo ISP activa tu servicio primero y luego se cancela el anterior, evitando quedart…"
 date: 2026-05-29
 author: "Lic. Patricia Núñez"
 author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en quejas PROFECO, contratos y portabilidad."
@@ -24,7 +25,7 @@ keywords:
 - **Plazo legal**: 10 días hábiles según el Instituto Federal de Telecomunicaciones
 - **Acción**: confirma fecha de instalación antes de solicitar la baja del viejo
 
-Para más detalle, consulta [/blog/cambiar-proveedor-internet-sin-perder-número/](/blog/cambiar-proveedor-internet-sin-perder-número/).
+Para más detalle, consulta [/blog/cambiar-proveedor-internet-sin-perder-número/](/blog/cambiar-proveedor-internet-sin-perder-n%C3%BAmero.html).
 
 <figure class="article-image article-hero">
 <img src="./images/cambiar-de-proveedor-de-internet-sin-cortes/cambiar-de-proveedor-de-internet-sin-cortes_hero_00003_.png" loading="eager" decoding="async" width="1200" height="630" alt="cambiar de proveedor de internet sin cortes 2026, modern setup" />
@@ -156,8 +157,8 @@ Si quieres profundizar en cómo funciona la portabilidad de internet en México,
 
 -   [¿Cuál es el mejor internet para casa en 2026? Comparativa completa](/blog/mejor-internet-casa-mexico-2026.html)
 -   [Izzi vs Totalplay: ¿cuál conviene más en 2026?](/blog/izzi-vs-totalplay-telmex-megacable-2026.html)
--   [Guía paso a paso para cambiar de Infinitum a Totalplay sin cortes](/blog/como-cambiar-de-infinitum-a-totalplay.html)
--   [Portabilidad de internet: derechos del usuario en 2026](/blog/portabilidad-internet-2026.html)
+-   Guía paso a paso para cambiar de Infinitum a Totalplay sin cortes
+-   Portabilidad de internet: derechos del usuario en 2026
 
 ::: {.author-bio style="margin-top: 48px; padding: 24px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #0066cc;"}
 ::: {style="display: flex; align-items: flex-start; gap: 16px;"}

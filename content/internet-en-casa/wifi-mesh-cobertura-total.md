@@ -105,7 +105,7 @@ Un router potente puede cubrir un departamento pequeno. En casas grandes, con mu
 
 ### Mesh vs cableado
 
-El cableado sigue siendo lo mas estable, pero no siempre es posible. Mesh es la alternativa practica cuando no quieres abrir paredes o cuando rentas. En la guia de [red domestica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/) puedes ver cuando conviene cablear y cuando no.
+El cableado sigue siendo lo mas estable, pero no siempre es posible. Mesh es la alternativa practica cuando no quieres abrir paredes o cuando rentas. En la guia de [red domestica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html) puedes ver cuando conviene cablear y cuando no.
 :::
 
 ::: {#cuando-conviene .section}
@@ -113,7 +113,7 @@ El cableado sigue siendo lo mas estable, pero no siempre es posible. Mesh es la 
 
 Si tu casa tiene mas de 120 m2, varios pisos o muros gruesos, lo mas probable es que el Wi-Fi tenga caidas. Tambien si tienes teletrabajo y videollamadas en distintas habitaciones. No necesitas una malla para todo, pero si hay zonas muertas o cortes al moverte, es una senal clara.
 
-Para evaluar tu situacion, revisa [como mejorar Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/) y mide velocidad real con [esta guia de medicion](/guias/como-medir-velocidad-real-internet/). Si en un cuarto obtienes menos del 40 por ciento de la velocidad cerca del router, una malla puede mejorar mucho.
+Para evaluar tu situacion, revisa [como mejorar Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html) y mide velocidad real con [esta guia de medicion](/guias/como-medir-velocidad-real-internet.html). Si en un cuarto obtienes menos del 40 por ciento de la velocidad cerca del router, una malla puede mejorar mucho.
 
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Wi-fi_router_in_North_York_Centre_station.jpg" loading="lazy" decoding="async" width="1200" height="800" alt="Router Wi-Fi colocado en interior" />
@@ -139,7 +139,7 @@ Como referencia: 2 nodos para un departamento mediano, 3 para una casa de dos pi
 
 ### Backhaul: el secreto de la estabilidad
 
-El backhaul es el enlace entre nodos. Puede ser inalambrico o por cable. Si puedes usar cable Ethernet entre nodos, la mejora es enorme. La guia de [red domestica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/) explica como hacerlo. Un backhaul cableado reduce latencia y evita que el trafico de la malla compita con el de tus dispositivos.
+El backhaul es el enlace entre nodos. Puede ser inalambrico o por cable. Si puedes usar cable Ethernet entre nodos, la mejora es enorme. La guia de [red domestica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html) explica como hacerlo. Un backhaul cableado reduce latencia y evita que el trafico de la malla compita con el de tus dispositivos.
 
 ### Ubicacion estrategica
 
@@ -210,11 +210,11 @@ Busca marcas que actualicen firmware de forma regular. La seguridad y estabilida
 <figcaption>Prueba a diferentes horas para ver el rendimiento real.</figcaption>
 </figure>
 
-Si tu uso es streaming o trabajo remoto, combina con [internet para streaming](/internet-en-casa/internet-para-streaming-mexico/) y [internet para home office](/internet-en-casa/internet-para-home-office-mexico/) para ajustar prioridades. La idea es que el mesh resuelva cobertura y el plan resuelva velocidad base.
+Si tu uso es streaming o trabajo remoto, combina con [internet para streaming](/internet-en-casa/internet-para-streaming-mexico.html) y [internet para home office](/internet-en-casa/internet-para-home-office-mexico.html) para ajustar prioridades. La idea es que el mesh resuelva cobertura y el plan resuelva velocidad base.
 
 ### Pruebas recomendadas
 
-Haz al menos tres pruebas en cada zona: una por la manana, otra por la tarde y otra por la noche. Si la velocidad cae mucho en horario pico, el problema no es el mesh sino la saturacion del proveedor. En ese caso, revisa [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html/).
+Haz al menos tres pruebas en cada zona: una por la manana, otra por la tarde y otra por la noche. Si la velocidad cae mucho en horario pico, el problema no es el mesh sino la saturacion del proveedor. En ese caso, revisa [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html).
 :::
 
 ::: {#errores-comunes .section}
@@ -226,7 +226,7 @@ Haz al menos tres pruebas en cada zona: una por la manana, otra por la tarde y o
 -   No actualizar firmware.
 -   Ignorar pruebas en horario pico.
 
-Si notas inestabilidad, revisa [que hacer si tu internet esta lento](/guias/que-hacer-si-internet-lento/). Muchas fallas que parecen del mesh en realidad son del proveedor.
+Si notas inestabilidad, revisa [que hacer si tu internet esta lento](/guias/que-hacer-si-internet-lento.html). Muchas fallas que parecen del mesh en realidad son del proveedor.
 
 ### Canales saturados
 
@@ -313,16 +313,16 @@ Si necesitas estabilidad y muchos dispositivos, mesh suele dar mejor experiencia
 
 ### Puedo usar backhaul cableado?
 
-Si, y es la mejor opcion. Consulta [red domestica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/) para aprender a cablear.
+Si, y es la mejor opcion. Consulta [red domestica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html) para aprender a cablear.
 
 ### Como saber si necesito cambiar de proveedor?
 
-Si con mesh la cobertura mejora pero la velocidad sigue mala, revisa [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html/).
+Si con mesh la cobertura mejora pero la velocidad sigue mala, revisa [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html).
 
 ::: {.section .callout related-block="" style="margin-top:18px"}
 ## Siguiente lectura
 
-[Red domestica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/)
+[Red domestica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html)
 
 Cableado, switches y QoS para estabilidad real.
 :::
@@ -337,13 +337,13 @@ Cableado, switches y QoS para estabilidad real.
 
 Hub con comparativas y guias clave.
 
-[](/internet-en-casa/internet-satelital-rural-mexico/){.card}
+[](/internet-en-casa/internet-satelital-rural-mexico.html){.card}
 
 ### Internet satelital y rural
 
 Opciones reales para zonas con poca cobertura.
 
-[](/internet-en-casa/como-elegir-router-wifi-mexico/){.card}
+[](/internet-en-casa/como-elegir-router-wifi-mexico.html){.card}
 
 ### Como elegir router Wi-Fi
 
@@ -360,6 +360,6 @@ Cuando un solo router no alcanza y necesitas varios nodos.
 ------------------------------------------------------------------------
 
 ::: meta-row
-**Ultima actualizacion:** 27 de diciembre de 2025 \> [Metodologia](/metodologia/)
+**Ultima actualizacion:** 27 de diciembre de 2025 \> [Metodologia](/metodologia.html)
 :::
 :::

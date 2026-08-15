@@ -1,6 +1,7 @@
 ---
 title: "WiFi 7 en México: disponibilidad, routers compatibles y si vale la pena (2026)"
 slug: "wifi-7-mexico-disponibilidad-2026"
+description: "**El WiFi 7 (802.11be) está llegando a México en 2026 pero aún no es necesario para la mayoría de usuarios. Los primeros routers WiFi 7 ya están disponi…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

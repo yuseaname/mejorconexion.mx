@@ -80,7 +80,7 @@ Busca "test de velocidad" en Google y usa cualquiera de las opciones gratuitas. 
 | Latencia / Ping (ms) | Tiempo de respuesta de la red | Menos de 50 ms para uso normal |
 | Jitter (ms) | Variación de la latencia | Menos de 10 ms para videollamadas |
 
-Para entender las unidades, checa [la diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
+Para entender las unidades, checa [la diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 
 ::: {.ad-slot ad-slot="mid-content"}
@@ -161,9 +161,9 @@ Sí. Un reinicio limpia la memoria del router. Mide con y sin reinicio para ver 
 ::: {.section related-block="" style="margin-top:18px"}
 ## Sigue aprendiendo
 
-- Para entender qué significan las unidades, checa [la diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
+- Para entender qué significan las unidades, checa [la diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Si tu internet está lento, lee [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
-- Para saber [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
+- Para saber [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 
 ::: meta-row

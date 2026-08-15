@@ -13,7 +13,7 @@ draft: false
 - **Telmex:** cobertura más amplia, verifica si es fibra o cobre
 - **Izzi:** buen precio con TV, estable en zonas consolidadas
 
-Para comparar los tres proveedores a fondo, consulta [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/). Si quieres opciones específicas para Monterrey, revisa [internet en Monterrey: mejores opciones](/blog/internet-monterrey-mejores-opciones-2026/).
+Para comparar los tres proveedores a fondo, consulta [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html). Si quieres opciones específicas para Monterrey, revisa [internet en Monterrey: mejores opciones](/blog/internet-monterrey-mejores-opciones-2026.html).
 ::: {#panorama .section}
 ## Panorama local en Monterrey
 
@@ -80,7 +80,7 @@ La mejor opcion cambia por zona y horario. Usa esta matriz para tomar una decisi
 -   **Primero valida horario pico:** ahi se detecta saturacion y soporte deficiente.
 -   **Optimiza la red interna:** un mejor router puede resolver mas que subir de plan.
 
-Para decidir con mas contexto, compara proveedores en [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/) y revisa recomendaciones generales en [planes de internet](/planes-internet/).
+Para decidir con mas contexto, compara proveedores en [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html) y revisa recomendaciones generales en [planes de internet](/planes-internet/).
 :::
 
 ::: {#pruebas .section}
@@ -123,7 +123,7 @@ Guía: [mejor velocidad para gaming](/blog/mejor-velocidad-para-gaming.html).
 
 Una buena instalación evita cortes. Cableado mal hecho o routers básicos pueden arruinar un plan bueno.
 
-Si tu Wi‑Fi falla, revisa [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Si tu Wi‑Fi falla, revisa [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#alternativas .section}
@@ -454,8 +454,8 @@ Estas respuestas te ahorran contratar a ciegas.
 ::: {#ciudades-relacionadas .section}
 ## Otras guías por ciudad
 
-- [Mejor internet en CDMX](/cobertura/cdmx/mejor-internet-cdmx/)
+- [Mejor internet en CDMX](/cobertura/mejor-internet-cdmx.html)
 - [Mejor internet en Guadalajara](/cobertura/guadalajara/)
-- [Comparativa: Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/)
-- [Cuántos Mbps necesito](/guias/cuantos-mbps-necesito/)
+- [Comparativa: Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html)
+- [Cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html)
 :::

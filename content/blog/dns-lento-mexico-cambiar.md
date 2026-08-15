@@ -1,6 +1,7 @@
 ---
 title: "DNS lento en México: cómo cambiarlo y acelerar tu internet (2026)"
 slug: "dns-lento-mexico-cambiar"
+description: "**Si tu internet se siente lento al abrir páginas (aunque el speedtest marque buena velocidad), el problema suele ser el DNS del proveedor. En México, l…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

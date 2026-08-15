@@ -51,7 +51,7 @@ Imagina que tu internet es una tubería de agua:
 
 Una tubería de "100 megabits" llena 12.5 baldes de "1 megabyte" por segundo. No es que la tubería sea más pequeña de lo prometido: es que los baldes son 8 veces más grandes que los "bits".
 
-Para más detalle, lee [diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
+Para más detalle, lee [diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 ### Bits vs Bytes: el origen de la confusión
 

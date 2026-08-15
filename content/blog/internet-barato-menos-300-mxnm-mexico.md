@@ -208,7 +208,7 @@ El módem/router puede tener costo mensual adicional ($50-$100 MXN) que no apare
 
 La velocidad publicitada como "hasta 50 Mbps" puede ser de 20-30 Mbps en la realidad, especialmente en horario pico. Exige saber la velocidad garantizada o mínima.
 
-Para evitar estas trampas, lee [cómo contratar internet paso a paso](/blog/como-contratar-internet-mexico-2026.html).
+Para evitar estas trampas, lee [cómo contratar internet paso a paso](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
 :::
 
 ::: section
@@ -265,7 +265,7 @@ Sí, pero con limitaciones. El hotspot consume los datos de tu plan móvil y la 
 
 - Para ver todas las opciones económicas, checa [internet barato en México](/internet-en-casa/internet-barato-mexico.html).
 - Para comparar proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-- Para calcular [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
+- Para calcular [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Para zonas rurales, lee [internet de CFE](/blog/internet-cfe-mexico-existe-2026.html).
 :::
 

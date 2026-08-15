@@ -28,7 +28,7 @@ image: "/images/topic-provider-comparison.webp"
 - **Ranking**: Totalplay > Izzi ≈ Megacable > Telmex en satisfacción general
 - **Acción**: verifica tu CP primero con Totalplay, luego Izzi, luego Megacable, por último Telmex
 
-Para más detalle, consulta [/blog/cual-es-el-mejor-internet-en-mexico-2026/](/blog/cual-es-el-mejor-internet-en-mexico-2026/).
+Para más detalle, consulta [/blog/cual-es-el-mejor-internet-en-mexico-2026/](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
 
 Elegir proveedor de internet en México es confuso. Cada uno dice ser el mejor. Aquí comparamos con datos reales para que elijas con información.
 

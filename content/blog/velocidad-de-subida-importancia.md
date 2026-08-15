@@ -1,6 +1,7 @@
 ---
 title: "¿Tu internet se traba al hablar? Descubre la importancia de la velocidad de subida en tu hogar"
 slug: "velocidad-de-subida-importancia"
+description: "**La velocidad de subida es crucial para videollamadas, subir videos a YouTube, hacer backups en la nube y home office. En México, los planes asimétrico…"
 date: 2026-05-30
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +25,7 @@ keywords:
 - **Videollamada HD necesita 5 Mbps de subida; subir video 4G a YouTube requiere 25+ Mbps para no esperar horas.**
 - **Si haces home office o subes contenido, contrata plan simétrico o con al menos 25 Mbps de subida.**
 
-Para más detalle, consulta [qué es internet simétrico](/blog/que-es-internet-simétrico.html).
+Para más detalle, consulta [qué es internet simétrico](/blog/que-es-internet-sim%C3%A9trico.html).
 <figure class="article-image article-hero">
 <img src="./images/08-velocidad-de-subida-importancia/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Velocidad de subida: por qué es crucial para videollamadas, streaming y teletrabajo" />
 </figure>

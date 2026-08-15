@@ -157,6 +157,14 @@ Un detalle importante: Netflix en navegador web (Chrome, Firefox, Safari) genera
 
 ## Preguntas Frecuentes
 
+
+::: section
+## Sigue leyendo
+
+- [Qué es el ancho de banda y por qué se agota tu internet](/blog/que-es-el-ancho-de-banda.html)
+- [Internet para Zoom y videollamadas: qué velocidad necesitas en México (2026)](/blog/internet-para-zoom-y-videollamadas-mexico.html)
+:::
+
 {{< faq "¿Cuántos GB consume Netflix en una hora?" >}}
 Depende de la calidad: SD consume 1 GB/hora, HD (1080p) consume 3 GB/hora y 4K Ultra HD consume 7 GB/hora. Si activas el modo de ahorro de datos, puedes reducirlo a 0.3 GB/hora.
 {{< /faq >}}

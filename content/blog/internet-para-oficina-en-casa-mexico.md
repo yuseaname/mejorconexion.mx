@@ -104,7 +104,7 @@ Para una oficina en casa, esto es un problema cuando:
 - Usas herramientas colaborativas en tiempo real
 - Haces backups en la nube
 
-La **fibra simétrica** de Totalplay ofrece la misma velocidad de subida y bajada, lo cual es ideal para trabajo remoto. Para más información, lee [qué es el internet simétrico](/blog/que-es-internet-simetrico.html).
+La **fibra simétrica** de Totalplay ofrece la misma velocidad de subida y bajada, lo cual es ideal para trabajo remoto. Para más información, lee [qué es el internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html).
 
 ## Equipamiento recomendado para oficina en casa
 
@@ -167,7 +167,7 @@ La mayoría de personas solo miran la velocidad de bajada al contratar internet 
 | Totalplay 300 Mbps | 300 Mbps | 300 Mbps | ✅ Excelente |
 | Totalplay 500 Mbps | 500 Mbps | 500 Mbps | ✅ Excepcional |
 
-Si tu plan tiene poca subida, las videollamadas se pixelarán y las subidas de archivos serán lentas. La fibra simétrica de Totalplay es la mejor solución. Para más detalles, lee [qué es el internet simétrico](/blog/que-es-internet-simetrico.html).
+Si tu plan tiene poca subida, las videollamadas se pixelarán y las subidas de archivos serán lentas. La fibra simétrica de Totalplay es la mejor solución. Para más detalles, lee [qué es el internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html).
 
 ## Preguntas Frecuentes
 

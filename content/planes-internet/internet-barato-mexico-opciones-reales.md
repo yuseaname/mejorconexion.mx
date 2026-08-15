@@ -130,7 +130,7 @@ Streaming HD, videollamadas frecuentes y varios dispositivos. Necesitas estabili
 
 Gaming, 4K, varios usuarios simultáneos. Aquí "barato" suele salir caro si el plan no alcanza.
 
-Si tu hogar tiene varios usuarios, revisa: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico/).
+Si tu hogar tiene varios usuarios, revisa: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
 :::
 
 ::: {#comparar .section}
@@ -143,7 +143,7 @@ Haz esta comparación simple:
 3.  Estabilidad en horario pico (según tu zona).
 4.  Calidad de instalación y soporte.
 
-Para comparar proveedores con lógica, consulta: [comparativa por uso real](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/).
+Para comparar proveedores con lógica, consulta: [comparativa por uso real](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 :::
 
 ::: {#negociar .section}
@@ -155,7 +155,7 @@ En muchos casos puedes ahorrar sin cambiar de proveedor ni bajar a un plan insuf
 -   **Optimiza tu Wi‑Fi:** si el problema es señal, no es necesario subir de plan.
 -   **Elige bien el tamaño del plan:** si tu uso es básico, no pagues por un plan intenso.
 
-Si quieres mejorar tu red interna sin gastar de más: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Si quieres mejorar tu red interna sin gastar de más: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#planes-sin-contrato .section}
@@ -165,7 +165,7 @@ Un plan sin contrato puede parecer ideal por flexibilidad, pero a veces es más 
 
 Si sabes que te quedarás en tu domicilio por un año, un contrato puede darte mejor relación costo‑beneficio. Si estás en transición (mudanza o renta temporal), lo flexible puede convenir más.
 
-Guía relacionada: [internet sin contrato en México](/internet-en-casa/internet-sin-contrato-mexico/).
+Guía relacionada: [internet sin contrato en México](/internet-en-casa/internet-sin-contrato-mexico.html).
 :::
 
 ::: {#segmentos .section}
@@ -175,7 +175,7 @@ Guía relacionada: [internet sin contrato en México](/internet-en-casa/internet
 
 Para tareas y videollamadas, lo clave es una subida decente y estabilidad. No necesitas un plan enorme si el uso es moderado.
 
-Guía útil: [internet para estudiantes](/internet-en-casa/internet-para-estudiantes-mexico/).
+Guía útil: [internet para estudiantes](/internet-en-casa/internet-para-estudiantes-mexico.html).
 
 ### Home office básico
 
@@ -216,7 +216,7 @@ Si tu plan actual es caro, puedes bajar de plan con seguridad siguiendo estos pa
 2.  Haz pruebas de videollamada y streaming al mismo tiempo.
 3.  Si todo funciona bien con un margen, entonces bajar de plan es viable.
 
-Si tienes dudas, revisa: [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/).
+Si tienes dudas, revisa: [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 
 ::: {#servicio-cliente .section}
@@ -274,7 +274,7 @@ Si notas zonas muertas, considera estas mejoras simples:
 -   Evita encerrar el equipo en muebles cerrados.
 -   Si tu casa es grande, usa un repetidor o sistema mesh básico.
 
-Estas mejoras suelen costar menos que subir de plan y dan resultados visibles. Guía relacionada: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Estas mejoras suelen costar menos que subir de plan y dan resultados visibles. Guía relacionada: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#estabilidad-real .section}
@@ -324,7 +324,7 @@ Si tu internet se vuelve lento, revisa causas reales: [por qué el internet es l
 4.  Valida cobertura en tu calle.
 5.  Pregunta por costos de instalación y equipo.
 
-Si quieres una guía más general para elegir, revisa: [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html/).
+Si quieres una guía más general para elegir, revisa: [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html).
 :::
 
 ::: {#tecnologias .section}
@@ -372,7 +372,7 @@ Haz pruebas reales antes de cambiar de plan:
 2.  Revisa si el problema es horario pico.
 3.  Verifica la subida con una videollamada larga.
 
-Guía paso a paso: [cómo [medir tu velocidad](/guias/como-medir-velocidad-real-internet.html) real](/guias/como-medir-velocidad-real-internet/).
+Guía paso a paso: [cómo [medir tu velocidad](/guias/como-medir-velocidad-real-internet.html) real](/guias/como-medir-velocidad-real-internet.html).
 :::
 
 ::: {#glosario .section}

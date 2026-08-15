@@ -1,6 +1,7 @@
 ---
 title: "Fibra óptica vs cable en México: diferencias reales y cuál conviene (2026)"
 slug: "fibra-optica-vs-cable-mexico"
+description: "**La fibra óptica en México gana en velocidad simétrica (mismo upload que download) y latencia baja (5-15 ms), ideal para videojuegos y trabajo remoto;…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -25,7 +26,7 @@ keywords:
 - **Cable**: Izzi 200 Mbps = $449/mes, 20-35 ms latencia
 - **Acción**: pide prueba de migración a fibra gratis con tu operador
 
-Para más detalle, consulta [/blog/cable-coaxial-vs-fibra-optica/](/blog/cable-coaxial-vs-fibra-optica/).
+Para más detalle, consulta [/blog/cable-coaxial-vs-fibra-optica/](/blog/cable-coaxial-vs-fibra-optica.html).
 
 <div>
 
@@ -152,7 +153,7 @@ La promoción inicial no es el costo real. Revisa:
 -   Penalización por cancelación.
 -   Costos de instalación o reubicación.
 
-Si quieres comparar proveedores con lógica, revisa: [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/).
+Si quieres comparar proveedores con lógica, revisa: [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 :::
 
 ::: {#wifi .section}
@@ -160,7 +161,7 @@ Si quieres comparar proveedores con lógica, revisa: [Telmex vs Izzi vs Totalpla
 
 La tecnología del proveedor no arregla un Wi‑Fi mal configurado. Si el router está mal ubicado, se pierde velocidad aunque tengas fibra.
 
-Guía práctica: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Guía práctica: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#tabla .section}
@@ -195,7 +196,7 @@ Una instalación bien hecha hace que un plan medio se sienta sólido. Una instal
 -   El router debe quedar en un punto central, no escondido.
 -   Pide una prueba de velocidad por cable al terminar la instalación.
 
-Si tienes dudas, revisa: [instalación de internet en casa](/internet-en-casa/instalacion-internet-en-casa-mexico/).
+Si tienes dudas, revisa: [instalación de internet en casa](/internet-en-casa/instalacion-internet-en-casa-mexico.html).
 :::
 
 ::: {#simetrico .section}
@@ -216,7 +217,7 @@ El costo real de un plan no es el precio del primer mes. Revisa:
 -   Costos de instalación o reubicación.
 -   Si el router incluido es básico o de buena cobertura.
 
-Si quieres una guía práctica de ahorro, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales/).
+Si quieres una guía práctica de ahorro, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales.html).
 :::
 
 ::: {#decision .section}
@@ -228,7 +229,7 @@ Si quieres una guía práctica de ahorro, revisa: [internet barato sin trampas](
 4.  Revisa costo real anual y condiciones del contrato.
 5.  Evalúa la calidad de tu Wi‑Fi interno.
 
-Si quieres decidir por tamaño de hogar: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico/).
+Si quieres decidir por tamaño de hogar: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
 :::
 
 ::: {#caso-extra .section}
@@ -342,7 +343,7 @@ Si juegas en línea, revisa: [mejor velocidad para gaming](/blog/mejor-velocidad
 -   Calcula el costo total anual.
 -   Revisa la calidad del Wi‑Fi interno.
 
-Si quieres ahorrar sin errores, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales/).
+Si quieres ahorrar sin errores, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales.html).
 :::
 
 ::: {#mitos .section}
@@ -361,7 +362,7 @@ Si quieres ahorrar sin errores, revisa: [internet barato sin trampas](/planes-in
 -   No medir en horario pico.
 -   Ignorar el Wi‑Fi interno.
 
-Para elegir por tamaño de hogar: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico/).
+Para elegir por tamaño de hogar: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
 :::
 
 ::: {#faq .section}

@@ -88,7 +88,7 @@ Cuando todos en casa estan en videollamada, streaming y juegos, la red colapsa. 
 
 Ethernet no sufre interferencias como el Wi-Fi. Es mas estable, tiene menor latencia y no depende de paredes o distancia. Si tu trabajo depende de videollamadas o subes archivos grandes, el cable te da consistencia. No significa que debas cablear toda la casa, pero si asegurar que los equipos criticos tengan cable.
 
-Si juegas online, el cable es casi obligatorio. Complementa con [internet para jugar online](/internet-en-casa/internet-para-jugar-online-mexico/). Los picos de latencia en Wi-Fi son comunes cuando hay muchos dispositivos, y el cable los reduce casi por completo.
+Si juegas online, el cable es casi obligatorio. Complementa con [internet para jugar online](/internet-en-casa/internet-para-jugar-online-mexico.html). Los picos de latencia en Wi-Fi son comunes cuando hay muchos dispositivos, y el cable los reduce casi por completo.
 
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Ethernet_RJ45_connector_p1160054.jpg" loading="lazy" decoding="async" width="1200" height="800" alt="Conector RJ45 de cable Ethernet" />
@@ -133,11 +133,11 @@ La red domestica no es complicada si la entiendes en capas. El flujo basico es: 
 
 ### Modem/ONT
 
-Es la caja del proveedor. En fibra suele ser ONT. En cable, modem coaxial. Si no sabes que tienes, revisa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico/). El modem debe estar en un lugar ventilado y cerca de donde puedas conectar el router.
+Es la caja del proveedor. En fibra suele ser ONT. En cable, modem coaxial. Si no sabes que tienes, revisa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html). El modem debe estar en un lugar ventilado y cerca de donde puedas conectar el router.
 
 ### Router
 
-El router maneja la red local, asigna IP y controla el Wi-Fi. Si tu router es basico, puedes mejorarlo sin cambiar proveedor. Ve [como elegir router Wi-Fi](/internet-en-casa/como-elegir-router-wifi-mexico/). Un buen router hace que la red responda mejor con muchos dispositivos.
+El router maneja la red local, asigna IP y controla el Wi-Fi. Si tu router es basico, puedes mejorarlo sin cambiar proveedor. Ve [como elegir router Wi-Fi](/internet-en-casa/como-elegir-router-wifi-mexico.html). Un buen router hace que la red responda mejor con muchos dispositivos.
 
 ### Switch
 
@@ -177,7 +177,7 @@ Si tienes mas de 15 dispositivos activos o trafico sensible, QoS y VLAN comienza
 ::: {#combinar-cable-wifi .section}
 ## Combinar cable y Wi-Fi sin conflictos
 
-El mejor escenario es mixto: cable para equipos fijos (TV, consola, PC) y Wi-Fi para moviles. Si tu casa es grande, usa malla con backhaul cableado. Lee [Wi-Fi Mesh](/internet-en-casa/wifi-mesh-cobertura-total/) para ubicacion ideal.
+El mejor escenario es mixto: cable para equipos fijos (TV, consola, PC) y Wi-Fi para moviles. Si tu casa es grande, usa malla con backhaul cableado. Lee [Wi-Fi Mesh](/internet-en-casa/wifi-mesh-cobertura-total.html) para ubicacion ideal.
 
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/SC-APC_fiber_optic_cable.jpg" loading="lazy" decoding="async" width="1200" height="800" alt="Conector de fibra optica SC-APC" />
@@ -194,7 +194,7 @@ Si conectas un segundo router sin configurarlo bien, puedes crear doble NAT y pr
 
 Una red bien hecha se nota en pruebas reales. Haz tests por cable y Wi-Fi, y revisa latencia con ping. Si la velocidad por cable es buena pero por Wi-Fi mala, el problema no es el proveedor sino la cobertura.
 
-Si quieres entender unidades y velocidad, revisa [diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb/).
+Si quieres entender unidades y velocidad, revisa [diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Coaxial_cable_cut.jpg" loading="lazy" decoding="async" width="1200" height="800" alt="Cable coaxial cortado comparado con cableado moderno" />
@@ -245,7 +245,7 @@ Despues de instalar, mide en varias horas del dia. Ajusta nodos o antenas si hay
 4.  Configurar QoS para videollamadas.
 5.  Medir velocidad real en horario pico.
 
-Si aun te sientes perdido, vuelve a [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html/) para alinear decisiones con tu presupuesto.
+Si aun te sientes perdido, vuelve a [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html) para alinear decisiones con tu presupuesto.
 :::
 
 ::: {#presupuesto-niveles .section}
@@ -277,7 +277,7 @@ La mayoria de fallas no vienen del proveedor, sino de detalles locales. Un cable
 -   No actualizar firmware por meses.
 -   Conectar la TV por Wi-Fi cuando hay puerto Ethernet disponible.
 
-Evitar estos errores suele mejorar mas que subir de plan. Si aun tienes problemas, revisa la guia de [que hacer si tu internet esta lento](/guias/que-hacer-si-internet-lento/).
+Evitar estos errores suele mejorar mas que subir de plan. Si aun tienes problemas, revisa la guia de [que hacer si tu internet esta lento](/guias/que-hacer-si-internet-lento.html).
 :::
 
 ::: {#seguridad-basica .section}
@@ -330,7 +330,7 @@ Si hay varias personas conectadas al mismo tiempo, si. Prioriza trafico sensible
 
 ### Que hago si el internet se siente lento?
 
-Revisa primero tu Wi-Fi y cableado, luego sigue [que hacer si tu internet esta lento](/guias/que-hacer-si-internet-lento/).
+Revisa primero tu Wi-Fi y cableado, luego sigue [que hacer si tu internet esta lento](/guias/que-hacer-si-internet-lento.html).
 
 ### Necesito un switch gestionable?
 
@@ -339,7 +339,7 @@ Si solo quieres mas puertos, un switch simple basta. Si quieres VLAN o control a
 ::: {.section .callout related-block="" style="margin-top:18px"}
 ## Siguiente lectura
 
-[Internet satelital y rural](/internet-en-casa/internet-satelital-rural-mexico/)
+[Internet satelital y rural](/internet-en-casa/internet-satelital-rural-mexico.html)
 
 Opciones reales para zonas con poca cobertura.
 :::
@@ -354,13 +354,13 @@ Opciones reales para zonas con poca cobertura.
 
 Hub con comparativas y guias clave.
 
-[](/internet-en-casa/wifi-mesh-cobertura-total/){.card}
+[](/internet-en-casa/wifi-mesh-cobertura-total.html){.card}
 
 ### Wi-Fi Mesh
 
 Cobertura total sin zonas muertas.
 
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
+[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.card}
 
 ### Como mejorar tu Wi-Fi
 
@@ -371,6 +371,6 @@ Pasos reales antes de pagar un plan mas caro.
 ------------------------------------------------------------------------
 
 ::: meta-row
-**Ultima actualizacion:** 27 de diciembre de 2025 \> [Metodologia](/metodologia/)
+**Ultima actualizacion:** 27 de diciembre de 2025 \> [Metodologia](/metodologia.html)
 :::
 :::

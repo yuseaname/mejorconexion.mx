@@ -23,7 +23,7 @@ image: "/images/15-cuanta-velocidad-internet-necesitas-2026/15-cuanta-velocidad-
 - **Regla práctica**: 25 Mbps por persona + 50 Mbps si ves streaming 4K
 - **Acción**: usa calculadora sumando dispositivos simultáneos reales, no teóricos
 
-Para más detalle, consulta [/blog/cuantos-gb-necesitas-al-mes/](/blog/cuantos-gb-necesitas-al-mes/).
+Para más detalle, consulta [/blog/cuantos-gb-necesitas-al-mes/](/blog/cuantos-gb-necesitas-al-mes.html).
 
 Los proveedores te venden 200, 300, 500 megas. ¿Realmente los necesitas? Aquí te explico exactamente cuánta velocidad requieres según tu situación.
 

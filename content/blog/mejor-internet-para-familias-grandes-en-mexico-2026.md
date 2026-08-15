@@ -1,6 +1,8 @@
 ---
 title: "Guía completa: mejor internet para familias grandes en México 2026 2026"
 slug: "mejor-internet-para-familias-grandes-en-méxico-2026"
+aliases: ["/blog/mejor-internet-para-familias-grandes-en-méxico-2026.html"]
+description: "El **mejor internet para familias grandes en México 2026** ya no se trata solo de velocidad, sino de estabilidad, cobertura interna, bajo ping para gami…"
 date: 2026-05-26
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

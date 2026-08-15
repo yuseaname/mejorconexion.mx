@@ -1,6 +1,8 @@
 ---
 title: "Guía completa: internet para casas inteligentes en México 2026"
 slug: "internet-para-casas-inteligentes-en-méxico"
+aliases: ["/blog/internet-para-casas-inteligentes-en-méxico.html"]
+description: "**Para una casa inteligente con 15-30 dispositivos IoT en México necesitas 200-500 Mbps simétricos con WiFi 6 Mesh (red dual SSID); Totalplay 300 Mbps $…"
 date: 2026-05-29
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +26,7 @@ keywords:
 - **Cobertura Mesh**: 150-250 m² por pack de 2 nodos
 - **Acción**: separa red IoT (2.4 GHz) de equipos personales (5 GHz) en tu router
 
-Para más detalle, consulta [/blog/internet-casa-inteligente-mexico-2026/](/blog/internet-casa-inteligente-mexico-2026/).
+Para más detalle, consulta [/blog/internet-casa-inteligente-mexico-2026/](/blog/internet-casa-inteligente-mexico-2026.html).
 
 <figure class="article-image article-hero">
 <img src="./images/internet-para-casas-inteligentes-en-méxico/internet-para-casas-inteligentes-en-méxico_hero_00003_.png" loading="eager" decoding="async" width="1200" height="630" alt="internet para casas inteligentes en México 2026, modern setup" />
@@ -94,8 +96,8 @@ Fuente: precios oficiales verificados en sitio web de cada proveedor (abril 2026
 Para más detalles sobre cada proveedor, consulta nuestras guías especializadas:
 
 -   [Izzi vs Totalplay: ¿cuál es mejor para tu casa inteligente en 2026?](/blog/izzi-vs-totalplay-telmex-megacable-2026.html)
--   [Megacable y domótica: ¿vale la pena en 2026?](/blog/megacable-internet-casas-inteligentes.html)
--   [Infinitum no es obsoleto: cómo sacarle provecho para IoT](/blog/infinitum-telmex-iot-2026.html)
+-   Megacable y domótica: ¿vale la pena en 2026?
+-   Infinitum no es obsoleto: cómo sacarle provecho para IoT
 
 ## Cómo elegir el mejor internet para tu casa inteligente: pasos prácticos
 

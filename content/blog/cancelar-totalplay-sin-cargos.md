@@ -168,6 +168,14 @@ Para más información sobre tus derechos como consumidor, lee [cómo quejarse e
 
 ## Preguntas Frecuentes
 
+
+::: section
+## Sigue leyendo
+
+- [Cómo cancelar Izzi sin pena patrimonial ni cargos ocultos (2026)](/blog/cancelar-izzi-sin-cargos.html)
+- [Cómo cancelar Telmex/Infinitum sin penalización (2026)](/blog/cancelar-telmex-sin-penalizacion.html)
+:::
+
 {{< faq "¿Cómo cancelo Totalplay sin penalización?" >}}
 Para cancelar sin penalización: 1) verifica que no tengas período de permanencia vigente (revisa tu contrato), 2) paga cualquier factura pendiente, 3) solicita la cancelación por la app, chat o teléfono, 4) devuelve todo el equipo en sucursal con recibo. Si tienes permanencia, la penalización puede ser de $1,500-$3,500.
 {{< /faq >}}

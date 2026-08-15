@@ -26,7 +26,7 @@ keywords:
 - **Izzi**: cable/fibra híbrida, 3.9/5, 200 Mbps $449/mes
 - **Acción**: checa cobertura con tu CP; Totalplay si está disponible, Izzi si no
 
-Para más detalle, consulta [/blog/izzi-vs-totalplay-vs-telmex-2026/](/blog/izzi-vs-totalplay-vs-telmex-2026/).
+Para más detalle, consulta [/blog/izzi-vs-totalplay-vs-telmex-2026/](/blog/izzi-vs-totalplay-vs-telmex-2026.html).
 
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog/)

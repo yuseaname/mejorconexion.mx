@@ -1,6 +1,7 @@
 ---
 title: "Guía completa: internet lento en la noche solución 2026"
 slug: "internet-lento-en-la-noche-solucion"
+description: "**Resuelve el internet lento nocturno cambiando a banda 5 GHz, usando cable Ethernet y reiniciando el router a las 18:00; si persiste, actualiza a plan…"
 date: 2026-05-26
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +25,7 @@ keywords:
 - **Pasos clave**: 5 GHz + cable Cat 6 + reinicio programado
 - **Acción**: configura reinicio automático del router a las 18:00 vía app del fabricante
 
-Para más detalle, consulta [/blog/internet-lento-en-la-noche-2026/](/blog/internet-lento-en-la-noche-2026/).
+Para más detalle, consulta [/blog/internet-lento-en-la-noche-2026/](/blog/internet-lento-en-la-noche-2026.html).
 
 <figure class="article-image">
 <img src="./images/internet-lento-en-la-noche-solución/internet-lento-en-la-noche-solución_hero_00001_.png" loading="eager" decoding="async" width="1200" height="630" alt="internet lento en la noche solución en México 2026, setup moderno" />

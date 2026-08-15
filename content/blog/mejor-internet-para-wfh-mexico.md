@@ -48,7 +48,7 @@ Para más contexto, lee nuestra guía de [internet para oficina en casa](/blog/i
 
 Para WFH, la velocidad de subida es crítica. Cuando haces videollamadas, subes archivos o usas herramientas colaborativas, necesitas buena subida. Totalplay es el único proveedor mayoritario en México que ofrece fibra **simétrica** (misma velocidad de subida y bajada).
 
-Ejemplo: con Totalplay 300 Mbps, tienes 300 Mbps de bajada **y** 300 Mbps de subida. Con Telmex 100 Mbps, puedes tener 100 Mbps de bajada pero solo 10-50 Mbps de subida. Para más detalles, lee [qué es el internet simétrico](/blog/que-es-internet-simetrico.html).
+Ejemplo: con Totalplay 300 Mbps, tienes 300 Mbps de bajada **y** 300 Mbps de subida. Con Telmex 100 Mbps, puedes tener 100 Mbps de bajada pero solo 10-50 Mbps de subida. Para más detalles, lee [qué es el internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html).
 
 ### 2. Latencia más baja
 
@@ -109,7 +109,7 @@ Para más detalles, lee [planes de Izzi](/blog/internet-izzi-planes-precios-opin
 5. **¿Hay período de permanencia?** — Evita contratos con penalización
 6. **¿Qué dicen los usuarios de tu zona?** — Revisa quejas en PROFECO y redes sociales
 
-Para más información, lee [cómo contratar internet en México](/blog/cómo-contratar-internet-en-méxico-2026.html).
+Para más información, lee [cómo contratar internet en México](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
 
 ## Configuración óptima para WFH
 
@@ -160,6 +160,14 @@ La mayoría de personas compara planes mirando solo la velocidad de bajada. Pero
 La fibra simétrica de Totalplay es la única que ofrece igual subida y bajada. Esto marca una diferencia enorme en videollamadas HD y subida de archivos grandes. Si haces mucho WFH, la velocidad de subida justifica el precio premium de Totalplay.
 
 ## Preguntas Frecuentes
+
+
+::: section
+## Sigue leyendo
+
+- [Internet para Zoom y videollamadas: qué velocidad necesitas en México (2026)](/blog/internet-para-zoom-y-videollamadas-mexico.html)
+- [Qué es el jitter y por qué arruina tu internet (explicación fácil)](/blog/que-es-el-jitter-y-por-que-importa.html)
+:::
 
 {{< faq "¿Cuál es el mejor internet para trabajo desde casa en México?" >}}
 Totalplay con fibra simétrica de 300 Mbps ($599/mes) es el mejor para WFH por su velocidad de subida igual a la de bajada, latencia de 5-12 ms y estabilidad en horas pico. Si buscas una opción económica, Telmex Infinitum 100 Mbps con fibra ($399/mes) es la mejor alternativa.

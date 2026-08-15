@@ -90,7 +90,7 @@ La velocidad necesaria depende del número de dispositivos y de los usos simult�
 - **7+ dispositivos, 4K, gaming, videollamadas simultáneas:** 500 Mbps o más.
 - **Creadores de contenido, streaming en vivo, NAS:** 1 Gbps simétrico.
 
-Para profundizar, revisa [cuántos Mbps necesito](/guias/cuantos-mbps-necesito.html) y la guía de [velocidad necesaria según tu caso](/blog/cuanta-velocidad-internet-necesitas-2026.html). Un error común es sobrecontratar: muchas familias pagan por 1 Gbps cuando su consumo real no supera los 100 Mbps simultáneos.
+Para profundizar, revisa [cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html) y la guía de [velocidad necesaria según tu caso](/blog/cuanta-velocidad-internet-necesitas-2026.html). Un error común es sobrecontratar: muchas familias pagan por 1 Gbps cuando su consumo real no supera los 100 Mbps simultáneos.
 
 ## Cómo elegir el proveedor correcto en tu ciudad
 
@@ -159,7 +159,7 @@ El proceso de contratación es similar en todos los operadores, pero los detalle
 6. **Al recibir el servicio, mide la velocidad** con [cómo medir la velocidad real](/guias/como-medir-velocidad-real-internet.html). Si no llega al 80 % de lo contratado, levanta un reporte.
 7. **Guarda el contrato y el número de cliente.**
 
-Para el flujo completo con trampas a evitar, lee [cómo contratar internet en México](/blog/cómo-contratar-internet-en-méxico-2026.html). Si quieres opciones sin permanencia, revisa [internet sin contrato](/blog/internet-sin-contrato-mexico-2026.html).
+Para el flujo completo con trampas a evitar, lee [cómo contratar internet en México](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html). Si quieres opciones sin permanencia, revisa [internet sin contrato](/blog/internet-sin-contrato-mexico-2026.html).
 
 ## Instalación: qué esperar y cómo prepararte
 
@@ -199,7 +199,7 @@ Saturación del nodo en horas pico (19:00–23:00), común en coaxial. Solucione
 
 ### "El módem parpadea en rojo"
 
-Falla de conexión con el proveedor (fibra cortada, nodo caído, cable dañado). Revisa [módem parpadea en rojo](/blog/modem-parpadea-rojo-solucion-mexico.html).
+Falla de conexión con el proveedor (fibra cortada, nodo caído, cable dañado). Revisa [módem parpadea en rojo](/blog/modem-parpadea-rojo-solucion.html).
 
 ### "El Wi-Fi se cae o tiene puntos muertos"
 
@@ -237,8 +237,8 @@ El proceso de portabilidad de internet es más simple de lo que parece y no tien
 
 El internet ideal cambia según el perfil del hogar. Hemos creado guías específicas:
 
-- **Familias grandes:** [mejor internet para familias grandes](/blog/mejor-internet-para-familias-grandes-en-méxico-2026.html).
-- **Estudiantes:** [mejor internet para estudiantes](/blog/mejor-internet-para-estudiantes-méxico.html).
+- **Familias grandes:** [mejor internet para familias grandes](/blog/mejor-internet-para-familias-grandes-en-m%C3%A9xico-2026.html).
+- **Estudiantes:** [mejor internet para estudiantes](/blog/mejor-internet-para-estudiantes-m%C3%A9xico.html).
 - **Trabajo remoto:** [internet para trabajo remoto](/blog/internet-trabajo-remoto-2026.html) y [red estable para home office](/blog/red-estable-home-office-mexico.html).
 - **Gaming:** [mejor internet para gamers](/blog/mejor-internet-para-gamers-mexico-2026.html).
 - **Netflix y streaming:** [internet para Netflix](/blog/internet-para-netflix-mexico-2026.html) y [streaming sin cortes](/blog/streaming-sin-cortes-mexico.html).
@@ -263,7 +263,7 @@ Esta guía pilar es el centro de un cluster. Estos son los artículos que profun
 12. [Planes de Izzi 2026](/blog/internet-izzi-planes-precios-opiniones-2026.html) — detalle del operador.
 13. [Starlink México: precio y cobertura](/blog/starlink-mexico-precio-cobertura-2026.html) — opción satelital.
 14. [Fibra óptica vs cable](/blog/fibra-optica-vs-cable-mexico.html) — tecnologías.
-15. [Cómo contratar internet en México](/blog/cómo-contratar-internet-en-méxico-2026.html) — proceso completo.
+15. [Cómo contratar internet en México](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html) — proceso completo.
 16. [Cómo leer tu recibo de internet](/blog/como-leer-recibo-internet-mexico.html) — transparencia de cobros.
 17. [Cómo quejarse con PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html) — defensa del consumidor.
 18. [Internet para Netflix y streaming](/blog/internet-para-netflix-mexico-2026.html) — entretenimiento.

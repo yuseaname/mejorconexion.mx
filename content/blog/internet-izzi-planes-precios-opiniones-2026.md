@@ -179,7 +179,7 @@ Antes de firmar con Izzi, verifica estos puntos para evitar sorpresas:
 7. **Pregunta por la instalación**: ¿tiene costo? ¿en cuántos días?
 8. **Verifica qué incluye el bundle**: ¿Netflix? ¿HBO Max? ¿Teléfono? ¿Por cuánto tiempo?
 9. **Pide todo por escrito** (precio, plazo, servicios incluidos).
-10. Lee [cómo contratar internet paso a paso](/blog/como-contratar-internet-mexico-2026.html).
+10. Lee [cómo contratar internet paso a paso](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
 
 :::
 

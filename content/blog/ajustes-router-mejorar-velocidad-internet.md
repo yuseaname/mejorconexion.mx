@@ -1,6 +1,7 @@
 ---
 title: "Cómo Ajustar Tu Router para Mejorar la Velocidad de Internet (Guía 2026)"
 slug: "ajustes-router-mejorar-velocidad-internet"
+description: "**Cambiar el canal WiFi a uno menos saturado (1, 6 u 11 en 2.4 GHz), activar QoS para priorizar tráfico y subir el router a 1.5 m de altura puede devolv…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -26,7 +27,7 @@ keywords:
 - **Impacto promedio**: de 25 Mbps a 80 Mbps en una red típica de 100 Mbps Infinitum
 - **Acción**: entra a `192.168.1.1` o `192.168.0.1`, cambia el canal automático por uno fijo
 
-Para más detalle, consulta [/blog/como-mejorar-wifi-en-casa-guia-2026/](/blog/como-mejorar-wifi-en-casa-guia-2026/).
+Para más detalle, consulta [/blog/como-mejorar-wifi-en-casa-guia-2026/](/blog/como-mejorar-wifi-en-casa-guia-2026.html).
 
 ::: answer-box
 **Tu router puede estar robándote hasta el 60% de la velocidad que ya pagas.** Esta guía es para cualquier persona en México que tiene internet pero siente que no alcanza lo prometido --- especialmente si usas el router que te dio tu proveedor sin configurarlo. En 30 minutos aprenderás a cambiar la ubicación, el canal WiFi y las configuraciones clave para recuperar la velocidad real de tu conexión.
@@ -60,7 +61,7 @@ Tu proveedor de internet te vende 100 Mbps. Pero en tu celular solo recibes 30 M
   Firmware desactualizado            -10 a -30%
   Dispositivos antiguos conectados   -5 a -20%
 
-**La buena noticia:** La mayoría de estos problemas se arreglan en menos de 30 minutos. (Si tu problema es solo en la noche, revisa nuestra guía de [internet lento en horas pico](/blog/internet-lento-en-la-noche-2026).)
+**La buena noticia:** La mayoría de estos problemas se arreglan en menos de 30 minutos. (Si tu problema es solo en la noche, revisa nuestra guía de [internet lento en horas pico](/blog/internet-lento-en-la-noche-2026.html).)
 
 ## Paso 1: Ubicación Correcta
 
@@ -145,7 +146,7 @@ El firmware es el software interno del router. Las actualizaciones:
 4.  Si hay, descarga e instala
 5.  El router se reiniciará (5-10 minutos sin internet)
 
-**Nota:** Si tu router es muy viejo (5+ años), considera comprar uno nuevo en lugar de actualizar. Antes de decidir, verifica [cuánta velocidad necesitas realmente](/blog/cuanta-velocidad-internet-necesitas-2026).
+**Nota:** Si tu router es muy viejo (5+ años), considera comprar uno nuevo en lugar de actualizar. Antes de decidir, verifica [cuánta velocidad necesitas realmente](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 ## Paso 4: Configuraciones Avanzadas
 
@@ -356,7 +357,7 @@ Tu internet puede ser mucho más rápido sin cambiar de proveedor. Empieza con l
 
 ## Artículos relacionados:
 
--   [¿Cuánta Velocidad de Internet Necesitas en 2026?](/blog/cuanta-velocidad-internet-necesitas-2026) --- Calcula exactamente cuántos megas requiere tu hogar
--   [Internet Lento en la Noche](/blog/internet-lento-en-la-noche-2026) --- Si tu conexión se cae en horas pico, esto es lo que pasa
--   [Izzi vs Totalplay vs Telmex vs Megacable](/blog/izzi-vs-totalplay-telmex-megacable-2026) --- Compara proveedores con datos reales
--   [Internet para Trabajo Remoto](/blog/internet-trabajo-remoto-2026) --- Lo que necesitas si trabajas desde casa
+-   [¿Cuánta Velocidad de Internet Necesitas en 2026?](/blog/cuanta-velocidad-internet-necesitas-2026.html) --- Calcula exactamente cuántos megas requiere tu hogar
+-   [Internet Lento en la Noche](/blog/internet-lento-en-la-noche-2026.html) --- Si tu conexión se cae en horas pico, esto es lo que pasa
+-   [Izzi vs Totalplay vs Telmex vs Megacable](/blog/izzi-vs-totalplay-telmex-megacable-2026.html) --- Compara proveedores con datos reales
+-   [Internet para Trabajo Remoto](/blog/internet-trabajo-remoto-2026.html) --- Lo que necesitas si trabajas desde casa

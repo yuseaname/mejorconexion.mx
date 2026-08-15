@@ -1,6 +1,7 @@
 ---
 title: "Cómo saber si tengo fibra óptica en mi casa (México, 2026)"
 slug: "como-saber-si-tengo-fibra-optica-2026"
+description: "**Tienes fibra óptica si la roseta de tu pared es tipo SC/APC verde (no coaxial roscado) y la velocidad real supera los 200 Mbps simétricos; Totalplay,…"
 date: 2026-08-09
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -24,7 +25,7 @@ keywords:
 - **Prueba rápida**: speedtest debe dar 90%+ de la velocidad contratada, ambos sentidos
 - **Acción**: revisa la etiqueta del ONT (caja blanca con láser verde)
 
-Para más detalle, consulta [/blog/fibra-optica-vs-cable-mexico/](/blog/fibra-optica-vs-cable-mexico/).
+Para más detalle, consulta [/blog/fibra-optica-vs-cable-mexico/](/blog/fibra-optica-vs-cable-mexico.html).
 
 
 ## Preguntas Frecuentes

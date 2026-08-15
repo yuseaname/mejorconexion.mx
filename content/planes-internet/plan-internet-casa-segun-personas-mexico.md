@@ -125,7 +125,7 @@ Este es el punto donde muchos sienten "se pone lento" en la noche. Aquí importa
 
 Necesitas plan robusto y mejor red interna. Para casas grandes, considera Wi‑Fi mesh o cableado.
 
-Guía útil: [Wi‑Fi mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total/).
+Guía útil: [Wi‑Fi mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total.html).
 :::
 
 ::: {#casos .section}
@@ -172,7 +172,7 @@ Esta tabla no es una regla rígida, es una guía para ubicarte rápido.
 2.  **Detecta usos exigentes:** streaming 4K, gaming, videollamadas.
 3.  **Elige el rango:** si hay usos exigentes, sube el rango aunque sean pocas personas.
 
-Si quieres una guía más detallada, revisa: [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/).
+Si quieres una guía más detallada, revisa: [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 
 ::: {#wifi .section}
@@ -184,7 +184,7 @@ Muchas quejas de "internet lento" son problemas de Wi‑Fi, no del plan. Si el r
 -   Evita encerrar el router en muebles.
 -   Si la casa es grande, considera mesh o repetidores.
 
-Guía práctica: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Guía práctica: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#horario-pico .section}
@@ -240,7 +240,7 @@ Antes de subir de plan, revisa:
 -   Estabilidad en horario pico.
 -   Subida real si haces videollamadas.
 
-Si buscas ahorrar, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales/).
+Si buscas ahorrar, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales.html).
 :::
 
 ::: {#mitos .section}
@@ -272,7 +272,7 @@ Si necesitas entender diferencias reales, revisa: [fibra óptica vs cable](/blog
 
 **Ejemplo 3:** 5 personas, casa grande y dos TVs 4K. Necesitas un plan robusto y Wi‑Fi mesh.
 
-Si quieres comparar proveedores con lógica, revisa: [comparativa por uso real](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/).
+Si quieres comparar proveedores con lógica, revisa: [comparativa por uso real](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 :::
 
 ::: {#diagnostico .section}
@@ -377,7 +377,7 @@ No siempre. Primero revisa tu Wi‑Fi y la instalación.
 
 ### ¿Qué proveedor conviene más según personas?
 
-Depende de tu zona. Para comparar proveedores con lógica, revisa: [comparativa por uso real](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/).
+Depende de tu zona. Para comparar proveedores con lógica, revisa: [comparativa por uso real](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 
 ### ¿Sirve comprar un plan barato y luego mejorar el Wi‑Fi?
 

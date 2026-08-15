@@ -37,7 +37,7 @@ Ninguna conexión es perfecta. En 2026, el estándar de servicio exige que el pr
 
 Sin embargo, en la realidad mexicana, cortes por mantenimiento o daños en la infraestructura urbana (obras públicas) son comunes. Por eso, la tolerancia a fallos no es solo esperar que el proveedor arregle el cable, sino tener un plan B. La redundancia es clave. Si tu internet principal falla, ¿tienes un router 4G/5G de respaldo con una tarjeta SIM de datos? ¿Tienes una conexión satelital?
 
-La capacidad de tu equipo de trabajo para continuar operando sin interrupciones define tu productividad. Muchos profesionales ya no aceptan trabajar con un solo punto de fallo. Si quieres ver cómo se comportan los proveedores en términos de continuidad, consulta nuestra guía sobre [¿Qué Internet Falla Menos en México? Ranking 2026](/internet-en-casa/que-internet-falla-menos-en-mexico-ranking-2026/). Ahí encontrarás datos reales de usuarios sobre tiempos de caída y recuperación en diferentes colonias de la capital y el país.
+La capacidad de tu equipo de trabajo para continuar operando sin interrupciones define tu productividad. Muchos profesionales ya no aceptan trabajar con un solo punto de fallo. Si quieres ver cómo se comportan los proveedores en términos de continuidad, consulta nuestra guía sobre [¿Qué Internet Falla Menos en México? Ranking 2026](/blog/que-internet-falla-menos-en-mexico-ranking-2026.html). Ahí encontrarás datos reales de usuarios sobre tiempos de caída y recuperación en diferentes colonias de la capital y el país.
 
 <!-- IMAGE: infographic — Infografía con requisitos técnicos de internet para trabajo remoto en México 2026 -->
 
@@ -51,7 +51,7 @@ El mercado mexicano en 2026 sigue dominado por los grandes jugadores, pero la co
 
 **Izzi** (parte del Grupo Iusacell/Axtel) ha dado un salto enorme en calidad. Su propuesta de valor es la integración: internet + TV + Móvil. En zonas donde compite directamente con Totalplay, sus precios son ligeramente más agresivos. Sin embargo, la calidad de la conexión de Izzi depende mucho de la infraestructura heredada. En algunas colonias de la CDMX (como la Roma y Condesa), Izzi es superior por menor saturación. En otras zonas, su red es híbrida (HFC: Fibra hasta el nodo y cable coaxial hasta la casa), lo que puede introducir ruido en la señal durante lluvias fuertes.
 
-Para una comparación detallada de precios, promociones actuales de 2026 y rendimiento real, te recomendamos leer nuestra comparativa directa de [Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html/). Allí desglosamos qué plan te conviene según tu presupuesto y ubicación exacta.
+Para una comparación detallada de precios, promociones actuales de 2026 y rendimiento real, te recomendamos leer nuestra comparativa directa de [Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html). Allí desglosamos qué plan te conviene según tu presupuesto y ubicación exacta.
 
 ### Evaluación de Megacable y Telmex
 
@@ -59,7 +59,7 @@ Para una comparación detallada de precios, promociones actuales de 2026 y rendi
 
 **Telmex** (el servicio tradicional) sigue siendo una opción para quienes prefieren contratos más flexibles o no quieren fibra óptica pura, aunque su tecnología 5G Home (inalámbrica) está compitiendo fuerte. Telmex tiene la cobertura más amplia del país, llegando a zonas donde los otros no llegan. Sin embargo, su tecnología HFC (cable) es más propensa a interferencias que la fibra pura de Totalplay. En términos de velocidad máxima, Telmex suele ofrecer menos Mbps por el mismo precio que sus competidores de fibra dedicada.
 
-Si estás en la duda entre estos dos gigantes, es crucial evaluar si en tu domicilio específico hay fibra óptica disponible. La comparativa de [Megacable vs Telmex](/blog/megacable-vs-telmex-comparativa-directa-2026.html/) te ayudará a entender las diferencias técnicas y de precios en tu región específica para 2026.
+Si estás en la duda entre estos dos gigantes, es crucial evaluar si en tu domicilio específico hay fibra óptica disponible. La comparativa de [Megacable vs Telmex](/blog/megacable-vs-telmex-comparativa-directa-2026.html) te ayudará a entender las diferencias técnicas y de precios en tu región específica para 2026.
 
 ### Cobertura real por zona en CDMX y estados
 
@@ -153,7 +153,7 @@ En 2026, la tecnología satelital de baja órbita ha madurado y se ha vuelto una
 
 Sin embargo, tiene desventajas. El costo inicial del equipo (antena y router) es alto (alrededor de $12,000 - $15,000 MXN). El plan mensual ronda los $1,400 MXN, lo cual es más caro que un plan de fibra urbano. Además, la latencia en Starlink (25-50ms) es superior a la de la fibra (10-20ms), y puede verse afectada por condiciones climáticas extremas (lluvia torrencial).
 
-Para trabajo remoto urbano, la fibra sigue siendo superior por precio y estabilidad. Para zonas rurales o casas de campo, Starlink es la única opción viable. Si quieres profundizar en esta batalla tecnológica, lee nuestro análisis de [Starlink vs Fibra Óptica México 2026](/internet-en-casa/starlink-vs-fibra-optica-mexico-2026/).
+Para trabajo remoto urbano, la fibra sigue siendo superior por precio y estabilidad. Para zonas rurales o casas de campo, Starlink es la única opción viable. Si quieres profundizar en esta batalla tecnológica, lee nuestro análisis de [Starlink vs Fibra Óptica México 2026](/internet-en-casa/starlink-vs-fibra-optica-mexico-2026.html).
 
 ### Planes de respaldo 4G y 5G para emergencias
 
@@ -204,7 +204,7 @@ Para trabajar remoto de manera profesional en 2026, se recomienda un mínimo de 
 En zonas rurales donde no llega la fibra óptica, **Starlink es la mejor y a veces única opción**. La fibra óptica ofrece mejor latencia y precio en ciudades, pero Starlink garantiza conectividad en lugares remotos. Si tienes opción de fibra en tu zona rural, elige fibra por estabilidad; si no, Starlink es tu salvavidas.
 
 ### ¿Qué proveedor de internet falla menos en la Ciudad de México?
-En la CDMX, **Totalplay y Megacable** suelen reportar menos fallas en zonas con fibra óptica pura. Izzi es una excelente alternativa en zonas específicas como el Centro y el Sur. Sin embargo, la estabilidad depende mucho de la colonia exacta. Revisa el ranking de [¿Qué Internet Falla Menos en México?](/internet-en-casa/que-internet-falla-menos-en-mexico-ranking-2026/) para ver datos específicos de tu sector.
+En la CDMX, **Totalplay y Megacable** suelen reportar menos fallas en zonas con fibra óptica pura. Izzi es una excelente alternativa en zonas específicas como el Centro y el Sur. Sin embargo, la estabilidad depende mucho de la colonia exacta. Revisa el ranking de [¿Qué Internet Falla Menos en México?](/blog/que-internet-falla-menos-en-mexico-ranking-2026.html) para ver datos específicos de tu sector.
 
 ### ¿Cuánto cuesta un plan de internet adecuado para videollamadas HD?
 Un plan adecuado para videollamadas en HD (100 Mbps) cuesta en promedio **$600 a $850 MXN mensuales**. Los planes más económicos (30-50 Mbps) rondan los $400 MXN, pero pueden saturarse si hay otra persona en casa. Para videollamadas en 4K o múltiples dispositivos, los planes de 300 Mbps suben a unos **$900 - $1,100 MXN**.

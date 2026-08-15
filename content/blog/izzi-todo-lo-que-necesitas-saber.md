@@ -1,6 +1,7 @@
 ---
 title: "Izzi: planes, precios, cobertura y opiniones (2026)"
 slug: "izzi-todo-lo-que-necesitas-saber"
+description: "**Izzi es el segundo proveedor de internet más grande de México, ofreciendo planes desde $349/mes (100 Mbps) hasta $999/mes (1 Gbps) principalmente sobr…"
 date: 2026-08-10
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -187,7 +188,7 @@ Principalmente cable coaxial con tecnología DOCSIS 3.0/3.1. En algunas zonas nu
 {{< /faq >}}
 
 {{< faq "¿Izzi conviene para gaming?" >}}
-No es la mejor opción para gaming competitivo por la latencia del cable coaxial (30-60 ms vs 10-25 ms de fibra) y la saturación en horas pico. Para gaming casual funciona bien. Para competitivo, prefiere Totalplay o Telmex con fibra. Lee nuestra guía de [internet para gaming](/blog/mejor-internet-para-gaming-en-mexico-2026.html).
+No es la mejor opción para gaming competitivo por la latencia del cable coaxial (30-60 ms vs 10-25 ms de fibra) y la saturación en horas pico. Para gaming casual funciona bien. Para competitivo, prefiere Totalplay o Telmex con fibra. Lee nuestra guía de [internet para gaming](/blog/mejor-internet-para-gaming-en-mexico.html).
 {{< /faq >}}
 
 {{< faq "¿Cómo cancelo Izzi sin penalización?" >}}

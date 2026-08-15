@@ -30,7 +30,7 @@ Telcel, AT&T, Movistar, prepago y pospago. Lo aterrizamos a cómo lo usas en Mé
 ::: {.section .hub-intro hub-intro="true"}
 Este hub de **planes móviles** está pensado para comparar con lógica, no con anuncios. En México, un buen plan depende de cobertura real, vigencia, datos efectivos y reglas de uso justo. Aquí juntamos comparativas y guías para entender qué conviene según tu uso diario: WhatsApp, streaming, hotspot, trabajo o escuela. La idea es que entiendas qué estás pagando y por qué.
 
-Para usar esta guía de **planes móviles**, empieza por la comparativa principal de [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar/) y luego baja a tu tipo de plan. Si prefieres control de gasto, revisa [mejores planes prepago](/planes-moviles/mejores-planes-prepago-mexico/). Para dimensionar consumo, apóyate en [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html) y en la guía básica de [qué son los datos móviles](/blog/que-son-los-datos-moviles.html).
+Para usar esta guía de **planes móviles**, empieza por la comparativa principal de [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar.html) y luego baja a tu tipo de plan. Si prefieres control de gasto, revisa [mejores planes prepago](/planes-moviles/mejores-planes-prepago-mexico.html). Para dimensionar consumo, apóyate en [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html) y en la guía básica de [qué son los datos móviles](/blog/que-son-los-datos-moviles.html).
 
 Dentro de este hub de **planes móviles** encontrarás criterios por cobertura, datos reales, velocidad percibida y estabilidad en movilidad. Hablamos de diferencias entre prepago y pospago, cómo leer la vigencia, cuándo conviene una eSIM como respaldo y cómo evitar "paquetes" que se sienten bien en papel pero fallan en la práctica. Todo con enfoque México y uso cotidiano.
 
@@ -68,13 +68,13 @@ Comparativas por operador, prepago vs pospago y guías para evitar letras chiqui
 :::
 
 ::: {.grid .two}
-[](/planes-moviles/telcel-vs-att-vs-movistar/){.card}
+[](/planes-moviles/telcel-vs-att-vs-movistar.html){.card}
 
 ## Telcel vs AT&T vs Movistar {#telcel-vs-att-vs-movistar style="margin:0 0 8px"}
 
 Cobertura, consistencia y para quién conviene cada uno.
 
-[](/planes-moviles/mejores-planes-prepago-mexico/){.card}
+[](/planes-moviles/mejores-planes-prepago-mexico.html){.card}
 
 ## Mejores planes prepago en México {#mejores-planes-prepago-en-méxico style="margin:0 0 8px"}
 
@@ -106,7 +106,7 @@ Valores orientativos para comparacion editorial. Verifica vigencia y cobertura e
 -   **Mejor para costo-beneficio urbano:** AT&T puede rendir mejor en zonas con buena cobertura.
 -   **Mejor para gasto controlado:** Movistar puede convenir en prepago si tu consumo es moderado.
 
-Antes de contratar, compara tambien [nuestra comparativa completa de operadores](/planes-moviles/telcel-vs-att-vs-movistar/) y revisa [cuantos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html) para no sobrepagar.
+Antes de contratar, compara tambien [nuestra comparativa completa de operadores](/planes-moviles/telcel-vs-att-vs-movistar.html) y revisa [cuantos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html) para no sobrepagar.
 :::
 
 ::: {.section style="margin-top:18px"}

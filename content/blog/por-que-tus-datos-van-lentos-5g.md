@@ -1,6 +1,7 @@
 ---
 title: "Por qué tus datos van lentos en 5G en México"
 slug: "por-que-tus-datos-van-lentos-5g"
+description: "**Si tus datos 5G van lentos en México, suele ser porque estás en zona con cobertura 4G/LTE disfrazada de 5G, o el plan tiene hotspot deshabilitado o th…"
 date: 2026-01-01
 author: "Mtro. Daniel Cruz"
 author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."

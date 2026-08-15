@@ -1,6 +1,7 @@
 ---
 title: "Pérdida de paquetes (packet loss) en México: diagnóstico y solución"
 slug: "paquetes-perdidos-internet-mexico"
+description: "**La pérdida de paquetes (packet loss) en México se debe principalmente a: conexión WiFi débil o con interferencia, saturación de la red local por desca…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -105,7 +106,7 @@ Si tu plan es **asimétrico** (ej: 500 Mbps de bajada / 50 Mbps de subida), la s
 
 - **Activa QoS** para priorizar tu tráfico importante
 - Pausa subidas automáticas (Google Photos, OneDrive) cuando juegues
-- Considera un plan **simétrico** (Totalplay ofrece 500/500). Lee [qué es internet simétrico](/blog/que-es-internet-simétrico.html)
+- Considera un plan **simétrico** (Totalplay ofrece 500/500). Lee [qué es internet simétrico](/blog/que-es-internet-sim%C3%A9trico.html)
 
 ## Causa 5: Rutas congestionadas del proveedor
 

@@ -31,7 +31,7 @@ Explicaciones sencillas, paso a paso, con ejemplos reales de México. La idea es
 ::: {.section .hub-intro hub-intro="true"}
 El hub de **guías** es el lugar para entender lo esencial sin tecnicismos. Aquí explicamos, paso a paso, conceptos que sí afectan tu experiencia: velocidad real, latencia/ping, Wi‑Fi en casa, consumo de datos y cobertura. Está escrito para México y para situaciones reales de casa, trabajo, escuela y viajes. Si no quieres perderte entre siglas, este es el punto de entrada.
 
-Para usar este contenido, empieza por lo que te está frenando hoy. Si dudas de tu plan, ve a [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/). Si sospechas que el problema es el Wi‑Fi, revisa [cómo medir la velocidad real](/guias/como-medir-velocidad-real-internet/) y contrasta con [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/). Y si quieres entender la latencia, abre [qué es el ping](/blog/que-es-el-ping.html).
+Para usar este contenido, empieza por lo que te está frenando hoy. Si dudas de tu plan, ve a [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html). Si sospechas que el problema es el Wi‑Fi, revisa [cómo medir la velocidad real](/guias/como-medir-velocidad-real-internet.html) y contrasta con [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html). Y si quieres entender la latencia, abre [qué es el ping](/blog/que-es-el-ping.html).
 
 En este hub encontrarás explicaciones claras, checklists y ejemplos con situaciones comunes: videollamadas, streaming, gaming, datos móviles y problemas de cobertura. La idea no es venderte nada, sino darte criterios prácticos para diagnosticar y decidir. Si algo no cuadra, usamos lenguaje simple para que puedas hablar con soporte o comparar alternativas con calma. También incluimos ejemplos de errores comunes para que sepas qué descartar primero.
 
@@ -49,25 +49,25 @@ Estas guías funcionan como base para los hubs de internet en casa, planes móvi
 :::
 
 ::: {.grid .two}
-[](/guias/cuantos-mbps-necesito/){.card}
+[](/blog/cuanta-velocidad-internet-necesitas-2026.html){.card}
 
 ## ¿Cuántos Mbps necesito? {#cuántos-mbps-necesito style="margin:0 0 8px"}
 
 La guía práctica para casa, trabajo y streaming.
 
-[](/guias/diferencia-mbps-vs-mb/){.card}
+[](/blog/cuanta-velocidad-internet-necesitas-2026.html){.card}
 
 ## Diferencia entre Mbps y MB {#diferencia-entre-mbps-y-mb style="margin:0 0 8px"}
 
 La confusión más común en velocidad vs tamaño de archivo, aclarada.
 
-[](/guias/como-medir-velocidad-real-internet/){.card}
+[](/guias/como-medir-velocidad-real-internet.html){.card}
 
 ## Cómo medir tu velocidad real {#cómo-medir-tu-velocidad-real style="margin:0 0 8px"}
 
 Pasos claros para distinguir proveedor vs Wi‑Fi dentro de casa.
 
-[](/guias/que-hacer-si-internet-lento/){.card}
+[](/guias/que-hacer-si-internet-lento.html){.card}
 
 ## Qué hacer si el internet está lento {#qué-hacer-si-el-internet-está-lento style="margin:0 0 8px"}
 

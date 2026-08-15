@@ -1,6 +1,7 @@
 ---
 title: "Por qué el internet es lento a veces: causas y soluciones reales (2026)"
 slug: "por-que-el-internet-es-lento-a-veces"
+description: "Si tu internet 'se pone lento' de repente, no siempre es culpa del plan. Puede ser Wi‑Fi, saturación en tu zona, interferencias o un router limitado. Aq…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -113,7 +114,7 @@ El Wi‑Fi es la causa número uno de lentitud percibida. Si el router está en 
 -   Evita encerrarlo en muebles.
 -   Separa bandas 2.4 GHz y 5 GHz si tu router lo permite.
 
-Guía práctica: [cómo mejorar tu Wi‑Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Guía práctica: [cómo mejorar tu Wi‑Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#router .section}
@@ -131,7 +132,7 @@ Si quieres entender opciones, revisa: [cómo elegir router en casa](/blog/como-e
 
 Un hogar con 4 personas y 8 dispositivos activos consume mucho más que uno con 2 personas. El problema no es solo el plan, sino el uso simultáneo.
 
-Si no estás seguro, revisa: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico/).
+Si no estás seguro, revisa: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
 :::
 
 ::: {#diagnostico .section}
@@ -142,7 +143,7 @@ Si no estás seguro, revisa: [plan según personas](/planes-internet/plan-intern
 3.  Repite en horario pico.
 4.  Apaga y enciende el router para descartar saturación temporal.
 
-Guía completa: [cómo [medir tu velocidad](/guias/como-medir-velocidad-real-internet.html) real](/guias/como-medir-velocidad-real-internet/).
+Guía completa: [cómo [medir tu velocidad](/guias/como-medir-velocidad-real-internet.html) real](/guias/como-medir-velocidad-real-internet.html).
 :::
 
 ::: {#soluciones .section}
@@ -282,7 +283,7 @@ Señales para considerar cambio:
 -   Hay cortes frecuentes aunque el Wi‑Fi esté bien.
 -   Varias personas en tu zona reportan lo mismo.
 
-Antes de cambiar, confirma cobertura real en tu calle. Guía útil: [compañías de internet en México](/internet-en-casa/companias-internet-mexico/).
+Antes de cambiar, confirma cobertura real en tu calle. Guía útil: [compañías de internet en México](/internet-en-casa/companias-internet-mexico.html).
 
 Si no hay fibra disponible, evalúa alternativas como inalámbrico fijo o satelital, pero considera que la estabilidad puede variar. En esos casos, el objetivo es mantener una conexión usable, no necesariamente la velocidad más alta.
 
@@ -346,7 +347,7 @@ Cambia de proveedor si:
 -   Hay fallas constantes en horario pico.
 -   La tecnología actual no te da estabilidad.
 
-Comparativa útil: [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/).
+Comparativa útil: [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 :::
 
 ::: {#faq .section}

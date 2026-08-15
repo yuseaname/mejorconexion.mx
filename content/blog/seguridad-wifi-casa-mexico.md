@@ -1,6 +1,7 @@
 ---
 title: "Seguridad WiFi en casa en Mexico: guia completa"
 slug: "seguridad-wifi-casa-mexico"
+description: "**Para proteger tu Wi-Fi en México en 2026 necesitas cifrado WPA2 o WPA3, contraseña de 12+ caracteres y firmware actualizado. Activa una red de invitad…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -277,7 +278,7 @@ El router debe estar en un lugar visible solo para los de casa. Si esta en un pa
 
 Tambien cuida los cables. Un cable de red desconectado puede parecer un problema de proveedor cuando en realidad es un tema fisico. Si usas Ethernet, aseguralo bien y evita que quede suelto.
 
-Una buena ubicacion ayuda tanto a seguridad como a cobertura. Para mas tips de cobertura, revisa nuestra guia para [mejorar WiFi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Una buena ubicacion ayuda tanto a seguridad como a cobertura. Para mas tips de cobertura, revisa nuestra guia para [mejorar WiFi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#dispositivos .section}
@@ -348,13 +349,13 @@ Filtros, horarios y configuraciones por edad para familias en Mexico.
 
 Mapa completo de guias y buenas practicas para el hogar.
 
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
+[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.card}
 
 ### Como mejorar el WiFi en casa
 
 Pasos simples para subir estabilidad sin gastar de mas.
 
-[](/guias/como-medir-velocidad-real-internet/){.card}
+[](/guias/como-medir-velocidad-real-internet.html){.card}
 
 ### Como medir la velocidad real
 
@@ -365,6 +366,6 @@ Pruebas practicas para saber si tu plan da lo que promete.
 ------------------------------------------------------------------------
 
 ::: meta-row
-**Ultima actualizacion:** 27 de diciembre de 2025 [Metodologia](/metodologia/)
+**Ultima actualizacion:** 27 de diciembre de 2025 [Metodologia](/metodologia.html)
 :::
 :::

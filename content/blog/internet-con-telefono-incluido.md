@@ -1,6 +1,8 @@
 ---
 title: "Planes de internet con teléfono incluido: ¿Vale la pena el paquete?"
 slug: "internet-con-teléfono-incluido"
+aliases: ["/blog/internet-con-teléfono-incluido.html"]
+description: "**Los paquetes de internet con teléfono fijo incluido cuestan entre $599 y $1,299/mes (Telmex incluye llamadas locales gratis, Izzi/TV+Cable+Tel desde $…"
 date: 2026-05-30
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +26,7 @@ keywords:
 - **Top combo**: Telmex Infinitum 100 Mbps + llamadas = $599/mes
 - **Acción**: compara contra contratar internet solo y OXXO celular ($30/mes)
 
-Para más detalle, consulta [/blog/internet-telmex-infinitum-planes-precios-2026/](/blog/internet-telmex-infinitum-planes-precios-2026/).
+Para más detalle, consulta [/blog/internet-telmex-infinitum-planes-precios-2026/](/blog/internet-telmex-infinitum-planes-precios-2026.html).
 
 <figure class="article-image article-hero">
 <img src="./images/01-internet-con-teléfono-incluido/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Planes de internet con teléfono incluido en México: comparativa de paquetes y costos" />

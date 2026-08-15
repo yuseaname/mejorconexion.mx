@@ -1,6 +1,8 @@
 ---
 title: "Guía completa: cómo contratar internet en México 2026 2026"
 slug: "cómo-contratar-internet-en-méxico-2026"
+aliases: ["/blog/cómo-contratar-internet-en-méxico-2026.html"]
+description: "**Contratar internet en México cuesta desde $299/mes por 50 Mbps Infinitum hasta $899/mes por 500 Mbps Totalplay; necesitas INE vigente, comprobante de…"
 date: 2026-05-26
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +26,7 @@ keywords:
 - **Cobertura por zona**: Telmex llega al 80% del país; Totalplay al 35% en zonas urbanas
 - **Acción**: compara en https://cobertura.totalplay.com.mx y www.izzi.com.mx antes de firmar
 
-Para más detalle, consulta [/blog/cuanto-cuesta-internet-en-mexico-2026/](/blog/cuanto-cuesta-internet-en-mexico-2026/).
+Para más detalle, consulta [/blog/cuanto-cuesta-internet-en-mexico-2026/](/blog/cuanto-cuesta-internet-en-mexico-2026.html).
 
 <figure class="article-image article-hero">
 <img src="./images/cómo-contratar-internet-en-méxico-2026/cómo-contratar-internet-en-méxico-2026_hero_00001_.png" loading="eager" decoding="async" width="1200" height="630" alt="cómo contratar internet en México 2026 en México 2026, setup moderno" />
@@ -94,7 +96,7 @@ Para familias, prioriza estabilidad y soporte técnico rápido. **Infinitum (Tel
 
 ### ¿Es posible contratar internet sin contrato largo plazo en México 2026?
 
-Sí, y es más fácil que nunca. **Virgin Mobile** ofrece planes prepago con hasta 100 Mbps por \$299 MXN/mes (sin contrato, sin depósito). **Dish** también tiene planes móviles 5G desde \$349 MXN, pero su cobertura es limitada a zonas urbanas. Si prefieres internet fijo \*sin contrato\*, **Megacable** es la única opción: pide 24 meses pero no cobra penalización por cancelar antes. Para más opciones sin trampas, consulta [nuestra guía especializada](/blog/contratar-internet-sin-contrato-largo-plazo-mexico.html).
+Sí, y es más fácil que nunca. **Virgin Mobile** ofrece planes prepago con hasta 100 Mbps por \$299 MXN/mes (sin contrato, sin depósito). **Dish** también tiene planes móviles 5G desde \$349 MXN, pero su cobertura es limitada a zonas urbanas. Si prefieres internet fijo \*sin contrato\*, **Megacable** es la única opción: pide 24 meses pero no cobra penalización por cancelar antes. Para más opciones sin trampas, consulta nuestra guía especializada.
 
 ### ¿Vale la pena pagar más por fibra óptica en 2026?
 
@@ -102,7 +104,7 @@ Sí, y es más fácil que nunca. **Virgin Mobile** ofrece planes prepago con has
 
 ### ¿Qué pasa si me mudo a otra ciudad: puedo llevar mi internet?
 
-No. Cada proveedor tiene cobertura local: Izzi no opera en León, Megacable no llega a Tijuca, y Infinitum no tiene fibra en ciudades pequeñas. Si te mudas, tendrás que cancelar y contratar nuevo plan en el nuevo lugar. Algunos como Totalplay ofrecen "migración sin costo" \*solo si\* tu nueva dirección está en su red (poco común). Lo mejor es verificar cobertura antes de mudarte --- usa [nuestro mapa interactivo](/blog/mapa-cobertura-internet-mexico-2026.html) para validar en tiempo real.
+No. Cada proveedor tiene cobertura local: Izzi no opera en León, Megacable no llega a Tijuca, y Infinitum no tiene fibra en ciudades pequeñas. Si te mudas, tendrás que cancelar y contratar nuevo plan en el nuevo lugar. Algunos como Totalplay ofrecen "migración sin costo" \*solo si\* tu nueva dirección está en su red (poco común). Lo mejor es verificar cobertura antes de mudarte --- usa nuestro mapa interactivo para validar en tiempo real.
 
 ## Conclusión
 

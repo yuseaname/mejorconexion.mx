@@ -31,7 +31,7 @@ En México, "sí hay cobertura" no siempre significa "te va a jalar bien". Aquí
 ::: {.section .hub-intro hub-intro="true"}
 El hub de **ciudades** junta guías locales porque en México la experiencia cambia por colonia, edificio y tipo de vivienda. Esta sección es para quienes se mudan, comparan proveedores o buscan confirmar cobertura real antes de firmar. Aquí no vas a ver "promesas mágicas": vas a ver criterios prácticos, ejemplos por zona y qué preguntas hacer para evitar sorpresas con velocidad real, latencia/ping y estabilidad de Wi‑Fi.
 
-Para usar este hub de **ciudades** con provecho: elige tu ciudad, revisa el panorama local y luego cruza con información general. Si necesitas una visión nacional, abre [mejor internet en México](/internet-en-casa/mejor-internet-mexico/) y compárala con lo local. Si tu problema es lentitud o cortes, apóyate en [qué hacer si el internet está lento](/guias/que-hacer-si-internet-lento/). Y si aún no defines tu plan, el directorio completo está en [cobertura por ciudad](/cobertura/).
+Para usar este hub de **ciudades** con provecho: elige tu ciudad, revisa el panorama local y luego cruza con información general. Si necesitas una visión nacional, abre [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html) y compárala con lo local. Si tu problema es lentitud o cortes, apóyate en [qué hacer si el internet está lento](/guias/que-hacer-si-internet-lento.html). Y si aún no defines tu plan, el directorio completo está en [cobertura por ciudad](/cobertura/).
 
 En este hub encontrarás guías por ciudad, checklist de contratación, señales comunes de saturación y recomendaciones por tipo de uso (home office, streaming, estudiantes). El foco es México y la vida real: horarios pico, edificios con cableado viejo, zonas con fibra y zonas donde el coaxial o el inalámbrico fijo son lo que hay. La idea es que tomes decisiones informadas y con expectativas realistas.
 
@@ -72,7 +72,7 @@ Guías locales, diferencias por zona, y enlaces a comparativas nacionales y guí
 ## Ciudades principales
 
 ::: {.grid .three}
-[](/cobertura/cdmx/mejor-internet-cdmx/){.card}
+[](/cobertura/mejor-internet-cdmx.html){.card}
 
 ### CDMX
 
@@ -116,7 +116,7 @@ Directorio completo con todas las guías locales disponibles.
 ::: callout
 **Regla de oro:** valida con vecinos y prueba en horario pico. En serio, eso te evita el 80% de malas decisiones.
 
-Lecturas clave: [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html/) y [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/).
+Lecturas clave: [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html) y [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 :::
 

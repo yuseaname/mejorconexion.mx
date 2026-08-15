@@ -143,7 +143,7 @@ Un análisis de quejas de usuarios y mediciones de Speedtest muestra:
 | Battle Royale (Fortnite, Warzone) | Marginal | Latencia alta da desventaja |
 | Juegos en la nube (GeForce Now) | No | Necesita baja latencia y estabilidad |
 
-Para gaming competitivo, prefiere [Totalplay o Telmex fibra](/blog/mejor-internet-para-gaming-en-mexico-2026.html).
+Para gaming competitivo, prefiere [Totalplay o Telmex fibra](/blog/mejor-internet-para-gaming-en-mexico.html).
 
 ## Megacable para streaming (Netflix, YouTube)
 
@@ -224,7 +224,7 @@ Si experimentas problemas con tu proveedor, recuerda que tienes derechos como co
 ## Preguntas Frecuentes
 
 {{< faq "¿Megacable sirve para gaming?" >}}
-No es ideal para gaming competitivo por la latencia del cable coaxial (30-60 ms vs 10-25 ms de fibra) y la saturación en horas pico. Para gaming casual (single player, MMOs) funciona. Si juegas competitivo (Valorant, CS, Fortnite), prefiere [Totalplay o Telmex fibra](/blog/mejor-internet-para-gaming-en-mexico-2026.html). Megacable puede darte desventaja competitiva por la latencia variable.
+No es ideal para gaming competitivo por la latencia del cable coaxial (30-60 ms vs 10-25 ms de fibra) y la saturación en horas pico. Para gaming casual (single player, MMOs) funciona. Si juegas competitivo (Valorant, CS, Fortnite), prefiere [Totalplay o Telmex fibra](/blog/mejor-internet-para-gaming-en-mexico.html). Megacable puede darte desventaja competitiva por la latencia variable.
 {{< /faq >}}
 
 {{< faq "¿Megacable o Telmex cuál es mejor?" >}}

@@ -1,6 +1,7 @@
 ---
 title: "Router lento o saturado: cuándo y cómo reiniciarlo correctamente (México)"
 slug: "router-lento-reiniciar-mexico"
+description: "**Un router lento o saturado en México se manifiesta como: internet que se pone lento gradualmente, páginas que no cargan, dispositivos que no conectan…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

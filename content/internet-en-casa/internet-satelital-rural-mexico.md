@@ -89,7 +89,7 @@ Ana vive a 25 minutos del pueblo. El streaming se corta, las clases en linea se 
 
 En zonas rurales, el problema no siempre es elegir entre planes; a veces es saber si hay infraestructura. Hay localidades con cobre antiguo, otras con radioenlaces de proveedores locales (WISP) y regiones sin redes terrestres donde el unico camino es satelital o internet inalambrico fijo 4G/5G. En muchas comunidades, la decision correcta no es la que promete mas Mbps, sino la que ofrece estabilidad en la noche, soporte tecnico accesible y costos claros.
 
-La realidad es que el consumo de internet rural tambien cambio. Antes se trataba de mensajes y redes sociales; hoy hay clases en linea, teletrabajo, streaming y hasta camaras de seguridad. Eso hace que la tolerancia a cortes sea menor. Por eso es clave definir tu necesidad real con la guia de [cuantos Mbps necesitas](/guias/cuantos-mbps-necesito/) y medir como se comporta el servicio con [velocidad real](/guias/como-medir-velocidad-real-internet/).
+La realidad es que el consumo de internet rural tambien cambio. Antes se trataba de mensajes y redes sociales; hoy hay clases en linea, teletrabajo, streaming y hasta camaras de seguridad. Eso hace que la tolerancia a cortes sea menor. Por eso es clave definir tu necesidad real con la guia de [cuantos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html) y medir como se comporta el servicio con [velocidad real](/guias/como-medir-velocidad-real-internet.html).
 
 Otro factor es el clima. Lluvias intensas, viento y polvo pueden afectar enlaces inalambricos y satelitales. Si vives en una zona de tormentas frecuentes, pregunta al proveedor como responde ante fallas y si el equipo tiene protecciones basicas. La experiencia cambia mucho cuando hay mantenimiento preventivo y equipos correctos.
 
@@ -117,7 +117,7 @@ Si eliges satelital, pregunta si hay periodos de prueba, tiempos de instalacion 
 
 ### Internet inalambrico fijo 4G/5G
 
-Funciona con una antena o modem fijo que toma senal celular y la convierte en Wi-Fi para tu casa. Si hay buena senal, puede superar al satelital en estabilidad y latencia. Revisa la guia de [internet inalambrico fijo](/internet-en-casa/internet-inalambrico-fijo-mexico/) para entender limites y cobertura.
+Funciona con una antena o modem fijo que toma senal celular y la convierte en Wi-Fi para tu casa. Si hay buena senal, puede superar al satelital en estabilidad y latencia. Revisa la guia de [internet inalambrico fijo](/internet-en-casa/internet-inalambrico-fijo-mexico.html) para entender limites y cobertura.
 
 La clave aqui es la senal real en tu terreno. Un operador puede tener buena cobertura en el pueblo, pero tu casa puede estar en un valle. En esos casos, una antena exterior bien instalada cambia todo. Pregunta si el proveedor incluye antena externa o si puedes usar una propia.
 
@@ -149,11 +149,11 @@ Para Zoom o Teams, la latencia pesa mas que el maximo de Mbps. 4G/5G fijo y WISP
 
 ### Streaming y entretenimiento
 
-Para streaming en HD, importa la estabilidad mas que los picos. Complementa con [internet para streaming](/internet-en-casa/internet-para-streaming-mexico/) y evita saturar la red con descargas simultaneas. Si hay varios televisores, el Wi-Fi debe ser solido o conviene cablear al menos el principal.
+Para streaming en HD, importa la estabilidad mas que los picos. Complementa con [internet para streaming](/internet-en-casa/internet-para-streaming-mexico.html) y evita saturar la red con descargas simultaneas. Si hay varios televisores, el Wi-Fi debe ser solido o conviene cablear al menos el principal.
 
 ### Trabajo remoto y gaming
 
-Trabajo remoto necesita consistencia. Gaming demanda latencia baja. Si puedes elegir, prioriza 4G/5G fijo o WISP bien gestionado. Para gaming, mira [internet para jugar online](/internet-en-casa/internet-para-jugar-online-mexico/). En gaming, un pico de latencia arruina la experiencia aunque la velocidad sea alta.
+Trabajo remoto necesita consistencia. Gaming demanda latencia baja. Si puedes elegir, prioriza 4G/5G fijo o WISP bien gestionado. Para gaming, mira [internet para jugar online](/internet-en-casa/internet-para-jugar-online-mexico.html). En gaming, un pico de latencia arruina la experiencia aunque la velocidad sea alta.
 
 ### Hogares con varios estudiantes
 
@@ -165,7 +165,7 @@ Cuando hay varias clases en linea al mismo tiempo, el problema es el ancho de su
 
 En zonas rurales es comun que el vendedor prometa una velocidad maxima. Pero lo que define la experiencia diaria es la estabilidad. La latencia es el tiempo que tarda un paquete en ir y volver. El jitter es la variacion de esa latencia. Un servicio puede dar 50 Mbps pero con jitter alto y cortes cada noche. Eso arruina videollamadas, clases y gaming.
 
-Por eso es clave medir en varios horarios. Un test aislado no sirve. La guia de [medicion real](/guias/como-medir-velocidad-real-internet/) explica como hacerlo sin enganos. Si ves latencias muy variables en horario pico, sospecha de saturacion en la torre o en el enlace del proveedor.
+Por eso es clave medir en varios horarios. Un test aislado no sirve. La guia de [medicion real](/guias/como-medir-velocidad-real-internet.html) explica como hacerlo sin enganos. Si ves latencias muy variables en horario pico, sospecha de saturacion en la torre o en el enlace del proveedor.
 
 En satelital GEO, la latencia suele ser alta por distancia. En LEO mejora mucho, pero aun hay picos cuando los satelites cambian o el clima afecta. En 4G/5G fijo, la latencia puede ser buena si hay senal fuerte y poca congestion. En WISP, depende del proveedor y de su capacidad de backhaul.
 :::
@@ -175,7 +175,7 @@ En satelital GEO, la latencia suele ser alta por distancia. En LEO mejora mucho,
 
 ### Mito: con mas Mbps todo se arregla
 
-Mas Mbps no compensa un enlace inestable. Si tu videollamada se corta, casi siempre es jitter, perdida de paquetes o Wi-Fi deficiente. Antes de subir de plan, revisa [como mejorar tu Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Mas Mbps no compensa un enlace inestable. Si tu videollamada se corta, casi siempre es jitter, perdida de paquetes o Wi-Fi deficiente. Antes de subir de plan, revisa [como mejorar tu Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 
 ### Mito: el satelital siempre es mejor en el campo
 
@@ -204,7 +204,7 @@ Si vas por WISP o 4G fijo con antena externa, necesitas linea de vista razonable
 
 ### Pruebas de senal y velocidad
 
-Usa un telefono con SIM del operador que te interesa. Prueba en exterior e interior. Luego compara con la guia de [medicion real](/guias/como-medir-velocidad-real-internet/). Si el operador no da senal estable ni en exterior, probablemente no sea la opcion correcta.
+Usa un telefono con SIM del operador que te interesa. Prueba en exterior e interior. Luego compara con la guia de [medicion real](/guias/como-medir-velocidad-real-internet.html). Si el operador no da senal estable ni en exterior, probablemente no sea la opcion correcta.
 
 ### Energia electrica estable
 
@@ -246,7 +246,7 @@ El precio mensual no cuenta toda la historia. Revisa estos puntos:
 <figcaption>Si hay fibra disponible, suele ser la opcion mas estable.</figcaption>
 </figure>
 
-Para comparar proveedores y evitar trampas de precio, revisa [companias de internet en Mexico](/internet-en-casa/companias-internet-mexico/).
+Para comparar proveedores y evitar trampas de precio, revisa [companias de internet en Mexico](/internet-en-casa/companias-internet-mexico.html).
 :::
 
 ::: {#plan-pruebas .section}
@@ -275,7 +275,7 @@ Con estos datos puedes decidir sin improvisar. Si el servicio falla en horario p
 5.  Lee resenas locales y pregunta por soporte tecnico.
 6.  Si hay dudas, empieza con un plan sin contrato.
 
-Si aun no estas seguro, regresa a [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html/) para alinear decision con presupuesto.
+Si aun no estas seguro, regresa a [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html) para alinear decision con presupuesto.
 :::
 
 ::: {.section .decision-links editorial-links="true"}
@@ -294,15 +294,15 @@ Una buena eleccion puede arruinarse con mala instalacion. Estos ajustes tienen m
 
 ### Mejora tu Wi-Fi interior
 
-Si el modem esta lejos de las habitaciones, el problema puede ser Wi-Fi, no el proveedor. Aplica los pasos de [como mejorar tu Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Si el modem esta lejos de las habitaciones, el problema puede ser Wi-Fi, no el proveedor. Aplica los pasos de [como mejorar tu Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 
 ### Usa malla en casas grandes
 
-Una malla bien colocada rinde mejor que repetidores al azar. Lee [Wi-Fi Mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total/).
+Una malla bien colocada rinde mejor que repetidores al azar. Lee [Wi-Fi Mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total.html).
 
 ### Prioriza trafico sensible con QoS
 
-Un router con QoS ayuda a que videollamadas no se corten. Consulta [red domestica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/).
+Un router con QoS ayuda a que videollamadas no se corten. Consulta [red domestica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html).
 
 ### Ubicacion del equipo satelital
 
@@ -329,7 +329,7 @@ Para familia promedio, 30 a 50 Mbps estables suelen bastar. El objetivo es estab
 
 ### Que hago si se pone lento en la noche?
 
-Es congestion. Prueba horarios, optimiza Wi-Fi y revisa [que hacer si tu internet esta lento](/guias/que-hacer-si-internet-lento/).
+Es congestion. Prueba horarios, optimiza Wi-Fi y revisa [que hacer si tu internet esta lento](/guias/que-hacer-si-internet-lento.html).
 
 ### Vale la pena firmar contrato largo?
 
@@ -339,7 +339,7 @@ Solo si el proveedor tiene historial estable y si el descuento lo justifica. En 
 ::: {.section .callout related-block="" style="margin-top:18px"}
 ## Siguiente lectura
 
-[Wi-Fi Mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total/)
+[Wi-Fi Mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total.html)
 
 Cobertura estable para casas grandes y varios pisos.
 :::
@@ -354,13 +354,13 @@ Cobertura estable para casas grandes y varios pisos.
 
 Hub con comparativas y guias clave.
 
-[](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/){.card}
+[](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html){.card}
 
 ### Red domestica pro
 
 Cableado, switches y QoS para estabilidad real.
 
-[](/internet-en-casa/mejor-internet-mexico/){.card}
+[](/internet-en-casa/mejor-internet-mexico.html){.card}
 
 ### Mejor internet en Mexico
 
@@ -371,6 +371,6 @@ Guia nacional para elegir con evidencia.
 ------------------------------------------------------------------------
 
 ::: meta-row
-**Ultima actualizacion:** 27 de diciembre de 2025 \> [Metodologia](/metodologia/)
+**Ultima actualizacion:** 27 de diciembre de 2025 \> [Metodologia](/metodologia.html)
 :::
 :::

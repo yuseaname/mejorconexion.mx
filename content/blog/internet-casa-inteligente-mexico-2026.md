@@ -1,6 +1,7 @@
 ---
 title: "Internet para casa inteligente en México: lo que necesitas (2026)"
 slug: "internet-casa-inteligente-mexico-2026"
+description: "**Una casa inteligente mexicana con 15-25 dispositivos (lámparas, cámaras, asistentes, cerraduras) necesita entre 100 y 300 Mbps con WiFi 6 Mesh; planes…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +25,7 @@ keywords:
 - **Consumo datos**: ~50-200 GB/mes en automatización doméstica estándar
 - **Acción**: separa red IoT de la principal y usa VLAN si tu router lo permite
 
-Para más detalle, consulta [/blog/internet-para-casas-inteligentes-en-m%C3%A9xico/](/blog/internet-para-casas-inteligentes-en-m%C3%A9xico/).
+Para más detalle, consulta [/blog/internet-para-casas-inteligentes-en-m%C3%A9xico/](/blog/internet-para-casas-inteligentes-en-m%C3%A9xico.html).
 
 
 ## Preguntas Frecuentes

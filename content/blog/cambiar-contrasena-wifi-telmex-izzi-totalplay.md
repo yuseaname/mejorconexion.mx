@@ -1,6 +1,8 @@
 ---
 title: "Cómo cambiar la contraseña del WiFi en Telmex, Izzi y Totalplay (2026)"
 slug: "cambiar-contraseña-wifi-telmex-izzi-totalplay"
+aliases: ["/blog/cambiar-contraseña-wifi-telmex-izzi-totalplay.html"]
+description: "**Para cambiar la contraseña del WiFi en Telmex, Izzi o Totalplay, entra al panel del router escribiendo en tu navegador: 192.168.1.1 (Telmex/Totalplay)…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

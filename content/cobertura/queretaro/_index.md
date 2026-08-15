@@ -90,7 +90,7 @@ Guía: [mejor velocidad para gaming](/blog/mejor-velocidad-para-gaming.html).
 
 Una mala instalación arruina cualquier plan. Si el router es básico, considera uno mejor para estabilidad.
 
-Si el Wi‑Fi falla, revisa [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Si el Wi‑Fi falla, revisa [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#alternativas .section}

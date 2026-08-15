@@ -1,6 +1,7 @@
 ---
 title: "Cómo Mejorar la Señal Wi-Fi en Casa: Guía Completa 2026"
 slug: "como-mejorar-wifi-en-casa-guia-2026"
+description: "**Mover el router al centro de la casa a 1.5 m de altura, separar redes 2.4 y 5 GHz, y actualizar a WiFi 6 mejora entre 40% y 70% la cobertura; en plane…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -21,7 +22,7 @@ image: "/images/topic-router-wifi.webp"
 - **Inversión**: $0 a $1,500 MXN para Mesh si la casa pasa 80 m² o tiene muros gruesos
 - **Acción**: cambia el SSID a `TuRed_5G` para separar bandas y conecta ahí tus equipos
 
-Para más detalle, consulta [/blog/como-configurar-router-mexico-2026/](/blog/como-configurar-router-mexico-2026/).
+Para más detalle, consulta [/blog/como-configurar-router-mexico-2026/](/blog/como-configurar-router-mexico-2026.html).
 
 Tienes internet de 500 Mbps pero en tu cuarto solo llegan 50 Mbps. O peor: la señal desaparece cuando te alejas del router. Este es uno de los problemas más comunes en hogares mexicanos y la solución no siempre es contratar un plan más caro.
 

@@ -20,13 +20,13 @@ Queremos ser claros sobre qué datos se recopilan y por qué. Este sitio es est�
 
 Usamos analítica para entender qué contenido es útil y cómo se usa el sitio. Esto puede incluir datos técnicos básicos como páginas visitadas, dispositivo y duración de la visita.
 
-El proveedor de analítica puede usar cookies o tecnologías similares. Consulta también nuestra [Transparencia](/transparencia/) si tienes dudas sobre monetización.
+El proveedor de analítica puede usar cookies o tecnologías similares. Consulta también nuestra [Transparencia](/transparencia.html) si tienes dudas sobre monetización.
 :::
 
 ::: section
 ## Contacto
 
-Si nos escribes, recibimos tu mensaje y dirección de correo para responderte. Puedes pedir aclaraciones o solicitar correcciones usando [Contacto](/contacto/).
+Si nos escribes, recibimos tu mensaje y dirección de correo para responderte. Puedes pedir aclaraciones o solicitar correcciones usando [Contacto](/contacto.html).
 :::
 
 ::: section

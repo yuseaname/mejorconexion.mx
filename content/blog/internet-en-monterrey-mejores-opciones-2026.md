@@ -1,6 +1,7 @@
 ---
 title: "Internet en Monterrey: mejor proveedor por zona (2026)"
 slug: "internet-en-monterrey-mejores-opciones-2026"
+aliases: ["/blog/internet-monterrey-mejores-opciones-2026.html"]
 date: 2026-08-10
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

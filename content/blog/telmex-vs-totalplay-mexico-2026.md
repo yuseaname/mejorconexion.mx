@@ -178,6 +178,14 @@ image: "/images/12-telmex-vs-totalplay-mexico-2026/12-telmex-vs-totalplay-mexico
 
 ## Preguntas Frecuentes
 
+
+::: section
+## Sigue leyendo
+
+- [Cómo cancelar Telmex sin penalización](/blog/cancelar-telmex-sin-penalizacion.html)
+- [¿Cuánto cuesta internet en México en 2026?](/blog/cuanto-cuesta-internet-en-mexico-2026.html)
+:::
+
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
 {{< /faq >}}}

@@ -1,6 +1,8 @@
 ---
 title: "Internet Residencial vs. Datos Móviles: Guía Completa para Elegir la Mejor Conectividad en tu Hogar"
 slug: "internet-residencial-vs-datos-móviles"
+aliases: ["/blog/internet-residencial-vs-datos-móviles.html"]
+description: "**El internet residencial en México ($299-$899/mes por 50-500 Mbps ilimitado) gana en precio por GB al hogar vs. datos móviles ($299/mes por 30 GB); una…"
 date: 2026-05-30
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +26,7 @@ keywords:
 - **Internet casa**: $0.5-1.5 MXN por GB vs. móvil $10-15 por GB
 - **Acción**: contrato plan mixto: residencial principal + móvil 10 GB de soporte
 
-Para más detalle, consulta [/blog/datos-moviles-que-son-cuanto-consumes-2026/](/blog/datos-moviles-que-son-cuanto-consumes-2026/).
+Para más detalle, consulta [/blog/datos-moviles-que-son-cuanto-consumes-2026/](/blog/datos-moviles-que-son-cuanto-consumes-2026.html).
 
 <figure class="article-image article-hero">
 <img src="./images/04-internet-residencial-vs-datos-moviles/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Internet residencial vs datos móviles en México: comparativa de velocidad, precio y confiabilidad" />

@@ -1,6 +1,7 @@
 ---
 title: "Internet Telmex Infinitum: planes, precios y cobertura (2026)"
 slug: "internet-telmex-infinitum-planes-precios-2026"
+aliases: ["/blog/telmex-infinitum-todo-lo-que-necesitas-saber.html"]
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -180,7 +181,7 @@ Para comparar con otros proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-i
 9. Verifica qué equipo entregan (modelo de módem/router).
 10. **Prueba la velocidad antes de firmar el acta de instalación.**
 
-Para la guía completa de contratación, lee [cómo contratar internet paso a paso](/blog/como-contratar-internet-mexico-2026.html).
+Para la guía completa de contratación, lee [cómo contratar internet paso a paso](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
 :::
 
 ::: section

@@ -1,6 +1,7 @@
 ---
 title: "Internet sin Contrato en México 2026: Opciones, Precios y Cómo Elegir"
 slug: "internet-sin-contrato-mexico-2026"
+description: "**El internet sin contrato en México cuesta entre $349 y $699/mes con pago mes a mes (Totalplay Sin Contrato, Izzi Flex, Megacable Libre); suelen ser 30…"
 date: 2026-05-26
 author: "Lic. Patricia Núñez"
 author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en quejas PROFECO, contratos y portabilidad."
@@ -24,7 +25,7 @@ keywords:
 - **Top sin contrato**: Izzi 100 Mbps $399 mes a mes, Totalplay 50 Mbps $349
 - **Acción**: confirma cobertura primero, luego pide modalidad sin contrato al llamar
 
-Para más detalle, consulta [/blog/internet-barato-mexico-2026/](/blog/internet-barato-mexico-2026/).
+Para más detalle, consulta [/blog/internet-barato-mexico-2026/](/blog/internet-barato-mexico-2026.html).
 
 ::: breadcrumbs
 [Inicio](/) / [Blog](/blog/)

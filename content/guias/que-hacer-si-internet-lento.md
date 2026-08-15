@@ -181,7 +181,7 @@ Sí, pero revisa las condiciones de cancelación. Algunos cobran penalización. 
 
 - Para optimizar tu router a fondo, checa [cómo ajustar tu router para mejorar la velocidad](/blog/ajustes-router-mejorar-velocidad-internet.html).
 - Si quieres medir bien tu velocidad, lee [cómo medir la velocidad real de tu internet](/guias/como-medir-velocidad-real-internet.html).
-- Para entender las unidades, revisa [la diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
+- Para entender las unidades, revisa [la diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 
 ::: meta-row

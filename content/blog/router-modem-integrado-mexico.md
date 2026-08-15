@@ -1,6 +1,7 @@
 ---
 title: "Router modem integrado en México: ¿Es suficiente para tu hogar o necesitas una actualización?"
 slug: "router-modem-integrado-mexico"
+description: "Si alguna vez has sentido la frustración de que el internet se corta justo en medio de tu serie favorita en Netflix, o cuando estás en una videollamada…"
 date: 2026-05-30
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -79,7 +80,7 @@ Si sientes que tu conexión está al límite, quizás sea hora de considerar la 
 
 Si vives en una casa con varias plantas, si trabajas desde casa y no puedes permitirte ni un segundo de intermitencia, o si eres un entusiasta de la tecnología con una casa llena de dispositivos inteligentes, la inversión en un router independiente (conectado al módem de tu proveedor en \"modo puente\") es la mejor decisión que puedes tomar.
 
-Si eres de los que juegan en línea y notas que el \"lag\" te arruina las partidas, te recomendamos leer nuestro artículo sobre [wifi vs ethernet para jugar](/blog/wifi-%20%20%20%20%20%20%20%20%20%20%20%20vs-ethernet-para-jugar.html), donde te explicamos cómo la conexión física puede marcar la diferencia.
+Si eres de los que juegan en línea y notas que el \"lag\" te arruina las partidas, te recomendamos leer nuestro artículo sobre [wifi vs ethernet para jugar](/blog/mejor-internet-para-gaming-en-m%C3%A9xico.html), donde te explicamos cómo la conexión física puede marcar la diferencia.
 
 ------------------------------------------------------------------------
 

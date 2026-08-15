@@ -1,6 +1,7 @@
 ---
 title: "Internet para cámaras de seguridad: qué necesitas en México (2026)"
 slug: "internet-camaras-seguridad-videovigilancia"
+description: "**Para 2-4 cámaras de seguridad WiFi (tipo Xiaomi, Ezviz, Tapo) necesitas 20-50 Mbps simétricos y entre 100 y 500 GB/mes de datos; un plan Izzi 100 Mbps…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +25,7 @@ keywords:
 - **Consumo por cámara**: 5-15 GB/día grabando en HD 24/7
 - **Acción**: prefiere cámaras con almacenamiento microSD para no depender de la nube
 
-Para más detalle, consulta [/blog/internet-casa-inteligente-mexico-2026/](/blog/internet-casa-inteligente-mexico-2026/).
+Para más detalle, consulta [/blog/internet-casa-inteligente-mexico-2026/](/blog/internet-casa-inteligente-mexico-2026.html).
 
 
 ## Preguntas Frecuentes

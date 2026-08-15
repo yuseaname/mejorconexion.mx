@@ -178,7 +178,7 @@ No debería, si te quedas con el mismo plan y proveedor. Sin embargo, si tu nuev
 {{< /faq >}}
 
 {{< faq "¿Qué pasa si me mudo a una zona rural sin proveedores?" >}}
-Tus opciones son: 1) Telcel Hogar (4G/5G, desde $399/mes), 2) [Starlink](/blog/starlink-mexico-precio-cobertura-2026.html) (satelital, ~$2,400/mes), 3) CFE Telecomunicaciones (subsidios en zonas rurales, desde $0-$199/mes). Lee más sobre [internet para zonas rurales](/blog/internet-para-zonas-rurales-mexico.html).
+Tus opciones son: 1) Telcel Hogar (4G/5G, desde $399/mes), 2) [Starlink](/blog/starlink-mexico-precio-cobertura-2026.html) (satelital, ~$2,400/mes), 3) CFE Telecomunicaciones (subsidios en zonas rurales, desde $0-$199/mes). Lee más sobre internet para zonas rurales.
 {{< /faq >}}
 
 {{< faq "¿Puedo tener internet en ambas casas durante la mudanza?" >}}

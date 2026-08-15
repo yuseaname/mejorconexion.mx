@@ -1,6 +1,7 @@
 ---
 title: "Qué es el ping y por qué importa (latencia, jitter y juegos)"
 slug: "que-es-el-ping"
+description: "**El ping (o latencia) es el tiempo que tarda tu dispositivo en enviar una señal a un servidor y recibir respuesta, medido en milisegundos (ms). Un ping…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -26,7 +27,7 @@ keywords:
 - **101–150 ms:** alto — lag visible en juegos y llamadas
 - **150+ ms:** problemático — cortes y retrasos constantes
 
-Para entender la diferencia entre velocidad y latencia, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Si tu internet se siente lento a pesar de tener buenos Mbps, revisa [qué hacer cuando tu internet está lento](/guias/que-hacer-si-internet-lento/).
+Para entender la diferencia entre velocidad y latencia, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Si tu internet se siente lento a pesar de tener buenos Mbps, revisa [qué hacer cuando tu internet está lento](/guias/que-hacer-si-internet-lento.html).
 <div>
 
 # Qué es el ping y por qué importa (latencia, jitter y juegos)
@@ -149,7 +150,7 @@ Para medir bien:
 2.  Hazlas en diferentes horarios (mañana y noche).
 3.  Usa la misma herramienta para comparar.
 
-Si necesitas un paso a paso, revisa: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet/).
+Si necesitas un paso a paso, revisa: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet.html).
 :::
 
 ::: {#gaming .section}
@@ -356,7 +357,7 @@ Es la diferencia entre jugar cómodo o frustrado.
 -   Ubica el router en el centro de la casa.
 -   Si la casa es grande, usa Wi‑Fi mesh.
 
-Guía complementaria: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Guía complementaria: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#faq .section}

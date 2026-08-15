@@ -35,20 +35,20 @@ Hablamos en español de México, claro y directo. Como un buen asesor: cercano, 
 
 Si ves algo desactualizado o quieres sugerir una guía por ciudad/colonia, escríbenos. Nos sirve mucho el "dato real" de gente que vive ahí.
 
-[Ir a contacto](/contacto/){.btn .primary}
+[Ir a contacto](/contacto.html){.btn .primary}
 :::
 
 ::: section
 ## Lecturas clave
 
 ::: {.grid .two}
-[](/metodologia/){.card}
+[](/metodologia.html){.card}
 
 ### Metodología
 
 Cómo comparamos y por qué recomendamos así.
 
-[](/transparencia/){.card}
+[](/transparencia.html){.card}
 
 ### Transparencia
 

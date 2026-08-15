@@ -1,6 +1,7 @@
 ---
 title: "Internet para Netflix en México: qué velocidad necesitas (2026)"
 slug: "internet-para-netflix-mexico-2026"
+description: "**Para Netflix en calidad 4K necesitas 25 Mbps por pantalla; un hogar mexicano con 2 TVs requiere 50-100 Mbps mínimo. Planes recomendados: Totalplay 100…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +25,7 @@ keywords:
 - **Consumo Netflix**: SD = 1 GB/h, HD = 3 GB/h, 4K = 7 GB/h por pantalla
 - **Acción**: elige plan Izzi con Netflix incluido y ahorras $50-$80/mes vs. planes separados
 
-Para más detalle, consulta [/blog/internet-roku-fire-tv-stick-mexico/](/blog/internet-roku-fire-tv-stick-mexico/).
+Para más detalle, consulta [/blog/internet-roku-fire-tv-stick-mexico/](/blog/internet-roku-fire-tv-stick-mexico.html).
 
 
 ## Preguntas Frecuentes

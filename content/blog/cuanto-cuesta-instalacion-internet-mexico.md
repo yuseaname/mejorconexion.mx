@@ -24,7 +24,7 @@ image: "/images/topic-provider-comparison.webp"
 | Megacable | $200-$500 | $0-$200 | $300-$800 |
 | Starlink | Compra equipo ($4,500) | N/A | Auto-instalación |
 
-Para más sobre contratación, lee [cómo contratar internet en México](/blog/cómo-contratar-internet-en-méxico-2026.html).
+Para más sobre contratación, lee [cómo contratar internet en México](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
 :::
 
 ::: section

@@ -1,6 +1,7 @@
 ---
 title: "Cómo quejarse en PROFECO por internet lento: paso a paso (2026)"
 slug: "como-quejarse-profeco-internet-lento-2026"
+description: "**Para quejarte en PROFECO por internet lento, entra a Concilianet (concilianet.profeco.gob.mx) y abre una queja en línea con tu contrato y pruebas de v…"
 date: 2026-08-09
 author: "Lic. Patricia Núñez"
 author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en quejas PROFECO, contratos y portabilidad."
@@ -24,7 +25,7 @@ keywords:
 - **Requisito**: 3+ pruebas de velocidad debajo del 70% de lo contratado
 - **Acción**: guarda screenshots con fecha y número de ticket
 
-Para más detalle, consulta [/blog/cancelar-servicio-internet-mexico/](/blog/cancelar-servicio-internet-mexico/).
+Para más detalle, consulta [/blog/cancelar-servicio-internet-mexico/](/blog/cancelar-servicio-internet-mexico.html).
 
 
 ## Preguntas Frecuentes

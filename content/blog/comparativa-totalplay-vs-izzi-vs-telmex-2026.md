@@ -84,7 +84,7 @@ Fibra simétrica con ping de 10-25 ms y jitter de 1-5 ms. La simetría (misma ve
 | Telmex cobre | 30-60 | 10-30 | No recomendado |
 | Izzi coaxial | 30-60 | 5-30 | No recomendado |
 
-Lee [mejor internet para gaming](/blog/mejor-internet-para-gaming-en-mexico-2026.html).
+Lee [mejor internet para gaming](/blog/mejor-internet-para-gaming-en-mexico.html).
 
 ### Para cobertura rural
 **Ganador: Telmex**

@@ -78,7 +78,7 @@ Comparativa
 Aquí te explicamos sin rodeos cómo elegir: no se trata solo de "más megas", sino de estabilidad, tipo de red, soporte y letras chiquitas.
 
 ::: button-row
-[Validar por ciudad](/ciudades/){.btn .primary} [Guía de Mbps](/guias/cuantos-mbps-necesito/){.btn}
+[Validar por ciudad](/ciudades/){.btn .primary} [Guía de Mbps](/blog/cuanta-velocidad-internet-necesitas-2026.html){.btn}
 :::
 :::
 
@@ -174,7 +174,7 @@ Tip: antes de contratar, valida con alguien de tu edificio/colonia. En México e
 -   **Revisa el router:** si te dan uno básico, quizá te conviene usar el tuyo (Wi‑Fi 5/6) para que no se vuelva el cuello de botella.
 -   **Haz pruebas en horario pico:** noche y fin de semana; ahí se ve la verdad.
 
-Si quieres aterrizar la parte de velocidad, ve esta guía: [¿Cuántos Mbps necesito?](/guias/cuantos-mbps-necesito/)
+Si quieres aterrizar la parte de velocidad, ve esta guía: [¿Cuántos Mbps necesito?](/blog/cuanta-velocidad-internet-necesitas-2026.html)
 :::
 
 ::: section
@@ -199,7 +199,7 @@ Haz dos cosas: 1) pregunta en tu edificio/vecinos y 2) prueba con un speedtest e
 ::: {.section .callout related-block="" style="margin-top:18px"}
 ## Siguiente lectura
 
-[Mejor internet en México](/internet-en-casa/mejor-internet-mexico/)
+[Mejor internet en México](/internet-en-casa/mejor-internet-mexico.html)
 
 Guía nacional para elegir por zona y tecnología.
 :::
@@ -214,13 +214,13 @@ Guía nacional para elegir por zona y tecnología.
 
 Hub con comparativas y guías clave.
 
-[](/guias/cuantos-mbps-necesito/){.card}
+[](/blog/cuanta-velocidad-internet-necesitas-2026.html){.card}
 
 ### ¿Cu?ntos Mbps necesito?
 
 Guía práctica según tu uso real.
 
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
+[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.card}
 
 ### C?mo mejorar tu Wi?Fi
 
@@ -231,6 +231,6 @@ Pasos reales para mejorar señal en casa.
 ------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 27 de diciembre de 2025 • [Cómo hacemos las comparativas](/metodologia/) • [Ver ciudades](/ciudades/)
+**Última actualización:** 27 de diciembre de 2025 • [Cómo hacemos las comparativas](/metodologia.html) • [Ver ciudades](/ciudades/)
 :::
 :::

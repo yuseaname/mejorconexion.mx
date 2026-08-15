@@ -109,7 +109,7 @@ La fibra puede transmitir datos a kilómetros de distancia sin perder velocidad.
 
 ### 5. Velocidad simétrica
 
-Algunas conexiones de fibra (como Totalplay) ofrecen velocidad simétrica: misma velocidad de subida que de bajada. Para más detalles, lee [qué es el internet simétrico](/blog/que-es-internet-simetrico.html).
+Algunas conexiones de fibra (como Totalplay) ofrecen velocidad simétrica: misma velocidad de subida que de bajada. Para más detalles, lee [qué es el internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html).
 
 ### 6. Datos ilimitados
 

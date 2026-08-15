@@ -1,6 +1,7 @@
 ---
 title: "Streaming sin cortes en México: guía real para evitar buffering (2026)"
 slug: "streaming-sin-cortes-mexico"
+description: "El streaming se corta por tres razones principales: velocidad real insuficiente, Wi‑Fi mal distribuido o saturación en horario pico. Esta guía te ayuda…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -86,7 +87,7 @@ Si quieres entender la base: [qué significa la velocidad de internet](/blog/que
 
 La velocidad contratada es un máximo teórico. La real depende de Wi‑Fi, distancia y horario. Si el streaming se corta, mide por cable y luego por Wi‑Fi.
 
-Guía práctica: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet/).
+Guía práctica: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet.html).
 :::
 
 ::: {#hd-4k .section}
@@ -107,7 +108,7 @@ El router es clave. Si está en una esquina o encerrado en un mueble, la señal 
 -   Usa 5 GHz cerca del router.
 -   Considera mesh si hay zonas muertas.
 
-Guía útil: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Guía útil: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#horario .section}
@@ -123,7 +124,7 @@ Si el problema es constante, revisa causas: [por qué el internet es lento a vec
 
 Streaming + videollamadas + gaming al mismo tiempo puede saturar un plan medio. Si hay muchos usuarios, quizá necesitas más estabilidad o mejor Wi‑Fi interno.
 
-Guía por personas: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico/).
+Guía por personas: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
 :::
 
 ::: {#config .section}
@@ -184,7 +185,7 @@ En consolas, revisa que no haya descargas automáticas mientras ves streaming.
 
 Dos o tres pantallas al mismo tiempo pueden saturar un plan medio, especialmente si una de ellas está en 4K. La clave es distribuir uso y mejorar el Wi‑Fi interno.
 
-Si en casa hay varios usuarios, revisa: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico/).
+Si en casa hay varios usuarios, revisa: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
 :::
 
 ::: {#caso .section}
@@ -301,7 +302,7 @@ Si tu streaming se corta por la noche de forma constante, la fibra suele mejorar
 -   Router con buena cobertura.
 -   Opción de fibra si está disponible.
 
-Si quieres comparar proveedores, revisa: [comparativa por uso real](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/).
+Si quieres comparar proveedores, revisa: [comparativa por uso real](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 :::
 
 ::: {#respaldo-streaming .section}
@@ -341,7 +342,7 @@ Estos ajustes simples reducen cortes y mejoran la sensación de fluidez.
 
 Haz una prueba de velocidad en el mismo dispositivo donde se corta. Si el resultado cambia mucho entre mañana y noche, es saturación local. Si cambia entre habitaciones, es Wi‑Fi.
 
-Guía paso a paso: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet/).
+Guía paso a paso: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet.html).
 :::
 
 ::: {#ancho-banda .section}
@@ -399,7 +400,7 @@ Cambia de proveedor si:
 -   La velocidad por cable cae mucho en horario pico.
 -   La tecnología actual no da estabilidad.
 
-Comparativa útil: [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/).
+Comparativa útil: [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 :::
 
 ::: {#faq .section}

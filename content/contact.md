@@ -37,13 +37,13 @@ Respondemos con la información más clara posible y actualizamos las guías si 
 ## Antes de irte
 
 ::: {.grid .two}
-[](/metodologia/){.card}
+[](/metodologia.html){.card}
 
 ### Metodología
 
 Cómo comparamos y por qué recomendamos así.
 
-[](/transparencia/){.card}
+[](/transparencia.html){.card}
 
 ### Transparencia
 

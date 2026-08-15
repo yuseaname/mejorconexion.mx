@@ -106,7 +106,7 @@ Totalplay fibra tiene la mejor latencia (20-30 ms a servidores mexicanos). Por l
 
 ### Más barato
 
-Megacable 100 Mbps ($349/mes) o Infinitum 100 Mbps ($389/mes). Lee [internet barato en México](/blog/internet-barato-menos-300-mxnm-mexico.html).
+Megacable 100 Mbps ($349/mes) o Infinitum 100 Mbps ($389/mes). Lee [internet barato en México](/blog/internet-mas-barato-en-mexico.html).
 
 ## Problemas comunes del internet en Cancún
 

@@ -42,7 +42,7 @@ En este año, el internet satelital ya no es ese \"plan B\" caro y lento del pas
 
 ## El Panorama de Internet en México en 2026
 
-Para entender por qué estás dándole vueltas a este tema, primero hay que mirar el mapa. En 2026, el mercado mexicano de telecomunicaciones ha madurado, pero sigue siendo desigual. Si buscas el [mejor internet en México](/internet-en-casa/mejor-internet-mexico/), la respuesta técnica sigue siendo la fibra óptica. Es la tecnología reina: rápida, estable y con precios que han bajado gracias a la competencia feroz entre Totalplay, Izzi, Megacable y el gigante estatal CFE.
+Para entender por qué estás dándole vueltas a este tema, primero hay que mirar el mapa. En 2026, el mercado mexicano de telecomunicaciones ha madurado, pero sigue siendo desigual. Si buscas el [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html), la respuesta técnica sigue siendo la fibra óptica. Es la tecnología reina: rápida, estable y con precios que han bajado gracias a la competencia feroz entre Totalplay, Izzi, Megacable y el gigante estatal CFE.
 
 La fibra óptica ha logrado penetrar casi todas las zonas urbanas y suburbanas densas. Si vives en una zona consolidada de Guadalajara, Monterrey o la Zona Metropolitana del Valle de México, es casi seguro que tienes al menos dos o tres opciones de fibra en tu puerta. Sin embargo, la realidad es que México es un país inmenso y geográficamente complejo. Hay millones de mexicanos en zonas rurales, pueblos pequeños o fraccionamientos periféricos donde los cables de cobre son viejos y la fibra no ha llegado (o el proveedor local cobra precios abusivos por ser el único).
 
@@ -62,7 +62,7 @@ A diferencia del internet satelital antiguo (que tenía una latencia de 600ms o 
 -   **Latencia (Ping):** Entre 25 y 50 ms.
 -   **Estabilidad:** Alta, aunque susceptible a condiciones climáticas extremas (lluvias muy fuertes o nubes densas).
 
-Es importante mencionar que, aunque 25ms es excelente para un servicio satelital, sigue siendo un poco más alto que la fibra óptica pura. Para ver Netflix o trabajar en Zoom, es imperceptible. Para jugar en línea en modo competitivo, es aceptable, pero no perfecto. Si te interesa profundizar en cómo funciona esta tecnología en zonas alejadas, te recomendamos leer nuestra guía sobre [internet satelital rural](/internet-en-casa/internet-satelital-rural-mexico/).
+Es importante mencionar que, aunque 25ms es excelente para un servicio satelital, sigue siendo un poco más alto que la fibra óptica pura. Para ver Netflix o trabajar en Zoom, es imperceptible. Para jugar en línea en modo competitivo, es aceptable, pero no perfecto. Si te interesa profundizar en cómo funciona esta tecnología en zonas alejadas, te recomendamos leer nuestra guía sobre [internet satelital rural](/internet-en-casa/internet-satelital-rural-mexico.html).
 
 ::: image-placeholder
 \[IMAGEN 1: Foto de alta calidad del kit Starlink instalado en un techo residencial en México (con vista a campo o ciudad).\]
@@ -78,13 +78,13 @@ Si tienes la suerte de vivir en una zona urbana, la fibra óptica sigue siendo e
 
 El mercado está dominado por Totalplay, Izzi, Megacable y, cada vez más, CFE Fibra. La guerra de precios ha resultado en planes que van desde **\$389 MXN hasta \$999 MXN** mensuales, dependiendo de la velocidad (100, 300, 500 o 1000 Mbps) y si incluye televisión o teléfono.
 
-Si estás decidiendo entre los dos gigantes privados, la comparativa [Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html/) es fundamental. Totalplay suele ofrecer velocidades más altas (hasta 1 Gbps) pero a un precio más elevado, mientras que Izzi compite fuerte en el rango medio y con paquetes de televisión. Megacable ha ganado terreno en zonas suburbanas con precios muy competitivos. Por otro lado, CFE Fibra ha sido una sorpresa positiva, llegando a zonas donde los privados no querían invertir, ofreciendo precios accesibles, aunque su servicio al cliente sigue siendo el punto débil.
+Si estás decidiendo entre los dos gigantes privados, la comparativa [Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html) es fundamental. Totalplay suele ofrecer velocidades más altas (hasta 1 Gbps) pero a un precio más elevado, mientras que Izzi compite fuerte en el rango medio y con paquetes de televisión. Megacable ha ganado terreno en zonas suburbanas con precios muy competitivos. Por otro lado, CFE Fibra ha sido una sorpresa positiva, llegando a zonas donde los privados no querían invertir, ofreciendo precios accesibles, aunque su servicio al cliente sigue siendo el punto débil.
 
 ### La Tecnología: ¿Por qué es mejor?
 
 La fibra óptica ofrece una latencia de **5 a 20 ms**. Esta diferencia de 10-30 milisegundos frente al satélite es crucial para ciertos usos. Además, la fibra es simétrica en la mayoría de los planes modernos, lo que significa que tu velocidad de subida es igual a la de bajada. Esto es vital para subir archivos pesados o hacer videollamadas de alta definición sin que se congele tu imagen.
 
-Es común confundir la fibra con la tecnología coaxial (cable). Aunque Izzi y Megacable a veces usan una mezcla de ambas, la \"Fibra Pura\" (FTTH - Fiber to the Home) es lo que buscas. Si quieres entender las diferencias técnicas profundas entre estas conexiones, te invitamos a leer nuestro artículo sobre [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico/).
+Es común confundir la fibra con la tecnología coaxial (cable). Aunque Izzi y Megacable a veces usan una mezcla de ambas, la \"Fibra Pura\" (FTTH - Fiber to the Home) es lo que buscas. Si quieres entender las diferencias técnicas profundas entre estas conexiones, te invitamos a leer nuestro artículo sobre [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
 
 ::: image-placeholder
 \[IMAGEN 2: Gráfico visual comparando los rangos de precio y latencia entre Starlink y Fibra.\]
@@ -106,7 +106,7 @@ Para que no tengas que leer mil palabras, hemos condensado los datos más import
   **Contrato**             Sin fidelidad (Cancelas cuando quieras)      12 a 24 meses (Multas por cancelación)
   **Cobertura**            Nacional (Rural y Urbano)                    Solo zonas urbanas/suburbanas
 
-Un punto clave a notar en la tabla es la **flexibilidad del contrato**. Starlink no te ata. Si te mudas, llevas tu antena. Si la conexión falla, cancelas y listo. La fibra óptica, por el contrario, suele requerir contratos de 12 o 24 meses. Si te mudas a una casa donde no hay cobertura, podrías tener que pagar multas de cancelación ante PROFECO. Si tu prioridad es encontrar el [internet barato México](/internet-en-casa/internet-barato-mexico/) te ofrece, la fibra suele ganar en precio mensual, pero Starlink gana en libertad.
+Un punto clave a notar en la tabla es la **flexibilidad del contrato**. Starlink no te ata. Si te mudas, llevas tu antena. Si la conexión falla, cancelas y listo. La fibra óptica, por el contrario, suele requerir contratos de 12 o 24 meses. Si te mudas a una casa donde no hay cobertura, podrías tener que pagar multas de cancelación ante PROFECO. Si tu prioridad es encontrar el [internet barato México](/internet-en-casa/internet-barato-mexico.html) te ofrece, la fibra suele ganar en precio mensual, pero Starlink gana en libertad.
 
 ## Casos de Uso: ¿Para quién es cada opción?
 
@@ -116,13 +116,13 @@ No existe una opción \"mejor\" en abstracto; existe la opción mejor para *tu* 
 
 Si tu pasión es el Valorant, el League of Legends o el Call of Duty, la respuesta es clara: **Fibra Óptica**. En los juegos competitivos, cada milisegundo cuenta. Una latencia de 25ms (Starlink) puede ser suficiente para jugar casualmente, pero en torneos o rangos altos, esos milisegundos extra pueden significar la diferencia entre ganar y perder. Además, la fibra ofrece una estabilidad de \"jitter\" (variación de latencia) mucho menor, evitando esos momentos de \"lag\" repentino en medio de una partida.
 
-Si te preguntas por qué el ping es tan importante, te recomendamos leer nuestra guía sobre [qué es el ping](/blog/que-es-el-ping/) y cómo afecta tu experiencia. Si eres gamer, también te servirá nuestra comparativa de [internet para jugar online](/internet-en-casa/internet-para-jugar-online-mexico/).
+Si te preguntas por qué el ping es tan importante, te recomendamos leer nuestra guía sobre [qué es el ping](/blog/que-es-el-ping.html) y cómo afecta tu experiencia. Si eres gamer, también te servirá nuestra comparativa de [internet para jugar online](/internet-en-casa/internet-para-jugar-online-mexico.html).
 
 ### 2. El Home Office y Creadores de Contenido
 
 Para quienes trabajan desde casa, la prioridad es la estabilidad y la velocidad de subida. Si haces videollamadas constantes en Zoom o Teams, la fibra óptica es superior porque la conexión es más estable y menos propensa a cortes por clima. Además, si subes videos a YouTube o manejas servidores, necesitas simetría (mucha velocidad de subida), algo que la fibra garantiza.
 
-Para este perfil, la guía de [internet para home office](/internet-en-casa/internet-para-home-office-mexico/) es esencial. Sin embargo, si trabajas desde una casa de campo o una zona rural, Starlink es tu única opción viable para trabajar profesionalmente. Es mejor tener 50 Mbps estables por satélite que 5 Mbps inestables por cable de cobre.
+Para este perfil, la guía de [internet para home office](/internet-en-casa/internet-para-home-office-mexico.html) es esencial. Sin embargo, si trabajas desde una casa de campo o una zona rural, Starlink es tu única opción viable para trabajar profesionalmente. Es mejor tener 50 Mbps estables por satélite que 5 Mbps inestables por cable de cobre.
 
 ### 3. El Habitante de Zona Rural o Remota
 
@@ -203,7 +203,7 @@ No dejes que la falta de opciones te limite. En 2026, el internet de calidad es 
 ::: cta-box
 ¿Aún no estás seguro? Usa nuestra **herramienta de comparación** para ver qué planes están disponibles en tu zona ahora mismo.
 
-[Ver Planes Disponibles en mi Zona](/comparador/){.cta-button}
+Ver Planes Disponibles en mi Zona{.cta-button}
 :::
 
 *Nota: Los precios mencionados en este artículo (\$1,000 MXN para Starlink y \$389-\$999 MXN para Fibra) son estimados basados en las tarifas vigentes a marzo de 2026. Los costos pueden variar según la zona geográfica, promociones temporales y cambios en la política de los proveedores. Siempre verifica el precio final con el proveedor antes de contratar.*
@@ -211,6 +211,6 @@ No dejes que la falta de opciones te limite. En 2026, el internet de calidad es 
 ------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 15 de marzo de 2026 • [Metodología](/metodologia/) • [Ciudades](/ciudades/)
+**Última actualización:** 15 de marzo de 2026 • [Metodología](/metodologia.html) • [Ciudades](/ciudades/)
 :::
 :::

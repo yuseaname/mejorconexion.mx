@@ -104,7 +104,7 @@ León concentra industria del calzado que necesita subir fotos de catálogos, ge
 
 ### Más barato
 
-Megacable 100 Mbps ($349/mes) o Infinitum 100 Mbps ($389/mes). Para opciones económicas, lee [internet barato en México](/blog/internet-barato-menos-300-mxnm-mexico.html).
+Megacable 100 Mbps ($349/mes) o Infinitum 100 Mbps ($389/mes). Para opciones económicas, lee [internet barato en México](/blog/internet-mas-barato-en-mexico.html).
 
 ## Problemas comunes del internet en León
 
@@ -132,7 +132,7 @@ León tiene un clima semiárido con veranos calurosos y lluvias torrenciales en 
 4. **Agenda instalación**: la mayoría de proveedores instalan en 3-7 días hábiles.
 5. **Verifica la velocidad real**: tras la instalación, mide con speedtest.net. Si no llegas al 80% de la velocidad contratada, reporta inmediatamente.
 
-Para una guía detallada, lee [cómo contratar internet en México](/blog/como-contratar-internet-mexico-2026.html).
+Para una guía detallada, lee [cómo contratar internet en México](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
 
 ## Preguntas Frecuentes
 

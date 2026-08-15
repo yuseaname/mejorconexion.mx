@@ -25,7 +25,7 @@ keywords:
 - **Valida por edificio, no solo por alcaldía**: dos colonias vecinas pueden tener resultados muy distintos por cableado interno
 - **Prueba en horario pico (7pm–11pm)**: ahí verás la saturación real; si falla, cambiar de plan no lo resuelve
 
-Para entender qué significan los Mbps que anuncia cada plan, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Si quieres comparar las opciones reales de proveedores, revisa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/). Y para entender la latencia que afecta tus videollamadas y gaming, consulta [qué es el ping](/blog/que-es-el-ping.html).
+Para entender qué significan los Mbps que anuncia cada plan, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Si quieres comparar las opciones reales de proveedores, revisa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html). Y para entender la latencia que afecta tus videollamadas y gaming, consulta [qué es el ping](/blog/que-es-el-ping.html).
 
 
 
@@ -75,7 +75,7 @@ La CDMX tiene gran diversidad de infraestructura. Hay zonas con fibra avanzada y
 
 La experiencia cambia por colonia, edificio y hasta piso. Por eso es clave validar localmente.
 
-Para una comparativa detallada de los tres proveedores principales, consulta [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/). Y si quieres entender cuánto pagarás por estos planes en 2026, revisa [cuánto cuesta internet en México](/blog/cuanto-cuesta-internet-en-mexico-2026.html).
+Para una comparativa detallada de los tres proveedores principales, consulta [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html). Y si quieres entender cuánto pagarás por estos planes en 2026, revisa [cuánto cuesta internet en México](/blog/cuanto-cuesta-internet-en-mexico-2026.html).
 :::
 
 ::: {#tecnologias .section}
@@ -225,7 +225,7 @@ Si todo es estable, la cobertura es buena. Si falla alguna, investiga antes de c
 ::: {#escenarios .section}
 ## Escenarios por uso
 
-Tu uso ideal define qué buscar. No necesitas el plan más caro --- necesitas el que coincida con lo que haces. Si tu prioridad es entender [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html) según tu caso, consulta [cuántos Mbps necesito](/guias/cuantos-mbps-necesito/).
+Tu uso ideal define qué buscar. No necesitas el plan más caro --- necesitas el que coincida con lo que haces. Si tu prioridad es entender [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html) según tu caso, consulta [cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 ::: scenario-grid
 ::: scenario-card
@@ -292,7 +292,7 @@ Una mala instalación arruina cualquier plan. Un router básico puede limitar el
 Estas preguntas evitan instalaciones improvisadas.
 :::
 
-Guía: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Guía: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#plan-accion .section}
@@ -598,7 +598,7 @@ Prueba por cable directo al router en horario pico. Si por cable sigue mal, es p
 
 - [Mejor internet en Monterrey](/cobertura/monterrey/)
 - [Mejor internet en Guadalajara](/cobertura/guadalajara/)
-- [Comparativa: Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/)
-- [Cuántos Mbps necesito](/guias/cuantos-mbps-necesito/)
+- [Comparativa: Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html)
+- [Cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html)
 - [Qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html)
 :::

@@ -1,6 +1,7 @@
 ---
 title: "Auditoría de red doméstica: detectar intrusos en México"
 slug: "auditoria-red-domestica-detectar-intrusos-mexico"
+description: "**Revisa los dispositivos conectados en `192.168.1.1`, desconecta los que no reconozcas y cambia la contraseña WiFi a WPA2 de 12+ caracteres; el 35% de…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -24,7 +25,7 @@ keywords:
 - **Riesgo típico**: 2-5 equipos desconocidos consumen entre 20 y 80 GB/mes sin que lo notes
 - **Acción**: usa apps como Fing (gratis) o revisa la tabla DHCP del router
 
-Para más detalle, consulta [/blog/control-parental-internet-hogar-mexico/](/blog/control-parental-internet-hogar-mexico/).
+Para más detalle, consulta [/blog/control-parental-internet-hogar-mexico/](/blog/control-parental-internet-hogar-mexico.html).
 
 ::: {#que-es .section}
 ## Qué es una auditoría de red doméstica

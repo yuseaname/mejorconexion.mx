@@ -88,7 +88,7 @@ Para 2026, la mayoría de teléfonos nuevos vendrán sin SIM física. Esto facil
 - Doble número (personal + trabajo) en un teléfono
 - Activación instantánea de líneas adicionales
 
-Lee nuestra guía de [eSIM en México](/blog/mejor-esim-para-mexico.html).
+Lee nuestra guía de [eSIM en México](/esim/mejor-esim-mexico.html).
 
 ### 5. IA en el hogar demanda más ancho de banda
 

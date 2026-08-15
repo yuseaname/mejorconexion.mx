@@ -1,6 +1,7 @@
 ---
 title: "Qué son los datos móviles (4G/5G) y cómo se consumen"
 slug: "que-son-los-datos-moviles"
+description: "**Los datos móviles son la conexión a internet que usa tu celular a través de la red celular (4G/5G) cuando no estás conectado a Wi-Fi. Se miden en giga…"
 date: 2026-01-01
 author: "Mtro. Daniel Cruz"
 author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."
@@ -27,7 +28,7 @@ keywords:
 - **Navegación web:** ~60 MB por hora
 - **Para ahorrar datos:** usa Wi-Fi cuando puedas, descarga contenido offline, desactiva auto-play de video
 
-Para entender la diferencia entre Mbps y GB, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Si necesitas calcular cuántos GB necesitas al mes, revisa [cuántos GB necesitas](/blog/cuantos-gb-necesitas-al-mes/).
+Para entender la diferencia entre Mbps y GB, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Si necesitas calcular cuántos GB necesitas al mes, revisa [cuántos GB necesitas](/blog/cuantos-gb-necesitas-al-mes.html).
 
 
 

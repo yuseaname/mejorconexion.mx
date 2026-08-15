@@ -1,6 +1,7 @@
 ---
 title: "Qué significa la velocidad de internet: Mbps, subida, bajada y latencia"
 slug: "que-significa-la-velocidad-de-internet"
+description: "**La velocidad de internet se mide en Mbps (megabits por segundo) y describe datos que viajan por segundo. Un plan de 100 Mbps mueve 100 megabits por se…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -25,7 +26,7 @@ keywords:
 - **La latencia (ping)** mide tiempo de respuesta, en milisegundos (ms); baja latencia = mejor experiencia en juegos y videollamadas
 - **Mide por cable Ethernet** antes de concluir que tu plan falla; el Wi-Fi y el router pueden ser el cuello de botella real
 
-Para entender cómo elegir entre planes según tu uso, consulta [cuántos Mbps necesito realmente](/guias/cuantos-mbps-necesito/). Si buscas opciones para casa en México, nuestra guía [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/) compara los planes reales por operador.
+Para entender cómo elegir entre planes según tu uso, consulta [cuántos Mbps necesito realmente](/blog/cuanta-velocidad-internet-necesitas-2026.html). Si buscas opciones para casa en México, nuestra guía [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html) compara los planes reales por operador.
 
 Cuando un plan dice 100, 300 o 500 Mbps, habla de la cantidad de datos que la conexión puede mover por segundo en condiciones determinadas. Esa cifra importa, pero no describe toda la experiencia: una videollamada puede fallar por mala subida, un juego puede sentirse lento por latencia y una prueba por Wi-Fi puede medir más el estado de tu router que la conexión contratada.
 
@@ -38,9 +39,9 @@ La pregunta útil no es solo "¿cuántos megas tengo?", sino **qué actividad fa
 
 Por eso una descarga mostrada por una aplicación puede verse menor que la cifra de tu plan aunque no haya un problema. También influyen el servidor desde el que descargas, otros dispositivos conectados y la red Wi-Fi de tu casa.
 
-Si quieres profundizar en las unidades, consulta [la diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
+Si quieres profundizar en las unidades, consulta [la diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
-Para entender el costo de estos planes en México, revisa [cuánto cuesta internet en México 2026](/blog/cuanto-cuesta-internet-en-mexico-2026.html). Y si quieres ver opciones concretas para tu hogar, nuestra guía [mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico/) compara proveedores por uso real.
+Para entender el costo de estos planes en México, revisa [cuánto cuesta internet en México 2026](/blog/cuanto-cuesta-internet-en-mexico-2026.html). Y si quieres ver opciones concretas para tu hogar, nuestra guía [mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico.html) compara proveedores por uso real.
 
 ## Descarga, subida y latencia: cada una responde una pregunta distinta
 

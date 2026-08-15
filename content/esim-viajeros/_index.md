@@ -18,7 +18,7 @@ Para viajar, para tener una línea extra, o para no andar cazando chips en el ae
 ::: {.section .hub-intro hub-intro="true"}
 Este hub de **eSIM para viajeros** está pensado para salir de viaje con datos desde el minuto uno, sin perseguir chips en el aeropuerto. En México (y fuera), lo que define la experiencia es la compatibilidad del equipo, la activación correcta y la cobertura real en tu destino. Aquí explicamos lo esencial para viajar con eSIM de forma simple y práctica.
 
-Si viajas a México, empieza por [mejor eSIM para México](/esim-viajeros/mejor-esim-para-mexico/) y cruza con la guía general de [mejor eSIM en México](/esim/mejor-esim-mexico/) si también la usarás en el día a día. Para entender lo básico, revisa [qué es una eSIM](/blog/que-es-una-esim.html), y si tienes duda de consumo, consulta [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
+Si viajas a México, empieza por [mejor eSIM para México](/esim-viajeros/mejor-esim-para-mexico.html) y cruza con la guía general de [mejor eSIM en México](/esim/mejor-esim-mexico.html) si también la usarás en el día a día. Para entender lo básico, revisa [qué es una eSIM](/blog/que-es-una-esim.html), y si tienes duda de consumo, consulta [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
 
 En este hub de **eSIM para viajeros** encontrarás criterios para elegir por cobertura, vigencia, datos y soporte, además de pasos de activación y recomendaciones para evitar cargos de roaming. Está pensado para personas que viajan por trabajo, estudios o vacaciones, y que necesitan datos estables para mapas, mensajes y videollamadas. Sin humo, sin promesas raras.
 
@@ -36,13 +36,13 @@ Para viajeros, esta opción digital es útil si necesitas mapas, mensajes y vide
 :::
 
 ::: {.grid .two}
-[](/esim-viajeros/mejor-esim-para-mexico/){.card}
+[](/esim-viajeros/mejor-esim-para-mexico.html){.card}
 
 ## Mejor eSIM para México {#mejor-esim-para-méxico style="margin:0 0 8px"}
 
 Qué revisar: cobertura real, redes, activación y soporte.
 
-[](/esim/mejor-esim-mexico/){.card}
+[](/esim/mejor-esim-mexico.html){.card}
 
 ## Mejor eSIM en México (uso diario) {#mejor-esim-en-méxico-uso-diario style="margin:0 0 8px"}
 

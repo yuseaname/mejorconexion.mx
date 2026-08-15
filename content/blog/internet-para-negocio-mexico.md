@@ -57,7 +57,7 @@ El cálculo depende del número de dispositivos, el tipo de operaciones y la cri
 
 **Ejemplo de cálculo**: Un restaurante con 2 TPV (10 Mbps), 4 cámaras en la nube (20 Mbps), WiFi para 10 clientes (50 Mbps), 1 videollamada ocasional (10 Mbps) y música de fondo (2 Mbps) = ~92 Mbps. Redondeando, necesita un plan de **100-200 Mbps mínimo**.
 
-Para más contexto sobre velocidades, lee [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html).
+Para más contexto sobre velocidades, lee [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 
 ::: section

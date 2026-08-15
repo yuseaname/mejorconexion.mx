@@ -1,6 +1,7 @@
 ---
 title: "Switch Ethernet para casa en México: cuándo necesitas uno y cuál comprar"
 slug: "switch-ethernet-casa-mexico"
+description: "**Un switch Ethernet para casa en México es necesario cuando necesitas más puertos Ethernet de los que tiene tu router (generalmente 4). Los switch no a…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

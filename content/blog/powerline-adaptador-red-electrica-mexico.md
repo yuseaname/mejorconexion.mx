@@ -1,6 +1,7 @@
 ---
 title: "Adaptador Powerline: usar el cable eléctrico como red (México)"
 slug: "powerline-adaptador-red-electrica-mexico"
+description: "**Un adaptador Powerline en México cuesta entre $600 y $2,500 MXN por par y usa el cableado eléctrico para llevar internet. Funciona bien en casas con i…"
 date: 2026-08-09
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

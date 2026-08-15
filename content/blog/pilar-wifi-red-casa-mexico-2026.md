@@ -51,7 +51,7 @@ Antes de comprar o cambiar nada, entiende estos cinco conceptos. Resuelven el 80
 - **Router:** reparte esa conexión entre tus dispositivos, asigna direcciones IP y gestiona el Wi-Fi. En la mayoría de los casos, módem y router vienen integrados en un solo equipo.
 - **Access point:** extiende la red por cable; el mesh usa varios access points coordinados.
 
-Detalle en [router vs módem](/blog/router-vs-modem-diferencia-mexico.html) y [router con módem integrado](/blog/router-modem-integrado-mexico.html).
+Detalle en [router vs módem](/blog/router-vs-modem-diferencia.html) y [router con módem integrado](/blog/router-modem-integrado-mexico.html).
 
 ### Banda 2.4 GHz vs 5 GHz
 
@@ -139,7 +139,7 @@ El router del operador es suficiente para hogares pequeños con pocos dispositiv
 | Mesh medio | TP-Link Deco X50 (2-pack) | $2,500–$3,500 | Wi-Fi 6 | Casa 100–150 m² |
 | Mesh premium | Eero Pro 6E / Netgear Orbi 6 | $5,000–$9,000 | Wi-Fi 6E | Casa grande premium |
 
-Para detalle por modelo, abre [mejores routers 2026](/blog/mejores-routers-2026-mexico-guia.html), [routers Wi-Fi 6](/blog/mejores-routers-wifi-6-mexico-2026.html) y [routers Wi-Fi 6E](/blog/mejores-routers-wifi-6e-méxico-2026.html).
+Para detalle por modelo, abre [mejores routers 2026](/blog/mejores-routers-2026-mexico-guia.html), [routers Wi-Fi 6](/blog/mejores-routers-wifi-6-mexico-2026.html) y [routers Wi-Fi 6E](/blog/mejores-routers-wifi-6e-m%C3%A9xico-2026.html).
 
 ## Wi-Fi 5 vs Wi-Fi 6 vs Wi-Fi 6E vs Wi-Fi 7
 
@@ -194,7 +194,7 @@ La seguridad Wi-Fi es el tema más descuidado en los hogares mexicanos. El [60 %
 - **Crea una red de invitados** para visitas y dispositivos IoT.
 - **Oculta o gestiona el SSID** si vives en zona densa.
 
-Para el detalle de cada paso, abre [seguridad Wi-Fi en casa](/blog/seguridad-wifi-casa-mexico.html) y [cómo proteger tu red Wi-Fi 2026](/blog/seguridad-wifi-casa-como-proteger-2026.html). Para proteger dispositivos inteligentes, lee [red de invitados e IoT segura](/blog/red-invitados-iot-segura-mexico.html).
+Para el detalle de cada paso, abre [seguridad Wi-Fi en casa](/blog/seguridad-wifi-casa-mexico.html) y [cómo proteger tu red Wi-Fi 2026](/blog/seguridad-wifi-casa-proteger-2026.html). Para proteger dispositivos inteligentes, lee [red de invitados e IoT segura](/blog/red-invitados-iot-segura-mexico.html).
 
 ### Red de invitados e IoT: separa lo vulnerable
 
@@ -308,8 +308,8 @@ Esta guía pilar es el centro del cluster de Wi-Fi y red. Profundiza en cada sub
 7. [Red de invitados e IoT segura](/blog/red-invitados-iot-segura-mexico.html) — segmentación.
 8. [Cómo elegir router para casa](/blog/como-elegir-router-wifi-casa-mexico.html) — decisión de compra.
 9. [Routers Wi-Fi 6 México](/blog/mejores-routers-wifi-6-mexico-2026.html) — modelos específicos.
-10. [Routers Wi-Fi 6E México](/blog/mejores-routers-wifi-6e-méxico-2026.html) — banda 6 GHz.
-11. [Router vs módem](/blog/router-vs-modem-diferencia-mexico.html) — conceptos básicos.
+10. [Routers Wi-Fi 6E México](/blog/mejores-routers-wifi-6e-m%C3%A9xico-2026.html) — banda 6 GHz.
+11. [Router vs módem](/blog/router-vs-modem-diferencia.html) — conceptos básicos.
 12. [Router con módem integrado](/blog/router-modem-integrado-mexico.html) — equipos todo en uno.
 13. [Powerline: red por cable eléctrico](/blog/powerline-adaptador-red-electrica-mexico.html) — alternativa al mesh.
 14. [Ajustes de router para más velocidad](/blog/ajustes-router-mejorar-velocidad-internet.html) — optimización.

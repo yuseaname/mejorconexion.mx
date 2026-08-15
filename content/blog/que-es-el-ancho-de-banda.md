@@ -204,6 +204,14 @@ Para más tips, lee [cómo aumentar la velocidad de internet](/blog/como-aumenta
 
 Para más detalles, lee [cuánto cuesta el internet en México](/blog/cuanto-cuesta-internet-en-mexico-2026.html).
 
+
+::: section
+## Sigue leyendo
+
+- [Qué es el jitter y por qué arruina tu internet (explicación fácil)](/blog/que-es-el-jitter-y-por-que-importa.html)
+- [4G LTE vs 5G en México: diferencias reales y cuándo cambia (2026)](/blog/diferencia-4g-lte-y-5g-mexico.html)
+:::
+
 ### ¿Simétrico o asimétrico? Por qué importa
 
 | Tipo | Bajada | Subida | Proveedores | Ideal para |

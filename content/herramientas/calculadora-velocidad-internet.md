@@ -155,7 +155,7 @@ Nuestra calculadora usa datos reales de consumo de ancho de banda por actividad:
 
 La calculadora suma estos valores y añade 25 Mbps base por persona para cubrir navegación general, descargas y headroom.
 
-Para más detalle, consulta nuestra guía de [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html) o el [pilar de velocidad de internet](/blog/pilar-velocidad-internet-mexico-2026.html).
+Para más detalle, consulta nuestra guía de [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html) o el [pilar de velocidad de internet](/blog/pilar-velocidad-internet-mexico-2026.html).
 :::
 
 ::: section

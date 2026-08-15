@@ -1,25 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Autores on Mejor Conexión</title><link>https://mejorconexion.mx/authors.html</link><description>Recent content in Autores on Mejor Conexión</description><generator>Hugo</generator><language>es-mx</language><atom:link href="https://mejorconexion.mx/authors/index.xml" rel="self" type="application/rss+xml"/><item><title>Equipo Mejor Conexión</title><link>https://mejorconexion.mx/authors/equipo.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/authors/equipo.html</guid><description>&lt;h2 id="quiénes-somos">¿Quiénes somos?&lt;/h2>
-&lt;p>Somos un equipo de editores y analistas que vivimos el día a día probando conexiones, comparando planes y traduciendo la jerga técnica a decisiones concretas para hogares mexicanos.&lt;/p>
-&lt;h2 id="nuestro-criterio">Nuestro criterio&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Independencia&lt;/strong>: no trabajamos para ningún proveedor.&lt;/li>
-&lt;li>&lt;strong>Pruebas reales&lt;/strong>: medimos velocidad, latencia, cobertura y estabilidad.&lt;/li>
-&lt;li>&lt;strong>Transparencia&lt;/strong>: explicamos qué comparamos, cómo y con qué limitaciones.&lt;/li>
-&lt;/ul>
-&lt;h2 id="contacto">Contacto&lt;/h2>
-&lt;p>¿Tienes dudas o sugerencias? Escríbenos desde nuestra página de &lt;a href="https://mejorconexion.mx/contacto.html">contacto&lt;/a>.&lt;/p></description></item><item><title>Ing. Roberto Mendoza</title><link>https://mejorconexion.mx/authors/roberto-mendoza.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/authors/roberto-mendoza.html</guid><description>&lt;h2 id="sobre-el-ing-roberto-mendoza">Sobre el Ing. Roberto Mendoza&lt;/h2>
-&lt;p>Roberto Mendoza es ingeniero en telecomunicaciones por la ESIME del IPN, con más de 15 años de experiencia en el diseño, instalación y optimización de redes de fibra óptica y sistemas Wi-Fi para hogares, oficinas y negocios en México.&lt;/p>
-&lt;p>Ha trabajado en proyectos de despliegue FTTH para Telmex y Totalplay, así como en la consultoría de redes para PyMEs. Su especialidad es traducir problemas técnicos complejos en soluciones prácticas que cualquier persona puede implementar.&lt;/p></description></item><item><title>Lic. Patricia Núñez</title><link>https://mejorconexion.mx/authors/patricia-nunez.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/authors/patricia-nunez.html</guid><description>&lt;h2 id="sobre-la-lic-patricia-núñez">Sobre la Lic. Patricia Núñez&lt;/h2>
-&lt;p>Patricia Núñez es abogada por la UNAM con especialidad en regulación de telecomunicaciones por el IFT. Tiene más de 10 años de experiencia asesorando a consumidores mexicanos en disputas con proveedores de internet, telefonía y TV.&lt;/p>
-&lt;p>Su trabajo se centra en hacer valer los derechos del consumidor: contratos transparentes, precios justos, servicios que cumplen lo prometido y la posibilidad de cancelar sin trucos legales.&lt;/p>
-&lt;h2 id="áreas-de-especialidad">Áreas de especialidad&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>PROFECO y IFT&lt;/strong>: Cómo levantar quejas efectivas y ganar&lt;/li>
-&lt;li>&lt;strong>Contratos de internet&lt;/strong>: Cláusulas de permanencia, aumentos de precio y cargos ocultos&lt;/li>
-&lt;li>&lt;strong>Portabilidad numérica&lt;/strong>: Cambiar de proveedor sin perder tu número&lt;/li>
-&lt;li>&lt;strong>Cancelación sin penalización&lt;/strong>: Casos en los que la ley te protege&lt;/li>
-&lt;/ul>
-&lt;h2 id="contacto">Contacto&lt;/h2>
-&lt;p>¿Tienes un problema con tu proveedor de internet? Escríbenos desde nuestra página de &lt;a href="https://mejorconexion.mx/contacto.html">contacto&lt;/a>.&lt;/p></description></item><item><title>Mtro. Daniel Cruz</title><link>https://mejorconexion.mx/authors/daniel-cruz.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mejorconexion.mx/authors/daniel-cruz.html</guid><description>&lt;h2 id="sobre-el-mtro-daniel-cruz">Sobre el Mtro. Daniel Cruz&lt;/h2>
-&lt;p>Daniel Cruz es Maestro en Tecnologías de la Información por el Tec de Monterrey, con 8 años de experiencia analizando el mercado de telecomunicaciones móviles en México. Se especializa en planes de datos, cobertura 4G/5G, eSIM y tendencias de consumo digital.&lt;/p>
-&lt;p>Su enfoque es práctico: en lugar de repetir lo que dicen las marcas, mide y compara lo que realmente reciben los usuarios mexicanos en sus teléfonos, colonia por colonia.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autores on Mejor Conexión</title>
+    <link>https://mejorconexion.mx/authors.html</link>
+    <description>Recent content in Autores on Mejor Conexión</description>
+    <generator>Hugo</generator>
+    <language>es-mx</language>
+    <atom:link href="https://mejorconexion.mx/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Equipo Mejor Conexión</title>
+      <link>https://mejorconexion.mx/authors/equipo.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mejorconexion.mx/authors/equipo.html</guid>
+      <description>&lt;h2 id=&#34;quiénes-somos&#34;&gt;¿Quiénes somos?&lt;/h2&gt;&#xA;&lt;p&gt;Somos un equipo de editores y analistas que vivimos el día a día probando conexiones, comparando planes y traduciendo la jerga técnica a decisiones concretas para hogares mexicanos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;nuestro-criterio&#34;&gt;Nuestro criterio&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Independencia&lt;/strong&gt;: no trabajamos para ningún proveedor.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pruebas reales&lt;/strong&gt;: medimos velocidad, latencia, cobertura y estabilidad.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Transparencia&lt;/strong&gt;: explicamos qué comparamos, cómo y con qué limitaciones.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contacto&#34;&gt;Contacto&lt;/h2&gt;&#xA;&lt;p&gt;¿Tienes dudas o sugerencias? Escríbenos desde nuestra página de &lt;a href=&#34;https://mejorconexion.mx/contacto.html&#34;&gt;contacto&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ing. Roberto Mendoza</title>
+      <link>https://mejorconexion.mx/authors/roberto-mendoza.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mejorconexion.mx/authors/roberto-mendoza.html</guid>
+      <description>&lt;h2 id=&#34;sobre-el-ing-roberto-mendoza&#34;&gt;Sobre el Ing. Roberto Mendoza&lt;/h2&gt;&#xA;&lt;p&gt;Roberto Mendoza es ingeniero en telecomunicaciones por la ESIME del IPN, con más de 15 años de experiencia en el diseño, instalación y optimización de redes de fibra óptica y sistemas Wi-Fi para hogares, oficinas y negocios en México.&lt;/p&gt;&#xA;&lt;p&gt;Ha trabajado en proyectos de despliegue FTTH para Telmex y Totalplay, así como en la consultoría de redes para PyMEs. Su especialidad es traducir problemas técnicos complejos en soluciones prácticas que cualquier persona puede implementar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lic. Patricia Núñez</title>
+      <link>https://mejorconexion.mx/authors/patricia-nunez.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mejorconexion.mx/authors/patricia-nunez.html</guid>
+      <description>&lt;h2 id=&#34;sobre-la-lic-patricia-núñez&#34;&gt;Sobre la Lic. Patricia Núñez&lt;/h2&gt;&#xA;&lt;p&gt;Patricia Núñez es abogada por la UNAM con especialidad en regulación de telecomunicaciones por el IFT. Tiene más de 10 años de experiencia asesorando a consumidores mexicanos en disputas con proveedores de internet, telefonía y TV.&lt;/p&gt;&#xA;&lt;p&gt;Su trabajo se centra en hacer valer los derechos del consumidor: contratos transparentes, precios justos, servicios que cumplen lo prometido y la posibilidad de cancelar sin trucos legales.&lt;/p&gt;&#xA;&lt;h2 id=&#34;áreas-de-especialidad&#34;&gt;Áreas de especialidad&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;PROFECO y IFT&lt;/strong&gt;: Cómo levantar quejas efectivas y ganar&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Contratos de internet&lt;/strong&gt;: Cláusulas de permanencia, aumentos de precio y cargos ocultos&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Portabilidad numérica&lt;/strong&gt;: Cambiar de proveedor sin perder tu número&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cancelación sin penalización&lt;/strong&gt;: Casos en los que la ley te protege&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contacto&#34;&gt;Contacto&lt;/h2&gt;&#xA;&lt;p&gt;¿Tienes un problema con tu proveedor de internet? Escríbenos desde nuestra página de &lt;a href=&#34;https://mejorconexion.mx/contacto.html&#34;&gt;contacto&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mtro. Daniel Cruz</title>
+      <link>https://mejorconexion.mx/authors/daniel-cruz.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mejorconexion.mx/authors/daniel-cruz.html</guid>
+      <description>&lt;h2 id=&#34;sobre-el-mtro-daniel-cruz&#34;&gt;Sobre el Mtro. Daniel Cruz&lt;/h2&gt;&#xA;&lt;p&gt;Daniel Cruz es Maestro en Tecnologías de la Información por el Tec de Monterrey, con 8 años de experiencia analizando el mercado de telecomunicaciones móviles en México. Se especializa en planes de datos, cobertura 4G/5G, eSIM y tendencias de consumo digital.&lt;/p&gt;&#xA;&lt;p&gt;Su enfoque es práctico: en lugar de repetir lo que dicen las marcas, mide y compara lo que realmente reciben los usuarios mexicanos en sus teléfonos, colonia por colonia.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

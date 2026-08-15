@@ -201,7 +201,7 @@ Los planes de Telcel Hogar son "ilimitados" pero pueden tener reducción de velo
 {{< /faq >}}
 
 {{< faq "¿Telcel Hogar sirve para gaming?" >}}
-No es ideal. La conexión 4G/5G tiene mayor latencia (40-80 ms) que la fibra óptica (10-25 ms). Para gaming competitivo (FPS, MOBAs), esta latencia da desventaja. Para gaming casual (single player, juegos no competitivos), puede funcionar. Lee [mejor internet para gaming](/blog/mejor-internet-para-gaming-en-mexico-2026.html).
+No es ideal. La conexión 4G/5G tiene mayor latencia (40-80 ms) que la fibra óptica (10-25 ms). Para gaming competitivo (FPS, MOBAs), esta latencia da desventaja. Para gaming casual (single player, juegos no competitivos), puede funcionar. Lee [mejor internet para gaming](/blog/mejor-internet-para-gaming-en-mexico.html).
 {{< /faq >}}
 
 {{< faq "¿Puedo llevar mi Telcel Hogar a otra dirección?" >}}

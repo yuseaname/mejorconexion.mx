@@ -152,7 +152,7 @@ Casi none. La fibra es más resistente a interferencias y degradación que el co
 
 - Para entender otras tecnologías, checa [fibra vs inalámbrico fijo](/internet-en-casa/fibra-vs-inalambrico-mexico.html).
 - Para comparar proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-- Si quieres saber [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
+- Si quieres saber [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 
 ::: meta-row

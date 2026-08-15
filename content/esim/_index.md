@@ -33,7 +33,7 @@ Para línea extra, respaldo de datos o viajar. Aquí concentramos lo esencial so
 ::: {.section .hub-intro hub-intro="true"}
 Este hub de **eSIM** (SIM digital) es para quienes quieren datos extra, una línea secundaria o conectividad sin depender de chips físicos. En México, la experiencia con SIM digital depende de compatibilidad del equipo, activación correcta y red disponible. Aquí reunimos guías y comparativas para entender qué revisar, cómo activar y cómo evitar problemas comunes sin humo ni tecnicismos.
 
-Para aprovechar este hub, inicia con [mejor eSIM en México](/esim/mejor-esim-mexico/) y después revisa la [guía para viajeros a México](/esim-viajeros/mejor-esim-para-mexico/). Si necesitas contexto básico, lee [qué es una eSIM](/blog/que-es-una-esim.html) y complementa con [comparativa 2026 de opciones](/blog/mejores-opciones-esim-mexico-2026.html) para comparar vigencia, datos y soporte.
+Para aprovechar este hub, inicia con [mejor eSIM en México](/esim/mejor-esim-mexico.html) y después revisa la [guía para viajeros a México](/esim-viajeros/mejor-esim-para-mexico.html). Si necesitas contexto básico, lee [qué es una eSIM](/blog/que-es-una-esim.html) y complementa con [comparativa 2026 de opciones](/blog/mejores-opciones-esim-mexico-2026.html) para comparar vigencia, datos y soporte.
 
 En este hub de **eSIM** cubrimos compatibilidad por dispositivo, pasos de activación, recomendaciones por uso (viaje, respaldo, trabajo remoto) y criterios para elegir proveedor sin confundir "datos" con "cobertura real". También encontrarás notas prácticas sobre doble SIM, datos móviles y ajustes clave del teléfono. Todo con foco México y uso cotidiano.
 
@@ -71,13 +71,13 @@ Guías de compra, pasos de activación, problemas comunes y comparativas clave.
 :::
 
 ::: {.grid .two}
-[](/esim/mejor-esim-mexico/){.card}
+[](/esim/mejor-esim-mexico.html){.card}
 
 ## Mejor eSIM en México {#mejor-esim-en-méxico style="margin:0 0 8px"}
 
 Guía para elegir por compatibilidad, redes y soporte.
 
-[](/esim-viajeros/mejor-esim-para-mexico/){.card}
+[](/esim-viajeros/mejor-esim-para-mexico.html){.card}
 
 ## eSIM para viajar (México) {#esim-para-viajar-méxico style="margin:0 0 8px"}
 

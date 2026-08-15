@@ -120,7 +120,7 @@ La cobertura cambia dramáticamente de una calle a otra. Fraccionamientos muy ce
 
 ### Huracanes y cortes de servicio
 
-En temporada de huracanes (junio-noviembre), los cortes de electricidad afectan el internet. Ten un plan B con datos móviles o un hotspot. Lee [internet residencial vs datos móviles](/blog/internet-residencial-vs-datos-moviles.html).
+En temporada de huracanes (junio-noviembre), los cortes de electricidad afectan el internet. Ten un plan B con datos móviles o un hotspot. Lee [internet residencial vs datos móviles](/blog/internet-residencial-vs-datos-m%C3%B3viles.html).
 
 ## Preguntas Frecuentes
 

@@ -1,6 +1,7 @@
 ---
 title: "Guía Definitiva para Cancelar Servicio de Internet en México: Evita Complicaciones y Cargos Innecesarios"
 slug: "cancelar-servicio-internet-mexico"
+description: "**Puedes cancelar tu servicio de internet en México en cualquier momento, pero si firmas contrato de 12 o 24 meses tendrás penalización de 20-80% del pl…"
 date: 2026-05-30
 author: "Lic. Patricia Núñez"
 author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en quejas PROFECO, contratos y portabilidad."
@@ -24,7 +25,7 @@ keywords:
 - **Penalización típica**: $599-$3,500 si sales antes del plazo mínimo
 - **Acción**: llama a cancelar, te mandan folio y luego devuelves el modem en sucursal
 
-Para más detalle, consulta [/blog/c%C3%B3mo-quejarse-profeco-internet-lento-2026/](/blog/c%C3%B3mo-quejarse-profeco-internet-lento-2026/).
+Para más detalle, consulta [/blog/c%C3%B3mo-quejarse-profeco-internet-lento-2026/](/blog/como-quejarse-profeco-internet-lento-2026.html).
 
 <figure class="article-image article-hero">
 <img src="./images/07-cancelar-servicio-internet-mexico/hero.webp" loading="eager" decoding="async" width="1200" height="630" alt="Cancelar servicio de internet en México: guía paso a paso sin cargos extra" />

@@ -24,7 +24,7 @@ image: "/images/internet-clinica-mexico.webp"
 - **Compliance**: usa cifrado WPA3 y VPN para acceso remoto a expedientes
 - **Acción**: nunca uses internet residencial para clínica; elige planes empresariales con SLA
 
-Para entender por qué la fibra simétrica importa, lee [qué es internet simétrico](/blog/que-es-internet-simetrico.html).
+Para entender por qué la fibra simétrica importa, lee [qué es internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html).
 
 ## Por qué el internet es crítico en salud
 

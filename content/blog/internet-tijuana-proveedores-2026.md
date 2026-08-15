@@ -108,7 +108,7 @@ Totalplay 500 Mbps simétrico ($549/mes) es ideal. La subida simétrica permite 
 
 ### Mejor para gaming
 
-Totalplay fibra tiene la latencia más baja (10-25 ms a servidores mexicanos, 15-30 ms a NA). Si tienes la opción, tómala. Lee más en [mejor internet para gaming](/blog/mejor-internet-para-gaming-en-mexico-2026.html).
+Totalplay fibra tiene la latencia más baja (10-25 ms a servidores mexicanos, 15-30 ms a NA). Si tienes la opción, tómala. Lee más en [mejor internet para gaming](/blog/mejor-internet-para-gaming-en-mexico.html).
 
 ### Mejor para familias grandes
 
@@ -118,7 +118,7 @@ Izzi 500 Mbps ($549/mes) o Totalplay 500 Mbps ($549/mes). Ambos soportan 8-12 di
 
 Megacable 100 Mbps ($349/mes) o Infinitum 100 Mbps fibra ($389/mes). Suficiente para WhatsApp, YouTube en una pantalla y videollamadas básicas.
 
-Para opciones de bajo presupuesto, lee [internet barato en México](/blog/internet-barato-menos-300-mxnm-mexico.html).
+Para opciones de bajo presupuesto, lee [internet barato en México](/blog/internet-mas-barato-en-mexico.html).
 
 ## Preguntas Frecuentes
 

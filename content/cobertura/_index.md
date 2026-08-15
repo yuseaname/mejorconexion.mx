@@ -13,7 +13,7 @@ Este hub sirve para tomar decisiones por ciudad sin caer en promesas vagas. El f
 -   Luego identifica la tecnología disponible en tu zona.
 -   Por último, valida con pruebas y vecinos en horario pico.
 
-Con ese orden evitas contratar por marketing y te enfocas en estabilidad real. Si además quieres entender diferencias entre tecnologías, revisa [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html/).
+Con ese orden evitas contratar por marketing y te enfocas en estabilidad real. Si además quieres entender diferencias entre tecnologías, revisa [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html).
 :::
 
 ::: {#que-es .section}
@@ -99,7 +99,7 @@ Si todo se mantiene estable, la cobertura es razonable.
 
 Muchos problemas que parecen "cobertura" en realidad son Wi‑Fi interno. Antes de culpar al proveedor, revisa tu red doméstica.
 
-Si la señal se cae dentro de casa, revisa esta guía: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Si la señal se cae dentro de casa, revisa esta guía: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#vecinos .section}
@@ -114,7 +114,7 @@ Si varios vecinos coinciden en problemas, esa es la señal más clara de que la 
 ## Guías por ciudad
 
 ::: {.grid .two}
-[](/cobertura/cdmx/mejor-internet-cdmx/){.card}
+[](/cobertura/mejor-internet-cdmx.html){.card}
 
 ### CDMX
 

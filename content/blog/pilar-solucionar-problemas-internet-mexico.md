@@ -30,7 +30,7 @@ type: "pillar"
 | Lag en juegos | Latencia alta, WiFi, saturación | [Ping alto gaming](/blog/ping-alto-gaming-mexico-solucion.html) |
 | Velocidad menor a contratada | Proveedor, WiFi, equipos viejos | [Velocidad contratada no llega](/blog/velocidad-contratada-no-me-llega-mexico.html) |
 | WiFi se desconecta solo | Interferencia, router saturado, firmware | [WiFi se desconecta](/blog/wifi-se-desconecta-y-reconecta-mexico.html) |
-| Módem parpadea rojo | Sin sincronía con proveedor | [Módem parpadea rojo](/blog/modem-parpadea-rojo-solucion-mexico.html) |
+| Módem parpadea rojo | Sin sincronía con proveedor | [Módem parpadea rojo](/blog/modem-parpadea-rojo-solucion.html) |
 :::
 
 ::: section
@@ -62,8 +62,8 @@ type: "pillar"
 - [Cómo cambiar de proveedor sin cortes](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html)
 
 ### Módem y equipo
-- [Router vs módem: diferencia](/blog/router-vs-modem-diferencia-mexico.html)
-- [Módem parpadea en rojo](/blog/modem-parpadea-rojo-solucion-mexico.html)
+- [Router vs módem: diferencia](/blog/router-vs-modem-diferencia.html)
+- [Módem parpadea en rojo](/blog/modem-parpadea-rojo-solucion.html)
 - [Powerline: red eléctrica](/blog/powerline-adaptador-red-electrica-mexico.html)
 :::
 

@@ -59,7 +59,7 @@ Para streaming, esto significa:
 - **Izzi 200**: 10-20 Mbps de subida = apenas suficiente, con riesgo de caídas
 - **Megacable 200**: 5-10 Mbps de subida = no reaches ni para 720p estable
 
-Consulta también: [mejor internet para gaming](/blog/mejor-internet-para-gaming-en-mexico-2026.html).
+Consulta también: [mejor internet para gaming](/blog/mejor-internet-para-gaming-en-mexico.html).
 :::
 
 ::: section

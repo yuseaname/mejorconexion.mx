@@ -1,6 +1,7 @@
 ---
 title: "Portabilidad numérica en México: cómo cambiar sin perder tu número"
 slug: "portabilidad-numeraria-mexico-2026"
+description: "**La portabilidad numérica en México 2026 toma entre 24 horas y 5 días hábiles, sin costo. Necesitas: identificación oficial, último recibo del operador…"
 date: 2026-08-09
 author: "Lic. Patricia Núñez"
 author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en quejas PROFECO, contratos y portabilidad."

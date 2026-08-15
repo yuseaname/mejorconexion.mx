@@ -28,7 +28,7 @@ keywords:
 - **Compara por estabilidad y subida, no solo por Mbps de descarga**: la calidad de videollamadas y home office depende de la subida
 - **Calcula el costo total anual** (no solo el primer mes con promo): muchos planes suben 30–50% después del periodo promocional
 
-Si necesitas entender qué miden los Mbps y por qué no siempre “más es mejor”, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Para una comparativa móvil de los tres grandes operadores, revisa [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar/). Y si quieres saber cuánto pagarás en 2026 por los planes principales, consulta [cuánto cuesta internet en México](/blog/cuanto-cuesta-internet-en-mexico-2026.html).
+Si necesitas entender qué miden los Mbps y por qué no siempre “más es mejor”, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Para una comparativa móvil de los tres grandes operadores, revisa [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar.html). Y si quieres saber cuánto pagarás en 2026 por los planes principales, consulta [cuánto cuesta internet en México](/blog/cuanto-cuesta-internet-en-mexico-2026.html).
 
 
 ::: {#comparacion-directa .section}
@@ -44,10 +44,10 @@ Si necesitas entender qué miden los Mbps y por qué no siempre “más es mejor
 
 ### Resumen rápido por perfil
 
-- **¿Vives donde solo llega Telmex?** Infinitum fibra es tu opción. Revisa si tienes fibra (no cobre) en [cómo saber si tienes fibra óptica](/blog/como-saber-si-tengo-fibra-optica-2026/).
-- **¿Quieres la velocidad simétrica más alta?** Totalplay suele ganar en zonas con fibra nueva. Consulta [planes de Totalplay](/blog/internet-totalplay-planes-precios-2026/).
-- **¿Quieres el precio más bajo con TV incluida?** Izzi ofrece bundles competitivos. Revisa [planes de Izzi](/blog/internet-izzi-planes-precios-opiniones-2026/).
-- **¿Vives en zona rural sin cableado?** Considera [internet satelital o opciones rurales](/internet-en-casa/internet-satelital-rural-mexico/).
+- **¿Vives donde solo llega Telmex?** Infinitum fibra es tu opción. Revisa si tienes fibra (no cobre) en [cómo saber si tienes fibra óptica](/blog/como-saber-si-tengo-fibra-optica-2026.html).
+- **¿Quieres la velocidad simétrica más alta?** Totalplay suele ganar en zonas con fibra nueva. Consulta [planes de Totalplay](/blog/internet-totalplay-planes-precios-2026.html).
+- **¿Quieres el precio más bajo con TV incluida?** Izzi ofrece bundles competitivos. Revisa [planes de Izzi](/blog/internet-izzi-planes-precios-opiniones-2026.html).
+- **¿Vives en zona rural sin cableado?** Considera [internet satelital o opciones rurales](/internet-en-casa/internet-satelital-rural-mexico.html).
 
 ### Pros y contras reales
 
@@ -69,7 +69,7 @@ Si necesitas entender qué miden los Mbps y por qué no siempre “más es mejor
 - ❌ Coaxial puede saturarse en horario pico
 - ❌ La velocidad de subida suele ser menor que Totalplay
 
-Para profundizar en un proveedor específico, consulta nuestras guías detalladas de [Telmex Infinitum](/blog/internet-telmex-infinitum-planes-precios-2026/), [Totalplay](/blog/internet-totalplay-planes-precios-2026/) e [Izzi](/blog/internet-izzi-planes-precios-opiniones-2026/).
+Para profundizar en un proveedor específico, consulta nuestras guías detalladas de [Telmex Infinitum](/blog/internet-telmex-infinitum-planes-precios-2026.html), [Totalplay](/blog/internet-totalplay-planes-precios-2026.html) e [Izzi](/blog/internet-izzi-planes-precios-opiniones-2026.html).
 :::
 
 <div>
@@ -176,7 +176,7 @@ Las ofertas suelen destacar la descarga máxima, pero hay otros datos que import
 
 La descarga es para ver contenido y bajar archivos. La subida es clave para videollamadas y subir archivos. Si trabajas desde casa o haces clases en línea, la subida pesa mucho.
 
-Guía útil: [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/).
+Guía útil: [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 ### Latencia (ping) y jitter
 
@@ -198,7 +198,7 @@ Streaming HD, redes sociales, navegación y videollamadas ocasionales. Un plan m
 
 ### 3--5 personas (uso simultáneo)
 
-El problema aquí suele ser el uso al mismo tiempo. Necesitas buena subida y estabilidad. Guía detallada: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico/).
+El problema aquí suele ser el uso al mismo tiempo. Necesitas buena subida y estabilidad. Guía detallada: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
 
 ### Home office y videollamadas
 
@@ -212,7 +212,7 @@ Necesitas baja latencia y estabilidad real. Para gaming: [mejor velocidad para g
 
 Si tu casa es grande, el plan no basta: necesitas buena distribución de Wi‑Fi. En estos casos conviene una red mesh o puntos de acceso.
 
-Guía útil: [Wi‑Fi mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total/).
+Guía útil: [Wi‑Fi mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total.html).
 :::
 
 ::: {#tabla-criterios .section}
@@ -253,7 +253,7 @@ La instalación es donde se gana o se pierde media experiencia. Un plan de 300 M
 -   Cableado limpio y sin empalmes raros.
 -   Prueba de velocidad por cable y por Wi‑Fi al terminar.
 
-Guía práctica: [cómo mejorar tu Wi‑Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Guía práctica: [cómo mejorar tu Wi‑Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#costos .section}
@@ -265,7 +265,7 @@ El costo real es el precio total de 12 meses, no el precio del primer mes. Eval�
 -   Costo de instalación o equipo adicional.
 -   Penalizaciones por cancelar antes del plazo.
 
-Si tu prioridad es ahorrar, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales/).
+Si tu prioridad es ahorrar, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales.html).
 :::
 
 ::: {#alertas .section}
@@ -309,7 +309,7 @@ Medir bien evita decisiones equivocadas. Haz al menos dos pruebas: una por cable
 3.  Haz 2 o 3 pruebas en diferentes horarios.
 4.  Repite la prueba por Wi‑Fi en el lugar donde más usas internet.
 
-Si la velocidad por cable es buena y por Wi‑Fi es baja, el problema no es el proveedor. Guía: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet/).
+Si la velocidad por cable es buena y por Wi‑Fi es baja, el problema no es el proveedor. Guía: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet.html).
 :::
 
 ::: {#instalacion-checklist .section}
@@ -343,9 +343,9 @@ Si tu presupuesto es ajustado, el objetivo no es "lo más barato", sino lo más 
 
 Para presupuestos bajos, prioriza estabilidad y buen Wi‑Fi interno. Para presupuestos medios, busca buena subida y soporte decente. Para presupuestos altos, la diferencia la hace la latencia, el soporte y la calidad de instalación.
 
-Si quieres comparar opciones concretas para casa, nuestra guía [mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico/) desglosa planes por proveedor y uso. Para entender la diferencia entre Mbps y MB al revisar tu plan, consulta [Mbps vs MB explicado](/guias/diferencia-mbps-vs-mb/).
+Si quieres comparar opciones concretas para casa, nuestra guía [mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico.html) desglosa planes por proveedor y uso. Para entender la diferencia entre Mbps y MB al revisar tu plan, consulta [Mbps vs MB explicado](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
-Si estás en modo ahorro, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales/).
+Si estás en modo ahorro, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales.html).
 :::
 
 ::: {#velocidad-real .section}
@@ -355,7 +355,7 @@ La velocidad contratada es un máximo teórico. La velocidad real depende de muc
 
 Si ves 200 Mbps en el contrato pero solo recibes 80 por Wi‑Fi, no siempre es culpa del proveedor. Primero mide por cable y luego por Wi‑Fi. Si por cable sí llega, el problema es interno.
 
-Guía rápida: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet/).
+Guía rápida: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet.html).
 :::
 
 ::: {#ofertas-iguales .section}
@@ -405,11 +405,11 @@ Influyen la instalación, el Wi‑Fi interno y la saturación local en horario p
 
 ### ¿Conviene cambiarse si mi internet es lento?
 
-Antes de cambiar, revisa si el problema es Wi‑Fi o instalación. Guía: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Antes de cambiar, revisa si el problema es Wi‑Fi o instalación. Guía: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 
 ### ¿Qué velocidad necesito para una familia?
 
-Depende del uso simultáneo. Revisa: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico/).
+Depende del uso simultáneo. Revisa: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
 
 ### ¿Qué pasa si contrato un plan alto pero mi Wi‑Fi es malo?
 

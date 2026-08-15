@@ -24,7 +24,7 @@ keywords:
 - **8 bits = 1 byte; por eso 100 Mbps ÷ 8 = 12.5 MB/s reales de descarga.**
 - **Cuando veas 'Mbps' en tu plan y 'MB/s' en tu descarga, divide entre 8 para entender la velocidad real.**
 
-Para más detalle, consulta [calcular Mbps necesarios](/guias/cuantos-mbps-necesito.html).
+Para más detalle, consulta [calcular Mbps necesarios](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 
 ## Preguntas Frecuentes

@@ -1,6 +1,7 @@
 ---
 title: "Por qué hay lag con internet rápido: causas reales y soluciones"
 slug: "por-que-hay-lag-internet-rapido"
+description: "**El lag con internet rápido casi nunca es por Mbps: es por ping alto, jitter o bufferbloat. En México el Wi-Fi saturado, el router del operador y los s…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -155,7 +156,7 @@ El bufferbloat ocurre cuando el router crea colas enormes al estar saturado, sub
 
 Esto pasa mucho cuando hay respaldos automáticos, cámaras o alguien subiendo archivos grandes.
 
-Solución práctica: activar QoS/SQM en el router. Guía: [red doméstica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/).
+Solución práctica: activar QoS/SQM en el router. Guía: [red doméstica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html).
 :::
 
 ::: {#servidores .section}
@@ -225,7 +226,7 @@ Es la mejora más directa. Si tu consola o PC está fija, un cable elimina la ma
 
 ### Mejora el Wi‑Fi si no puedes cablear
 
-Coloca el router en el centro, usa 5 GHz y evita obstáculos. Guía: [cómo mejorar Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Coloca el router en el centro, usa 5 GHz y evita obstáculos. Guía: [cómo mejorar Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 
 ### Activa QoS/SQM
 
@@ -339,7 +340,7 @@ El orden correcto es: optimizar Wi‑Fi, probar cable, usar QoS, y luego decidir
 
 Si tu velocidad actual ya cubre lo básico pero el lag sigue, cambiar de plan no cambia el ping.
 
-Para ver rangos reales por número de personas, revisa: [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito/).
+Para ver rangos reales por número de personas, revisa: [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 
 ::: {#errores .section}

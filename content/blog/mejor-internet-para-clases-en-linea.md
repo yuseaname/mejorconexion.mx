@@ -1,6 +1,7 @@
 ---
 title: "Mejor internet para clases en línea (estabilidad primero)"
 slug: "mejor-internet-para-clases-en-linea"
+description: "**Para clases en línea en México necesitas al menos 25-50 Mbps de bajada y 5-10 Mbps de subida, con ping menor a 50 ms. La fibra óptica (Totalplay, Telm…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +25,7 @@ keywords:
 - **Mínimo estable: 25 Mbps bajada / 5 Mbps subida con ping < 50 ms para Zoom, Meet y Teams sin cortes.**
 - **Conecta la laptop por cable Ethernet al router y acércate a menos de 3 metros si usas Wi-Fi durante la clase.**
 
-Para más detalle, consulta [elegir velocidad según número de usuarios](/guias/cuantos-mbps-necesito.html).
+Para más detalle, consulta [elegir velocidad según número de usuarios](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 
 
@@ -77,7 +78,7 @@ Blog
 Para clases en línea lo que manda es la estabilidad: videollamadas sin cortes, audio claro y subida constante. Aquí va qué revisar (plan + Wi‑Fi) para México en 2026.
 
 ::: button-row
-[Internet para estudiantes](/internet-en-casa/internet-para-estudiantes-mexico/){.btn .primary} [Medir tu velocidad real](/guias/como-medir-velocidad-real-internet/){.btn}
+[Internet para estudiantes](/internet-en-casa/internet-para-estudiantes-mexico.html){.btn .primary} [Medir tu velocidad real](/guias/como-medir-velocidad-real-internet.html){.btn}
 :::
 :::
 
@@ -117,7 +118,7 @@ Para Zoom/Meet, no necesitas "gigabits". Necesitas una conexión que no tenga pi
   **3+ personas, clases + streaming + trabajo**   50+ Mbps          10+ Mbps        Plan alto (Totalplay 200+, Megacable fibra)
   **Escuela + gaming + descargas**                100+ Mbps         15+ Mbps        Fibra dedicada (Totalplay 500, Izzi 300)
 
-Depende de cuántas clases/videollamadas ocurren al mismo tiempo en casa y si hay streaming simultáneo. Para elegir sin sobrepagar, usa la guía: [cuántos Mbps necesito](/guias/cuantos-mbps-necesito/).
+Depende de cuántas clases/videollamadas ocurren al mismo tiempo en casa y si hay streaming simultáneo. Para elegir sin sobrepagar, usa la guía: [cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 Si solo hay una clase y navegación ligera, la mayoría de planes decentes funcionan. Si hay 2--3 videollamadas simultáneas y streaming, conviene subir de nivel (o al menos asegurar buena subida).
 :::
@@ -127,7 +128,7 @@ Si solo hay una clase y navegación ligera, la mayoría de planes decentes funci
 
 Muchos planes se anuncian por descarga (bajada), pero en clases en línea la subida importa mucho. Si alguien está subiendo archivos, respaldos o usando hotspot, puede saturar la subida y causar cortes aunque "sobren Mbps".
 
-Si tu router tiene QoS, prioriza videollamadas. Guía: [red doméstica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/).
+Si tu router tiene QoS, prioriza videollamadas. Guía: [red doméstica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html).
 :::
 
 ::: {#wifi .section}
@@ -138,7 +139,7 @@ Si tu router tiene QoS, prioriza videollamadas. Guía: [red doméstica pro](/int
 -   Si la casa es grande, considera mesh en lugar de repetidor.
 -   Para una laptop fija, Ethernet suele ser lo más estable.
 
-Guía completa: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Guía completa: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#checklist .section}
@@ -149,7 +150,7 @@ Guía completa: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-c
 3.  Revisa instalación: ubicación de módem/router y cables.
 4.  Evita saturación en horario de clase (respaldos/descargas).
 
-Si necesitas comparar tecnologías, revisa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico/) y [fibra vs inalámbrico](/internet-en-casa/fibra-vs-inalambrico-mexico/).
+Si necesitas comparar tecnologías, revisa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html) y [fibra vs inalámbrico](/internet-en-casa/fibra-vs-inalambrico-mexico.html).
 :::
 
 ::: {.section .decision-links editorial-links="true"}
@@ -167,7 +168,7 @@ Si necesitas comparar tecnologías, revisa [fibra vs coaxial](/internet-en-casa/
 
 ### ¿Qué es mejor para clases en línea: fibra o coaxial?
 
-En general la fibra suele ser más estable, pero depende de tu zona e instalación. Comparativa: [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico/).
+En general la fibra suele ser más estable, pero depende de tu zona e instalación. Comparativa: [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
 
 ### ¿Por qué se corta el audio aunque la velocidad "sale bien"?
 
@@ -175,26 +176,26 @@ Suele ser Wi‑Fi (señal débil/interferencia) o subida saturada. Prueba por ca
 
 ### ¿Conviene un mesh para estudiar?
 
-Si hay zonas muertas o muchas paredes, sí. Guía: [Wi‑Fi mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total/).
+Si hay zonas muertas o muchas paredes, sí. Guía: [Wi‑Fi mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total.html).
 :::
 
 ::: {#relacionados .section .callout related-block="" style="margin-top:18px"}
 ## Lecturas relacionadas
 
 ::: {.grid .two}
-[](/internet-en-casa/internet-para-estudiantes-mexico/){.card}
+[](/internet-en-casa/internet-para-estudiantes-mexico.html){.card}
 
 ### Internet para estudiantes
 
 Opciones y criterios con presupuesto en mente.
 
-[](/guias/como-medir-velocidad-real-internet/){.card}
+[](/guias/como-medir-velocidad-real-internet.html){.card}
 
 ### Cómo [medir tu velocidad](/guias/como-medir-velocidad-real-internet.html) real
 
 Pruebas para saber si falla el proveedor o el Wi‑Fi.
 
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
+[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.card}
 
 ### Cómo mejorar tu Wi‑Fi
 
@@ -211,6 +212,6 @@ Diagnóstico rápido y causas comunes.
 ------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 27 de diciembre de 2025 [Metodología](/metodologia/)
+**Última actualización:** 27 de diciembre de 2025 [Metodología](/metodologia.html)
 :::
 :::

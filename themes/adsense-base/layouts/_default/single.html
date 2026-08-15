@@ -46,7 +46,7 @@
     {{ with .Params.tags }}
     <div class="article-tags">
       {{ range . }}
-        <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="badge badge-neutral">{{ . }}</a>
+        <span class="badge badge-neutral">{{ . }}</span>
       {{ end }}
     </div>
     {{ end }}

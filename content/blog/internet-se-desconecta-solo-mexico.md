@@ -1,6 +1,7 @@
 ---
 title: "Por qué internet se desconecta solo y cómo arreglarlo (México 2026)"
 slug: "internet-se-desconecta-solo-mexico"
+description: "**Que el internet se desconecte solo en México se debe casi siempre a: saturación del router del proveedor, caída de señal en la fibra/coaxial, interfer…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

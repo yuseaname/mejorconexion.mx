@@ -1,6 +1,7 @@
 ---
 title: "Cómo aumentar la velocidad de tu internet en México: 10 trucos reales"
 slug: "como-aumentar-velocidad-internet-mexico"
+description: "**Conectar por cable Ethernet Cat 6, cambiar el router a 5 GHz y configurar QoS te devuelve 30-80% de velocidad perdida; en planes de 100-200 Mbps Infin…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -24,7 +25,7 @@ keywords:
 - **Truco #1 con impacto medible**: cable Ethernet = +50% de velocidad estable
 - **Acción**: reinicia el router cada 30 días y borra dispositivos que no uses
 
-Para más detalle, consulta [/blog/como-mejorar-wifi-en-casa-guia-2026/](/blog/como-mejorar-wifi-en-casa-guia-2026/).
+Para más detalle, consulta [/blog/como-mejorar-wifi-en-casa-guia-2026/](/blog/como-mejorar-wifi-en-casa-guia-2026.html).
 
 
 ## Preguntas Frecuentes
@@ -186,7 +187,7 @@ Empieza por los gratuitos. Si después de todo sigues lento, mide por cable. Si 
 ## Sigue aprendiendo
 
 - Para medir bien tu velocidad, checa [cómo hacer un test de velocidad](/guias/como-medir-velocidad-real-internet.html).
-- Para entender las unidades, lee [la diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
+- Para entender las unidades, lee [la diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Para optimizar tu router a fondo, revisa [cómo ajustar tu router](/blog/ajustes-router-mejorar-velocidad-internet.html).
 :::
 

@@ -68,7 +68,7 @@ Las luces del módem son tu panel de diagnóstico. Aprende a leerlas:
 - **Todo en verde pero sin internet**: Probablemente DNS o configuración
 - **Power apagada**: Problema eléctrico (revisa el enchufe y el cable de poder)
 
-Más detalle en [módem parpadea en rojo](/blog/modem-parpadea-rojo-solucion-mexico.html).
+Más detalle en [módem parpadea en rojo](/blog/modem-parpadea-rojo-solucion.html).
 
 ### Paso 3: Verifica los cables
 

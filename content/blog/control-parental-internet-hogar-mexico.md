@@ -1,6 +1,7 @@
 ---
 title: "Control parental en el router y dispositivos en Mexico"
 slug: "control-parental-internet-hogar-mexico"
+description: "**Activa el control parental en `192.168.1.1` filtra por MAC o usa apps como Google Family Link (gratis) o Kaspersky Safe Kids ($90/año) para bloquear s…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -24,7 +25,7 @@ keywords:
 - **Cobertura típica**: 1-10 dispositivos por familia, filtros de 0-18 años
 - **Acción**: crea perfil independiente para menores de 12 años con horario 7am-9pm
 
-Para más detalle, consulta [/blog/dns-seguro-filtros-malware-mexico/](/blog/dns-seguro-filtros-malware-mexico/).
+Para más detalle, consulta [/blog/dns-seguro-filtros-malware-mexico/](/blog/dns-seguro-filtros-malware-mexico.html).
 
 
 
@@ -144,7 +145,7 @@ Haz un inventario de todo lo que se conecta: celulares, tablets, laptops, televi
 
 El mapa tambien te ayuda a decidir donde aplicar el control: en el router para reglas generales, y en dispositivos para ajustes finos. Combinar ambos da mejor resultado.
 
-Si necesitas mejorar la red antes de configurar controles, revisa nuestra guia para [mejorar el WiFi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Si necesitas mejorar la red antes de configurar controles, revisa nuestra guia para [mejorar el WiFi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#router .section}
@@ -267,7 +268,7 @@ Recuerda que el streaming consume mucho ancho de banda. Si hay clases en linea, 
 
 Un error comun es bloquear demasiado y terminar afectando el estudio. Establece una franja de internet libre para tareas, y otra para entretenimiento. Si hay clases en linea, prioriza esas horas.
 
-Para mejorar estabilidad durante clases, considera usar cable Ethernet o acercar el router. En nuestra guia de [red domestica con Ethernet y QoS](/internet-en-casa/red-domestica-ethernet-qos-wifi-6/) explicamos como dar prioridad al trafico de estudio.
+Para mejorar estabilidad durante clases, considera usar cable Ethernet o acercar el router. En nuestra guia de [red domestica con Ethernet y QoS](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html) explicamos como dar prioridad al trafico de estudio.
 
 El control parental no solo es bloqueo, tambien es asegurar que el internet funcione bien para aprender.
 :::
@@ -365,13 +366,13 @@ WPA3, contrasenas, firmware y buenas practicas para proteger tu red.
 
 Mapa completo de guias para mantener tu red segura.
 
-[](/internet-en-casa/internet-para-estudiantes-mexico/){.card}
+[](/internet-en-casa/internet-para-estudiantes-mexico.html){.card}
 
 ### Internet para estudiantes en Mexico
 
 Recomendaciones para clases, tareas y presupuesto familiar.
 
-[](/guias/cuantos-mbps-necesito/){.card}
+[](/blog/cuanta-velocidad-internet-necesitas-2026.html){.card}
 
 ### Cuantos Mbps necesito
 
@@ -382,6 +383,6 @@ Guia practica para dimensionar velocidad por uso real.
 ------------------------------------------------------------------------
 
 ::: meta-row
-**Ultima actualizacion:** 27 de diciembre de 2025 [Metodologia](/metodologia/)
+**Ultima actualizacion:** 27 de diciembre de 2025 [Metodologia](/metodologia.html)
 :::
 :::

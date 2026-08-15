@@ -20,7 +20,7 @@ Comparativas y decisión
 Esta sección te ayuda a elegir con calma. Aquí no gana el anuncio más grande, gana el plan que **sí se ajusta a tu uso real** en México.
 
 ::: button-row
-[Comparativa por uso real](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/){.btn .primary} [Plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico/){.btn}
+[Comparativa por uso real](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html){.btn .primary} [Plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html){.btn}
 :::
 :::
 
@@ -69,29 +69,29 @@ Rangos orientativos para decisión editorial. Verifica precios y condiciones vig
 -   **Mejor para familias con streaming:** opciones con mejor rendimiento nocturno en tu zona (Totalplay/Izzi según saturación local).
 -   **Mejor para presupuesto ajustado:** compara promociones de entrada y costo total después del periodo inicial.
 
-Para una comparación más profunda, revisa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/) y luego valida cobertura local en [nuestra guía por ciudades](/cobertura/).
+Para una comparación más profunda, revisa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html) y luego valida cobertura local en [nuestra guía por ciudades](/cobertura/).
 :::
 
 ::: {.grid .two}
-[](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/){.card}
+[](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html){.card}
 
 ## Telmex vs Izzi vs Totalplay {#telmex-vs-izzi-vs-totalplay style="margin:0 0 8px"}
 
 Comparativa por perfiles de uso real, sin humo.
 
-[](/planes-internet/plan-internet-casa-segun-personas-mexico/){.card}
+[](/planes-internet/plan-internet-casa-segun-personas-mexico.html){.card}
 
 ## Plan según cuántas personas {#plan-según-cuántas-personas style="margin:0 0 8px"}
 
 Guía práctica por tamaño de hogar.
 
-[](/planes-internet/internet-barato-mexico-opciones-reales/){.card}
+[](/planes-internet/internet-barato-mexico-opciones-reales.html){.card}
 
 ## Internet barato sin trampas {#internet-barato-sin-trampas style="margin:0 0 8px"}
 
 Opciones reales para ahorrar sin perder estabilidad.
 
-[](/internet-en-casa/companias-internet-mexico/){.card}
+[](/internet-en-casa/companias-internet-mexico.html){.card}
 
 ## Compañías de internet en México {#compañías-de-internet-en-méxico style="margin:0 0 8px"}
 
@@ -126,7 +126,7 @@ Cómo evitar pausas y mala calidad.
 
 Lo que importa de verdad en juegos online.
 
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
+[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.card}
 
 ### Cómo mejorar tu Wi‑Fi {#cómo-mejorar-tu-wifi style="margin:0 0 8px"}
 

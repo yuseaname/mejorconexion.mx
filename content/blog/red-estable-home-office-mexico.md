@@ -1,6 +1,7 @@
 ---
 title: "Red estable para home office en México: guía completa (2026)"
 slug: "red-estable-home-office-mexico"
+description: "Para trabajar desde casa no basta con 'muchos megas'. Lo que importa es estabilidad, subida y buena red interna. Aquí tienes una guía práctica para que…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
@@ -112,7 +113,7 @@ Un Wi‑Fi mal colocado genera cortes. Para estabilidad:
 -   Evitar encerrar el router.
 -   Usar 5 GHz cerca del router.
 
-Guía práctica: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/).
+Guía práctica: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 :::
 
 ::: {#cable .section}
@@ -155,15 +156,15 @@ En horario pico, la red en tu zona se satura. Si trabajas en la noche, prioriza 
 2.  Revisa la subida en videollamadas.
 3.  Prueba en horario pico.
 
-Guía paso a paso: [cómo [medir tu velocidad](/guias/como-medir-velocidad-real-internet.html) real](/guias/como-medir-velocidad-real-internet/).
+Guía paso a paso: [cómo [medir tu velocidad](/guias/como-medir-velocidad-real-internet.html) real](/guias/como-medir-velocidad-real-internet.html).
 :::
 
 ::: {#plan .section}
 ## Cómo elegir el plan correcto
 
-Si trabajas desde casa, prioriza subida y estabilidad. Si hay varios usuarios, aumenta el rango. Consulta: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico/).
+Si trabajas desde casa, prioriza subida y estabilidad. Si hay varios usuarios, aumenta el rango. Consulta: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
 
-Comparativa útil: [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/).
+Comparativa útil: [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 :::
 
 ::: {#video .section}
@@ -342,7 +343,7 @@ Estos ajustes suelen ser más baratos que subir de plan y dan resultados reales.
 
 El plan ideal depende de cuántas personas trabajan y cuántas videollamadas ocurren al mismo tiempo. Un plan medio con buena subida suele ser suficiente para 1 o 2 personas, siempre que el Wi‑Fi esté bien configurado.
 
-Si son 3 o más personas en videollamadas al mismo tiempo, necesitas más subida y estabilidad. Guía útil: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico/).
+Si son 3 o más personas en videollamadas al mismo tiempo, necesitas más subida y estabilidad. Guía útil: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
 :::
 
 ::: {#tabla-actividades .section}

@@ -79,7 +79,7 @@ Totalplay se ha posicionado en 2026 como la referencia en velocidad. Su apuesta 
 *   **Puntos Débiles:** Cobertura limitada. No llega a todas las colonias. Además, como mencionamos, su tasa de quejas por usuario es alta, lo que sugiere que la atención al cliente a veces no es ágil.
 *   **Veredicto:** Es el rey de la estabilidad técnica, pero solo si tienes cobertura en tu calle. Si la fibra pasa frente a tu casa, difícilmente fallará menos que la competencia.
 
-Para quienes están indecisos entre la calidad de Totalplay y la disponibilidad de Izzi, te recomendamos leer nuestra comparativa detallada: [Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html/).
+Para quienes están indecisos entre la calidad de Totalplay y la disponibilidad de Izzi, te recomendamos leer nuestra comparativa detallada: [Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html).
 
 ### Telmex/Infinitum: Volumen de quejas y cobertura
 
@@ -96,7 +96,7 @@ Aquí es donde entra la geografía. En el Bajío (Guadalajara, León, Querétaro
 *   **Megacable:** Suele tener una tasa de quejas más baja (14.20 por cada 100k), lo que indica un buen equilibrio entre servicio y calidad. Sus planes son competitivos en precio.
 *   **Izzi:** Tiene una infraestructura híbrida. En zonas donde solo tienen coaxial, la velocidad es inferior a la fibra. Sin embargo, su atención al cliente suele ser más humana y accesible que la de los gigantes nacionales.
 
-Para entender mejor las diferencias técnicas entre estas opciones y Telmex, consulta nuestra guía: [Megacable vs Telmex Comparativa](/blog/megacable-vs-telmex-comparativa-directa-2026.html/).
+Para entender mejor las diferencias técnicas entre estas opciones y Telmex, consulta nuestra guía: [Megacable vs Telmex Comparativa](/blog/megacable-vs-telmex-comparativa-directa-2026.html).
 
 <!-- IMAGE: infographic — Mapa de cobertura de los principales ISP en México -->
 
@@ -146,7 +146,7 @@ Si vives fuera de la CDMX o en zonas de difícil acceso, tu estrategia debe camb
 2.  **Considera el Satélite:** Para zonas rurales, Starlink ha ajustado sus precios para 2026. Su plan residencial es una opción viable donde la fibra no llega.
 3.  **Pregunta a tus vecinos:** En tu zona, el "boca a boca" es más fiable que el ranking nacional. Si todos en tu calle se quejan de Telmex, no te inscribas aunque el precio sea bueno.
 
-Para profundizar en la opción satelital y si conviene para tu zona, revisa nuestro análisis: [Starlink vs Fibra Óptica México 2026](/internet-en-casa/starlink-vs-fibra-optica-mexico-2026/).
+Para profundizar en la opción satelital y si conviene para tu zona, revisa nuestro análisis: [Starlink vs Fibra Óptica México 2026](/internet-en-casa/starlink-vs-fibra-optica-mexico-2026.html).
 
 <!-- IMAGE: infographic — Mapa de calor de estabilidad de internet en CDMX -->
 
@@ -170,7 +170,7 @@ Hagamos las matemáticas.
 
 Paradójicamente, el plan más caro sale más barato por cada megabyte de velocidad real. Además, hay que considerar el "tiempo de inactividad". Si el Plan A falla 5 horas al mes, estás pagando por un servicio que no recibes. El costo real sube cuando consideras la frustración y la pérdida de tiempo.
 
-Si tu prioridad es el presupuesto ajustado, te sugerimos ver nuestra lista de opciones económicas: [Internet Más Barato en México](/internet-en-casa/internet-mas-barato-en-mexico/).
+Si tu prioridad es el presupuesto ajustado, te sugerimos ver nuestra lista de opciones económicas: [Internet Más Barato en México](/blog/internet-mas-barato-en-mexico.html).
 
 <!-- IMAGE: infographic — Gráfico de dispersión precio vs velocidad -->
 

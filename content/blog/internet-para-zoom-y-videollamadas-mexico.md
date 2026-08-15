@@ -1,6 +1,7 @@
 ---
 title: "Internet para Zoom y videollamadas: qué velocidad necesitas en México (2026)"
 slug: "internet-para-zoom-y-videollamadas-mexico"
+description: "**Para videollamadas fluidas en Zoom y Microsoft Teams necesitas mínimo 10 Mbps de bajada y 3 Mbps de subida por persona; para llamadas grupales en HD o…"
 date: 2026-08-10
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
@@ -87,7 +88,7 @@ El jitter es la variación en la latencia. Aunque tu velocidad promedio sea buen
 
 La mayoría de planes en México son asimétricos: la velocidad de subida es mucho menor que la de bajada. Por ejemplo, un plan de "100 Mbps" puede tener solo 10 Mbps de subida. Para videollamadas, la **subida** es más crítica que la bajada, porque estás enviando tu video.
 
-La fibra simétrica de Totalplay es ideal para esto porque ofrece la misma velocidad de subida que de bajada. Para más información, consulta [qué es el internet simétrico](/blog/que-es-internet-simetrico.html).
+La fibra simétrica de Totalplay es ideal para esto porque ofrece la misma velocidad de subida que de bajada. Para más información, consulta [qué es el internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html).
 
 ### Congestión de Wi-Fi
 
@@ -148,6 +149,14 @@ Si tu plan de internet tiene límite de datos (algunos planes de Telmex y Megaca
 Para calcular tu consumo total de datos, consulta [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
 
 ## Preguntas Frecuentes
+
+
+::: section
+## Sigue leyendo
+
+- [Qué es el jitter y por qué arruina tu internet (explicación fácil)](/blog/que-es-el-jitter-y-por-que-importa.html)
+- [Mejor internet para trabajo desde casa (WFH): comparativa 2026](/blog/mejor-internet-para-wfh-mexico.html)
+:::
 
 {{< faq "¿Cuántos Mbps necesita Zoom en México?" >}}
 Para una llamada 1:1 en SD, Zoom necesita 1.5 Mbps de bajada y subida. Para llamadas grupales en HD, se recomiendan mínimo 10 Mbps. Si otras personas en casa usan internet simultáneamente, necesitas un plan de al menos 50-100 Mbps.

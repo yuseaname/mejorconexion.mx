@@ -66,7 +66,7 @@ Medir la velocidad de tu internet parece fácil: entras a una página, das clic 
 | Latencia (ping) | Tiempo de respuesta de la red | Gaming, llamadas en vivo |
 | Estabilidad | Qué tan constante es la velocidad | Todo — la inestabilidad causa cortes |
 
-Para entender qué significan las unidades, checa [la diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
+Para entender qué significan las unidades, checa [la diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 
 ::: {.ad-slot ad-slot="mid-content"}
@@ -152,9 +152,9 @@ Sí. Un reinicio (30 segundos apagado) limpia la memoria del router y te da la m
 ::: {.section related-block="" style="margin-top:18px"}
 ## Sigue aprendiendo
 
-- Para entender qué significan las unidades, checa [la diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
+- Para entender qué significan las unidades, checa [la diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Si tu internet está lento después de medir, lee [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
-- Para saber [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
+- Para saber [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 :::
 
 ::: meta-row

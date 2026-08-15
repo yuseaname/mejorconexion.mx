@@ -1,6 +1,7 @@
 ---
 title: "Velocidad de internet para videollamadas en México (Zoom, Meet, Teams)"
 slug: "velocidad-necesaria-videollamadas-mexico-2026"
+description: "**Para videollamadas en México 2026 necesitas 10-25 Mbps de bajada y 5-10 Mbps de subida con ping }} Una familia de 3-4 personas necesita entre 100 y 20…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

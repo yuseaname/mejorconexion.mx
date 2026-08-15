@@ -1,6 +1,7 @@
 ---
 title: "Cómo proteger tu red de casa de hackers en México: guía 2026"
 slug: "proteger-red-casa-hackers-mexico"
+description: "**Para proteger tu red de casa de hackers en México, necesitas 7 medidas clave: (1) cambiar la contraseña WiFi por una fuerte (16+ caracteres), (2) camb…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

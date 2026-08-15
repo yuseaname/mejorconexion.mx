@@ -1,6 +1,7 @@
 ---
 title: "Modo bridge del router: qué es y cuándo usarlo en México (2026)"
 slug: "modo-bridge-router-mexico"
+description: "**El modo bridge del router desactiva las funciones de router (NAT, DHCP, firewall) del módem del proveedor y lo convierte en un simple 'passthrough' de…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

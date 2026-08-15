@@ -24,7 +24,7 @@ keywords:
 - **Streaming 4K consume 25 Mbps por pantalla; gaming en línea necesita 50 Mbps pero con ping <30 ms.**
 - **Calcula multiplicando los Mbps por servicio × dispositivos simultáneos + 30% de margen para hora pico.**
 
-Para más detalle, consulta [qué es internet simétrico](/blog/que-es-internet-simétrico.html).
+Para más detalle, consulta [qué es internet simétrico](/blog/que-es-internet-sim%C3%A9trico.html).
 
 
 
@@ -79,7 +79,7 @@ Guía
 En México mucha gente compra "más megas" pensando que así se arregla todo... y luego el Wi‑Fi sigue fallando. Vamos por partes: velocidad, estabilidad y tu uso real.
 
 ::: button-row
-[Ver comparativa](/blog/mejor-internet-casa-mexico-2026.html/){.btn .primary} [Mejorar Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.btn}
+[Ver comparativa](/blog/mejor-internet-casa-mexico-2026.html){.btn .primary} [Mejorar Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.btn}
 :::
 :::
 
@@ -151,13 +151,13 @@ Traducción: antes de pagar más, asegúrate de que tu Wi‑Fi no sea el problem
 Si aún no sabes qué contratar, empieza por estas dos lecturas:
 
 ::: {.grid .two}
-[](/blog/mejor-internet-casa-mexico-2026.html/){.card}
+[](/blog/mejor-internet-casa-mexico-2026.html){.card}
 
 ### Mejor internet en casa en México
 
 Cómo comparar opciones por tecnología y por uso.
 
-[](/internet-en-casa/internet-sin-contrato-mexico/){.card}
+[](/internet-en-casa/internet-sin-contrato-mexico.html){.card}
 
 ### Internet sin contrato
 
@@ -183,7 +183,7 @@ Para ver contenido pesa descarga. Para videollamadas y mandar archivos pesa subi
 ::: {.section .callout related-block="" style="margin-top:18px"}
 ## Siguiente lectura
 
-[Diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb/)
+[Diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html)
 
 Aclara velocidad vs tamaño de archivos.
 :::
@@ -198,13 +198,13 @@ Aclara velocidad vs tamaño de archivos.
 
 Lecturas claras para decidir sin tecnicismos.
 
-[](/blog/mejor-internet-casa-mexico-2026.html/){.card}
+[](/blog/mejor-internet-casa-mexico-2026.html){.card}
 
 ### Mejor internet en casa en México
 
 Comparativa práctica por tecnología y uso.
 
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico/){.card}
+[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.card}
 
 ### C?mo mejorar tu Wi?Fi
 
@@ -215,6 +215,6 @@ Pasos reales para mejorar señal en casa.
 ------------------------------------------------------------------------
 
 ::: meta-row
-**Última actualización:** 27 de diciembre de 2025 • [Metodología](/metodologia/)
+**Última actualización:** 27 de diciembre de 2025 • [Metodología](/metodologia.html)
 :::
 :::

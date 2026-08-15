@@ -26,7 +26,7 @@ keywords:
 - **Cobertura: Telcel llega a más de 95% del territorio nacional; AT&T y Movistar concentran su fuerza en ciudades.**
 - **Compara los planes de tu zona en el mapa de cobertura del operador antes de firmar; revisa si tu uso cabe en el plan más barato.**
 
-Para más detalle, consulta [comparar planes prepago vs postpago](/guias/cuantos-mbps-necesito.html).
+Para más detalle, consulta [comparar planes prepago vs postpago](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 
 ## Preguntas Frecuentes

@@ -43,7 +43,7 @@ La red troncal de alta capacidad que conecta ciudades y países. Si el backbone 
 Cuando un video (Netflix, YouTube) se pausa para cargar. Ocurre por velocidad insuficiente, WiFi débil o saturación del nodo. Ver [buffering en Netflix](/blog/buffering-netflix-mexico-solucion.html).
 
 ### Byte / Megabyte (MB)
-Unidad de medida de datos. 1 MB = 8 megabits (Mb). Los archivos se miden en MB; la velocidad de internet en Mbps. Ver [diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html).
+Unidad de medida de datos. 1 MB = 8 megabits (Mb). Los archivos se miden en MB; la velocidad de internet en Mbps. Ver [diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 ## C
 
@@ -144,10 +144,10 @@ Cuarto proveedor de internet más grande de México. Usa cable coaxial. Ver [Meg
 Sistema de múltiples puntos de acceso WiFi que crean una sola red sin zonas muertas. Ideal para casas grandes. Ver [WiFi mesh](/blog/wifi-mesh-para-casas-grandes-mexico.html).
 
 ### Mbps (Megabits por segundo)
-Unidad de velocidad de internet. 100 Mbps = ~12.5 MB/s de descarga real. Ver [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html).
+Unidad de velocidad de internet. 100 Mbps = ~12.5 MB/s de descarga real. Ver [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 ### Módem (modulador-demodulador)
-Equipo que convierte la señal del proveedor (fibra, coaxial, teléfono) en conexión de internet. Ver [router vs módem](/blog/router-vs-modem-diferencia-mexico.html).
+Equipo que convierte la señal del proveedor (fibra, coaxial, teléfono) en conexión de internet. Ver [router vs módem](/blog/router-vs-modem-diferencia.html).
 
 ### Movistar
 Tercer operador móvil de México. Destaca en prepago con buenos precios por GB. Ver [planes móviles](/planes-moviles/mejores-planes-mexico.html).
@@ -207,7 +207,7 @@ Servicio de internet satelital de SpaceX. Ofrece 100-300 Mbps con antena. Ver [S
 Tarjeta que identifica tu línea telefónica. La eSIM es la versión digital. Ver [qué es una eSIM](/blog/que-es-una-esim.html).
 
 ### Symmetric (simétrico)
-Conexión con la misma velocidad de subida y bajada. Característica de la fibra óptica de Totalplay. Ver [internet simétrico](/blog/que-es-internet-simétrico.html).
+Conexión con la misma velocidad de subida y bajada. Característica de la fibra óptica de Totalplay. Ver [internet simétrico](/blog/que-es-internet-sim%C3%A9trico.html).
 
 ## T
 
@@ -237,7 +237,7 @@ Conexión inalámbrica a internet. Estándares actuales: WiFi 5, WiFi 6, WiFi 6E
 Estándar de WiFi que ofrece hasta 40% más rendimiento con múltiples dispositivos. Recomendado para 10+ dispositivos conectados.
 
 ### WiFi 6E
-WiFi 6 con banda adicional de 6 GHz. Menos interferencia y más velocidad. Ver [mejores routers WiFi 6E](/blog/mejores-routers-wifi-6e-méxico-2026.html).
+WiFi 6 con banda adicional de 6 GHz. Menos interferencia y más velocidad. Ver [mejores routers WiFi 6E](/blog/mejores-routers-wifi-6e-m%C3%A9xico-2026.html).
 
 ### WiFi 7 (802.11be)
 Próximo estándar de WiFi. Aún no disponible comercialmente en México (2026). Ver [WiFi 7 en México](/blog/wifi-7-mexico-disponibilidad-2026.html).

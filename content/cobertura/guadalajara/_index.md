@@ -13,7 +13,7 @@ draft: false
 - **Totalplay:** mejor velocidad simétrica donde hay fibra nueva
 - **Izzi:** buen precio con TV incluida, velocidad estable en zonas consolidadas
 
-Para una comparación detallada de estos tres proveedores, consulta [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/). Si quieres opciones específicas para Guadalajara, revisa [internet en Guadalajara: mejores opciones](/blog/internet-guadalajara-mejores-opciones-2026/).
+Para una comparación detallada de estos tres proveedores, consulta [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html). Si quieres opciones específicas para Guadalajara, revisa [internet en Guadalajara: mejores opciones](/blog/internet-guadalajara-mejores-opciones-2026.html).
 ::: {#panorama .section}
 ## Panorama local en Guadalajara
 
@@ -385,8 +385,8 @@ Si hay fallas desde el inicio, repórtalas con evidencia y solicita ajuste.
 ::: {#ciudades-relacionadas .section}
 ## Otras guías por ciudad
 
-- [Mejor internet en CDMX](/cobertura/cdmx/mejor-internet-cdmx/)
+- [Mejor internet en CDMX](/cobertura/mejor-internet-cdmx.html)
 - [Mejor internet en Monterrey](/cobertura/monterrey/)
-- [Comparativa: Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/)
-- [Cuántos Mbps necesito](/guias/cuantos-mbps-necesito/)
+- [Comparativa: Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html)
+- [Cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html)
 :::

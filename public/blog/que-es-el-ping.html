@@ -1,71 +1,4072 @@
-<!doctype html><html lang=en dir=ltr><head><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel=preconnect href=https://fonts.googleapis.com crossorigin><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link rel=preload href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@500;600;700&display=swap" as=style onload='this.onload=null,this.rel="stylesheet"'><noscript><link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@500;600;700&display=swap"></noscript><link rel=stylesheet href=/css/tailwind.css><link rel=stylesheet href=/css/design-system.min.d0c64eb5257a93bcc9c94bab0b1212a3e46670270c782f2b115b8433ea34cca7199380c26df44e53ca6f82bf4ac53e40039ff6aade72c954aaf8dd164ee999f0.css integrity="sha512-0MZOtSV6k7zJyUurCxISo+RmcCcMeC8rEVuEM+o0zKcZk4DCbfROU8pvgr9KxT5AA5/2qt5yyVSq+N0WTumZ8A==" crossorigin=anonymous><link rel=stylesheet href=/css/author.min.42b4ac221c225dba32c311b7e57a2d13690fd48b139e4614782aab87fe45351ec8dcf6c69f991c33b400cc56533f5a88093663b3f8c3b89c38866a53a5aac807.css integrity="sha512-QrSsIhwiXboywxG35XotE2kP1IsTnkYUeCqrh/5FNR7I3PbGn5kcM7QAzFZTP1qICTZjs/jDuJw4hmpTparIBw==" crossorigin=anonymous><title>Qué es el ping y por qué importa (latencia, jitter y juegos) | Mejor Conexión</title><meta name=author content="Equipo Mejor Conexión"><meta name=keywords content="internet lento mexico,internet mexico 2026,repetidor wifi,router wifi mexico,totalplay vs telmex vs izzi,wifi mesh mexico"><link rel=canonical href=https://mejorconexion.mx/blog/que-es-el-ping.html>
-<link rel=icon href=/assets/images/logo.png><meta property="og:type" content="article"><meta property="og:title" content="Qué es el ping y por qué importa (latencia, jitter y juegos)"><meta property="og:url" content="https://mejorconexion.mx/blog/que-es-el-ping.html"><meta property="og:site_name" content="Mejor Conexión"><meta property="og:image" content="/images/generated/speed-test-cdmx.webp"><meta property="og:locale" content="es-mx"><meta property="article:published_time" content="2026-01-01T00:00:00+00:00"><meta property="article:author" content="Equipo Mejor Conexión"><meta name=twitter:card content="summary_large_image"><meta name=twitter:title content="Qué es el ping y por qué importa (latencia, jitter y juegos)"><meta name=twitter:image content="/images/generated/speed-test-cdmx.webp"><script type=application/ld+json>"[{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"author\":{\"@type\":\"Person\",\"name\":\"Equipo Mejor Conexión\"},\"dateModified\":\"2026-01-01 00:00:00 +0000 UTC\",\"datePublished\":\"2026-01-01T00:00:00+00:00\",\"headline\":\"Qué es el ping y por qué importa (latencia, jitter y juegos)\",\"image\":\"/images/generated/speed-test-cdmx.webp\",\"mainEntityOfPage\":{\"@id\":\"https://mejorconexion.mx/blog/que-es-el-ping.html\",\"@type\":\"WebPage\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Mejor Conexión\",\"sameAs\":[\"https://mejorconexion.mx/\"],\"url\":\"https://mejorconexion.mx/\"}},{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://mejorconexion.mx/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://mejorconexion.mx/blog/\",\"name\":\"Blog\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://mejorconexion.mx/blog/que-es-el-ping.html\",\"name\":\"Qué es el ping y por qué importa (latencia, jitter y juegos)\",\"position\":3}]}]"</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5566942094411042" crossorigin=anonymous></script></head><body class="min-h-screen flex flex-col font-sans" style=background:var(--paper);color:var(--ink)><a href=#main-content class=skip-to-content>Skip to content</a><div class=progress-bar id=reading-progress role=progressbar aria-valuemin=0 aria-valuemax=100 aria-valuenow=0></div><script>(function(){var e,t=document.getElementById("reading-progress");t&&(e=function(){var s=window.scrollY,e=document.documentElement.scrollHeight-window.innerHeight,n=e>0?Math.min(s/e*100,100):0;t.style.width=n+"%",t.setAttribute("aria-valuenow",Math.round(n))},window.addEventListener("scroll",e,{passive:!0}),window.addEventListener("resize",e,{passive:!0}),e())})()</script><nav class="nav-container sticky top-0 z-50" id=main-nav role=navigation aria-label="Main navigation"><div class="max-w-7xl mx-auto px-4 sm:px-6"><div class="flex items-center justify-between h-14"><a href=/ class="flex items-center gap-2 text-lg font-bold hover:opacity-80 transition-opacity" style=color:#f0f4fa><svg class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentcolor" viewBox="0 0 24 24" aria-hidden="true" style="color:var(--brand-bright)"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5.0 017.778.0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141.0M1.394 9.393c5.857-5.857 15.355-5.857 21.213.0"/></svg>
-<span>Mejor Conexión</span></a><div class="hidden sm:flex items-center gap-1"><a href=/ class="px-3 py-2 text-sm font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) onmouseover='this.style.background="var(--surface-2)",this.style.color="#F0F4FA"' onmouseout='this.style.background="",this.style.color="var(--ink-secondary)"'>Inicio
-</a><a href=/internet-en-casa/ class="px-3 py-2 text-sm font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) onmouseover='this.style.background="var(--surface-2)",this.style.color="#F0F4FA"' onmouseout='this.style.background="",this.style.color="var(--ink-secondary)"'>Elegir internet
-</a><a href=/planes-internet/ class="px-3 py-2 text-sm font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) onmouseover='this.style.background="var(--surface-2)",this.style.color="#F0F4FA"' onmouseout='this.style.background="",this.style.color="var(--ink-secondary)"'>Planes y precios
-</a><a href=/blog/ class="px-3 py-2 text-sm font-medium rounded-lg transition-colors" style=background:var(--brand-100);color:var(--brand-bright)>Wi-Fi y red
-</a><a href=/planes-moviles/ class="px-3 py-2 text-sm font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) onmouseover='this.style.background="var(--surface-2)",this.style.color="#F0F4FA"' onmouseout='this.style.background="",this.style.color="var(--ink-secondary)"'>Datos móviles
-</a><a href=/esim/ class="px-3 py-2 text-sm font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) onmouseover='this.style.background="var(--surface-2)",this.style.color="#F0F4FA"' onmouseout='this.style.background="",this.style.color="var(--ink-secondary)"'>eSIM
-</a><a href=/herramientas/ class="px-3 py-2 text-sm font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) onmouseover='this.style.background="var(--surface-2)",this.style.color="#F0F4FA"' onmouseout='this.style.background="",this.style.color="var(--ink-secondary)"'>Herramientas
-</a><a href=/blog/ class="px-3 py-2 text-sm font-medium rounded-lg transition-colors" style=background:var(--brand-100);color:var(--brand-bright)>Blog
-</a><a href=/about.html class="px-3 py-2 text-sm font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) onmouseover='this.style.background="var(--surface-2)",this.style.color="#F0F4FA"' onmouseout='this.style.background="",this.style.color="var(--ink-secondary)"'>Acerca de
-</a><a href=/contact.html class="px-3 py-2 text-sm font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) onmouseover='this.style.background="var(--surface-2)",this.style.color="#F0F4FA"' onmouseout='this.style.background="",this.style.color="var(--ink-secondary)"'>Contacto
-</a><a href=/buscar.html class="ml-1 p-2 rounded-lg transition-colors" style=color:var(--ink-secondary) aria-label=Buscar onmouseover='this.style.background="var(--surface-2)",this.style.color="#F0F4FA"' onmouseout='this.style.background="",this.style.color="var(--ink-secondary)"'><svg class="w-5 h-5" fill="none" stroke="currentcolor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5A7 7 0 113 10a7 7 0 0114 0z"/></svg></a></div><div class="flex items-center sm:hidden"><a href=/buscar.html class="mr-1 p-2 rounded-lg transition-colors" style=color:var(--ink-secondary) aria-label=Buscar onmouseover='this.style.background="var(--surface-2)",this.style.color="#F0F4FA"' onmouseout='this.style.background="",this.style.color="var(--ink-secondary)"'><svg class="w-5 h-5" fill="none" stroke="currentcolor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5A7 7 0 113 10a7 7 0 0114 0z"/></svg>
-</a><button class="p-2 rounded-lg transition-colors" style=color:var(--ink-secondary) id=nav-toggle aria-label="Abrir menú" aria-expanded=false aria-controls=mobile-menu onmouseover='this.style.background="var(--surface-2)",this.style.color="#F0F4FA"' onmouseout='this.style.background="",this.style.color="var(--ink-secondary)"'><svg class="w-6 h-6" id="hamburger-icon" fill="none" stroke="currentcolor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg><svg class="w-6 h-6 hidden" id="close-icon" fill="none" stroke="currentcolor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18 18 6M6 6l12 12"/></svg></button></div></div><div class="sm:hidden hidden border-t pb-4" style=border-color:var(--border) id=mobile-menu role=menu><div class="pt-3 space-y-1"><a href=/ class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) role=menuitem>Inicio</a>
-<a href=/internet-en-casa/ class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) role=menuitem>Elegir internet</a>
-<a href=/planes-internet/ class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) role=menuitem>Planes y precios</a>
-<a href=/blog/ class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors" style=background:var(--brand-100);color:var(--brand-bright) role=menuitem>Wi-Fi y red</a>
-<a href=/planes-moviles/ class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) role=menuitem>Datos móviles</a>
-<a href=/esim/ class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) role=menuitem>eSIM</a>
-<a href=/herramientas/ class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) role=menuitem>Herramientas</a>
-<a href=/blog/ class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors" style=background:var(--brand-100);color:var(--brand-bright) role=menuitem>Blog</a>
-<a href=/about.html class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) role=menuitem>Acerca de</a>
-<a href=/contact.html class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors" style=color:var(--ink-secondary) role=menuitem>Contacto</a></div></div></div></nav><main class=flex-1 id=main-content><article class=article-shell><div class=article-container><nav aria-label=Breadcrumb class=breadcrumbs itemscope itemtype=https://schema.org/BreadcrumbList><span itemprop=itemListElement itemscope itemtype=https://schema.org/ListItem><a href=/ itemprop=item><span itemprop=name>Inicio</span>
-</a><meta itemprop=position content="1"></span><span class=breadcrumbs-sep aria-hidden=true><svg class="w-3 h-3" fill="none" stroke="currentcolor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
-</span><span itemprop=itemListElement itemscope itemtype=https://schema.org/ListItem><a href=/blog/ itemprop=item><span itemprop=name>Blog</span>
-</a><meta itemprop=position content="2"></span><span class=breadcrumbs-sep aria-hidden=true><svg class="w-3 h-3" fill="none" stroke="currentcolor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
-</span><span itemprop=itemListElement itemscope itemtype=https://schema.org/ListItem aria-current=page><span class=breadcrumbs-current itemprop=name>Qué es el ping y por qué importa (latencia, jitter y juegos)</span>
-<meta itemprop=position content="3"></span></nav><header class=article-header><figure class="hero-figure article-hero"><img src=/images/generated/speed-test-cdmx.webp alt="Qué es el ping y por qué importa (latencia, jitter y juegos)" loading=eager fetchpriority=high decoding=async></figure><h1 class=article-title>Qué es el ping y por qué importa (latencia, jitter y juegos)</h1><p class=update-log>Publicado: <time datetime=2026-01-01>1 Jan 2026</time>
-<span class=update-log-author>· por Equipo Mejor Conexión</span></p></header><div class="ad-slot ad-slot-below_title" data-position=below_title><span class=ad-label>Publicidad</span>
-<ins class=adsbygoogle style=display:block;min-height:90px data-ad-client=ca-pub-5566942094411042 data-ad-slot=9770352885 data-ad-format=auto data-full-width-responsive=true></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></div><nav class=toc aria-label="Tabla de contenidos"><details class="toc-details sm:toc-static"><summary class=toc-summary><span class=toc-title>Tabla de contenidos</span><svg class="toc-chevron" viewBox="0 0 20 20" fill="currentcolor" aria-hidden="true" width="20" height="20"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414.0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414.0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"/></svg></summary><div class=toc-nav><ul class=toc-list><li class=toc-item><a class=toc-link href=#respuesta-rápida>Respuesta Rápida</a></li></ul><ul class=toc-sublist><li class=toc-item><a class=toc-link href=#tabla-de-contenidos>Tabla de contenidos</a></li><li class=toc-item><a class=toc-link href=#comparativa-rápida-de-proveedores>Comparativa rápida de proveedores</a></li><li class=toc-item><a class=toc-link href=#preguntas-frecuentes>Preguntas Frecuentes</a></li><li class=toc-item><a class=toc-link href=#qué-es-el-ping-latencia-en-palabras-simples>Qué es el ping (latencia) en palabras simples</a></li><li class=toc-item><a class=toc-link href=#rangos-de-ping-qué-es-bueno-y-qué-es-malo>Rangos de ping: qué es bueno y qué es malo</a></li><li class=toc-item><a class=toc-link href=#qué-es-el-jitter-y-por-qué-lo-sientes>Qué es el jitter y por qué lo sientes</a></li><li class=toc-item><a class=toc-link href=#pérdida-de-paquetes-el-problema-silencioso>Pérdida de paquetes: el problema silencioso</a></li><li class=toc-item><a class=toc-link href=#causas-comunes-de-ping-alto>Causas comunes de ping alto</a></li><li class=toc-item><a class=toc-link href=#cómo-medir-ping-correctamente>Cómo medir ping correctamente</a></li><li class=toc-item><a class=toc-link href=#ping-en-gaming-lo-que-realmente-importa>Ping en gaming: lo que realmente importa</a></li><li class=toc-item><a class=toc-link href=#ping-en-videollamadas-y-trabajo-remoto>Ping en videollamadas y trabajo remoto</a></li><li class=toc-item><a class=toc-link href=#wifi-vs-cable-impacto-real-en-latencia>Wi‑Fi vs cable: impacto real en latencia</a></li><li class=toc-item><a class=toc-link href=#ping-vs-velocidad-por-qué-no-son-lo-mismo>Ping vs velocidad: por qué no son lo mismo</a></li><li class=toc-item><a class=toc-link href=#tabla-rápida-de-causas-y-soluciones>Tabla rápida de causas y soluciones</a></li><li class=toc-item><a class=toc-link href=#herramientas-útiles-para-medir-ping>Herramientas útiles para medir ping</a></li><li class=toc-item><a class=toc-link href=#buenas-prácticas-en-red-doméstica>Buenas prácticas en red doméstica</a></li><li class=toc-item><a class=toc-link href=#checklist-rápido-para-bajar-el-ping>Checklist rápido para bajar el ping</a></li><li class=toc-item><a class=toc-link href=#caso-práctico-ping-alto-con-internet-rápido>Caso práctico: ping alto con internet &ldquo;rápido&rdquo;</a></li><li class=toc-item><a class=toc-link href=#elegir-servidor-cercano-la-diferencia-más-rápida>Elegir servidor cercano: la diferencia más rápida</a></li><li class=toc-item><a class=toc-link href=#glosario-breve>Glosario breve</a></li><li class=toc-item><a class=toc-link href=#ping-en-videollamadas-por-qué-se-siente-el-retraso>Ping en videollamadas: por qué se siente el retraso</a></li><li class=toc-item><a class=toc-link href=#routers-qos-y-prioridades>Routers, QoS y prioridades</a></li><li class=toc-item><a class=toc-link href=#errores-comunes-al-medir-ping>Errores comunes al medir ping</a></li><li class=toc-item><a class=toc-link href=#distancia-y-rutas-de-red-la-parte-invisible>Distancia y rutas de red: la parte invisible</a></li><li class=toc-item><a class=toc-link href=#diagnóstico-avanzado-sin-complicarse>Diagnóstico avanzado (sin complicarse)</a></li><li class=toc-item><a class=toc-link href=#ping-y-dispositivos-inteligentes>Ping y dispositivos inteligentes</a></li><li class=toc-item><a class=toc-link href=#ping-en-navegación-y-streaming-lo-que-sí-se-nota>Ping en navegación y streaming: lo que sí se nota</a></li><li class=toc-item><a class=toc-link href=#resumen-rápido-para-decidir>Resumen rápido para decidir</a></li><li class=toc-item><a class=toc-link href=#cómo-mejorar-el-ping-en-casa>Cómo mejorar el ping en casa</a></li><li class=toc-item><a class=toc-link href=#preguntas-frecuentes-1>Preguntas frecuentes</a><ul class=toc-sublist><li class=toc-item><a class=toc-link href=#qué-es-un-buen-ping-para-jugar>¿Qué es un buen ping para jugar?</a></li><li class=toc-item><a class=toc-link href=#por-qué-mi-ping-sube-por-la-noche>¿Por qué mi ping sube por la noche?</a></li><li class=toc-item><a class=toc-link href=#el-ping-depende-del-proveedor>¿El ping depende del proveedor?</a></li><li class=toc-item><a class=toc-link href=#un-plan-más-caro-baja-el-ping>¿Un plan más caro baja el ping?</a></li><li class=toc-item><a class=toc-link href=#cómo-reduzco-el-jitter>¿Cómo reduzco el jitter?</a></li></ul></li></ul></div></details></nav><div class=article-content><h2 id=respuesta-rápida>Respuesta Rápida</h2><p><strong>El ping (o latencia) es el tiempo que tarda tu dispositivo en enviar una señal a un servidor y recibir respuesta, medido en milisegundos (ms). Un ping bajo (menos de 50 ms) significa respuestas rápidas en juegos y videollamadas; un ping alto (más de 100 ms) causa retraso, &ldquo;lag&rdquo; y cortes. El ping NO es lo mismo que los Mbps de velocidad: puedes tener un plan de 300 Mbps y sentir todo lento si el ping es alto.</strong></p><ul><li><strong>0–50 ms:</strong> excelente — ideal para gaming competitivo y videollamadas fluidas</li><li><strong>51–100 ms:</strong> aceptable — se nota un ligero retraso pero funciona bien</li><li><strong>101–150 ms:</strong> alto — lag visible en juegos y llamadas</li><li><strong>150+ ms:</strong> problemático — cortes y retrasos constantes</li></ul><p>Para entender la diferencia entre velocidad y latencia, consulta <a href=/blog/que-significa-la-velocidad-de-internet.html>qué significa la velocidad de internet</a>. Si tu internet se siente lento a pesar de tener buenos Mbps, revisa <a href=/guias/que-hacer-si-internet-lento/>qué hacer cuando tu internet está lento</a>.</p><div><h1 id=qué-es-el-ping-y-por-qué-importa-latencia-jitter-y-juegos>Qué es el ping y por qué importa (latencia, jitter y juegos)</h1><p>El ping es el tiempo de respuesta de tu conexión. Aunque tengas muchos Mbps, un ping alto se siente lento en videollamadas, juegos y llamadas de voz. Aquí te explicamos qué es, cómo medirlo y cómo mejorarlo en México.</p></div><h2 id=tabla-de-contenidos>Tabla de contenidos</h2><ol><li><a href=#definicion>Qué es el ping (latencia) en palabras simples</a></li><li><a href=#rangos>Rangos de ping: qué es bueno y qué es malo</a></li><li><a href=#jitter>Qué es el jitter y por qué lo sientes</a></li><li><a href=#perdida>Pérdida de paquetes: el problema silencioso</a></li><li><a href=#causas>Causas comunes de ping alto</a></li><li><a href=#medir>Cómo medir ping correctamente</a></li><li><a href=#gaming>Ping en gaming: lo que realmente importa</a></li><li><a href=#video>Ping en videollamadas y trabajo remoto</a></li><li><a href=#wifi>Wi‑Fi vs cable: impacto real en latencia</a></li><li><a href=#mejorar>Cómo mejorar el ping en casa</a></li><li><a href=#faq>Preguntas frecuentes</a></li><li><a href=#status>Estado del contenido</a></li></ol><p>::: section</p><h2 id=comparativa-rápida-de-proveedores>Comparativa rápida de proveedores</h2><table><thead><tr><th>Proveedor</th><th>Velocidad</th><th>Precio/mes</th><th>Tecnología</th><th>Mejor para</th></tr></thead><tbody><tr><td>Totalplay</td><td>200-1000 Mbps</td><td>$399-$1,499</td><td>Fibra óptica</td><td>Velocidad y simetría</td></tr><tr><td>Telmex Infinitum</td><td>20-1000 Mbps</td><td>$299-$1,099</td><td>Fibra/Cobre</td><td>Cobertura nacional</td></tr><tr><td>Izzi</td><td>100-1000 Mbps</td><td>$349-$999</td><td>Coaxial</td><td>Bundle con TV</td></tr><tr><td>Megacable</td><td>80-600 Mbps</td><td>$299-$799</td><td>Coaxial</td><td>Precio económico</td></tr></tbody></table><p>Para comparar en detalle, consulta nuestro <a href=/blog/cual-es-el-mejor-internet-en-mexico-2026.html>ranking de proveedores 2026</a>.
-:::</p><h2 id=preguntas-frecuentes>Preguntas Frecuentes</h2><p><div class="my-4 border-l-4 border-blue-400 pl-4"><h3 class="font-semibold text-gray-900">¿Cuál es el mejor proveedor de internet en México en 2026?</h3><div class="text-gray-600 mt-1">Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.</div></div>}</p><p><div class="my-4 border-l-4 border-blue-400 pl-4"><h3 class="font-semibold text-gray-900">¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?</h3><div class="text-gray-600 mt-1">Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.</div></div>}</p><p><div class="my-4 border-l-4 border-blue-400 pl-4"><h3 class="font-semibold text-gray-900">¿Los precios promocionales duran para siempre?</h3><div class="text-gray-600 mt-1">No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.</div></div>}</p><p><div class="my-4 border-l-4 border-blue-400 pl-4"><h3 class="font-semibold text-gray-900">¿Puedo cambiar de proveedor sin penalización?</h3><div class="text-gray-600 mt-1">Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.</div></div>}</p><p>::: {#definicion .section}</p><h2 id=qué-es-el-ping-latencia-en-palabras-simples>Qué es el ping (latencia) en palabras simples</h2><p>El ping es el tiempo que tarda tu dispositivo en enviar una señal y recibir respuesta. Se mide en milisegundos (ms). Mientras más bajo, mejor.</p><p>Una forma simple de entenderlo: es como preguntar algo por teléfono. Si te contestan rápido, el ping es bajo. Si hay delay, el ping es alto.</p><p>El ping no es lo mismo que la velocidad. Puedes tener 300 Mbps y un ping alto si la ruta a los servidores es larga o si tu red está saturada.
-:::</p><p>::: {#rangos .section}</p><h2 id=rangos-de-ping-qué-es-bueno-y-qué-es-malo>Rangos de ping: qué es bueno y qué es malo</h2><p>No hay un número mágico, pero estos rangos sirven como referencia:</p><ul><li><strong>0&ndash;20 ms:</strong> excelente (ideal para gaming competitivo).</li><li><strong>21&ndash;50 ms:</strong> muy bueno (videollamadas sin problemas).</li><li><strong>51&ndash;100 ms:</strong> aceptable (se puede notar un poco).</li><li><strong>101&ndash;150 ms:</strong> alto (lag visible en juegos y llamadas).</li><li><strong>150+ ms:</strong> problemático (cortes y retrasos constantes).</li></ul><p>Estos rangos dependen de tu ubicación y del servidor al que te conectas. Un servidor en otro país siempre dará ping más alto.
-:::</p><p>::: {#jitter .section}</p><h2 id=qué-es-el-jitter-y-por-qué-lo-sientes>Qué es el jitter y por qué lo sientes</h2><p>El jitter es la variación del ping. Si un momento tienes 20 ms y al siguiente 80 ms, eso es jitter. Se siente como inestabilidad en juegos o videollamadas.</p><p>El jitter alto es casi peor que un ping moderado, porque provoca cortes y saltos en la comunicación. Por eso muchos gamers prefieren un ping estable de 60 ms que uno que sube y baja.
-:::</p><p>::: {#perdida .section}</p><h2 id=pérdida-de-paquetes-el-problema-silencioso>Pérdida de paquetes: el problema silencioso</h2><p>La pérdida de paquetes ocurre cuando parte de la información se pierde en el camino. Aunque tengas buena velocidad, si hay pérdida de paquetes la experiencia se degrada.</p><p>Se nota cuando:</p><ul><li>Las llamadas se cortan o suenan entrecortadas.</li><li>Los juegos &ldquo;teletransportan&rdquo; personajes.</li><li>Las videollamadas se congelan.
-:::</li></ul><p>::: {#causas .section}</p><h2 id=causas-comunes-de-ping-alto>Causas comunes de ping alto</h2><ul><li><strong>Wi‑Fi saturado:</strong> muchas redes cercanas o router mal ubicado.</li><li><strong>Horario pico:</strong> la red local se satura por la noche.</li><li><strong>Servidor lejano:</strong> juegos o servicios en otro país.</li><li><strong>Interferencia:</strong> microondas, paredes gruesas, dispositivos viejos.</li><li><strong>Equipo limitado:</strong> router básico o antiguo.
-:::</li></ul><p>::: {#medir .section}</p><h2 id=cómo-medir-ping-correctamente>Cómo medir ping correctamente</h2><p>Para medir bien:</p><ol><li>Haz pruebas por cable y por Wi‑Fi.</li><li>Hazlas en diferentes horarios (mañana y noche).</li><li>Usa la misma herramienta para comparar.</li></ol><p>Si necesitas un paso a paso, revisa: <a href=/guias/como-medir-velocidad-real-internet/>cómo medir tu velocidad real</a>.
-:::</p><p>::: {#gaming .section}</p><h2 id=ping-en-gaming-lo-que-realmente-importa>Ping en gaming: lo que realmente importa</h2><p>En juegos competitivos, el ping bajo y estable es clave. Si tu ping sube y baja, la experiencia se siente &ldquo;lag&rdquo;.</p><p>Factores que mejoran tu ping en gaming:</p><ul><li>Conexión por cable.</li><li>Router moderno con buena cobertura.</li><li>Elegir servidores cercanos.</li></ul><p>Más detalles: <a href=/blog/mejor-velocidad-para-gaming.html>mejor velocidad para gaming</a> y <a href=/blog/wifi-vs-ethernet-para-jugar.html>Wi‑Fi vs Ethernet</a>.
-:::</p><p>::: {#video .section}</p><h2 id=ping-en-videollamadas-y-trabajo-remoto>Ping en videollamadas y trabajo remoto</h2><p>En videollamadas largas, el ping alto se siente como retraso. La subida también importa, pero la latencia define si la conversación fluye.</p><p>Si trabajas desde casa, revisa: <a href=/blog/red-estable-home-office-mexico.html>red estable para home office</a>.
-:::</p><p>::: {#wifi .section}</p><h2 id=wifi-vs-cable-impacto-real-en-latencia>Wi‑Fi vs cable: impacto real en latencia</h2><p>El cable siempre da menor latencia que el Wi‑Fi. Si estás teniendo problemas de ping, prueba conectarte por cable y compara resultados.</p><p>Si la diferencia es grande, el problema es tu Wi‑Fi. Soluciones comunes: mejor ubicación del router, cambiar a 5 GHz o usar un sistema mesh.
-:::</p><p>::: {#ping-vs-velocidad .section}</p><h2 id=ping-vs-velocidad-por-qué-no-son-lo-mismo>Ping vs velocidad: por qué no son lo mismo</h2><p>La velocidad mide cuánto puedes descargar o subir. El ping mide cuánto tarda en responder la red. Puedes tener un plan muy rápido y aun así sentir lag si la latencia es alta.</p><p>Ejemplo: en una videollamada, una buena descarga no evita que la conversación tenga retraso si el ping es alto. En juegos, una buena descarga no evita que los disparos &ldquo;lleguen tarde&rdquo;.
-:::</p><p>::: {#tabla-causas .section}</p><h2 id=tabla-rápida-de-causas-y-soluciones>Tabla rápida de causas y soluciones</h2><p>::: {style=&ldquo;overflow:auto&rdquo;}
-Problema Señal típica Solución probable</p><hr><p>Wi‑Fi saturado Ping sube en varias habitaciones Mejor ubicación o mesh
-Horario pico Ping alto solo en la noche Evaluar tecnología o proveedor
-Servidor lejano Ping alto constante Elegir servidor cercano
-Interferencia Picos de jitter Cambiar canal o banda
+<!DOCTYPE html>
+<html lang="es-mx" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@500;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@500;600;700&display=swap"></noscript>
+
+
+<link rel="stylesheet" href="/css/tailwind.css">
+
+
+
+  <link rel="stylesheet" href="/css/design-system.min.d0c64eb5257a93bcc9c94bab0b1212a3e46670270c782f2b115b8433ea34cca7199380c26df44e53ca6f82bf4ac53e40039ff6aade72c954aaf8dd164ee999f0.css" integrity="sha512-0MZOtSV6k7zJyUurCxISo&#43;RmcCcMeC8rEVuEM&#43;o0zKcZk4DCbfROU8pvgr9KxT5AA5/2qt5yyVSq&#43;N0WTumZ8A==" crossorigin="anonymous">
+
+
+
+
+  <link rel="stylesheet" href="/css/author.min.42b4ac221c225dba32c311b7e57a2d13690fd48b139e4614782aab87fe45351ec8dcf6c69f991c33b400cc56533f5a88093663b3f8c3b89c38866a53a5aac807.css" integrity="sha512-QrSsIhwiXboywxG35XotE2kP1IsTnkYUeCqrh/5FNR7I3PbGn5kcM7QAzFZTP1qICTZjs/jDuJw4hmpTparIBw==" crossorigin="anonymous">
+
+
+
+<title>Qué es el ping y por qué importa (latencia, jitter y juegos) | Mejor Conexión</title><meta name="description" content="**El ping (o latencia) es el tiempo que tarda tu dispositivo en enviar una señal a un servidor y recibir respuesta, medido en milisegundos (ms). Un ping…"><meta name="author" content="Equipo Mejor Conexión"><meta name="keywords" content="internet lento mexico, internet mexico 2026, repetidor wifi, router wifi mexico, totalplay vs telmex vs izzi, wifi mesh mexico"><link rel="canonical" href="https://mejorconexion.mx/blog/que-es-el-ping.html">
+
+<link rel="icon" href="/assets/images/logo.png">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Qué es el ping y por qué importa (latencia, jitter y juegos)"><meta property="og:description" content="**El ping (o latencia) es el tiempo que tarda tu dispositivo en enviar una señal a un servidor y recibir respuesta, medido en milisegundos (ms). Un ping…"><meta property="og:url" content="https://mejorconexion.mx/blog/que-es-el-ping.html">
+<meta property="og:site_name" content="Mejor Conexión"><meta property="og:image" content="/images/generated/speed-test-cdmx.webp"><meta property="og:locale" content="es-mx"><meta property="article:published_time" content="2026-01-01T00:00:00&#43;00:00"><meta property="article:author" content="Equipo Mejor Conexión">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Qué es el ping y por qué importa (latencia, jitter y juegos)"><meta name="twitter:description" content="**El ping (o latencia) es el tiempo que tarda tu dispositivo en enviar una señal a un servidor y recibir respuesta, medido en milisegundos (ms). Un ping…"><meta name="twitter:image" content="/images/generated/speed-test-cdmx.webp"><script type="application/ld+json">[{"@context":"https://schema.org","@type":"Article","author":{"@type":"Person","name":"Equipo Mejor Conexión"},"dateModified":"2026-01-01T00:00:00Z","datePublished":"2026-01-01T00:00:00+00:00","description":"**El ping (o latencia) es el tiempo que tarda tu dispositivo en enviar una señal a un servidor y recibir respuesta, medido en milisegundos (ms). Un ping…","headline":"Qué es el ping y por qué importa (latencia, jitter y juegos)","image":"/images/generated/speed-test-cdmx.webp","mainEntityOfPage":{"@id":"https://mejorconexion.mx/blog/que-es-el-ping.html","@type":"WebPage"},"publisher":{"@type":"Organization","name":"Mejor Conexión","sameAs":["https://mejorconexion.mx/"],"url":"https://mejorconexion.mx/"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://mejorconexion.mx/","name":"Home","position":1},{"@type":"ListItem","item":"https://mejorconexion.mx/blog/","name":"Blog","position":2},{"@type":"ListItem","item":"https://mejorconexion.mx/blog/que-es-el-ping.html","name":"Qué es el ping y por qué importa (latencia, jitter y juegos)","position":3}]},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar."},"name":"¿Cuál es el mejor proveedor de internet en México en 2026?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica \u0026gt; coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural."},"name":"¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato."},"name":"¿Los precios promocionales duran para siempre?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar."},"name":"¿Puedo cambiar de proveedor sin penalización?"}]}]</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5566942094411042" crossorigin="anonymous"></script>
+</head>
+<body class="min-h-screen flex flex-col font-sans" style="background: var(--paper); color: var(--ink);">
+
+  
+  <a href="#main-content" class="skip-to-content">Skip to content</a>
+
+  
+  
+  <div class="progress-bar" id="reading-progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
+  <script>
+    (function() {
+      var bar = document.getElementById('reading-progress');
+      if (bar) {
+        var update = function() {
+          var scrollTop = window.scrollY;
+          var docHeight = document.documentElement.scrollHeight - window.innerHeight;
+          var progress = docHeight > 0 ? Math.min(scrollTop / docHeight * 100, 100) : 0;
+          bar.style.width = progress + '%';
+          bar.setAttribute('aria-valuenow', Math.round(progress));
+        };
+        window.addEventListener('scroll', update, { passive: true });
+        window.addEventListener('resize', update, { passive: true });
+        update();
+      }
+    })();
+  </script>
+  
+
+  
+  <nav class="nav-container sticky top-0 z-50" id="main-nav" role="navigation" aria-label="Main navigation">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6">
+    <div class="flex items-center justify-between h-14">
+      
+      <a href="/" class="flex items-center gap-2 text-lg font-bold hover:opacity-80 transition-opacity" style="color: #F0F4FA;">
+        <svg class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true" style="color: var(--brand-bright);">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0"/>
+        </svg>
+        <span>Mejor Conexión</span>
+      </a>
+
+      
+      <div class="hidden sm:flex items-center gap-1">
+        
+        
+        
+        
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/"
+               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+               onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+              Inicio
+            </a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/internet-en-casa/"
+               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+               onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+              Elegir internet
+            </a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/planes-internet/"
+               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+               onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+              Planes y precios
+            </a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/blog/"
+               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               style="background: var(--brand-100); color: var(--brand-bright);"
+               onmouseover=""
+               onmouseout="">
+              Wi-Fi y red
+            </a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/planes-moviles/"
+               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+               onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+              Datos móviles
+            </a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/esim/"
+               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+               onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+              eSIM
+            </a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/herramientas/"
+               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+               onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+              Herramientas
+            </a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/blog/"
+               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               style="background: var(--brand-100); color: var(--brand-bright);"
+               onmouseover=""
+               onmouseout="">
+              Blog
+            </a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/about.html"
+               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+               onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+              Acerca de
+            </a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/contact.html"
+               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+               onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+              Contacto
+            </a>
+          
+        
+
+        
+        <a href="/buscar.html" class="ml-1 p-2 rounded-lg transition-colors" style="color: var(--ink-secondary);" aria-label="Buscar"
+           onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+           onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+        </a>
+      </div>
+
+      
+      <div class="flex items-center sm:hidden">
+        <a href="/buscar.html" class="mr-1 p-2 rounded-lg transition-colors" style="color: var(--ink-secondary);" aria-label="Buscar"
+           onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+           onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+        </a>
+        <button class="p-2 rounded-lg transition-colors" style="color: var(--ink-secondary);" id="nav-toggle" aria-label="Abrir menú" aria-expanded="false" aria-controls="mobile-menu"
+           onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+           onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+          <svg class="w-6 h-6" id="hamburger-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+          </svg>
+          <svg class="w-6 h-6 hidden" id="close-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    
+    <div class="sm:hidden hidden border-t pb-4" style="border-color: var(--border);" id="mobile-menu" role="menu">
+      <div class="pt-3 space-y-1">
+        
+        
+        
+        
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/"
+               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               role="menuitem">Inicio</a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/internet-en-casa/"
+               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               role="menuitem">Elegir internet</a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/planes-internet/"
+               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               role="menuitem">Planes y precios</a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/blog/"
+               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               style="background: var(--brand-100); color: var(--brand-bright);"
+               role="menuitem">Wi-Fi y red</a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/planes-moviles/"
+               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               role="menuitem">Datos móviles</a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/esim/"
+               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               role="menuitem">eSIM</a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/herramientas/"
+               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               role="menuitem">Herramientas</a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/blog/"
+               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               style="background: var(--brand-100); color: var(--brand-bright);"
+               role="menuitem">Blog</a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/about.html"
+               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               role="menuitem">Acerca de</a>
+          
+            
+            
+            
+            
+            
+            
+            
+            <a href="/contact.html"
+               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               style="color: var(--ink-secondary);"
+               role="menuitem">Contacto</a>
+          
+        
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+  
+  <main class="flex-1" id="main-content">
+    
+<article class="article-shell">
+  <div class="article-container">
+    
+
+
+<nav aria-label="Breadcrumb" class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+  
+  <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+    <a href="/" itemprop="item">
+      <span itemprop="name">Inicio</span>
+    </a>
+    <meta itemprop="position" content="1">
+  </span>
+
+  
+  
+  
+    <span class="breadcrumbs-sep" aria-hidden="true">
+      <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+    </span>
+    <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a href="/blog/" itemprop="item">
+        <span itemprop="name">Blog</span>
+      </a>
+      <meta itemprop="position" content="2">
+    </span>
+    
+  
+
+  
+  
+    <span class="breadcrumbs-sep" aria-hidden="true">
+      <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+    </span>
+    <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page">
+      <span class="breadcrumbs-current" itemprop="name">Qué es el ping y por qué importa (latencia, jitter y juegos)</span>
+      <meta itemprop="position" content="3">
+    </span>
+  
+</nav>
+
+
+
+    <header class="article-header">
+      
+
+  <figure class="hero-figure article-hero">
+    <img
+      src="/images/generated/speed-test-cdmx.webp"
+      alt="Qué es el ping y por qué importa (latencia, jitter y juegos)"
+      class=""
+      loading="eager" fetchpriority="high"decoding="async"></figure>
+
+
+
+
+      
+        
+      
+
+      
+
+
+      <h1 class="article-title">Qué es el ping y por qué importa (latencia, jitter y juegos)</h1>
+
+      
+      <p class="article-lede">**El ping (o latencia) es el tiempo que tarda tu dispositivo en enviar una señal a un servidor y recibir respuesta, medido en milisegundos (ms). Un ping…</p>
+      
+
+      
+<p class="update-log">
+  Publicado: <time datetime="2026-01-01">1 Jan 2026</time>
+  
+  <span class="update-log-author"> · por Equipo Mejor Conexión</span>
+</p>
+
+
+    </header>
+
+    
+    
+      <div class="ad-slot ad-slot-below_title" data-position="below_title">
+  <span class="ad-label">Publicidad</span>
+  <ins class="adsbygoogle"
+       style="display:block; min-height:90px;"
+       data-ad-client="ca-pub-5566942094411042"
+       data-ad-slot="9770352885"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+    
+
+    
+    
+      <nav class="toc" aria-label="Tabla de contenidos">
+  <details class="toc-details sm:toc-static">
+    <summary class="toc-summary">
+      <span class="toc-title">Tabla de contenidos</span>
+      <svg class="toc-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" width="20" height="20">
+        <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+      </svg>
+    </summary>
+    <div class="toc-nav"><ul class="toc-list">
+    <li class="toc-item"><a class="toc-link" href="#respuesta-rápida">Respuesta Rápida</a></li>
+  </ul>
+
+  <ul class="toc-sublist">
+    <li class="toc-item"><a class="toc-link" href="#tabla-de-contenidos">Tabla de contenidos</a></li>
+    <li class="toc-item"><a class="toc-link" href="#comparativa-rápida-de-proveedores">Comparativa rápida de proveedores</a></li>
+    <li class="toc-item"><a class="toc-link" href="#preguntas-frecuentes">Preguntas Frecuentes</a></li>
+    <li class="toc-item"><a class="toc-link" href="#qué-es-el-ping-latencia-en-palabras-simples">Qué es el ping (latencia) en palabras simples</a></li>
+    <li class="toc-item"><a class="toc-link" href="#rangos-de-ping-qué-es-bueno-y-qué-es-malo">Rangos de ping: qué es bueno y qué es malo</a></li>
+    <li class="toc-item"><a class="toc-link" href="#qué-es-el-jitter-y-por-qué-lo-sientes">Qué es el jitter y por qué lo sientes</a></li>
+    <li class="toc-item"><a class="toc-link" href="#pérdida-de-paquetes-el-problema-silencioso">Pérdida de paquetes: el problema silencioso</a></li>
+    <li class="toc-item"><a class="toc-link" href="#causas-comunes-de-ping-alto">Causas comunes de ping alto</a></li>
+    <li class="toc-item"><a class="toc-link" href="#cómo-medir-ping-correctamente">Cómo medir ping correctamente</a></li>
+    <li class="toc-item"><a class="toc-link" href="#ping-en-gaming-lo-que-realmente-importa">Ping en gaming: lo que realmente importa</a></li>
+    <li class="toc-item"><a class="toc-link" href="#ping-en-videollamadas-y-trabajo-remoto">Ping en videollamadas y trabajo remoto</a></li>
+    <li class="toc-item"><a class="toc-link" href="#wifi-vs-cable-impacto-real-en-latencia">Wi‑Fi vs cable: impacto real en latencia</a></li>
+    <li class="toc-item"><a class="toc-link" href="#ping-vs-velocidad-por-qué-no-son-lo-mismo">Ping vs velocidad: por qué no son lo mismo</a></li>
+    <li class="toc-item"><a class="toc-link" href="#tabla-rápida-de-causas-y-soluciones">Tabla rápida de causas y soluciones</a></li>
+    <li class="toc-item"><a class="toc-link" href="#herramientas-útiles-para-medir-ping">Herramientas útiles para medir ping</a></li>
+    <li class="toc-item"><a class="toc-link" href="#buenas-prácticas-en-red-doméstica">Buenas prácticas en red doméstica</a></li>
+    <li class="toc-item"><a class="toc-link" href="#checklist-rápido-para-bajar-el-ping">Checklist rápido para bajar el ping</a></li>
+    <li class="toc-item"><a class="toc-link" href="#caso-práctico-ping-alto-con-internet-rápido">Caso práctico: ping alto con internet &ldquo;rápido&rdquo;</a></li>
+    <li class="toc-item"><a class="toc-link" href="#elegir-servidor-cercano-la-diferencia-más-rápida">Elegir servidor cercano: la diferencia más rápida</a></li>
+    <li class="toc-item"><a class="toc-link" href="#glosario-breve">Glosario breve</a></li>
+    <li class="toc-item"><a class="toc-link" href="#ping-en-videollamadas-por-qué-se-siente-el-retraso">Ping en videollamadas: por qué se siente el retraso</a></li>
+    <li class="toc-item"><a class="toc-link" href="#routers-qos-y-prioridades">Routers, QoS y prioridades</a></li>
+    <li class="toc-item"><a class="toc-link" href="#errores-comunes-al-medir-ping">Errores comunes al medir ping</a></li>
+    <li class="toc-item"><a class="toc-link" href="#distancia-y-rutas-de-red-la-parte-invisible">Distancia y rutas de red: la parte invisible</a></li>
+    <li class="toc-item"><a class="toc-link" href="#diagnóstico-avanzado-sin-complicarse">Diagnóstico avanzado (sin complicarse)</a></li>
+    <li class="toc-item"><a class="toc-link" href="#ping-y-dispositivos-inteligentes">Ping y dispositivos inteligentes</a></li>
+    <li class="toc-item"><a class="toc-link" href="#ping-en-navegación-y-streaming-lo-que-sí-se-nota">Ping en navegación y streaming: lo que sí se nota</a></li>
+    <li class="toc-item"><a class="toc-link" href="#resumen-rápido-para-decidir">Resumen rápido para decidir</a></li>
+    <li class="toc-item"><a class="toc-link" href="#cómo-mejorar-el-ping-en-casa">Cómo mejorar el ping en casa</a></li>
+    <li class="toc-item"><a class="toc-link" href="#preguntas-frecuentes-1">Preguntas frecuentes</a>
+      <ul class="toc-sublist">
+        <li class="toc-item"><a class="toc-link" href="#qué-es-un-buen-ping-para-jugar">¿Qué es un buen ping para jugar?</a></li>
+        <li class="toc-item"><a class="toc-link" href="#por-qué-mi-ping-sube-por-la-noche">¿Por qué mi ping sube por la noche?</a></li>
+        <li class="toc-item"><a class="toc-link" href="#el-ping-depende-del-proveedor">¿El ping depende del proveedor?</a></li>
+        <li class="toc-item"><a class="toc-link" href="#un-plan-más-caro-baja-el-ping">¿Un plan más caro baja el ping?</a></li>
+        <li class="toc-item"><a class="toc-link" href="#cómo-reduzco-el-jitter">¿Cómo reduzco el jitter?</a></li>
+      </ul>
+    </li>
+  </ul></div>
+  </details>
+</nav>
+    
+
+    <div class="article-content">
+      <h2 id="respuesta-rápida">Respuesta Rápida</h2>
+<p><strong>El ping (o latencia) es el tiempo que tarda tu dispositivo en enviar una señal a un servidor y recibir respuesta, medido en milisegundos (ms). Un ping bajo (menos de 50 ms) significa respuestas rápidas en juegos y videollamadas; un ping alto (más de 100 ms) causa retraso, &ldquo;lag&rdquo; y cortes. El ping NO es lo mismo que los Mbps de velocidad: puedes tener un plan de 300 Mbps y sentir todo lento si el ping es alto.</strong></p>
+<ul>
+<li><strong>0–50 ms:</strong> excelente — ideal para gaming competitivo y videollamadas fluidas</li>
+<li><strong>51–100 ms:</strong> aceptable — se nota un ligero retraso pero funciona bien</li>
+<li><strong>101–150 ms:</strong> alto — lag visible en juegos y llamadas</li>
+<li><strong>150+ ms:</strong> problemático — cortes y retrasos constantes</li>
+</ul>
+<p>Para entender la diferencia entre velocidad y latencia, consulta <a href="/blog/que-significa-la-velocidad-de-internet.html">qué significa la velocidad de internet</a>. Si tu internet se siente lento a pesar de tener buenos Mbps, revisa <a href="/guias/que-hacer-si-internet-lento.html">qué hacer cuando tu internet está lento</a>.</p>
+<div>
+<h1 id="qué-es-el-ping-y-por-qué-importa-latencia-jitter-y-juegos">Qué es el ping y por qué importa (latencia, jitter y juegos)</h1>
+<p>El ping es el tiempo de respuesta de tu conexión. Aunque tengas muchos Mbps, un ping alto se siente lento en videollamadas, juegos y llamadas de voz. Aquí te explicamos qué es, cómo medirlo y cómo mejorarlo en México.</p>
+</div>
+<h2 id="tabla-de-contenidos">Tabla de contenidos</h2>
+<ol>
+<li><a href="#definicion">Qué es el ping (latencia) en palabras simples</a></li>
+<li><a href="#rangos">Rangos de ping: qué es bueno y qué es malo</a></li>
+<li><a href="#jitter">Qué es el jitter y por qué lo sientes</a></li>
+<li><a href="#perdida">Pérdida de paquetes: el problema silencioso</a></li>
+<li><a href="#causas">Causas comunes de ping alto</a></li>
+<li><a href="#medir">Cómo medir ping correctamente</a></li>
+<li><a href="#gaming">Ping en gaming: lo que realmente importa</a></li>
+<li><a href="#video">Ping en videollamadas y trabajo remoto</a></li>
+<li><a href="#wifi">Wi‑Fi vs cable: impacto real en latencia</a></li>
+<li><a href="#mejorar">Cómo mejorar el ping en casa</a></li>
+<li><a href="#faq">Preguntas frecuentes</a></li>
+<li><a href="#status">Estado del contenido</a></li>
+</ol>
+<p>::: section</p>
+<h2 id="comparativa-rápida-de-proveedores">Comparativa rápida de proveedores</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Proveedor</th>
+          <th>Velocidad</th>
+          <th>Precio/mes</th>
+          <th>Tecnología</th>
+          <th>Mejor para</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Totalplay</td>
+          <td>200-1000 Mbps</td>
+          <td>$399-$1,499</td>
+          <td>Fibra óptica</td>
+          <td>Velocidad y simetría</td>
+      </tr>
+      <tr>
+          <td>Telmex Infinitum</td>
+          <td>20-1000 Mbps</td>
+          <td>$299-$1,099</td>
+          <td>Fibra/Cobre</td>
+          <td>Cobertura nacional</td>
+      </tr>
+      <tr>
+          <td>Izzi</td>
+          <td>100-1000 Mbps</td>
+          <td>$349-$999</td>
+          <td>Coaxial</td>
+          <td>Bundle con TV</td>
+      </tr>
+      <tr>
+          <td>Megacable</td>
+          <td>80-600 Mbps</td>
+          <td>$299-$799</td>
+          <td>Coaxial</td>
+          <td>Precio económico</td>
+      </tr>
+  </tbody>
+</table>
+<p>Para comparar en detalle, consulta nuestro <a href="/blog/cual-es-el-mejor-internet-en-mexico-2026.html">ranking de proveedores 2026</a>.
+:::</p>
+<h2 id="preguntas-frecuentes">Preguntas Frecuentes</h2>
+<p><div class="my-4 border-l-4 border-blue-400 pl-4">
+  <h3 class="font-semibold text-gray-900">¿Cuál es el mejor proveedor de internet en México en 2026?</h3>
+  <div class="text-gray-600 mt-1">Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.</div>
+</div>}</p>
+<p><div class="my-4 border-l-4 border-blue-400 pl-4">
+  <h3 class="font-semibold text-gray-900">¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?</h3>
+  <div class="text-gray-600 mt-1">Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica &gt; coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.</div>
+</div>}</p>
+<p><div class="my-4 border-l-4 border-blue-400 pl-4">
+  <h3 class="font-semibold text-gray-900">¿Los precios promocionales duran para siempre?</h3>
+  <div class="text-gray-600 mt-1">No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.</div>
+</div>}</p>
+<p><div class="my-4 border-l-4 border-blue-400 pl-4">
+  <h3 class="font-semibold text-gray-900">¿Puedo cambiar de proveedor sin penalización?</h3>
+  <div class="text-gray-600 mt-1">Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.</div>
+</div>}</p>
+<p>::: {#definicion .section}</p>
+<h2 id="qué-es-el-ping-latencia-en-palabras-simples">Qué es el ping (latencia) en palabras simples</h2>
+<p>El ping es el tiempo que tarda tu dispositivo en enviar una señal y recibir respuesta. Se mide en milisegundos (ms). Mientras más bajo, mejor.</p>
+<p>Una forma simple de entenderlo: es como preguntar algo por teléfono. Si te contestan rápido, el ping es bajo. Si hay delay, el ping es alto.</p>
+<p>El ping no es lo mismo que la velocidad. Puedes tener 300 Mbps y un ping alto si la ruta a los servidores es larga o si tu red está saturada.
+:::</p>
+<p>::: {#rangos .section}</p>
+<h2 id="rangos-de-ping-qué-es-bueno-y-qué-es-malo">Rangos de ping: qué es bueno y qué es malo</h2>
+<p>No hay un número mágico, pero estos rangos sirven como referencia:</p>
+<ul>
+<li><strong>0&ndash;20 ms:</strong> excelente (ideal para gaming competitivo).</li>
+<li><strong>21&ndash;50 ms:</strong> muy bueno (videollamadas sin problemas).</li>
+<li><strong>51&ndash;100 ms:</strong> aceptable (se puede notar un poco).</li>
+<li><strong>101&ndash;150 ms:</strong> alto (lag visible en juegos y llamadas).</li>
+<li><strong>150+ ms:</strong> problemático (cortes y retrasos constantes).</li>
+</ul>
+<p>Estos rangos dependen de tu ubicación y del servidor al que te conectas. Un servidor en otro país siempre dará ping más alto.
+:::</p>
+<p>::: {#jitter .section}</p>
+<h2 id="qué-es-el-jitter-y-por-qué-lo-sientes">Qué es el jitter y por qué lo sientes</h2>
+<p>El jitter es la variación del ping. Si un momento tienes 20 ms y al siguiente 80 ms, eso es jitter. Se siente como inestabilidad en juegos o videollamadas.</p>
+<p>El jitter alto es casi peor que un ping moderado, porque provoca cortes y saltos en la comunicación. Por eso muchos gamers prefieren un ping estable de 60 ms que uno que sube y baja.
+:::</p>
+<p>::: {#perdida .section}</p>
+<h2 id="pérdida-de-paquetes-el-problema-silencioso">Pérdida de paquetes: el problema silencioso</h2>
+<p>La pérdida de paquetes ocurre cuando parte de la información se pierde en el camino. Aunque tengas buena velocidad, si hay pérdida de paquetes la experiencia se degrada.</p>
+<p>Se nota cuando:</p>
+<ul>
+<li>Las llamadas se cortan o suenan entrecortadas.</li>
+<li>Los juegos &ldquo;teletransportan&rdquo; personajes.</li>
+<li>Las videollamadas se congelan.
+:::</li>
+</ul>
+<p>::: {#causas .section}</p>
+<h2 id="causas-comunes-de-ping-alto">Causas comunes de ping alto</h2>
+<ul>
+<li><strong>Wi‑Fi saturado:</strong> muchas redes cercanas o router mal ubicado.</li>
+<li><strong>Horario pico:</strong> la red local se satura por la noche.</li>
+<li><strong>Servidor lejano:</strong> juegos o servicios en otro país.</li>
+<li><strong>Interferencia:</strong> microondas, paredes gruesas, dispositivos viejos.</li>
+<li><strong>Equipo limitado:</strong> router básico o antiguo.
+:::</li>
+</ul>
+<p>::: {#medir .section}</p>
+<h2 id="cómo-medir-ping-correctamente">Cómo medir ping correctamente</h2>
+<p>Para medir bien:</p>
+<ol>
+<li>Haz pruebas por cable y por Wi‑Fi.</li>
+<li>Hazlas en diferentes horarios (mañana y noche).</li>
+<li>Usa la misma herramienta para comparar.</li>
+</ol>
+<p>Si necesitas un paso a paso, revisa: <a href="/guias/como-medir-velocidad-real-internet.html">cómo medir tu velocidad real</a>.
+:::</p>
+<p>::: {#gaming .section}</p>
+<h2 id="ping-en-gaming-lo-que-realmente-importa">Ping en gaming: lo que realmente importa</h2>
+<p>En juegos competitivos, el ping bajo y estable es clave. Si tu ping sube y baja, la experiencia se siente &ldquo;lag&rdquo;.</p>
+<p>Factores que mejoran tu ping en gaming:</p>
+<ul>
+<li>Conexión por cable.</li>
+<li>Router moderno con buena cobertura.</li>
+<li>Elegir servidores cercanos.</li>
+</ul>
+<p>Más detalles: <a href="/blog/mejor-velocidad-para-gaming.html">mejor velocidad para gaming</a> y <a href="/blog/wifi-vs-ethernet-para-jugar.html">Wi‑Fi vs Ethernet</a>.
+:::</p>
+<p>::: {#video .section}</p>
+<h2 id="ping-en-videollamadas-y-trabajo-remoto">Ping en videollamadas y trabajo remoto</h2>
+<p>En videollamadas largas, el ping alto se siente como retraso. La subida también importa, pero la latencia define si la conversación fluye.</p>
+<p>Si trabajas desde casa, revisa: <a href="/blog/red-estable-home-office-mexico.html">red estable para home office</a>.
+:::</p>
+<p>::: {#wifi .section}</p>
+<h2 id="wifi-vs-cable-impacto-real-en-latencia">Wi‑Fi vs cable: impacto real en latencia</h2>
+<p>El cable siempre da menor latencia que el Wi‑Fi. Si estás teniendo problemas de ping, prueba conectarte por cable y compara resultados.</p>
+<p>Si la diferencia es grande, el problema es tu Wi‑Fi. Soluciones comunes: mejor ubicación del router, cambiar a 5 GHz o usar un sistema mesh.
+:::</p>
+<p>::: {#ping-vs-velocidad .section}</p>
+<h2 id="ping-vs-velocidad-por-qué-no-son-lo-mismo">Ping vs velocidad: por qué no son lo mismo</h2>
+<p>La velocidad mide cuánto puedes descargar o subir. El ping mide cuánto tarda en responder la red. Puedes tener un plan muy rápido y aun así sentir lag si la latencia es alta.</p>
+<p>Ejemplo: en una videollamada, una buena descarga no evita que la conversación tenga retraso si el ping es alto. En juegos, una buena descarga no evita que los disparos &ldquo;lleguen tarde&rdquo;.
+:::</p>
+<p>::: {#tabla-causas .section}</p>
+<h2 id="tabla-rápida-de-causas-y-soluciones">Tabla rápida de causas y soluciones</h2>
+<p>::: {style=&ldquo;overflow:auto&rdquo;}
+Problema          Señal típica                       Solución probable</p>
+<hr>
+<p>Wi‑Fi saturado    Ping sube en varias habitaciones   Mejor ubicación o mesh
+Horario pico      Ping alto solo en la noche         Evaluar tecnología o proveedor
+Servidor lejano   Ping alto constante                Elegir servidor cercano
+Interferencia     Picos de jitter                    Cambiar canal o banda
 :::
-:::</p><p>::: {#herramientas .section}</p><h2 id=herramientas-útiles-para-medir-ping>Herramientas útiles para medir ping</h2><p>No necesitas herramientas avanzadas, pero sí constancia. Puedes medir con:</p><ul><li>Pruebas de velocidad en línea (mismo servidor cada vez).</li><li>Ping desde tu computadora (comandos básicos).</li><li>Monitoreo en el router si tiene panel de control.</li></ul><p>Lo importante es comparar en horarios distintos y con el mismo método.
-:::</p><p>::: {#buenas-practicas .section}</p><h2 id=buenas-prácticas-en-red-doméstica>Buenas prácticas en red doméstica</h2><p>Para mantener un ping estable:</p><ul><li>Evita descargas pesadas durante videollamadas o juegos.</li><li>Conecta por cable cuando la actividad sea crítica.</li><li>Limita dispositivos que consumen datos en segundo plano.</li><li>Actualiza el firmware del router si es posible.</li></ul><p>Si tienes muchos dispositivos inteligentes, usa red de invitados: <a href=/blog/red-invitados-iot-segura-mexico.html>red de invitados e IoT segura</a>.
-:::</p><p>::: {#checklist .section}</p><h2 id=checklist-rápido-para-bajar-el-ping>Checklist rápido para bajar el ping</h2><ol><li>Prueba por cable y por Wi‑Fi.</li><li>Elige servidor cercano en juegos.</li><li>Reinicia el router si hay saturación temporal.</li><li>Mejora cobertura con mesh si hay zonas muertas.</li><li>Evita descargas grandes cuando juegas.
-:::</li></ol><p>::: {#caso-practico .section}</p><h2 id=caso-práctico-ping-alto-con-internet-rápido>Caso práctico: ping alto con internet &ldquo;rápido&rdquo;</h2><p><strong>Escenario:</strong> un gamer con plan de 300 Mbps reporta lag en la noche. La velocidad de descarga es alta, pero el ping sube de 30 ms a 120 ms.</p><p><strong>Diagnóstico:</strong> el problema no es la velocidad, sino la saturación local y el Wi‑Fi compartido con otros dispositivos. Se confirma que por cable el ping baja y por Wi‑Fi sube.</p><p><strong>Solución:</strong> conectar por cable para sesiones de juego, ajustar horarios de descargas y mejorar la cobertura. Resultado: ping estable entre 35 y 45 ms.</p><p>Este caso muestra por qué el ping se resuelve con estabilidad y ruta, no solo con más Mbps.
-:::</p><p>::: {#servidores .section}</p><h2 id=elegir-servidor-cercano-la-diferencia-más-rápida>Elegir servidor cercano: la diferencia más rápida</h2><p>En juegos y servicios en línea, el servidor importa. Un servidor en tu región puede dar 20&ndash;40 ms, mientras uno en otro continente puede dar 120&ndash;200 ms.</p><p>Si tienes opciones de región, elige México o Norteamérica. Si no, elige la opción más cercana geográficamente. Es la forma más sencilla de bajar ping sin cambiar de plan.
-:::</p><p>::: {#glosario .section}</p><h2 id=glosario-breve>Glosario breve</h2><ul><li><strong>Ping:</strong> tiempo de respuesta en milisegundos.</li><li><strong>Jitter:</strong> variación del ping.</li><li><strong>Pérdida de paquetes:</strong> datos que se pierden en la ruta.</li><li><strong>Servidor:</strong> computadora remota donde corre el juego o servicio.
-:::</li></ul><p>::: {#video-llamadas .section}</p><h2 id=ping-en-videollamadas-por-qué-se-siente-el-retraso>Ping en videollamadas: por qué se siente el retraso</h2><p>En videollamadas largas, un ping alto se nota como retraso en la conversación. Si además hay jitter, la voz se corta o se escucha con &ldquo;saltos&rdquo;. Por eso muchas veces el problema no es la velocidad de descarga, sino la latencia y la subida.</p><p>Si trabajas desde casa, combina buena subida con ping estable. Revisa: <a href=/blog/red-estable-home-office-mexico.html>red estable para home office</a>.
-:::</p><p>::: {#router-qos .section}</p><h2 id=routers-qos-y-prioridades>Routers, QoS y prioridades</h2><p>Algunos routers permiten priorizar ciertos dispositivos o actividades (QoS). Esto ayuda a mantener un ping estable cuando alguien está descargando o haciendo streaming.</p><p>No necesitas ser experto: basta con priorizar videollamadas o consolas. Si tu router no lo permite, considera actualizarlo si el uso es intenso.
-:::</p><p>::: {#errores .section}</p><h2 id=errores-comunes-al-medir-ping>Errores comunes al medir ping</h2><ul><li>Medir solo una vez y en un horario tranquilo.</li><li>Usar Wi‑Fi lejos del router y culpar al proveedor.</li><li>Elegir servidores muy lejanos en juegos.</li></ul><p>La clave es medir de forma consistente y comparar por cable y por Wi‑Fi.
-:::</p><p>::: {#rutas .section}</p><h2 id=distancia-y-rutas-de-red-la-parte-invisible>Distancia y rutas de red: la parte invisible</h2><p>El ping también depende de la ruta que siguen los datos. Aunque el servidor esté en el mismo país, los datos pueden pasar por rutas largas si la red está saturada o mal optimizada.</p><p>Por eso a veces un servidor &ldquo;cercano&rdquo; da peor ping que uno &ldquo;más lejano&rdquo;. La ruta real importa más que el mapa. En estos casos, cambiar de servidor o esperar a horarios menos saturados puede mejorar el ping sin mover nada en casa.
-:::</p><p>::: {#diagnostico-avanzado .section}</p><h2 id=diagnóstico-avanzado-sin-complicarse>Diagnóstico avanzado (sin complicarse)</h2><p>Si quieres ir un paso más allá, haz este mini diagnóstico:</p><ol><li>Mide ping por cable.</li><li>Repite por Wi‑Fi a diferentes distancias.</li><li>Haz pruebas en la mañana y en la noche.</li></ol><p>Si el ping sube solo en la noche, es saturación local. Si el ping sube solo en Wi‑Fi, es cobertura. Si sube en todo momento, puede ser ruta del proveedor.
-:::</p><p>::: {#iot .section}</p><h2 id=ping-y-dispositivos-inteligentes>Ping y dispositivos inteligentes</h2><p>Los dispositivos IoT (cámaras, focos, asistentes) no consumen mucha velocidad, pero sí añaden tráfico constante. Si tu red está muy cargada, el ping puede volverse inestable.</p><p>Una buena práctica es separar IoT en una red de invitados para reducir interferencias en la red principal.
-:::</p><p>::: {#navegacion .section}</p><h2 id=ping-en-navegación-y-streaming-lo-que-sí-se-nota>Ping en navegación y streaming: lo que sí se nota</h2><p>En navegación web, el ping alto se nota como &ldquo;tarda en abrir&rdquo;, aunque luego las páginas carguen rápido. En streaming, el ping no es tan crítico como la estabilidad, pero sí influye en el tiempo de inicio del video y en los cambios de calidad.</p><p>Si el ping es alto y el jitter también, los servicios tardan más en responder y se sienten &ldquo;pesados&rdquo;. Por eso un ping estable mejora la sensación de fluidez incluso cuando la velocidad es buena.
-:::</p><p>::: {#resumen .section}</p><h2 id=resumen-rápido-para-decidir>Resumen rápido para decidir</h2><p>Si tu ping es alto solo en Wi‑Fi, mejora la cobertura. Si es alto todo el tiempo, revisa la ruta del proveedor o el servidor. Si el ping sube en la noche, es saturación local.</p><p>La regla práctica es simple: estabilidad primero, velocidad después. Un ping estable hace más diferencia que un número alto de Mbps en juegos y videollamadas.</p><p>Si después de ajustar todo sigues con ping alto, considera probar otro servidor o consultar soporte técnico para revisar la ruta.</p><p>En la práctica, una mejora de 20 o 30 ms ya se siente mucho más fluida para gaming y videollamadas.</p><p>Si tu objetivo es jugar competitivo, prioriza siempre ping bajo y estable, incluso si eso significa un plan con menos Mbps pero mejor latencia.</p><p>Ese cambio suele ser más visible que subir de plan.</p><p>Es la diferencia entre jugar cómodo o frustrado.
-:::</p><p>::: {#mejorar .section}</p><h2 id=cómo-mejorar-el-ping-en-casa>Cómo mejorar el ping en casa</h2><ul><li>Conéctate por cable cuando sea posible.</li><li>Reinicia el router si hay saturación.</li><li>Evita descargas pesadas mientras juegas.</li><li>Ubica el router en el centro de la casa.</li><li>Si la casa es grande, usa Wi‑Fi mesh.</li></ul><p>Guía complementaria: <a href=/internet-en-casa/como-mejorar-wifi-casa-mexico/>cómo mejorar tu Wi‑Fi</a>.
-:::</p><p>::: {#faq .section}</p><h2 id=preguntas-frecuentes-1>Preguntas frecuentes</h2><h3 id=qué-es-un-buen-ping-para-jugar>¿Qué es un buen ping para jugar?</h3><p>Idealmente menos de 50 ms. Entre 50 y 80 ms aún se puede jugar, pero puede sentirse delay.</p><h3 id=por-qué-mi-ping-sube-por-la-noche>¿Por qué mi ping sube por la noche?</h3><p>Por saturación en horario pico. Hay más usuarios conectados al mismo tiempo en tu zona.</p><h3 id=el-ping-depende-del-proveedor>¿El ping depende del proveedor?</h3><p>En parte sí, pero también influyen tu Wi‑Fi, la distancia al servidor y la saturación local.</p><h3 id=un-plan-más-caro-baja-el-ping>¿Un plan más caro baja el ping?</h3><p>No necesariamente. El ping depende más de la ruta y la estabilidad que de la velocidad contratada.</p><h3 id=cómo-reduzco-el-jitter>¿Cómo reduzco el jitter?</h3><p>Con conexión por cable, mejor Wi‑Fi interno y evitando saturar la red con descargas pesadas.
-:::</p><p>:::</p></div><div class="ad-slot ad-slot-mid_article" data-position=mid_article><span class=ad-label>Publicidad</span>
-<ins class=adsbygoogle style=display:block;min-height:90px data-ad-client=ca-pub-5566942094411042 data-ad-slot=7429084400 data-ad-format=auto data-full-width-responsive=true></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></div><div class=author-box><div class=author-avatar aria-hidden=true>E</div><div><a href=/authors/equipo.html class=author-name-link><p class=author-name>Equipo Mejor Conexión</p></a><p class=author-bio>Comparamos internet y datos en México con criterio real, sin promesas raras.</p></div></div><div class="ad-slot ad-slot-end_article" data-position=end_article><span class=ad-label>Publicidad</span>
-<ins class=adsbygoogle style=display:block;min-height:90px data-ad-client=ca-pub-5566942094411042 data-ad-slot=3364726638 data-ad-format=auto data-full-width-responsive=true></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></div><div class=newsletter-box><div class=newsletter-inner><div class=newsletter-icon><svg class="w-8 h-8" fill="none" stroke="currentcolor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M3 8l7.89 5.26a2 2 0 002.22.0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5A2 2 0 003 7v10a2 2 0 002 2z"/></svg></div><div><h3 class=newsletter-title>No Pagues de Más por Internet</h3><p class=newsletter-text>Recibe consejos claros para elegir el mejor internet y pagar menos. Un correo al mes. Sin spam.</p></div></div><form class=newsletter-form action=# method=POST><input type=email name=EMAIL placeholder=tu@correo.com class=newsletter-input required aria-label="Correo electrónico">
-<button type=submit class=newsletter-btn>Recibir Consejos</button></form></div><section class=related-section aria-label="Artículos relacionados"><h2 class=related-title>Artículos relacionados</h2><div class=related-grid><article class="related-card group"><a href=/blog/cuanto-cuesta-instalacion-internet-mexico.html class=related-link><div class=related-image><img src=/images/topic-provider-comparison.webp alt="Qué es el ping y por qué importa (latencia, jitter y juegos)" loading=lazy decoding=async width=400 height=225></div><div class=related-card-body><h3 class=related-card-title>¿Cuánto cuesta la instalación de internet en México? (2026)</h3><time datetime=2026-08-10 class=related-card-date>10 Aug 2026</time></div></a></article><article class="related-card group"><a href=/blog/cuanto-tarda-instalar-internet-mexico.html class=related-link><div class=related-image><img src=/images/topic-provider-comparison.webp alt="Qué es el ping y por qué importa (latencia, jitter y juegos)" loading=lazy decoding=async width=400 height=225></div><div class=related-card-body><h3 class=related-card-title>¿Cuánto tarda en instalarse el internet en México? (2026)</h3><time datetime=2026-08-10 class=related-card-date>10 Aug 2026</time></div></a></article><article class="related-card group"><a href=/blog/cuanto-cuesta-instalacion-internet-mexico.html class=related-link><div class=related-image><img src=/images/topic-provider-comparison.webp alt="Qué es el ping y por qué importa (latencia, jitter y juegos)" loading=lazy decoding=async width=400 height=225></div><div class=related-card-body><h3 class=related-card-title>¿Cuánto cuesta la instalación de internet en México? (2026)</h3><time datetime=2026-08-10 class=related-card-date>10 Aug 2026</time></div></a></article></div></section><nav class=article-trust-strip aria-label="Trust and methodology"><span class=article-trust-label>Confianza:</span>
-<a href=/metodologia.html class=article-trust-link>Metodología</a>
-<a href=/transparencia.html class=article-trust-link>Transparencia</a>
-<a href=/corrections.html class=article-trust-link>Correcciones</a></nav></div></article></main><footer style="background:var(--paper-2);border-top:1px solid var(--border);margin-top:4rem" role=contentinfo><div class="max-w-7xl mx-auto px-4 sm:px-6 py-12"><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"><div class="sm:col-span-2 lg:col-span-1"><a href=/ class="flex items-center gap-2 text-sm font-bold transition-opacity hover:opacity-80" style=color:#f0f4fa><svg class="w-5 h-5" fill="none" stroke="currentcolor" viewBox="0 0 24 24" aria-hidden="true" style="color:var(--brand-bright)"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5.0 017.778.0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141.0M1.394 9.393c5.857-5.857 15.355-5.857 21.213.0"/></svg>
-Mejor Conexión</a><p class="text-xs mt-3 leading-relaxed max-w-xs" style=color:var(--ink-muted)>Compara proveedores de internet en México. Guías claras, sin jerga, para elegir el mejor servicio para tu hogar.</p><p class="text-xs mt-4" style=color:var(--ink-faint)>&copy; 2026 Todos los derechos reservados.</p></div><div><h3 class=footer-heading>Atajos</h3><ul class=space-y-2><li><a href=/ class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>Inicio</a></li><li><a href=/blog.html class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>Blog</a></li><li><a href=/about.html class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>Acerca de</a></li><li><a href=/contact.html class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>Contacto</a></li></ul></div><div><h3 class=footer-heading>Categorías</h3><ul class=space-y-2><li><a href=/blog/ class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>Blog</a></li><li><a href=/herramientas.html class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>Herramientas</a></li><li><a href=/ciudades.html class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>Ciudades: cobertura y opciones por zona en México</a></li><li><a href=/cobertura.html class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>Cobertura por ciudad</a></li><li><a href=/esim.html class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>eSIM en México: guías y comparativas</a></li><li><a href=/esim-viajeros.html class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>eSIM y conectividad para viajar</a></li></ul></div><div><h3 class=footer-heading>Editorial</h3><ul class=space-y-2><li><a href=/privacy.html class="text-sm capitalize transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>privacy</a></li><li><a href=/editorial-policy.html class="text-sm capitalize transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>editorial policy</a></li></ul><ul class="space-y-2 mt-3"><li><a href=/editorial-policy.html class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>Política editorial</a></li><li><a href=/corrections.html class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>Correcciones</a></li><li><a href=/sitemap.xml class="text-sm transition-colors" style=color:var(--ink-muted) onmouseover='this.style.color="var(--brand-bright)"' onmouseout='this.style.color="var(--ink-muted)"'>Sitemap</a></li></ul></div></div><div class="mt-10 pt-6" style="border-top:1px solid var(--border)"><p class="text-xs max-w-3xl" style=color:var(--ink-faint)>Este sitio muestra anuncios de terceros. Los espacios publicitarios son automáticos y no constituyen una recomendación personal.
-Usamos Google AdSense para mostrarlos.</p></div></div></footer><script>(function(){var e=document.getElementById("nav-toggle"),t=document.getElementById("mobile-menu"),n=document.getElementById("hamburger-icon"),s=document.getElementById("close-icon");e&&t&&e.addEventListener("click",function(){var o=e.getAttribute("aria-expanded")!=="true";e.setAttribute("aria-expanded",o),t.classList.toggle("hidden"),n&&n.classList.toggle("hidden"),s&&s.classList.toggle("hidden")})})()</script><script src=/js/main.js></script><script defer src=https://app.rybbit.io/api/script.js data-site-id=095d6520421b></script></body></html>
+:::</p>
+<p>::: {#herramientas .section}</p>
+<h2 id="herramientas-útiles-para-medir-ping">Herramientas útiles para medir ping</h2>
+<p>No necesitas herramientas avanzadas, pero sí constancia. Puedes medir con:</p>
+<ul>
+<li>Pruebas de velocidad en línea (mismo servidor cada vez).</li>
+<li>Ping desde tu computadora (comandos básicos).</li>
+<li>Monitoreo en el router si tiene panel de control.</li>
+</ul>
+<p>Lo importante es comparar en horarios distintos y con el mismo método.
+:::</p>
+<p>::: {#buenas-practicas .section}</p>
+<h2 id="buenas-prácticas-en-red-doméstica">Buenas prácticas en red doméstica</h2>
+<p>Para mantener un ping estable:</p>
+<ul>
+<li>Evita descargas pesadas durante videollamadas o juegos.</li>
+<li>Conecta por cable cuando la actividad sea crítica.</li>
+<li>Limita dispositivos que consumen datos en segundo plano.</li>
+<li>Actualiza el firmware del router si es posible.</li>
+</ul>
+<p>Si tienes muchos dispositivos inteligentes, usa red de invitados: <a href="/blog/red-invitados-iot-segura-mexico.html">red de invitados e IoT segura</a>.
+:::</p>
+<p>::: {#checklist .section}</p>
+<h2 id="checklist-rápido-para-bajar-el-ping">Checklist rápido para bajar el ping</h2>
+<ol>
+<li>Prueba por cable y por Wi‑Fi.</li>
+<li>Elige servidor cercano en juegos.</li>
+<li>Reinicia el router si hay saturación temporal.</li>
+<li>Mejora cobertura con mesh si hay zonas muertas.</li>
+<li>Evita descargas grandes cuando juegas.
+:::</li>
+</ol>
+<p>::: {#caso-practico .section}</p>
+<h2 id="caso-práctico-ping-alto-con-internet-rápido">Caso práctico: ping alto con internet &ldquo;rápido&rdquo;</h2>
+<p><strong>Escenario:</strong> un gamer con plan de 300 Mbps reporta lag en la noche. La velocidad de descarga es alta, pero el ping sube de 30 ms a 120 ms.</p>
+<p><strong>Diagnóstico:</strong> el problema no es la velocidad, sino la saturación local y el Wi‑Fi compartido con otros dispositivos. Se confirma que por cable el ping baja y por Wi‑Fi sube.</p>
+<p><strong>Solución:</strong> conectar por cable para sesiones de juego, ajustar horarios de descargas y mejorar la cobertura. Resultado: ping estable entre 35 y 45 ms.</p>
+<p>Este caso muestra por qué el ping se resuelve con estabilidad y ruta, no solo con más Mbps.
+:::</p>
+<p>::: {#servidores .section}</p>
+<h2 id="elegir-servidor-cercano-la-diferencia-más-rápida">Elegir servidor cercano: la diferencia más rápida</h2>
+<p>En juegos y servicios en línea, el servidor importa. Un servidor en tu región puede dar 20&ndash;40 ms, mientras uno en otro continente puede dar 120&ndash;200 ms.</p>
+<p>Si tienes opciones de región, elige México o Norteamérica. Si no, elige la opción más cercana geográficamente. Es la forma más sencilla de bajar ping sin cambiar de plan.
+:::</p>
+<p>::: {#glosario .section}</p>
+<h2 id="glosario-breve">Glosario breve</h2>
+<ul>
+<li><strong>Ping:</strong> tiempo de respuesta en milisegundos.</li>
+<li><strong>Jitter:</strong> variación del ping.</li>
+<li><strong>Pérdida de paquetes:</strong> datos que se pierden en la ruta.</li>
+<li><strong>Servidor:</strong> computadora remota donde corre el juego o servicio.
+:::</li>
+</ul>
+<p>::: {#video-llamadas .section}</p>
+<h2 id="ping-en-videollamadas-por-qué-se-siente-el-retraso">Ping en videollamadas: por qué se siente el retraso</h2>
+<p>En videollamadas largas, un ping alto se nota como retraso en la conversación. Si además hay jitter, la voz se corta o se escucha con &ldquo;saltos&rdquo;. Por eso muchas veces el problema no es la velocidad de descarga, sino la latencia y la subida.</p>
+<p>Si trabajas desde casa, combina buena subida con ping estable. Revisa: <a href="/blog/red-estable-home-office-mexico.html">red estable para home office</a>.
+:::</p>
+<p>::: {#router-qos .section}</p>
+<h2 id="routers-qos-y-prioridades">Routers, QoS y prioridades</h2>
+<p>Algunos routers permiten priorizar ciertos dispositivos o actividades (QoS). Esto ayuda a mantener un ping estable cuando alguien está descargando o haciendo streaming.</p>
+<p>No necesitas ser experto: basta con priorizar videollamadas o consolas. Si tu router no lo permite, considera actualizarlo si el uso es intenso.
+:::</p>
+<p>::: {#errores .section}</p>
+<h2 id="errores-comunes-al-medir-ping">Errores comunes al medir ping</h2>
+<ul>
+<li>Medir solo una vez y en un horario tranquilo.</li>
+<li>Usar Wi‑Fi lejos del router y culpar al proveedor.</li>
+<li>Elegir servidores muy lejanos en juegos.</li>
+</ul>
+<p>La clave es medir de forma consistente y comparar por cable y por Wi‑Fi.
+:::</p>
+<p>::: {#rutas .section}</p>
+<h2 id="distancia-y-rutas-de-red-la-parte-invisible">Distancia y rutas de red: la parte invisible</h2>
+<p>El ping también depende de la ruta que siguen los datos. Aunque el servidor esté en el mismo país, los datos pueden pasar por rutas largas si la red está saturada o mal optimizada.</p>
+<p>Por eso a veces un servidor &ldquo;cercano&rdquo; da peor ping que uno &ldquo;más lejano&rdquo;. La ruta real importa más que el mapa. En estos casos, cambiar de servidor o esperar a horarios menos saturados puede mejorar el ping sin mover nada en casa.
+:::</p>
+<p>::: {#diagnostico-avanzado .section}</p>
+<h2 id="diagnóstico-avanzado-sin-complicarse">Diagnóstico avanzado (sin complicarse)</h2>
+<p>Si quieres ir un paso más allá, haz este mini diagnóstico:</p>
+<ol>
+<li>Mide ping por cable.</li>
+<li>Repite por Wi‑Fi a diferentes distancias.</li>
+<li>Haz pruebas en la mañana y en la noche.</li>
+</ol>
+<p>Si el ping sube solo en la noche, es saturación local. Si el ping sube solo en Wi‑Fi, es cobertura. Si sube en todo momento, puede ser ruta del proveedor.
+:::</p>
+<p>::: {#iot .section}</p>
+<h2 id="ping-y-dispositivos-inteligentes">Ping y dispositivos inteligentes</h2>
+<p>Los dispositivos IoT (cámaras, focos, asistentes) no consumen mucha velocidad, pero sí añaden tráfico constante. Si tu red está muy cargada, el ping puede volverse inestable.</p>
+<p>Una buena práctica es separar IoT en una red de invitados para reducir interferencias en la red principal.
+:::</p>
+<p>::: {#navegacion .section}</p>
+<h2 id="ping-en-navegación-y-streaming-lo-que-sí-se-nota">Ping en navegación y streaming: lo que sí se nota</h2>
+<p>En navegación web, el ping alto se nota como &ldquo;tarda en abrir&rdquo;, aunque luego las páginas carguen rápido. En streaming, el ping no es tan crítico como la estabilidad, pero sí influye en el tiempo de inicio del video y en los cambios de calidad.</p>
+<p>Si el ping es alto y el jitter también, los servicios tardan más en responder y se sienten &ldquo;pesados&rdquo;. Por eso un ping estable mejora la sensación de fluidez incluso cuando la velocidad es buena.
+:::</p>
+<p>::: {#resumen .section}</p>
+<h2 id="resumen-rápido-para-decidir">Resumen rápido para decidir</h2>
+<p>Si tu ping es alto solo en Wi‑Fi, mejora la cobertura. Si es alto todo el tiempo, revisa la ruta del proveedor o el servidor. Si el ping sube en la noche, es saturación local.</p>
+<p>La regla práctica es simple: estabilidad primero, velocidad después. Un ping estable hace más diferencia que un número alto de Mbps en juegos y videollamadas.</p>
+<p>Si después de ajustar todo sigues con ping alto, considera probar otro servidor o consultar soporte técnico para revisar la ruta.</p>
+<p>En la práctica, una mejora de 20 o 30 ms ya se siente mucho más fluida para gaming y videollamadas.</p>
+<p>Si tu objetivo es jugar competitivo, prioriza siempre ping bajo y estable, incluso si eso significa un plan con menos Mbps pero mejor latencia.</p>
+<p>Ese cambio suele ser más visible que subir de plan.</p>
+<p>Es la diferencia entre jugar cómodo o frustrado.
+:::</p>
+<p>::: {#mejorar .section}</p>
+<h2 id="cómo-mejorar-el-ping-en-casa">Cómo mejorar el ping en casa</h2>
+<ul>
+<li>Conéctate por cable cuando sea posible.</li>
+<li>Reinicia el router si hay saturación.</li>
+<li>Evita descargas pesadas mientras juegas.</li>
+<li>Ubica el router en el centro de la casa.</li>
+<li>Si la casa es grande, usa Wi‑Fi mesh.</li>
+</ul>
+<p>Guía complementaria: <a href="/internet-en-casa/como-mejorar-wifi-casa-mexico.html">cómo mejorar tu Wi‑Fi</a>.
+:::</p>
+<p>::: {#faq .section}</p>
+<h2 id="preguntas-frecuentes-1">Preguntas frecuentes</h2>
+<h3 id="qué-es-un-buen-ping-para-jugar">¿Qué es un buen ping para jugar?</h3>
+<p>Idealmente menos de 50 ms. Entre 50 y 80 ms aún se puede jugar, pero puede sentirse delay.</p>
+<h3 id="por-qué-mi-ping-sube-por-la-noche">¿Por qué mi ping sube por la noche?</h3>
+<p>Por saturación en horario pico. Hay más usuarios conectados al mismo tiempo en tu zona.</p>
+<h3 id="el-ping-depende-del-proveedor">¿El ping depende del proveedor?</h3>
+<p>En parte sí, pero también influyen tu Wi‑Fi, la distancia al servidor y la saturación local.</p>
+<h3 id="un-plan-más-caro-baja-el-ping">¿Un plan más caro baja el ping?</h3>
+<p>No necesariamente. El ping depende más de la ruta y la estabilidad que de la velocidad contratada.</p>
+<h3 id="cómo-reduzco-el-jitter">¿Cómo reduzco el jitter?</h3>
+<p>Con conexión por cable, mejor Wi‑Fi interno y evitando saturar la red con descargas pesadas.
+:::</p>
+<p>:::</p>
+
+    </div>
+
+    
+    
+      <div class="ad-slot ad-slot-mid_article" data-position="mid_article">
+  <span class="ad-label">Publicidad</span>
+  <ins class="adsbygoogle"
+       style="display:block; min-height:90px;"
+       data-ad-client="ca-pub-5566942094411042"
+       data-ad-slot="7429084400"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+    
+
+    
+    
+
+    
+
+
+<div class="author-box">
+  <div class="author-avatar" aria-hidden="true">E</div>
+  <div>
+    <a href="/authors/equipo.html" class="author-name-link"><p class="author-name">Equipo Mejor Conexión</p></a>
+    <p class="author-bio">Comparamos internet y datos en México con criterio real, sin promesas raras.</p>
+  </div>
+</div>
+
+
+    
+    
+      <div class="ad-slot ad-slot-end_article" data-position="end_article">
+  <span class="ad-label">Publicidad</span>
+  <ins class="adsbygoogle"
+       style="display:block; min-height:90px;"
+       data-ad-client="ca-pub-5566942094411042"
+       data-ad-slot="3364726638"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+    
+
+    
+  
+
+<div class="newsletter-box">
+  <div class="newsletter-inner">
+    <div class="newsletter-icon">
+      <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+      </svg>
+    </div>
+    <div>
+      <h3 class="newsletter-title">No Pagues de Más por Internet</h3>
+      <p class="newsletter-text">Recibe consejos claros para elegir el mejor internet y pagar menos. Un correo al mes. Sin spam.</p>
+    </div>
+  </div>
+  <form class="newsletter-form" action="#" method="POST">
+    <input type="email" name="EMAIL" placeholder="tu@correo.com" class="newsletter-input" required aria-label="Correo electrónico">
+    <button type="submit" class="newsletter-btn">Recibir Consejos</button>
+  </form>
+</div>
+
+
+  
+
+
+
+
+
+
+  <section class="related-section" aria-label="Artículos relacionados">
+    <h2 class="related-title">Artículos relacionados</h2>
+    <div class="related-grid">
+      
+        <article class="related-card group">
+          <a href="/blog/cuanto-cuesta-instalacion-internet-mexico.html" class="related-link">
+            
+              <div class="related-image">
+                <img src="/images/topic-provider-comparison.webp" alt="Qué es el ping y por qué importa (latencia, jitter y juegos)" loading="lazy" decoding="async" width="400" height="225">
+              </div>
+            
+            <div class="related-card-body">
+              <h3 class="related-card-title">¿Cuánto cuesta la instalación de internet en México? (2026)</h3>
+              <time datetime="2026-08-10" class="related-card-date">10 Aug 2026</time>
+            </div>
+          </a>
+        </article>
+      
+        <article class="related-card group">
+          <a href="/blog/cuanto-tarda-instalar-internet-mexico.html" class="related-link">
+            
+              <div class="related-image">
+                <img src="/images/topic-provider-comparison.webp" alt="Qué es el ping y por qué importa (latencia, jitter y juegos)" loading="lazy" decoding="async" width="400" height="225">
+              </div>
+            
+            <div class="related-card-body">
+              <h3 class="related-card-title">¿Cuánto tarda en instalarse el internet en México? (2026)</h3>
+              <time datetime="2026-08-10" class="related-card-date">10 Aug 2026</time>
+            </div>
+          </a>
+        </article>
+      
+        <article class="related-card group">
+          <a href="/contacto.html" class="related-link">
+            
+            <div class="related-card-body">
+              <h3 class="related-card-title">Contacto</h3>
+              <time datetime="2026-08-14" class="related-card-date">14 Aug 2026</time>
+            </div>
+          </a>
+        </article>
+      
+    </div>
+  </section>
+
+
+
+    
+    <nav class="article-trust-strip" aria-label="Trust and methodology">
+      <span class="article-trust-label">Confianza:</span>
+      <a href="/metodologia.html" class="article-trust-link">Metodología</a>
+      <a href="/transparencia.html" class="article-trust-link">Transparencia</a>
+      <a href="/corrections.html" class="article-trust-link">Correcciones</a>
+    </nav>
+  </div>
+</article>
+
+  </main>
+
+  
+  <footer style="background: var(--paper-2); border-top: 1px solid var(--border); margin-top: 4rem;" role="contentinfo">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-12">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+      
+      <div class="sm:col-span-2 lg:col-span-1">
+        <a href="/" class="flex items-center gap-2 text-sm font-bold transition-opacity hover:opacity-80" style="color: #F0F4FA;">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true" style="color: var(--brand-bright);">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0"/>
+          </svg>
+          Mejor Conexión
+        </a>
+        
+        <p class="text-xs mt-3 leading-relaxed max-w-xs" style="color: var(--ink-muted);">Compara proveedores de internet en México. Guías claras, sin jerga, para elegir el mejor servicio para tu hogar.</p>
+        
+        <p class="text-xs mt-4" style="color: var(--ink-faint);">&copy; 2026 Todos los derechos reservados.</p>
+      </div>
+
+      
+      <div>
+        <h3 class="footer-heading">Atajos</h3>
+        <ul class="space-y-2">
+          <li><a href="/" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Inicio</a></li>
+          <li><a href="/blog.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Blog</a></li>
+          <li><a href="/about.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Acerca de</a></li>
+          <li><a href="/contact.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Contacto</a></li>
+        </ul>
+      </div>
+
+      
+      <div>
+        <h3 class="footer-heading">Categorías</h3>
+        <ul class="space-y-2">
+          
+          <li><a href="/blog/" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Blog</a></li>
+          
+          <li><a href="/herramientas.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Herramientas</a></li>
+          
+          <li><a href="/ciudades.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Ciudades: cobertura y opciones por zona en México</a></li>
+          
+          <li><a href="/cobertura.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Cobertura por ciudad</a></li>
+          
+          <li><a href="/esim.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">eSIM en México: guías y comparativas</a></li>
+          
+          <li><a href="/esim-viajeros.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">eSIM y conectividad para viajar</a></li>
+          
+        </ul>
+      </div>
+
+      
+      <div>
+        <h3 class="footer-heading">Editorial</h3>
+        <ul class="space-y-2">
+          
+          
+          
+            
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+                <li><a href="/privacy.html" class="text-sm capitalize transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">privacy</a></li>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+          
+            
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+          
+            
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+          
+            
+            
+              
+            
+              
+            
+              
+            
+              
+                <li><a href="/editorial-policy.html" class="text-sm capitalize transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">editorial policy</a></li>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+          
+            
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+          
+            
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+          
+        </ul>
+        <ul class="space-y-2 mt-3">
+          <li><a href="/editorial-policy.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Política editorial</a></li>
+          <li><a href="/corrections.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Correcciones</a></li>
+          <li><a href="/sitemap.xml" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Sitemap</a></li>
+        </ul>
+      </div>
+    </div>
+
+    
+    <div class="mt-10 pt-6" style="border-top: 1px solid var(--border);">
+      <p class="text-xs max-w-3xl" style="color: var(--ink-faint);">
+        Este sitio muestra anuncios de terceros. Los espacios publicitarios son automáticos y no constituyen una recomendación personal.
+        Usamos Google AdSense para mostrarlos.
+      </p>
+    </div>
+  </div>
+</footer>
+
+
+  
+  <script>
+    (function() {
+      var toggle = document.getElementById('nav-toggle');
+      var menu = document.getElementById('mobile-menu');
+      var hamburger = document.getElementById('hamburger-icon');
+      var closeIcon = document.getElementById('close-icon');
+      if (toggle && menu) {
+        toggle.addEventListener('click', function() {
+          var expanded = toggle.getAttribute('aria-expanded') === 'true' ? false : true;
+          toggle.setAttribute('aria-expanded', expanded);
+          menu.classList.toggle('hidden');
+          if (hamburger) hamburger.classList.toggle('hidden');
+          if (closeIcon) closeIcon.classList.toggle('hidden');
+        });
+      }
+    })();
+  </script>
+
+  
+  
+    <script src="/js/main.js"></script>
+  
+
+  
+
+  
+  
+<script defer src="https://app.rybbit.io/api/script.js" data-site-id="095d6520421b"></script>
+
+
+
+</body>
+</html>

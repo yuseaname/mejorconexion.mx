@@ -1,5 +1,5 @@
 ---
-title: "Internet para streaming en México: [cuántos Mbps necesitas](/guias/cuantos-mbps-necesito.html) de verdad (2026)"
+title: "Internet para streaming en México: [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html) de verdad (2026)"
 slug: "internet-para-streaming-mexico"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"

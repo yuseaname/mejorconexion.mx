@@ -121,7 +121,7 @@ La fibra óptica ofrece mejor velocidad, más estabilidad, menor latencia y meno
 
 ### 3. Considera la velocidad simétrica si trabajas desde casa
 
-Si haces videollamadas o subes archivos grandes, la velocidad de subida es crítica. Totalplay ofrece fibra simétrica (misma subida que bajada), ideal para home office. Para más información, lee [qué es el internet simétrico](/blog/que-es-internet-simetrico.html).
+Si haces videollamadas o subes archivos grandes, la velocidad de subida es crítica. Totalplay ofrece fibra simétrica (misma subida que bajada), ideal para home office. Para más información, lee [qué es el internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html).
 
 ### 4. Revisa las quejas en PROFECO
 
@@ -129,7 +129,7 @@ Antes de contratar, busca quejas de la colonia en PROFECO o redes sociales. Algu
 
 ### 5. Negocia el precio de bienvenida
 
-La mayoría de proveedores ofrece promociones de bienvenida (6-12 meses a precio reducido). Llama y negocia antes de firmar. Para más tips, lee [cómo contratar internet en México](/blog/cómo-contratar-internet-en-méxico-2026.html).
+La mayoría de proveedores ofrece promociones de bienvenida (6-12 meses a precio reducido). Llama y negocia antes de firmar. Para más tips, lee [cómo contratar internet en México](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
 
 
 

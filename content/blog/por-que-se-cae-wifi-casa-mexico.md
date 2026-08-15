@@ -1,6 +1,7 @@
 ---
 title: "Por qué se cae el WiFi en casa y cómo arreglarlo (2026)"
 slug: "por-que-se-cae-wifi-casa-mexico"
+description: "**El Wi-Fi se cae en casa en México por 5 causas: router mal ubicado, demasiados dispositivos, interferencia de vecinos, firmware viejo o proveedor satu…"
 date: 2026-08-09
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

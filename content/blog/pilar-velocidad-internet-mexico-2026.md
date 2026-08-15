@@ -26,7 +26,7 @@ type: "pillar"
 - **1 byte = 8 bits. Por eso una descarga de "100 MB" a 100 Mbps tarda unos 8 segundos, no 1.**
 - **El ping importa tanto como los Mbps para gaming, videollamadas y trabajo remoto.**
 
-Para entenderlo desde cero, empieza por la diferencia entre [Mbps y MB](/guias/diferencia-mbps-vs-mb.html). Para saber cuántos Mbps necesitas, abre [cuántos Mbps necesito](/guias/cuantos-mbps-necesito.html). Para medir tu conexión, ve a [cómo medir la velocidad real](/guias/como-medir-velocidad-real-internet.html).
+Para entenderlo desde cero, empieza por la diferencia entre [Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html). Para saber cuántos Mbps necesitas, abre [cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html). Para medir tu conexión, ve a [cómo medir la velocidad real](/guias/como-medir-velocidad-real-internet.html).
 
 ## Por qué entender la velocidad te ahorra dinero
 
@@ -44,14 +44,14 @@ Esta guía pilar organiza todo lo que necesitas saber sobre velocidad: qué es, 
 - 1 Megabyte (MB) = 8 Megabits (Mb).
 - Un plan de "100 Mbps" descarga a **12.5 MB/s** máximo teórico.
 
-Por eso una película de 4 GB (4,000 MB) tarda unos 5–6 minutos en bajar con un plan de 100 Mbps, no 40 segundos. Para el detalle con ejemplos, lee [diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html). Entender esta diferencia te evita frustraciones y te permite calcular tiempos reales de descarga.
+Por eso una película de 4 GB (4,000 MB) tarda unos 5–6 minutos en bajar con un plan de 100 Mbps, no 40 segundos. Para el detalle con ejemplos, lee [diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html). Entender esta diferencia te evita frustraciones y te permite calcular tiempos reales de descarga.
 
 ### Bajada (download) vs subida (upload)
 
 - **Bajada:** la velocidad a la que recibes datos (ver Netflix, abrir páginas, descargar).
 - **Subida:** la velocidad a la que envías datos (subir un video a la nube, enviar archivos, videollamadas salientes).
 
-En México, la mayoría de los planes son **asimétricos**: la bajada es mucho mayor que la subida. Un plan "300 Mbps" suele tener 20–30 Mbps de subida. Esto es problema para creadores de contenido, trabajo remoto con video y subidas frecuentes a la nube. La alternativa es el [internet simétrico](/blog/que-es-internet-simetrico.html), donde ambas velocidades son iguales (común en fibra de Totalplay).
+En México, la mayoría de los planes son **asimétricos**: la bajada es mucho mayor que la subida. Un plan "300 Mbps" suele tener 20–30 Mbps de subida. Esto es problema para creadores de contenido, trabajo remoto con video y subidas frecuentes a la nube. La alternativa es el [internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html), donde ambas velocidades son iguales (común en fibra de Totalplay).
 
 ### Ping y latencia: el tercer número que casi nadie revisa
 
@@ -93,7 +93,7 @@ Netflix 4K, dos celulares con TikTok, una videollamada, consola descargando. **2
 
 ### Hogar intensivo (7+ dispositivos)
 
-Gaming, streaming en vivo, 4K simultáneo en varias pantallas, home office, NAS. **500 Mbps o más**. Aquí conviene el [internet simétrico](/blog/que-es-internet-simetrico.html) y fibra óptica.
+Gaming, streaming en vivo, 4K simultáneo en varias pantallas, home office, NAS. **500 Mbps o más**. Aquí conviene el [internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html) y fibra óptica.
 
 ### Trabajo remoto y creadores
 
@@ -103,7 +103,7 @@ Videollamadas pesadas, subida de videos grandes, edición en cloud. **500 Mbps�
 
 Para gaming, **el ping importa más que los Mbps**. 100 Mbps con ping de 15 ms son mejores que 1,000 Mbps con ping de 80 ms. Revisa [mejor velocidad para gaming](/blog/mejor-velocidad-para-gaming.html) y [Wi-Fi vs Ethernet para jugar](/blog/wifi-vs-ethernet-para-jugar.html).
 
-Para profundizar caso por caso, abre [cuántos Mbps necesito](/guias/cuantos-mbps-necesito.html) y la guía de [velocidad según tu caso](/blog/cuanta-velocidad-internet-necesitas-2026.html).
+Para profundizar caso por caso, abre [cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html) y la guía de [velocidad según tu caso](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 ## Tabla 2: Mbps necesarios por actividad simultánea
 
@@ -162,7 +162,7 @@ Módem o router de hace 5+ años, firmware sin actualizar, canal Wi-Fi saturado.
 
 ### 5. Problema del proveedor (2 %)
 
-Fibra cortada, nodo caído, mantenimiento. Aquí sí toca llamar. Revisa [módem parpadea en rojo](/blog/modem-parpadea-rojo-solucion-mexico.html) y [por qué el internet es lento a veces](/blog/por-que-el-internet-es-lento-a-veces.html).
+Fibra cortada, nodo caído, mantenimiento. Aquí sí toca llamar. Revisa [módem parpadea en rojo](/blog/modem-parpadea-rojo-solucion.html) y [por qué el internet es lento a veces](/blog/por-que-el-internet-es-lento-a-veces.html).
 
 Para el diagnóstico completo, lee [velocidad contratada no me llega](/blog/velocidad-contratada-no-me-llega-mexico.html) y [qué hacer si el internet va lento](/guias/que-hacer-si-internet-lento.html).
 
@@ -177,7 +177,7 @@ Antes de llamar al proveedor, usa esta tabla para identificar la causa.
 | Lento siempre, todo dispositivo | Plan o proveedor | Mide por cable y compara | [No me llega la velocidad](/blog/velocidad-contratada-no-me-llega-mexico.html) |
 | Ping alto, gaming imposible | Latencia del medio | Ethernet / DNS / fibra | [Qué es el ping](/blog/que-es-el-ping.html) |
 | Cortes en videollamada | Jitter / pérdida de paquetes | Ethernet / priorización QoS | [Videollamadas](/blog/velocidad-necesaria-videollamadas-mexico-2026.html) |
-| Módem parpadea rojo | Falla del proveedor | Reporta a soporte | [Módem rojo](/blog/modem-parpadea-rojo-solucion-mexico.html) |
+| Módem parpadea rojo | Falla del proveedor | Reporta a soporte | [Módem rojo](/blog/modem-parpadea-rojo-solucion.html) |
 
 ## Velocidad de subida: el gran olvidado en México
 
@@ -188,7 +188,7 @@ La mayoría de los hogares mexicanos tienen planes **asimétricos** con subida m
 - El backup a Google Drive o iCloud dura horas.
 - Compartir pantalla en una reunión se corta.
 
-Para creadores, freelancers y trabajo remoto serio, la **subida es más importante que la bajada**. La solución es el [internet simétrico](/blog/que-es-internet-simetrico.html), disponible en fibra de Totalplay y algunos planes de Telmex Infinitum. Profundiza en [la importancia de la velocidad de subida](/blog/velocidad-de-subida-importancia.html).
+Para creadores, freelancers y trabajo remoto serio, la **subida es más importante que la bajada**. La solución es el [internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html), disponible en fibra de Totalplay y algunos planes de Telmex Infinitum. Profundiza en [la importancia de la velocidad de subida](/blog/velocidad-de-subida-importancia.html).
 
 ## Ping, jitter y latencia: cuando "rápido" no es "estable"
 
@@ -213,7 +213,7 @@ El internet simétrico (misma velocidad de bajada y subida) era premium pero en 
 - Gaming con streaming en Twitch/YouTube.
 - Hogares con NAS o servidores propios.
 
-El costo premium frente a un plan asimétrico equivalente es de unos $200–$300 MXN/mes extra. Para muchos, vale la pena. Lee [qué es el internet simétrico](/blog/que-es-internet-simetrico.html) para decidir.
+El costo premium frente a un plan asimétrico equivalente es de unos $200–$300 MXN/mes extra. Para muchos, vale la pena. Lee [qué es el internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html) para decidir.
 
 ## Tabla 4: Velocidad real por proveedor en México (datos IFT + mediciones)
 
@@ -256,14 +256,14 @@ Guías: [velocidad contratada no me llega](/blog/velocidad-contratada-no-me-lleg
 
 Esta guía pilar es el centro de un cluster sobre velocidad. Profundiza en cada subtema:
 
-1. [Cuántos Mbps necesito](/guias/cuantos-mbps-necesito.html) — calculadora por caso de uso.
-2. [Diferencia entre Mbps y MB](/guias/diferencia-mbps-vs-mb.html) — unidades explicadas.
+1. [Cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html) — calculadora por caso de uso.
+2. [Diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html) — unidades explicadas.
 3. [Cómo medir la velocidad real del internet](/guias/como-medir-velocidad-real-internet.html) — método correcto.
 4. [Velocidad contratada no me llega](/blog/velocidad-contratada-no-me-llega-mexico.html) — diagnóstico.
 5. [Internet lento en la noche](/blog/internet-lento-noche-mexico-2026.html) — saturación en horas pico.
 6. [Cuánta velocidad necesitas 2026](/blog/cuanta-velocidad-internet-necesitas-2026.html) — perfiles de uso.
 7. [Qué es el ping](/blog/que-es-el-ping.html) — latencia explicada.
-8. [Qué es el internet simétrico](/blog/que-es-internet-simetrico.html) — subida = bajada.
+8. [Qué es el internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html) — subida = bajada.
 9. [Velocidad de subida: importancia](/blog/velocidad-de-subida-importancia.html) — el gran olvidado.
 10. [Por qué hay lag con internet rápido](/blog/por-que-hay-lag-internet-rapido.html) — jitter y paquetes.
 11. [Velocidad para streaming 4K](/blog/velocidad-necesaria-para-streaming-4k-en-mexico.html) — Netflix, Disney+.
@@ -277,7 +277,7 @@ Esta guía pilar es el centro de un cluster sobre velocidad. Profundiza en cada 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuántos Mbps necesito para una casa promedio en México?" >}}
-Para una familia de 3–4 personas con streaming, celulares y trabajo o estudio remoto, **200–300 Mbps de bajada** son suficientes. Si haces gaming competitivo, streaming en vivo o subes videos grandes, busca **internet simétrico** de 500 Mbps o más. Calcula tu caso en [cuántos Mbps necesito](/guias/cuantos-mbps-necesito.html).
+Para una familia de 3–4 personas con streaming, celulares y trabajo o estudio remoto, **200–300 Mbps de bajada** son suficientes. Si haces gaming competitivo, streaming en vivo o subes videos grandes, busca **internet simétrico** de 500 Mbps o más. Calcula tu caso en [cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 {{< /faq >}}}
 
 {{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
@@ -293,7 +293,7 @@ Conecta por **cable Ethernet**, cierra programas que consuman ancho de banda, us
 {{< /faq >}}}
 
 {{< faq "¿Vale la pena el internet simétrico?" >}}
-Sí si eres creador de contenido, haces trabajo remoto con videollamadas pesadas, gaming con streaming o usas NAS/cloud intensivamente. El simétrico cuesta ~$200–$300 MXN/mes más que un plan asimétrico equivalente, pero elimina el cuello de botella de subida. Lee [qué es el internet simétrico](/blog/que-es-internet-simetrico.html).
+Sí si eres creador de contenido, haces trabajo remoto con videollamadas pesadas, gaming con streaming o usas NAS/cloud intensivamente. El simétrico cuesta ~$200–$300 MXN/mes más que un plan asimétrico equivalente, pero elimina el cuello de botella de subida. Lee [qué es el internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html).
 {{< /faq >}}}
 
 {{< faq "¿Por qué mi internet va lento solo en la noche?" >}}

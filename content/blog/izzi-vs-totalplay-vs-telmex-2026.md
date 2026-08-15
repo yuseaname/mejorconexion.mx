@@ -24,7 +24,7 @@ image: "/images/generated/mejorconexion-mx-internet-en-casa-index-html-hero-bfb6
 - **Cable Izzi 300**: 25-35 ms, $799/mes - bueno para streaming
 - **Acción**: pide tu CP primero en cobertura Izzi y Totalplay; Telmex siempre disponible
 
-Para más detalle, consulta [/blog/izzi-vs-totalplay-2026/](/blog/izzi-vs-totalplay-2026/).
+Para más detalle, consulta [/blog/izzi-vs-totalplay-2026/](/blog/izzi-vs-totalplay-2026.html).
 
 Elegir internet en México no se trata de encontrar “el plan con más megas” ni “la promo más bonita”. Si comparas solo por precio de entrada, puedes terminar con cortes constantes, mala latencia en videollamadas, o una factura más alta de lo que esperabas cuando se acaba la promoción.
 
