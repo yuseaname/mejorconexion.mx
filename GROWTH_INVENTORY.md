@@ -73,7 +73,7 @@ La API devolvió este mismo agregado ante ventanas solicitadas de 7, 30 y 90 dí
 
 - **Baseline/evidencia:** 184 páginas del artifact Hugo mostraban `:::` literal (4,530 tokens), incluido el comparativo móvil, CDMX, Guadalajara, Monterrey y Puebla. La sintaxis de contenedores no es compatible con el renderer Hugo actual y convertía secciones/una tabla en texto malformado.
 - **Cambios realizados:** se eliminó sólo cada línea de sintaxis de contenedor no soportada en las cinco landing pages de mayor impacto; se convirtió la tabla de escenarios de Guadalajara a Markdown semántico; los enlaces de ciudad tocados ahora apuntan directamente a sus canónicos `.html`.
-- **Verificación local:** build limpio pasó; 0 tokens `:::` en los cinco outputs; tabla real en Guadalajara; canónicas, AdSense y Rybbit presentes en los cinco. Pendiente de deploy/HTTP live antes de cerrar el ciclo.
+- **Verificación:** build limpio pasó; 0 tokens `:::` en los cinco outputs; tabla real en Guadalajara; canónicas, AdSense y Rybbit presentes en los cinco. El deploy CI `8bdbf43` fue exitoso; comprobación live de los cinco URLs confirmó HTTP entregado sin tokens literales y con canónica, AdSense y Rybbit presentes.
 - **Riesgo/plan:** es un release escalonado; 179 páginas restantes aún requieren una siguiente tanda tras confirmar métricas y apariencia de este grupo.
 
 ## Próximo ciclo seleccionado — Guadalajara: satisfacción de intención local
