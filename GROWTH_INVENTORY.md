@@ -69,6 +69,13 @@ La API devolvió este mismo agregado ante ventanas solicitadas de 7, 30 y 90 dí
 - **Verificación:** build limpio confirmó los tres canónicos y reglas incluidas. Deploy CI `ce199aa` fue exitoso; en producción cada URL legacy devuelve HTTP 301 a su canónica exacta.
 - **Medición:** revisar Rybbit pathname y page titles tras el re-crawl; el objetivo es que estas visitas lleguen al contenido canónico y reduzcan salida inmediata.
 
+## Ciclo 4 — reparación escalonada de renderizado en páginas de demanda
+
+- **Baseline/evidencia:** 184 páginas del artifact Hugo mostraban `:::` literal (4,530 tokens), incluido el comparativo móvil, CDMX, Guadalajara, Monterrey y Puebla. La sintaxis de contenedores no es compatible con el renderer Hugo actual y convertía secciones/una tabla en texto malformado.
+- **Cambios realizados:** se eliminó sólo cada línea de sintaxis de contenedor no soportada en las cinco landing pages de mayor impacto; se convirtió la tabla de escenarios de Guadalajara a Markdown semántico; los enlaces de ciudad tocados ahora apuntan directamente a sus canónicos `.html`.
+- **Verificación local:** build limpio pasó; 0 tokens `:::` en los cinco outputs; tabla real en Guadalajara; canónicas, AdSense y Rybbit presentes en los cinco. Pendiente de deploy/HTTP live antes de cerrar el ciclo.
+- **Riesgo/plan:** es un release escalonado; 179 páginas restantes aún requieren una siguiente tanda tras confirmar métricas y apariencia de este grupo.
+
 ## Próximo ciclo seleccionado — Guadalajara: satisfacción de intención local
 
 - **Evidencia:** aun corrigiendo el acceso, Guadalajara conserva 36 sesiones, 72.22% de rebote y sólo 3.82 s de tiempo en página.

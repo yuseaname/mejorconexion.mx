@@ -4,15 +4,11 @@ date: 2026-01-01
 description: ""
 draft: false
 ---
-::: {#panorama .section}
 ## Panorama local en Puebla
 
 Puebla combina zonas con infraestructura moderna y otras con cableado más antiguo. Esto se traduce en diferencias notables de velocidad y estabilidad entre colonias.
 
 Para elegir bien, hay que validar cobertura real en tu calle y no asumir por ciudad.
-:::
-
-::: {#tecnologias .section}
 ## Tecnologías comunes
 
 -   **Fibra óptica:** estable y con buena subida cuando está bien instalada.
@@ -20,25 +16,16 @@ Para elegir bien, hay que validar cobertura real en tu calle y no asumir por ciu
 -   **Inalámbrico fijo:** útil donde no hay cableado, con latencia variable.
 
 Para entender diferencias, revisa [fibra vs cable](/blog/fibra-optica-vs-cable-mexico.html).
-:::
-
-::: {#variacion .section}
 ## Por qué cambia tanto por zona
 
 La combinación de densidad, infraestructura y tipo de edificio hace que la experiencia varíe. En edificios grandes, la instalación interna puede ser un cuello de botella.
 
 Por eso es común que dos calles cercanas tengan resultados muy distintos.
-:::
-
-::: {#horario .section}
 ## Horario pico y saturación
 
 En horario pico la red se satura. Si en la noche baja la velocidad, esa es la causa más probable.
 
 Prueba siempre en el horario donde realmente usas internet.
-:::
-
-::: {#checklist .section}
 ## Checklist antes de contratar
 
 -   Confirma tecnología disponible en tu calle.
@@ -48,9 +35,6 @@ Prueba siempre en el horario donde realmente usas internet.
 -   Pregunta por tiempos de instalación y soporte.
 
 Con este checklist reduces sorpresas.
-:::
-
-::: {#pruebas .section}
 ## Pruebas rápidas en tu zona
 
 -   Speedtest mañana y noche.
@@ -59,57 +43,36 @@ Con este checklist reduces sorpresas.
 -   Ping estable sin picos.
 
 Si todo se mantiene estable, la cobertura es buena.
-:::
-
-::: {#home-office .section}
 ## Home office y videollamadas
 
 Para trabajo remoto, lo importante es la estabilidad y la subida. Un plan estable mejora videollamadas y envío de archivos.
 
 Guía útil: [red estable para home office](/blog/red-estable-home-office-mexico.html).
-:::
-
-::: {#streaming .section}
 ## Streaming y entretenimiento
 
 El streaming depende de estabilidad. Si hay cortes, prueba en horario distinto o revisa tu red interna.
 
 Guía: [streaming sin cortes](/blog/streaming-sin-cortes-mexico.html).
-:::
-
-::: {#gaming .section}
 ## Gaming y latencia
 
 Para gaming, el ping estable es lo más importante. Una conexión con pocos picos vale más que muchos Mbps.
 
 Guía: [mejor velocidad para gaming](/blog/mejor-velocidad-para-gaming.html).
-:::
-
-::: {#instalacion .section}
 ## Instalación y router
 
 La instalación define la experiencia. Un router básico o cableado deficiente puede arruinar un plan bueno.
 
 Si el Wi‑Fi falla, revisa [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
-
-::: {#alternativas .section}
 ## Alternativas si no hay fibra
 
 Si no hay fibra, el coaxial suele ser la mejor opción. Si tampoco hay, el inalámbrico fijo es la alternativa.
 
 La clave es medir y comparar, no elegir por precio.
-:::
-
-::: {#vecinos .section}
 ## Validar con vecinos
 
 Pregunta a vecinos con uso similar. La experiencia local es la referencia más confiable.
 
 Si varios reportan cortes, considera otra opción o ajusta expectativas.
-:::
-
-::: {#preguntas .section}
 ## Preguntas frecuentes
 
 ### ¿La fibra es la mejor opción en Puebla?
@@ -123,17 +86,11 @@ Es saturación. Prueba en otros horarios y reporta si es constante.
 ### ¿Vale la pena pagar más por más Mbps?
 
 Solo si tu red interna es estable. Si no, primero ajusta tu Wi‑Fi.
-:::
-
-::: {#zonas .section}
 ## Zonas con variación típica
 
 En Puebla la diferencia suele aparecer entre zonas con infraestructura reciente y zonas con cableado antiguo. En edificios grandes, la instalación interna también influye.
 
 Validar por edificio y calle es más confiable que guiarse solo por colonia.
-:::
-
-::: {#preguntar-instalador .section}
 ## Qué preguntar al instalador
 
 -   ¿Dónde quedará el router y cómo llega el cable?
@@ -142,9 +99,6 @@ Validar por edificio y calle es más confiable que guiarse solo por colonia.
 -   ¿Se puede dejar cableado para futuro?
 
 Estas preguntas mejoran la instalación desde el inicio.
-:::
-
-::: {#checklist-extendido .section}
 ## Checklist extendido
 
 -   Probar velocidad en horarios distintos.
@@ -153,9 +107,6 @@ Estas preguntas mejoran la instalación desde el inicio.
 -   Validar soporte y tiempos de atención.
 
 Si se cumple, la experiencia suele ser estable.
-:::
-
-::: {#errores .section}
 ## Errores comunes
 
 -   Elegir solo por precio.
@@ -164,9 +115,6 @@ Si se cumple, la experiencia suele ser estable.
 -   Asumir que más Mbps arregla cortes.
 
 Evitar estos errores ahorra cambios y frustración.
-:::
-
-::: {#glosario .section}
 ## Glosario rápido
 
 **Latencia:** tiempo de respuesta.
@@ -174,15 +122,9 @@ Evitar estos errores ahorra cambios y frustración.
 **Horario pico:** horas con saturación, usualmente por la noche.
 
 **Fibra:** tecnología estable si está bien instalada.
-:::
-
-::: {#resumen .section}
 ## Resumen práctico
 
 Puebla tiene buena oferta, pero la cobertura real depende de la zona y de la instalación. Prueba en horario pico y valida con vecinos antes de decidir.
-:::
-
-::: {#guia-paso-a-paso .section}
 ## Guía paso a paso en Puebla
 
 1.  Confirma tecnología disponible en tu calle.
@@ -192,9 +134,6 @@ Puebla tiene buena oferta, pero la cobertura real depende de la zona y de la ins
 5.  Elige por estabilidad y soporte.
 
 Este orden evita compras impulsivas.
-:::
-
-::: {#escenarios .section}
 ## Escenarios por uso
 
 ### Trabajo remoto
@@ -208,9 +147,6 @@ La estabilidad en horario pico es la clave. Ajusta el Wi‑Fi antes de subir de 
 ### Gaming
 
 Necesitas ping estable. Si puedes, usa Ethernet.
-:::
-
-::: {#faq-extendido .section}
 ## FAQ extendido
 
 ### ¿Por qué mi internet es inestable solo en ciertas habitaciones?
@@ -224,23 +160,14 @@ Solo si la red interna ya es estable. Si no, primero corrige el Wi‑Fi.
 ### ¿Cómo validar cobertura real?
 
 Con pruebas en horario pico y referencias de vecinos del mismo edificio.
-:::
-
-::: {#tabla-escenarios .section}
 ## Tabla rápida por escenario
-
-::: {.table-wrap role="region" aria-label="Escenarios y prioridades en Puebla"}
   Escenario            Prioridad        Qué revisar
   -------------------- ---------------- --------------------------
   Home office          Subida estable   Videollamadas sin cortes
   Streaming familiar   Estabilidad      Prueba en horario pico
   Gaming               Ping bajo        Prueba por cable
-:::
 
 La tabla te ayuda a priorizar lo que sí importa.
-:::
-
-::: {#plan-accion .section}
 ## Plan de acción en 7 días
 
 1.  Día 1--2: confirma tecnología disponible.
@@ -250,17 +177,11 @@ La tabla te ayuda a priorizar lo que sí importa.
 5.  Día 6--7: compara opciones y decide.
 
 Este plan evita contratar por impulso.
-:::
-
-::: {#presupuesto .section}
 ## Consejos por presupuesto
 
 Si tu presupuesto es limitado, prioriza estabilidad y evita pagar por Mbps que no usarás.
 
 Si tu presupuesto es flexible, invierte en un router mejor o en mesh para cubrir tu casa.
-:::
-
-::: {#diagnostico-actual .section}
 ## Si ya contrataste y algo falla
 
 Antes de cambiar de proveedor, revisa:
@@ -271,17 +192,11 @@ Antes de cambiar de proveedor, revisa:
 -   Confirma que el router esté bien ubicado.
 
 Si por cable funciona bien, el problema es Wi‑Fi. Si por cable falla, es proveedor o saturación local.
-:::
-
-::: {#vivienda .section}
 ## Tipo de vivienda y cobertura
 
 En casas grandes, la señal se pierde con paredes. Un sistema mesh suele ser la mejor mejora.
 
 En departamentos, la interferencia de redes vecinas puede afectar la experiencia. Ajustar canal ayuda.
-:::
-
-::: {#mejora .section}
 ## Señales de mejora
 
 -   Streaming sin cortes.
@@ -290,9 +205,6 @@ En departamentos, la interferencia de redes vecinas puede afectar la experiencia
 -   Velocidad consistente en la noche.
 
 Si ves estas señales, tu red está bien ajustada.
-:::
-
-::: {#tareas-reales .section}
 ## Cómo medir estabilidad con tareas reales
 
 La mejor forma de validar cobertura en Puebla es con tareas diarias. Así detectas si la zona aguanta tu uso real.
@@ -303,17 +215,11 @@ La mejor forma de validar cobertura en Puebla es con tareas diarias. Así detect
 -   Juega en línea y revisa el ping promedio.
 
 Si estas tareas se mantienen estables, la cobertura es suficiente para tu ritmo.
-:::
-
-::: {#respaldo-movil .section}
 ## Respaldo móvil: cuándo conviene
 
 Un plan móvil como respaldo ayuda cuando hay cortes. Es útil para emergencias y trabajo básico.
 
 Antes de depender de él, prueba señal móvil dentro de tu casa. Si la señal es débil en interiores, el respaldo no será confiable.
-:::
-
-::: {#instalacion-edificio .section}
 ## Checklist para edificios y fraccionamientos
 
 La instalación interna puede limitar cualquier plan. Revisa:
@@ -324,9 +230,6 @@ La instalación interna puede limitar cualquier plan. Revisa:
 -   Si hay quejas recurrentes en la administración.
 
 Con esto reduces el riesgo de contratar un plan que no podrás aprovechar.
-:::
-
-::: {#decision-final .section}
 ## Decisión final en 3 preguntas
 
 -   ¿Qué opción funciona mejor en horario pico en tu calle?
@@ -334,9 +237,6 @@ Con esto reduces el riesgo de contratar un plan que no podrás aprovechar.
 -   ¿Tu problema principal es velocidad o Wi‑Fi en casa?
 
 Estas preguntas te permiten decidir con calma y sin presión.
-:::
-
-::: {#personas-en-casa .section}
 ## Qué plan considerar según cuántas personas son
 
 El tamaño de tu hogar define el uso real. En Puebla, donde la cobertura puede variar por zona, prioriza estabilidad.
@@ -346,9 +246,6 @@ El tamaño de tu hogar define el uso real. En Puebla, donde la cobertura puede v
 -   **5+ personas:** combina buen plan con router potente o mesh.
 
 Si hay gaming o home office intensivo, el ping estable pesa más que subir de velocidad.
-:::
-
-::: {#soporte-local .section}
 ## Qué hacer si el soporte no responde
 
 Si hay fallas repetidas, documenta el problema con datos claros. Eso acelera la solución.
@@ -359,9 +256,6 @@ Si hay fallas repetidas, documenta el problema con datos claros. Eso acelera la 
 4.  Si no hay respuesta, pide escalación con evidencia.
 
 Con pruebas claras, el proveedor tiene menos margen para ignorar el caso.
-:::
-
-::: {#post-instalacion .section}
 ## Checklist después de la instalación
 
 La primera semana define si el servicio quedó bien instalado. Haz estas pruebas básicas:
@@ -372,9 +266,6 @@ La primera semana define si el servicio quedó bien instalado. Haz estas pruebas
 -   Comparación por cable vs Wi‑Fi para detectar problemas internos.
 
 Si algo falla desde el inicio, repórtalo de inmediato con evidencia.
-:::
-
-::: {#errores-cambio .section}
 ## Errores comunes al cambiar de proveedor
 
 Muchos cambios no mejoran porque el problema era interno. Evita estos errores:
@@ -385,9 +276,6 @@ Muchos cambios no mejoran porque el problema era interno. Evita estos errores:
 -   Elegir solo por precio sin validar estabilidad.
 
 Si corriges estos puntos, el cambio de proveedor sí tendrá impacto.
-:::
-
-::: {#casas-dos-pisos .section}
 ## Casas de dos pisos: cómo evitar zonas muertas
 
 En Puebla muchas casas tienen muros gruesos o varios niveles. Eso hace que el Wi‑Fi se pierda rápido, incluso con un buen plan.
@@ -403,9 +291,6 @@ Una buena cobertura interna puede mejorar más que pasar de 100 a 300 Mbps.
 Si el router es viejo, actualizarlo suele dar un salto visible en estabilidad.
 
 Si hay muchos dispositivos conectados, un router mejor se nota de inmediato.
-:::
-
-::: {#cobertura-movil-interior .section}
 ## Cobertura móvil dentro de casa
 
 Si piensas usar un respaldo móvil, primero valida la señal en interiores. En zonas con mucha construcción, la señal puede caer dentro de casa.
@@ -415,9 +300,6 @@ Si piensas usar un respaldo móvil, primero valida la señal en interiores. En z
 -   Haz una videollamada corta para comprobar estabilidad.
 
 Si la señal interior es débil, el respaldo móvil no será confiable.
-:::
-
-::: {#glosario .section}
 ## Glosario rápido para decidir mejor
 
 **Latencia:** tiempo de respuesta de la red. Afecta videollamadas y juegos.
@@ -437,6 +319,3 @@ También sirven para entender mejor los reportes del soporte.
 Si algo no se entiende, pide explicación usando estos conceptos.
 
 Esto te ayuda a decidir con más seguridad.
-:::
-
-:::
