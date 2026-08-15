@@ -62,10 +62,17 @@ La API devolvió este mismo agregado ante ventanas solicitadas de 7, 30 y 90 dí
 - **Verificación:** build Hugo limpio pasa; cuatro shortcodes FAQ balanceados; no hay assets locales ausentes; revisión visual local confirmó enlaces limpios, FAQ legibles, tabla/hero legibles y sin overflow de escritorio. El deploy CI de `69496d6` terminó exitosamente; el URL live devolvió HTTP 200 con metadata, FAQ, AdSense y Rybbit correctos. La prueba de navegador móvil no fue necesaria para esta modificación de contenido/CSS responsivo; el HTML conserva `viewport` y las tarjetas FAQ son de una columna.
 - **Riesgo/medición:** FAQPage JSON-LD no se emite en esta página porque el partial del `<head>` se procesa antes de que los shortcodes poblen `Page.Store`. Es un defecto técnico separado, no se fuerza schema inválido. Medir rebote, duración y páginas/sesión de esta URL tras el despliegue.
 
-## Próximo ciclo seleccionado — cobertura Guadalajara
+## Ciclo 3 — recuperación de demanda geográfica
 
-- **Evidencia:** `/cobertura/guadalajara/` registra 36 sesiones, 72.22% de rebote y 3.82 s de tiempo en página en el desglose Rybbit actual. Es una prioridad de retención distinta a los clusters ya modificados.
-- **Siguiente paso obligatorio:** inspeccionar URL canónica, intención local, assets, contenido y enlaces salientes/entrantes antes de editar. No repetir el trabajo de CDMX ni cambiar el URL.
+- **Baseline/evidencia:** el sitemap/build local sólo contiene los canónicos `.html`, pero Google mostraba `/cobertura/guadalajara/` y Rybbit registraba rutas trailing-slash heredadas: Monterrey 45 sesiones, Guadalajara 36 y Puebla 30. Estas 111 sesiones tenían 72–90% de rebote y las rutas legacy fallaban antes de la corrección.
+- **Cambios realizados:** se añadieron tres 301 exactos que preservan las rutas históricas y las dirigen a `monterrey.html`, `guadalajara.html` y `puebla.html`, sin mover contenido ni cambiar los destinos canónicos.
+- **Verificación:** build limpio confirmó los tres canónicos y reglas incluidas. Deploy CI `ce199aa` fue exitoso; en producción cada URL legacy devuelve HTTP 301 a su canónica exacta.
+- **Medición:** revisar Rybbit pathname y page titles tras el re-crawl; el objetivo es que estas visitas lleguen al contenido canónico y reduzcan salida inmediata.
+
+## Próximo ciclo seleccionado — Guadalajara: satisfacción de intención local
+
+- **Evidencia:** aun corrigiendo el acceso, Guadalajara conserva 36 sesiones, 72.22% de rebote y sólo 3.82 s de tiempo en página.
+- **Siguiente paso obligatorio:** inspeccionar el contenido canónico, assets, enlaces y resultado de búsqueda local; mejorar sólo lo que responda más rápido a la intención de comparar cobertura por zona.
 
 ## Inventario por página
 
