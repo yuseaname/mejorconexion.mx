@@ -1,0 +1,12 @@
+{{- /* Google tag (gtag.js) — renders once per page, early in <head>.
+   Set google_analytics in hugo.toml [params] to enable. */ -}}
+{{- with .Site.Params.google_analytics -}}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ . }}');
+</script>
+{{- end -}}

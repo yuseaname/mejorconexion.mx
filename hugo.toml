@@ -15,6 +15,7 @@ uglyURLs = true
       unsafe = true
 
 [params]
+  google_analytics = 'G-XFVSHS9J0X'
   site_name = 'Mejor Conexión'
   description = 'Compara proveedores de internet en México. Guías claras, sin jerga, para elegir el mejor servicio para tu hogar.'
   tagline = 'Tu internet, sin complicaciones.'
