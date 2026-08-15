@@ -10,6 +10,9 @@ RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 RewriteRule ^planes-moviles/telcel-vs-att-vs-movistar/$ /planes-moviles/telcel-vs-att-vs-movistar.html [R=301,L]
 RewriteRule ^cobertura/cdmx/mejor-internet-cdmx/$ /cobertura/mejor-internet-cdmx.html [R=301,L]
 RewriteRule ^planes-internet/telmex-vs-izzi-vs-totalplay-mexico/$ /planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html [R=301,L]
+RewriteRule ^cobertura/monterrey/$ /cobertura/monterrey.html [R=301,L]
+RewriteRule ^cobertura/guadalajara/$ /cobertura/guadalajara.html [R=301,L]
+RewriteRule ^cobertura/puebla/$ /cobertura/puebla.html [R=301,L]
 
 <IfModule mod_headers.c>
   Header set X-Content-Type-Options "nosniff"
