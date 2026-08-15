@@ -59,8 +59,13 @@ La API devolvió este mismo agregado ante ventanas solicitadas de 7, 30 y 90 dí
 
 - **Baseline/hipótesis:** la guía `que-significa-la-velocidad-de-internet.html` conserva demanda actual (66 sesiones; 66.67% rebote; 26.7 s). Su FAQ era contenido genérico de proveedores, la meta description estaba truncada y el shortcode compartido usaba texto oscuro heredado que era casi ilegible en el tema oscuro.
 - **Cambios realizados:** metadata y keywords alineados con Mbps/descarga/subida/latencia; reemplazo por cuatro FAQ específicas y verificables; dos fuentes IFT enlazadas; shortcode FAQ migrado a las clases de diseño oscuro existentes para reparar la legibilidad de las FAQ en todo el sitio.
-- **Verificación:** build Hugo limpio pasa; cuatro shortcodes FAQ balanceados; no hay assets locales ausentes; revisión visual local confirmó enlaces limpios, FAQ legibles, tabla/hero legibles y sin overflow de escritorio. La prueba de navegador móvil no fue necesaria para esta modificación de contenido/CSS responsivo; el HTML conserva `viewport` y las tarjetas FAQ son de una columna.
+- **Verificación:** build Hugo limpio pasa; cuatro shortcodes FAQ balanceados; no hay assets locales ausentes; revisión visual local confirmó enlaces limpios, FAQ legibles, tabla/hero legibles y sin overflow de escritorio. El deploy CI de `69496d6` terminó exitosamente; el URL live devolvió HTTP 200 con metadata, FAQ, AdSense y Rybbit correctos. La prueba de navegador móvil no fue necesaria para esta modificación de contenido/CSS responsivo; el HTML conserva `viewport` y las tarjetas FAQ son de una columna.
 - **Riesgo/medición:** FAQPage JSON-LD no se emite en esta página porque el partial del `<head>` se procesa antes de que los shortcodes poblen `Page.Store`. Es un defecto técnico separado, no se fuerza schema inválido. Medir rebote, duración y páginas/sesión de esta URL tras el despliegue.
+
+## Próximo ciclo seleccionado — cobertura Guadalajara
+
+- **Evidencia:** `/cobertura/guadalajara/` registra 36 sesiones, 72.22% de rebote y 3.82 s de tiempo en página en el desglose Rybbit actual. Es una prioridad de retención distinta a los clusters ya modificados.
+- **Siguiente paso obligatorio:** inspeccionar URL canónica, intención local, assets, contenido y enlaces salientes/entrantes antes de editar. No repetir el trabajo de CDMX ni cambiar el URL.
 
 ## Inventario por página
 
