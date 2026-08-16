@@ -36,11 +36,11 @@ También enlazamos el cluster estratégico para que tomes decisiones más precis
 
 Esta guía es larga porque cubre todo el proceso. Si tienes prisa, ve directo a tu caso:
 
-- **[Trabajo desde casa](#a-hogar-con-home-office)** — videollamadas y subida de archivos: prioriza estabilidad y simetría.
-- **[Familia y streaming](#c-familia-con-consumo-mixto)** — varios dispositivos a la vez: velocidad total y buen Wi-Fi.
-- **[Gaming](#b-hogar-gamer)** — latencia (ping) antes que megas.
-- **[Presupuesto bajo](#d-presupuesto-controlado)** — precio final con equipo y sin promociones trampa.
-- **[Cobertura rural o por colonia](#3-cobertura-por-colonia-el-filtro-más-importante)** — primero confirma qué llega a tu dirección.
+- **<a href="#a-hogar-con-home-office" data-intent-path="trabajo-remoto">Trabajo desde casa</a>** — videollamadas y subida de archivos: prioriza estabilidad y simetría.
+- **<a href="#c-familia-con-consumo-mixto" data-intent-path="familia-streaming">Familia y streaming</a>** — varios dispositivos a la vez: velocidad total y buen Wi-Fi.
+- **<a href="#b-hogar-gamer" data-intent-path="gaming">Gaming</a>** — latencia (ping) antes que megas.
+- **<a href="#d-presupuesto-controlado" data-intent-path="presupuesto-bajo">Presupuesto bajo</a>** — precio final con equipo y sin promociones trampa.
+- **<a href="#3-cobertura-por-colonia-el-filtro-más-importante" data-intent-path="cobertura-colonia">Cobertura rural o por colonia</a>** — primero confirma qué llega a tu dirección.
 
 Si no sabes cuánta velocidad necesitas, usa la [calculadora de Mbps](/herramientas/calculadora-velocidad-internet/).
 
