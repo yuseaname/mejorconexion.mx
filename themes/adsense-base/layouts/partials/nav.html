@@ -15,16 +15,31 @@
         {{ $currentRel := $currentPage.RelPermalink }}
         {{ $menuItems := .Site.Data.navigation.main }}
         {{ if and $menuItems (gt (len $menuItems) 0) }}
+          {{/* Resolve the single active menu URL: first menu item whose URL matches the
+               current page (exact, section-prefix, or uglyURLs .html-equivalent of a
+               section root). Menu entries that share a URL with the resolved active
+               item render inactive — exactly one highlighted destination (MCX-01). */}}
+          {{ $activeURL := "" }}
+          {{ $currentStem := strings.TrimSuffix "/" (strings.TrimSuffix ".html" $currentRel) }}
+          {{ range $menuItems }}
+            {{ $u := .url }}
+            {{ $isHome := eq $u "/" }}
+            {{ $isExact := eq $currentRel $u }}
+            {{ $isHTMLLeaf := hasSuffix $u ".html" }}
+            {{ $isPrefix := and (not $isHome) (not $isHTMLLeaf) (hasPrefix $currentRel $u) }}
+            {{ $itemStem := strings.TrimSuffix "/" (strings.TrimSuffix ".html" $u) }}
+            {{ $isSectionRoot := and (ne $itemStem "") (eq $currentStem $itemStem) }}
+            {{ if and (eq $activeURL "") (or $isExact (or $isPrefix $isSectionRoot)) }}
+              {{ $activeURL = $u }}
+            {{ end }}
+          {{ end }}
           {{ range $menuItems }}
             {{ $itemURL := .url }}
             {{ $itemName := .name }}
-            {{ $isHome := eq $itemURL "/" }}
-            {{ $isExact := eq $currentRel $itemURL }}
-            {{ $isHTMLLeaf := hasSuffix $itemURL ".html" }}
-            {{ $isPrefix := and (not $isHome) (not $isHTMLLeaf) (hasPrefix $currentRel $itemURL) }}
-            {{ $isActive := or $isExact $isPrefix }}
+            {{ $isActive := and (ne $activeURL "") (eq $itemURL $activeURL) }}
             <a href="{{ $itemURL }}"
                class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               {{- if $isActive }} aria-current="page"{{ end }}
                style="{{ if $isActive }}background: var(--brand-100); color: var(--brand-bright);{{ else }}color: var(--ink-secondary);{{ end }}"
                onmouseover="{{ if not $isActive }}this.style.background='var(--surface-2)';this.style.color='#F0F4FA'{{ end }}"
                onmouseout="{{ if not $isActive }}this.style.background='';this.style.color='var(--ink-secondary)'{{ end }}">
@@ -76,16 +91,27 @@
         {{ $currentRel := $currentPage.RelPermalink }}
         {{ $menuItems := .Site.Data.navigation.main }}
         {{ if and $menuItems (gt (len $menuItems) 0) }}
+          {{ $activeURL := "" }}
+          {{ $currentStem := strings.TrimSuffix "/" (strings.TrimSuffix ".html" $currentRel) }}
+          {{ range $menuItems }}
+            {{ $u := .url }}
+            {{ $isHome := eq $u "/" }}
+            {{ $isExact := eq $currentRel $u }}
+            {{ $isHTMLLeaf := hasSuffix $u ".html" }}
+            {{ $isPrefix := and (not $isHome) (not $isHTMLLeaf) (hasPrefix $currentRel $u) }}
+            {{ $itemStem := strings.TrimSuffix "/" (strings.TrimSuffix ".html" $u) }}
+            {{ $isSectionRoot := and (ne $itemStem "") (eq $currentStem $itemStem) }}
+            {{ if and (eq $activeURL "") (or $isExact (or $isPrefix $isSectionRoot)) }}
+              {{ $activeURL = $u }}
+            {{ end }}
+          {{ end }}
           {{ range $menuItems }}
             {{ $itemURL := .url }}
             {{ $itemName := .name }}
-            {{ $isHome := eq $itemURL "/" }}
-            {{ $isExact := eq $currentRel $itemURL }}
-            {{ $isHTMLLeaf := hasSuffix $itemURL ".html" }}
-            {{ $isPrefix := and (not $isHome) (not $isHTMLLeaf) (hasPrefix $currentRel $itemURL) }}
-            {{ $isActive := or $isExact $isPrefix }}
+            {{ $isActive := and (ne $activeURL "") (eq $itemURL $activeURL) }}
             <a href="{{ $itemURL }}"
                class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               {{- if $isActive }} aria-current="page"{{ end }}
                style="{{ if $isActive }}background: var(--brand-100); color: var(--brand-bright);{{ else }}color: var(--ink-secondary);{{ end }}"
                role="menuitem">{{ $itemName }}</a>
           {{ end }}

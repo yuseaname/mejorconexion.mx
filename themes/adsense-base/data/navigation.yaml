@@ -7,11 +7,6 @@ main:
   - name: Planes y precios
     url: /planes-internet/
     weight: 2
-  # Wi-Fi y red temporarily maps to /blog/ until a dedicated section is created.
-  - name: Wi-Fi y red
-    url: /blog/
-    section: wifi
-    weight: 3
   - name: Datos móviles
     url: /planes-moviles/
     weight: 4
@@ -36,8 +31,6 @@ footer:
     url: /internet-en-casa/
   - name: Planes y precios
     url: /planes-internet/
-  - name: Wi-Fi y red
-    url: /blog/
   - name: Datos móviles
     url: /planes-moviles/
   - name: eSIM
