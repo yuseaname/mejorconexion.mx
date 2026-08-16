@@ -260,6 +260,62 @@ a:hover {
 .source-card-links a { color: var(--brand-bright, #00D4AA); text-decoration: underline; text-underline-offset: 3px; }
 .source-card-links { font-size: 0.85rem; color: var(--ink-muted, #8CA0BC); }
 
+/* ── Interactive scorecard (MCX-08) ── */
+.mcx-scorecard { margin: 1.5rem 0; overflow-x: auto; }
+.sc-table {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 560px;
+  font-size: 0.9rem;
+}
+.sc-table th, .sc-table td { padding: 0.5rem 0.625rem; text-align: left; }
+.sc-table thead th {
+  font-family: var(--font-display);
+  color: var(--ink, #F0F4FA);
+  border-bottom: 2px solid var(--border-bright, rgba(0,212,170,0.35));
+  white-space: nowrap;
+}
+.sc-table tbody th { font-weight: 500; color: var(--ink-muted, #8CA0BC); }
+.sc-table tbody tr:nth-child(odd) td { background: rgba(255,255,255,0.02); }
+.sc-total-row th { border-top: 2px solid var(--border-bright, rgba(0,212,170,0.35)); color: var(--ink, #F0F4FA); }
+.sc-total-cell { font-weight: 700; color: var(--brand-bright, #00D4AA); font-size: 1.05rem; }
+.sc-cells { display: inline-flex; gap: 4px; }
+.sc-cell {
+  width: 44px; height: 44px;              /* a11y: >=44px touch target */
+  border-radius: 8px;
+  border: 1px solid rgba(140,160,188,0.4);
+  background: transparent;
+  cursor: pointer;
+  transition: background-color 120ms ease, border-color 120ms ease, transform 120ms ease;
+}
+.sc-cell[data-on="1"] { background: rgba(0,212,170,0.25); border-color: var(--brand-bright, #00D4AA); }
+.sc-cell:hover { border-color: var(--brand-bright, #00D4AA); }
+.sc-cell:focus-visible { outline: 2px solid var(--brand-bright, #00D4AA); outline-offset: 2px; }
+.sc-note { font-size: 0.8rem; color: var(--ink-muted, #8CA0BC); margin: 0.625rem 0; }
+.sc-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.75rem; }
+.sc-btn {
+  min-height: 44px;
+  padding: 0 1rem;
+  border-radius: 10px;
+  border: 1px solid rgba(140,160,188,0.4);
+  background: rgba(255,255,255,0.04);
+  color: var(--ink, #F0F4FA);
+  font-weight: 600;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: border-color 120ms ease, background-color 120ms ease;
+}
+.sc-btn:hover { border-color: var(--brand-bright, #00D4AA); }
+.sc-btn:focus-visible { outline: 2px solid var(--brand-bright, #00D4AA); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) {
+  .sc-cell, .sc-btn { transition: none; }
+}
+@media print {
+  .sc-actions { display: none; }
+  .sc-cell { border: 1px solid #999; }
+  .sc-cell[data-on="1"] { background: #d9f7ee; }
+}
+
 /* ── Reading Progress Bar ── */
 .progress-bar {
   position: fixed;

@@ -191,25 +191,18 @@ Una buena estrategia de ahorro es elegir planes estables de rango medio, no siem
 
 ## 7) Matriz de decisión rápida (scorecard)
 
-Asigna 1–5 a cada proveedor:
+Califica a cada proveedor del 1 al 5 en los criterios que de verdad afectan tu decisión. Tus calificaciones se calculan y guardan **solo en tu navegador** — no pedimos registro ni datos.
 
-- Cobertura local
-- Estabilidad
-- Latencia
-- Costo real mensual
-- Soporte
+{{< scorecard >}}
 
-Luego aplica pesos según perfil.
+### Cómo ponderar según tu perfil
 
-### Ejemplo de peso (home office)
+- **Home office / trabajo remoto:** estabilidad y soporte pesan el doble
+- **Familia y streaming:** velocidad real y cobertura manda
+- **Presupuesto ajustado:** precio final e instalación primero
+- **Gaming:** latencia (ping) sobre todo lo demás
 
-- Estabilidad x3
-- Soporte x2
-- Subida/latencia x2
-- Costo x2
-- Cobertura x1
-
-La suma final te permite decidir de forma objetiva en lugar de reaccionar a promociones.
+Si un proveedor empata, desempata por cobertura en tu colonia: es el criterio que nadie puede arreglar después.
 
 <figure class="article-image">
   <img src="./images/mejor-internet-casa-mexico-2026/03-decision.png" alt="Decisión final comparando planes de internet" loading="lazy" decoding="async" width="1200" height="630" />
