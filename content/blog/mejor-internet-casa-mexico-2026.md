@@ -32,7 +32,20 @@ También enlazamos el cluster estratégico para que tomes decisiones más precis
 - Comparativa específica por marca: [Izzi vs Totalplay vs Telmex en 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html)
 - Costo real y letra chiquita: [Cuánto cuesta el internet en México en 2026](./cuanto-cuesta-internet-en-mexico-2026)
 
+## Empieza por tu situación
+
+Esta guía es larga porque cubre todo el proceso. Si tienes prisa, ve directo a tu caso:
+
+- **[Trabajo desde casa](#a-hogar-con-home-office)** — videollamadas y subida de archivos: prioriza estabilidad y simetría.
+- **[Familia y streaming](#c-familia-con-consumo-mixto)** — varios dispositivos a la vez: velocidad total y buen Wi-Fi.
+- **[Gaming](#b-hogar-gamer)** — latencia (ping) antes que megas.
+- **[Presupuesto bajo](#d-presupuesto-controlado)** — precio final con equipo y sin promociones trampa.
+- **[Cobertura rural o por colonia](#3-cobertura-por-colonia-el-filtro-más-importante)** — primero confirma qué llega a tu dirección.
+
+Si no sabes cuánta velocidad necesitas, usa la [calculadora de Mbps](/herramientas/calculadora-velocidad-internet/).
+
 ---
+
 ## 1) Qué significa “mejor internet” en la práctica
 
 Mucha gente define “mejor internet” como “más velocidad”. Ese es el primer error.
@@ -297,6 +310,9 @@ Para continuar con la decisión final:
 
 ---
 
+<details class="deep-dive">
+<summary>Casos prácticos, checklist de instalación y mantenimiento (opcional)</summary>
+
 ## Casos prácticos de decisión (vida real)
 
 Para aterrizar la guía, aquí tienes escenarios comunes en México y cómo resolverlos.
@@ -430,6 +446,9 @@ Si quieres ejecutar ahora:
 Así tomas una decisión técnica, no emocional.
 
 ---
+
+
+</details>
 
 ## Glosario rápido (para comparar sin confusión)
 
