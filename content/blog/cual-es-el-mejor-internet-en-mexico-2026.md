@@ -21,6 +21,9 @@ keywords:
 
 ---
 
+
+{{< source-card fecha="agosto 2026" >}}
+
 ## Respuesta Rápida
 
 **El mejor internet en México 2026 según cobertura, velocidad y precio es: Totalplay para fibra óptica ($599/mes por 300 Mbps), Telmex Infinitum para cobertura nacional ($399/mes por 100 Mbps) e Izzi para zonas urbanas con cable coaxial ($449/mes por 200 Mbps).**

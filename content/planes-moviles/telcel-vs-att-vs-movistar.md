@@ -17,6 +17,9 @@ keywords:
 
 ---
 
+
+{{< source-card fecha="agosto 2026" >}}
+
 ## Respuesta Rápida
 
 **Telcel lidera cobertura nacional con 86.7% en 4G garantizado y 34.5% en 5G; Movistar da más GB por menos dinero (Plan Pro 18: 18 GB por $299 MXN/mes); AT&T equilibra con roaming en 77 países desde $1,400 MXN/mes (Lite Ilimitado).**

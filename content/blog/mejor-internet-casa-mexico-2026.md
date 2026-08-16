@@ -31,6 +31,9 @@ También enlazamos el cluster estratégico para que tomes decisiones más precis
 
 ---
 
+
+{{< source-card fecha="agosto 2026" >}}
+
 ## 1) Qué significa “mejor internet” en la práctica
 
 Mucha gente define “mejor internet” como “más velocidad”. Ese es el primer error.

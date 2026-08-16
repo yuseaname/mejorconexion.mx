@@ -18,6 +18,9 @@ keywords:
 
 ---
 
+
+{{< source-card fecha="agosto 2026" >}}
+
 ## Respuesta Rápida
 
 **En CDMX los tres proveedores principales (Telmex, Izzi, Totalplay) superan 99% de cobertura 4G en zonas urbanas; la experiencia real cambia por alcaldía, edificio y piso. Fibra óptica gana en estabilidad, cable coaxial es sensible al horario pico (7pm–11pm), y el inalámbrico fijo es la alternativa en zonas sin cableado.**
