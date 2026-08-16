@@ -24,15 +24,16 @@
         </p>
         {{ end }}
 
-        <!-- Decision hub CTA -->
+        <!-- Decision hub CTA: single primary action = home internet comparison (MCX-05).
+             Mint-filled primary; mobile plans demoted to ghost/outline secondary. -->
         <div class="mt-8 flex flex-col sm:flex-row gap-3">
-          <a href="/internet-en-casa/" class="inline-flex items-center justify-center gap-2 px-6 py-3 bg-[var(--brand)] text-white font-semibold rounded-xl hover:bg-[var(--brand-700)] transition-colors shadow-md">
-            Elegir internet en casa
+          <a href="/internet-en-casa/" data-cta="home-internet-primary" class="inline-flex items-center justify-center gap-2 px-6 py-3 bg-[var(--brand)] text-white font-semibold rounded-xl hover:bg-[var(--brand-700)] transition-colors shadow-md">
+            Comparar internet para mi hogar
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
             </svg>
           </a>
-          <a href="/planes-moviles/" class="inline-flex items-center justify-center gap-2 px-6 py-3 bg-white border border-[var(--border)] text-[var(--ink)] font-semibold rounded-xl hover:bg-[var(--color-neutral-50)] transition-colors">
+          <a href="/planes-moviles/" data-cta="mobile-plans-secondary" class="inline-flex items-center justify-center gap-2 px-6 py-3 border border-[var(--border-bright)] text-[var(--ink-muted)] font-medium rounded-xl hover:text-[var(--ink)] hover:border-[var(--brand-bright)] transition-colors">
             Comparar planes móviles
           </a>
         </div>
