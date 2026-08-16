@@ -619,6 +619,9 @@ a:hover {
   position: relative;
 }
 .article-hero .hero-img { width: 100%; height: auto; display: block; }
+/* Answer-first hero clamp (MCX-02): keep the intro answer visible above the fold
+   on typical viewports; crop instead of pushing content down. */
+.article-hero .hero-img { max-height: clamp(220px, 42vh, 480px); object-fit: cover; }
 .hero-caption {
   font-size: var(--text-xs);
   color: var(--ink-muted);

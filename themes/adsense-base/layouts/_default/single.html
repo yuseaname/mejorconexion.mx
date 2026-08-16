@@ -4,15 +4,13 @@
     {{ partial "breadcrumbs.html" . }}
 
     <header class="article-header">
-      {{ partial "hero-image.html" . }}
-
+      {{/* Answer-first (MCX-02): H1 + lede reach the first viewport BEFORE the
+           hero image. Category badge, title, lede, update log, then hero. */}}
       {{ with .CurrentSection }}
         {{ if and (not .IsHome) (ne .Title "Blog") }}
           <a href="{{ .RelPermalink }}" class="badge badge-primary article-category">{{ .Title }}</a>
         {{ end }}
       {{ end }}
-
-      {{ partial "verdict-card.html" . }}
 
       <h1 class="article-title">{{ .Title }}</h1>
 
@@ -20,7 +18,11 @@
       <p class="article-lede">{{ . }}</p>
       {{ end }}
 
+      {{ partial "verdict-card.html" . }}
+
       {{ partial "update-log.html" . }}
+
+      {{ partial "hero-image.html" . }}
     </header>
 
     {{/* Ad slot: below title (desktop only via CSS) */}}
