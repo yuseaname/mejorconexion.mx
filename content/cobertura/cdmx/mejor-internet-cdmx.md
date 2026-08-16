@@ -16,8 +16,8 @@ keywords:
   - "totalplay vs telmex vs izzi"
   - "internet economico"
 
----
 source_card: "agosto 2026"
+---
 
 ## Respuesta Rápida
 

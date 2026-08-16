@@ -15,8 +15,8 @@ keywords:
   - "totalplay vs telmex vs izzi"
   - "wifi mesh mexico"
 
----
 source_card: "agosto 2026"
+---
 
 ## Respuesta Rápida
 
