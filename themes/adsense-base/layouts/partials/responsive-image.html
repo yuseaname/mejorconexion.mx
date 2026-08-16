@@ -127,7 +127,8 @@
       {{- end -}}
     </picture>
   {{- else -}}
-    {{/* Fallback for external/static URLs: at least add explicit dimensions when supplied. */}}
+    {{/* Fallback for external/static URLs: explicit dimensions prevent layout shift
+         (blank reserved space) while the hero loads (MCX-10). */}}
     <img
       src="{{ $fallbackSrc }}"
       alt="{{ $alt }}"
@@ -137,6 +138,7 @@
       decoding="async"
       {{- with .width }} width="{{ . }}"{{- end -}}
       {{- with .height }} height="{{ . }}"{{- end -}}
+      {{- if and (not .width) (hasPrefix $fallbackSrc "/images/") }} width="1536" height="864"{{- end -}}
     >
   {{- end -}}
   {{- with $caption -}}

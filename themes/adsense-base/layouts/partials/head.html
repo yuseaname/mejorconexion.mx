@@ -6,6 +6,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@500;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+{{/* LCP hero preload (MCX-10): article hero is now below H1 but still the LCP
+     candidate on most viewports; start fetching it immediately. */}}
+{{- if and .IsPage .Params.image }}
+<link rel="preload" href="{{ .Params.image }}" as="image" fetchpriority="high">
+{{- end }}
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@500;600;700&display=swap"></noscript>
 
 {{/* Tailwind CSS — compiled locally, no CDN */}}
