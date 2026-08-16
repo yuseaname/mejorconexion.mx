@@ -13,7 +13,7 @@ keywords:
   - "cuanto consume netflix gb"
   - "consumo apps mexico"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

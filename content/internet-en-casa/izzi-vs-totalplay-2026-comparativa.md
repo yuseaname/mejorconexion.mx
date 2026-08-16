@@ -7,7 +7,7 @@ author_bio: "Abogada especializada en derechos del consumidor y telecomunicacion
 author_slug: "patricia-nunez"
 description: "Compara Izzi vs Totalplay en 2026: precios actualizados, velocidad real, contratos y cobertura. Datos de PROFECO y pruebas reales para elegir tu mejor opción."
 draft: true
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 keywords:
   - "internet lento mexico"
   - "internet mexico 2026"

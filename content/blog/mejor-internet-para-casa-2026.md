@@ -7,7 +7,7 @@ author_bio: "Comparamos internet y datos en México con criterio real, sin prome
 author_slug: "equipo"
 description: "Mejor internet para casa en México 2026: guía por proveedor, tecnología, velocidad y presupuesto real. Compara fibra vs cable."
 draft: true
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 keywords:
   - "internet lento mexico"
   - "internet barato mexico"

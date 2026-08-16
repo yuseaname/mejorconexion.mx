@@ -13,7 +13,7 @@ keywords:
   - "cuanto cuesta internet en mexico"
   - "CFE internet para todos"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-precios.webp"
 ---
 
 ## Respuesta Rápida

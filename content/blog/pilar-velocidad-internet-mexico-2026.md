@@ -14,7 +14,7 @@ keywords:
   - "ping y latencia"
   - "internet simetrico mexico"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-velocidad.webp"
 type: "pillar"
 ---
 

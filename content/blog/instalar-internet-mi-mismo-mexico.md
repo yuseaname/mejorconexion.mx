@@ -12,7 +12,7 @@ keywords:
   - "instalacion internet sin tecnico"
   - "configurar internet casa"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-instalacion.webp"
 ---
 
 ## Respuesta Rápida

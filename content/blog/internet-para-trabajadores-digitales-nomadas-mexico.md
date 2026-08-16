@@ -9,7 +9,7 @@ keywords:
   - "internet para digital nomad"
   - "wifi mexico trabajo remoto"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

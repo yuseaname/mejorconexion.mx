@@ -13,7 +13,7 @@ keywords:
   - "mejorar internet noche"
   - "congestión internet"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-velocidad.webp"
 ---
 
 ## Respuesta Rápida

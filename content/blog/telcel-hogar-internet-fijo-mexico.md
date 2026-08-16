@@ -13,7 +13,7 @@ keywords:
   - "internet inalambrico telcel"
   - "telcel 5g hogar"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-moviles.webp"
 ---
 
 ## Respuesta Rápida

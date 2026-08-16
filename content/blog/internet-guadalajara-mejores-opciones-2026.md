@@ -7,7 +7,7 @@ author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
 author_slug: "equipo"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 keywords:
   - "internet lento mexico"
   - "internet barato mexico"

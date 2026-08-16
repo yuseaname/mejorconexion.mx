@@ -6,7 +6,7 @@ author: "Mtro. Daniel Cruz"
 author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."
 author_slug: "daniel-cruz"
 draft: false
-image: "/images/generated/hero-telcel-att-movistar.webp"
+image: "/images/hero-telcel-att-movistar.webp"
 keywords:
   - "internet lento mexico"
   - "internet mexico 2026"

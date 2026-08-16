@@ -13,7 +13,7 @@ keywords:
   - "convertir mbps a mb"
   - "megas vs megabits"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-velocidad.webp"
 ---
 
 ## Respuesta Rápida

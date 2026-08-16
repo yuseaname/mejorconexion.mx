@@ -10,7 +10,7 @@ aliases:
   - "/blog/mejor-internet-2026.html"
   - "/internet-en-casa/comparativa-de-proveedores-de-internet-en-mexico-2026.html"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/hero-mejor-internet-mexico.webp"
 keywords:
   - "internet lento mexico"
   - "internet barato mexico"

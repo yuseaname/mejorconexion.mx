@@ -7,7 +7,7 @@ author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
 author_slug: "roberto-mendoza"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-wifi-router.webp"
 keywords:
   - "mejor cable ethernet mexico"
   - "cable cat6 vs cat7"

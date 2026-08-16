@@ -7,7 +7,7 @@ author_bio: "Comparamos internet y datos en México con criterio real, sin prome
 author_slug: "equipo"
 description: "Izzi en 2026: planes disponibles, precios en MXN, fibra vs cable, cobertura, opiniones reales y qué revisar antes de contratar. Guía sin humo."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-precios.webp"
 keywords:
   - "internet lento mexico"
   - "internet mexico 2026"

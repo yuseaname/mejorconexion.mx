@@ -13,7 +13,7 @@ keywords:
   - "megacable cobertura"
   - "megacable internet"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-precios.webp"
 ---
 
 ## Respuesta Rápida

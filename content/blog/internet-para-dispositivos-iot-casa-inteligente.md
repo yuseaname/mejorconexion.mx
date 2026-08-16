@@ -9,7 +9,7 @@ keywords:
   - "dispositivos smart home internet"
   - "cuanto consumen dispositivos inteligentes"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

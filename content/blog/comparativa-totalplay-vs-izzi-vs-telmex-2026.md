@@ -12,7 +12,7 @@ keywords:
   - "mejor internet mexico 2026"
   - "comparativa totalplay telmex izzi"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

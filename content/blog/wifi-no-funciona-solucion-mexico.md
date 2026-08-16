@@ -13,7 +13,7 @@ keywords:
   - "internet no carga"
   - "solucionar wifi"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-wifi-router.webp"
 ---
 
 ## Respuesta Rápida

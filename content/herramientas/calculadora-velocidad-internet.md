@@ -12,7 +12,7 @@ keywords:
   - "calculadora internet mexico"
   - "cuanta velocidad internet necesito"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-velocidad.webp"
 type: "tool"
 ---
 

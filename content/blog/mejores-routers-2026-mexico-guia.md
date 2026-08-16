@@ -12,7 +12,7 @@ keywords:
   - "router compatible Telmex"
   - "router wifi 7 recomendacion"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-wifi-router.webp"
 ---
 
 ## Respuesta Rápida

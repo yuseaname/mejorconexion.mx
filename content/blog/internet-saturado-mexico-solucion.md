@@ -12,7 +12,7 @@ keywords:
   - "saturacion red"
   - "internet lento noche"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

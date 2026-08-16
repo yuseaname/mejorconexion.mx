@@ -7,7 +7,7 @@ author_bio: "Comparamos internet y datos en México con criterio real, sin prome
 author_slug: "equipo"
 description: "Descubre cuál es el megacable vs totalplay 2026 en 2026. Comparativa con precios reales, velocidades y cobertura de Totalplay, Izzi, Infinitum y más."
 draft: true
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 keywords:
   - "internet lento mexico"
   - "internet mexico 2026"

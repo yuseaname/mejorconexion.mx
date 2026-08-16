@@ -9,7 +9,7 @@ keywords:
   - "precio internet mexico"
   - "oligopolio telecomunicaciones"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

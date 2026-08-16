@@ -7,7 +7,7 @@ author_bio: "Comparamos internet y datos en México con criterio real, sin prome
 author_slug: "equipo"
 description: "Izzi vs Totalplay 2026: comparativa de precios, velocidad, cobertura, estabilidad y atención al cliente en México. Cuál conviene según tu uso."
 draft: true
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 keywords:
   - "internet lento mexico"
   - "internet barato mexico"

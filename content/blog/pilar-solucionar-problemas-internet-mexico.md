@@ -10,7 +10,7 @@ keywords:
   - "reparar conexion internet"
   - "diagnostico internet"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 type: "pillar"
 ---
 

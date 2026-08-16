@@ -9,7 +9,7 @@ keywords:
   - "instalacion internet gratis"
   - "costo instalacion totalplay telmex"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-precios.webp"
 ---
 
 ## Respuesta Rápida

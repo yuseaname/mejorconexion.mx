@@ -6,7 +6,7 @@ author: "Lic. Patricia Núñez"
 author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en quejas PROFECO, contratos y portabilidad."
 author_slug: "patricia-nunez"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 keywords:
   - "internet barato mexico"
   - "cuanto cuesta internet mexico"

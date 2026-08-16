@@ -9,7 +9,7 @@ keywords:
   - "internet pensionados"
   - "internet sencillo economico"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

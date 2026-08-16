@@ -18,7 +18,7 @@ aliases:
   - /blog/izzi-vs-totalplay-vs-telmex-2026.html
   - /internet-en-casa/izzi-vs-totalplay-2026-comparativa.html
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

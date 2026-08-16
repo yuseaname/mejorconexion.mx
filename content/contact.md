@@ -4,7 +4,7 @@ slug: "contact"
 date: 2026-01-01
 description: "Contacto de Mejor Conexión: reporta cambios, sugiere guías por ciudad o manda comentarios para mejorar comparativas de internet y datos en México."
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 ::: container
 ::: breadcrumbs

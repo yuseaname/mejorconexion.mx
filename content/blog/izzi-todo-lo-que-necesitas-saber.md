@@ -13,7 +13,7 @@ keywords:
   - "izzi internet"
   - "izzi opiniones 2026"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

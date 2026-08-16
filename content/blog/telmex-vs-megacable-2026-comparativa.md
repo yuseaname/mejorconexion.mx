@@ -9,7 +9,7 @@ keywords:
   - "infinitum vs megacable"
   - "cual es mejor telmex megacable"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

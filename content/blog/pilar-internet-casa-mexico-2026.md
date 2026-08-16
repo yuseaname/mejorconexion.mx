@@ -14,7 +14,7 @@ keywords:
   - "instalar internet casa"
   - "fibra optica mexico"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 type: "pillar"
 ---
 

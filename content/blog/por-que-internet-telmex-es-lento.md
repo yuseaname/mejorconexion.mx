@@ -13,7 +13,7 @@ keywords:
   - "por que telmex es lento"
   - "mejorar internet telmex"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-velocidad.webp"
 ---
 
 ## Respuesta Rápida

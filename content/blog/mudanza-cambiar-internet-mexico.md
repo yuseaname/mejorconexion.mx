@@ -13,7 +13,7 @@ keywords:
   - "mudanza proveedor internet"
   - "cambio domicilio internet"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

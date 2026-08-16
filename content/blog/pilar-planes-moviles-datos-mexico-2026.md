@@ -10,7 +10,7 @@ keywords:
   - "prepago vs pospago"
   - "cobertura 5g mexico"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-moviles.webp"
 type: "pillar"
 ---
 

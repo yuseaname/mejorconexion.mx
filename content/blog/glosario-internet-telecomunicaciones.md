@@ -10,7 +10,7 @@ keywords:
   - "diccionario internet mexico"
   - "terminos wifi fibra optica"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 type: "glossary"
 ---
 

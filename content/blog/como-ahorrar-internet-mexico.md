@@ -9,7 +9,7 @@ keywords:
   - "reducir recibo internet"
   - "trucos internet barato"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-precios.webp"
 ---
 
 ## Respuesta Rápida

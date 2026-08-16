@@ -9,7 +9,7 @@ keywords:
   - "plan internet economico estudiante"
   - "internet clases en linea"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

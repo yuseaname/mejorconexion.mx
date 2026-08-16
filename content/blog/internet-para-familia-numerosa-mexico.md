@@ -9,7 +9,7 @@ keywords:
   - "cuantos mbps familia"
   - "internet 5 personas casa"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 ---
 
 ## Respuesta Rápida

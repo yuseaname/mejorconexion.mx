@@ -7,7 +7,7 @@ author: "Lic. Patricia Núñez"
 author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en quejas PROFECO, contratos y portabilidad."
 author_slug: "patricia-nunez"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-instalacion.webp"
 ---
 Cuando tu internet falla de forma recurrente y el proveedor no corrige, no necesitas “pelear”: necesitas **proceso + evidencia**.  
 

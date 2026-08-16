@@ -9,7 +9,7 @@ keywords:
   - "router saturado dispositivos"
   - "capacidad router wifi"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-wifi-router.webp"
 ---
 
 ## Respuesta Rápida

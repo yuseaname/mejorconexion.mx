@@ -9,7 +9,7 @@ keywords:
   - "instalacion internet rapida"
   - "esperar instalacion internet"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-instalacion.webp"
 ---
 
 ## Respuesta Rápida

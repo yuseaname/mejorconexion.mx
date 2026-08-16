@@ -10,7 +10,7 @@ keywords:
   - "estadisticas internet mexico"
   - "reporte calidad internet"
 draft: false
-image: "/images/topic-provider-comparison.webp"
+image: "/images/cat-proveedores.webp"
 type: "research"
 ---
 
