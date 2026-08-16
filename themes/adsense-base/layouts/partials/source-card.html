@@ -1,0 +1,15 @@
+{{- /* source-card.html — compact data-provenance trust card (MCX-05b).
+       Usage: {{< source-card fecha="agosto 2026" >}} — links methodology/transparency. */ -}}
+<aside class="source-card" aria-label="Verificación de datos" data-trust-card>
+  <svg class="source-card-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+  </svg>
+  <div class="source-card-body">
+    <strong>Datos verificados al {{ .fecha | default "agosto 2026" }}</strong>
+    <span class="source-card-links">
+      <a href="/metodologia.html" data-trust-link="metodologia">Metodología</a> ·
+      <a href="/transparencia.html" data-trust-link="transparencia">Transparencia</a> ·
+      <a href="/corrections.html" data-trust-link="corrections">Correcciones</a>
+    </span>
+  </div>
+</aside>

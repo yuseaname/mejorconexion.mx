@@ -16,9 +16,7 @@ keywords:
   - "wifi mesh mexico"
 
 ---
-
-
-{{< source-card fecha="agosto 2026" >}}
+source_card: "agosto 2026"
 
 ## Respuesta Rápida
 

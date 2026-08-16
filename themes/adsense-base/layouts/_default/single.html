@@ -20,6 +20,11 @@
 
       {{ partial "verdict-card.html" . }}
 
+      {{/* Trust source card (MCX-05b): above the first ad slot, inside header */}}
+      {{ with .Params.source_card }}
+        {{ if . }}{{ partial "source-card.html" (dict "fecha" .) }}{{ end }}
+      {{ end }}
+
       {{ partial "update-log.html" . }}
 
       {{ partial "hero-image.html" . }}
