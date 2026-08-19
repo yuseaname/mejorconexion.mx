@@ -43,7 +43,7 @@
             {{ end }}
             <div class="card-body">
               <h3 class="card-title">{{ .Title }}</h3>
-              <p class="card-text">{{ .Params.description | default (truncate 120 .Plain) }}</p>
+              <p class="card-text">{{ .Params.description | default (truncate 120 (.Plain | htmlUnescape)) }}</p>
               <span class="inline-flex items-center gap-1 text-sm font-medium text-[var(--brand)] mt-3">
                 Leer ahora
                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
@@ -99,7 +99,7 @@
             {{ end }}
             <div class="card-body">
               <h3 class="card-title">{{ .Title }}</h3>
-              <p class="card-text">{{ .Params.description | default (truncate 120 .Plain) }}</p>
+              <p class="card-text">{{ .Params.description | default (truncate 120 (.Plain | htmlUnescape)) }}</p>
               <div class="flex items-center justify-between mt-3">
                 <time datetime="{{ .Date.Format "2006-01-02" }}" class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</time>
                 <span class="text-xs text-[var(--ink-muted)]">{{ .ReadingTime }} min</span>
