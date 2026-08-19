@@ -1,7 +1,7 @@
 ---
 title: "Control parental en el router y dispositivos en Mexico"
 slug: "control-parental-internet-hogar-mexico"
-description: "Activa el control parental en `192.168.1.1` filtra por MAC o usa apps como Google Family Link (gratis) o Kaspersky Safe Kids ($90/año) para bloquear s…"
+description: "Activa el control parental en 192.168.1.1 filtra por MAC o usa apps como Google Family Link (gratis) o Kaspersky Safe Kids ($90/año) para bloquear s…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

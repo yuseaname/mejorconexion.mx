@@ -1,6 +1,7 @@
 ---
 title: "Telcel vs AT&T vs Movistar: ¿cuál conviene en México? (2026)"
 slug: "telcel-vs-att-vs-movistar"
+description: "Comparamos Telcel, AT&T y Movistar en 2026: cobertura real 4G/5G, precio por GB, planes destacados y cuál conviene según tu uso y presupuesto."
 date: 2026-01-01
 author: "Mtro. Daniel Cruz"
 author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."
