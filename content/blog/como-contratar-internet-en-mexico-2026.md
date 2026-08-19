@@ -2,7 +2,7 @@
 title: "Guía completa: cómo contratar internet en México 2026 2026"
 slug: "cómo-contratar-internet-en-méxico-2026"
 aliases: ["/blog/cómo-contratar-internet-en-méxico-2026.html"]
-description: "**Contratar internet en México cuesta desde $299/mes por 50 Mbps Infinitum hasta $899/mes por 500 Mbps Totalplay; necesitas INE vigente, comprobante de…"
+description: "Contratar internet en México cuesta desde $299/mes por 50 Mbps Infinitum hasta $899/mes por 500 Mbps Totalplay; necesitas INE vigente, comprobante de…"
 date: 2026-05-26
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

@@ -1,7 +1,7 @@
 ---
 title: "Por qué mi internet es lento en la noche (y cómo solucionarlo)"
 slug: "internet-lento-noche-mexico-2026"
-description: "**El internet lento nocturno en México (CDMX, Guadalajara, Monterrey) lo causa la saturación de nodos entre 19:00 y 23:00; en planes Infinitum 100 Mbps…"
+description: "El internet lento nocturno en México (CDMX, Guadalajara, Monterrey) lo causa la saturación de nodos entre 19:00 y 23:00; en planes Infinitum 100 Mbps…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

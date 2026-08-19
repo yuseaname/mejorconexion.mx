@@ -2,7 +2,7 @@
 title: "Guía completa: internet para casas inteligentes en México 2026"
 slug: "internet-para-casas-inteligentes-en-méxico"
 aliases: ["/blog/internet-para-casas-inteligentes-en-méxico.html"]
-description: "**Para una casa inteligente con 15-30 dispositivos IoT en México necesitas 200-500 Mbps simétricos con WiFi 6 Mesh (red dual SSID); Totalplay 300 Mbps $…"
+description: "Para una casa inteligente con 15-30 dispositivos IoT en México necesitas 200-500 Mbps simétricos con WiFi 6 Mesh (red dual SSID); Totalplay 300 Mbps $…"
 date: 2026-05-29
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

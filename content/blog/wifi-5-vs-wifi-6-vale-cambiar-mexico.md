@@ -1,7 +1,7 @@
 ---
 title: "WiFi 5 vs WiFi 6: ¿vale la pena cambiar de router? (2026)"
 slug: "wifi-5-vs-wifi-6-vale-cambiar-mexico"
-description: "**Wi-Fi 6 vale la pena en México 2026 si tienes más de 10 dispositivos conectados o casa grande. Rinde 30-40% más que Wi-Fi 5 con muchos usuarios simult…"
+description: "Wi-Fi 6 vale la pena en México 2026 si tienes más de 10 dispositivos conectados o casa grande. Rinde 30-40% más que Wi-Fi 5 con muchos usuarios simult…"
 date: 2026-08-09
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

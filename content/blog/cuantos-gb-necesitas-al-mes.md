@@ -1,7 +1,7 @@
 ---
 title: "Cuántos GB necesitas al mes en México (2026)"
 slug: "cuantos-gb-necesitas-al-mes"
-description: "**Una familia mexicana promedio consume entre 200 y 500 GB/mes (Netflix, TikTok, redes); un hogar de 3 personas con streaming moderado necesita 250 GB,…"
+description: "Una familia mexicana promedio consume entre 200 y 500 GB/mes (Netflix, TikTok, redes); un hogar de 3 personas con streaming moderado necesita 250 GB,…"
 date: 2026-01-01
 author: "Mtro. Daniel Cruz"
 author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."

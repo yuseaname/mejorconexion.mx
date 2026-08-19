@@ -1,7 +1,7 @@
 ---
 title: "Por qué hay lag con internet rápido: causas reales y soluciones"
 slug: "por-que-hay-lag-internet-rapido"
-description: "**El lag con internet rápido casi nunca es por Mbps: es por ping alto, jitter o bufferbloat. En México el Wi-Fi saturado, el router del operador y los s…"
+description: "El lag con internet rápido casi nunca es por Mbps: es por ping alto, jitter o bufferbloat. En México el Wi-Fi saturado, el router del operador y los s…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

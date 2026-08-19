@@ -1,7 +1,7 @@
 ---
 title: "Red de invitados e IoT seguro en casa en Mexico"
 slug: "red-invitados-iot-segura-mexico"
-description: "**Para tener una red segura en México 2026, separa en 3 redes Wi-Fi: principal (celulares/laptops), invitados (visitas) e IoT (cámaras, TVs, bocinas). L…"
+description: "Para tener una red segura en México 2026, separa en 3 redes Wi-Fi: principal (celulares/laptops), invitados (visitas) e IoT (cámaras, TVs, bocinas). L…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

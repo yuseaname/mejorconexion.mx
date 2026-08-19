@@ -2,7 +2,7 @@
 title: "Mejor internet para gaming en méxico: comparativa definitiva 2026"
 slug: "mejor-internet-para-gaming-en-mexico"
 aliases: ["/blog/mejor-internet-para-gaming-en-méxico.html"]
-description: "**Para gaming en México en 2026, los planes de fibra de Totalplay (500 Mbps, $699 MXN) y Telmex Infinitum (500 Mbps, $799 MXN) ofrecen los mejores pings…"
+description: "Para gaming en México en 2026, los planes de fibra de Totalplay (500 Mbps, $699 MXN) y Telmex Infinitum (500 Mbps, $799 MXN) ofrecen los mejores pings…"
 aliases: ["/blog/mejor-internet-para-gamers-mexico-2026.html"]
 date: 2026-05-24
 author: "Equipo Mejor Conexión"

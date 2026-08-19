@@ -1,7 +1,7 @@
 ---
 title: "Internet Lento en la Noche: Por Qué Pasa y Cómo Solucionarlo"
 slug: "internet-lento-en-la-noche-2026"
-description: "**El internet lento en la noche mexicana (19:00-23:00) se debe a saturación del barrio: entre 50-200% más usuarios en misma zona; en planes Infinitum/Iz…"
+description: "El internet lento en la noche mexicana (19:00-23:00) se debe a saturación del barrio: entre 50-200% más usuarios en misma zona; en planes Infinitum/Iz…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

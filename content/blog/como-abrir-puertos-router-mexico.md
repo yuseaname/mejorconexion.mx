@@ -1,7 +1,7 @@
 ---
 title: "Cómo abrir puertos del router en México: guía paso a paso (2026)"
 slug: "como-abrir-puertos-router-mexico"
-description: "**Abrir puertos del router (port forwarding) en México es necesario para:-hostear juegos, acceder a cámaras de seguridad desde fuera de casa, mejorar el…"
+description: "Abrir puertos del router (port forwarding) en México es necesario para:-hostear juegos, acceder a cámaras de seguridad desde fuera de casa, mejorar el…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

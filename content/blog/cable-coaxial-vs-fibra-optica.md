@@ -1,7 +1,7 @@
 ---
 title: "Cable coaxial vs fibra óptica: ¿Cuál es la mejor opción para tu hogar en México?"
 slug: "cable-coaxial-vs-fibra-optica"
-description: "**La fibra óptica entrega velocidades simétricas de hasta 1000 Mbps por $599-$899/mes (Totalplay, Izzi); el cable coaxial se queda en 100-500 Mbps asimé…"
+description: "La fibra óptica entrega velocidades simétricas de hasta 1000 Mbps por $599-$899/mes (Totalplay, Izzi); el cable coaxial se queda en 100-500 Mbps asimé…"
 date: 2026-05-30
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

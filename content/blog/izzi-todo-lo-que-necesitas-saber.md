@@ -1,7 +1,7 @@
 ---
 title: "Izzi: planes, precios, cobertura y opiniones (2026)"
 slug: "izzi-todo-lo-que-necesitas-saber"
-description: "**Izzi es el segundo proveedor de internet más grande de México, ofreciendo planes desde $349/mes (100 Mbps) hasta $999/mes (1 Gbps) principalmente sobr…"
+description: "Izzi es el segundo proveedor de internet más grande de México, ofreciendo planes desde $349/mes (100 Mbps) hasta $999/mes (1 Gbps) principalmente sobr…"
 date: 2026-08-10
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

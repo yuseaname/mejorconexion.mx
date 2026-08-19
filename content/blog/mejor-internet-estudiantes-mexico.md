@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Cómo elegir el mejor internet para estudiantes en México"
 slug: "mejor-internet-estudiantes-mexico"
-description: "En la era de la educación híbrida y el aprendizaje digital, encontrar el **mejor internet para estudiantes en México** ya no es un lujo, sino una necesi…"
+description: "En la era de la educación híbrida y el aprendizaje digital, encontrar el mejor internet para estudiantes en México ya no es un lujo, sino una necesi…"
 date: 2026-05-30
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

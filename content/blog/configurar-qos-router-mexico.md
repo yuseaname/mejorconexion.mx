@@ -1,7 +1,7 @@
 ---
 title: "Cómo configurar QoS en tu router para priorizar tráfico (México 2026)"
 slug: "configurar-qos-router-mexico"
-description: "**QoS (Quality of Service) es una función del router que permite priorizar el tráfico de dispositivos o aplicaciones específicas (tu PC gaming, tu conso…"
+description: "QoS (Quality of Service) es una función del router que permite priorizar el tráfico de dispositivos o aplicaciones específicas (tu PC gaming, tu conso…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

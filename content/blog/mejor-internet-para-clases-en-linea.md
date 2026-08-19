@@ -1,7 +1,7 @@
 ---
 title: "Mejor internet para clases en línea (estabilidad primero)"
 slug: "mejor-internet-para-clases-en-linea"
-description: "**Para clases en línea en México necesitas al menos 25-50 Mbps de bajada y 5-10 Mbps de subida, con ping menor a 50 ms. La fibra óptica (Totalplay, Telm…"
+description: "Para clases en línea en México necesitas al menos 25-50 Mbps de bajada y 5-10 Mbps de subida, con ping menor a 50 ms. La fibra óptica (Totalplay, Telm…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

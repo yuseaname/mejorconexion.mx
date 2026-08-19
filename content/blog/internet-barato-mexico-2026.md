@@ -1,7 +1,7 @@
 ---
 title: "¿Cuál es el Internet Más Barato en México? Guía Completa (Marzo 2026)"
 slug: "internet-barato-mexico-2026"
-description: "**El internet barato en México en 2026 arranca en $199-$299/mes para 30-100 Mbps (Totalplay promo, Izzi básico, CFE); las ofertas de bienvenida aplican…"
+description: "El internet barato en México en 2026 arranca en $199-$299/mes para 30-100 Mbps (Totalplay promo, Izzi básico, CFE); las ofertas de bienvenida aplican…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

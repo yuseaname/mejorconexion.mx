@@ -1,7 +1,7 @@
 ---
 title: "Por qué no me llega la velocidad contratada de internet en México"
 slug: "velocidad-contratada-no-me-llega-mexico"
-description: "**Si pagas 200 Mbps y solo recibes 30, el problema suele ser Wi-Fi (no cable) o saturación del proveedor en horas pico. Primero prueba por cable Etherne…"
+description: "Si pagas 200 Mbps y solo recibes 30, el problema suele ser Wi-Fi (no cable) o saturación del proveedor en horas pico. Primero prueba por cable Etherne…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

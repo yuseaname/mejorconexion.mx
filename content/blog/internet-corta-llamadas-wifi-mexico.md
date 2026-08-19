@@ -1,7 +1,7 @@
 ---
 title: "Por qué el internet corta las llamadas WiFi y cómo solucionarlo"
 slug: "internet-corta-llamadas-wifi-mexico"
-description: "**Las llamadas WiFi se cortan en México por tres causas principales: (1) WiFi débil o saturado que no soporta el tráfico de voz, (2) router sin QoS que…"
+description: "Las llamadas WiFi se cortan en México por tres causas principales: (1) WiFi débil o saturado que no soporta el tráfico de voz, (2) router sin QoS que…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

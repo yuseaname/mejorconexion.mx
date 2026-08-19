@@ -1,7 +1,7 @@
 ---
 title: "Guía completa: [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html) de internet sin cortes 2026"
 slug: "cambiar-de-proveedor-de-internet-sin-cortes"
-description: "**Solicita la portabilidad con 10 días hábiles de anticipación; el nuevo ISP activa tu servicio primero y luego se cancela el anterior, evitando quedart…"
+description: "Solicita la portabilidad con 10 días hábiles de anticipación; el nuevo ISP activa tu servicio primero y luego se cancela el anterior, evitando quedart…"
 date: 2026-05-29
 author: "Lic. Patricia Núñez"
 author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en quejas PROFECO, contratos y portabilidad."

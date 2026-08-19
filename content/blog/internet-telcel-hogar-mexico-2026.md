@@ -1,7 +1,7 @@
 ---
 title: "Internet Telcel Hogar: planes, precios y cobertura (2026)"
 slug: "internet-telcel-hogar-mexico-2026"
-description: "**Telcel Internet en Casa usa red 4G/5G y cuesta desde $399/mes por 30 GB hasta $899/mes por 200 GB; velocidades reales de 20 a 80 Mbps según cobertura.…"
+description: "Telcel Internet en Casa usa red 4G/5G y cuesta desde $399/mes por 30 GB hasta $899/mes por 200 GB; velocidades reales de 20 a 80 Mbps según cobertura.…"
 date: 2026-08-09
 author: "Mtro. Daniel Cruz"
 author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."

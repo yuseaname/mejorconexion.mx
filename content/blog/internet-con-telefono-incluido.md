@@ -2,7 +2,7 @@
 title: "Planes de internet con teléfono incluido: ¿Vale la pena el paquete?"
 slug: "internet-con-teléfono-incluido"
 aliases: ["/blog/internet-con-teléfono-incluido.html"]
-description: "**Los paquetes de internet con teléfono fijo incluido cuestan entre $599 y $1,299/mes (Telmex incluye llamadas locales gratis, Izzi/TV+Cable+Tel desde $…"
+description: "Los paquetes de internet con teléfono fijo incluido cuestan entre $599 y $1,299/mes (Telmex incluye llamadas locales gratis, Izzi/TV+Cable+Tel desde $…"
 date: 2026-05-30
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

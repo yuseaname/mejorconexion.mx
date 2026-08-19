@@ -1,7 +1,7 @@
 ---
 title: "Seguridad de red en casa en México: guía pilar 2026"
 slug: "pilar-seguridad-red-hogar-mexico"
-description: "**La seguridad de red en casa en México 2026 se basa en 5 pilares: WPA3, contraseña única, firmware al día, red separada para IoT y DNS seguro (1.1.1.1…"
+description: "La seguridad de red en casa en México 2026 se basa en 5 pilares: WPA3, contraseña única, firmware al día, red separada para IoT y DNS seguro (1.1.1.1…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

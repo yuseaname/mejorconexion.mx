@@ -1,7 +1,7 @@
 ---
 title: "Internet para Zoom y videollamadas: qué velocidad necesitas en México (2026)"
 slug: "internet-para-zoom-y-videollamadas-mexico"
-description: "**Para videollamadas fluidas en Zoom y Microsoft Teams necesitas mínimo 10 Mbps de bajada y 3 Mbps de subida por persona; para llamadas grupales en HD o…"
+description: "Para videollamadas fluidas en Zoom y Microsoft Teams necesitas mínimo 10 Mbps de bajada y 3 Mbps de subida por persona; para llamadas grupales en HD o…"
 date: 2026-08-10
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

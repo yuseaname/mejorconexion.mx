@@ -1,7 +1,7 @@
 ---
 title: "Internet para clases en línea en México: qué necesitas (2026)"
 slug: "mejor-internet-clases-en-linea-mexico"
-description: "**Para clases en línea en México 2026 necesitas 25-50 Mbps de bajada y 5-10 Mbps de subida, preferentemente por fibra. Totalplay 100 Mbps ($499 MXN) o T…"
+description: "Para clases en línea en México 2026 necesitas 25-50 Mbps de bajada y 5-10 Mbps de subida, preferentemente por fibra. Totalplay 100 Mbps ($499 MXN) o T…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

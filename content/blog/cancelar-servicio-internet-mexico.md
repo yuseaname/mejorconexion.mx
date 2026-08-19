@@ -1,7 +1,7 @@
 ---
 title: "Guía Definitiva para Cancelar Servicio de Internet en México: Evita Complicaciones y Cargos Innecesarios"
 slug: "cancelar-servicio-internet-mexico"
-description: "**Puedes cancelar tu servicio de internet en México en cualquier momento, pero si firmas contrato de 12 o 24 meses tendrás penalización de 20-80% del pl…"
+description: "Puedes cancelar tu servicio de internet en México en cualquier momento, pero si firmas contrato de 12 o 24 meses tendrás penalización de 20-80% del pl…"
 date: 2026-05-30
 author: "Lic. Patricia Núñez"
 author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en quejas PROFECO, contratos y portabilidad."

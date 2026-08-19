@@ -1,7 +1,7 @@
 ---
 title: "Wi‑Fi Mesh para casas grandes en México: guía real (2026)"
 slug: "wifi-mesh-para-casas-grandes-mexico"
-description: "**Para casas grandes en México 2026 (más de 120 m² o 2 pisos), un sistema mesh triple como TP-Link Deco X50 ($3,500 MXN) o Google Nest Wi-Fi Pro ($4,800…"
+description: "Para casas grandes en México 2026 (más de 120 m² o 2 pisos), un sistema mesh triple como TP-Link Deco X50 ($3,500 MXN) o Google Nest Wi-Fi Pro ($4,800…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

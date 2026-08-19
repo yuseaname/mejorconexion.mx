@@ -1,5 +1,5 @@
 ---
-title: "Telcel vs AT&amp;T vs Movistar: ¿cuál conviene en México? (2026)"
+title: "Telcel vs AT&T vs Movistar: ¿cuál conviene en México? (2026)"
 slug: "telcel-vs-att-vs-movistar"
 date: 2026-01-01
 author: "Mtro. Daniel Cruz"

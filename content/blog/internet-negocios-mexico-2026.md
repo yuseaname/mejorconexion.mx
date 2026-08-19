@@ -1,7 +1,7 @@
 ---
 title: "Internet para negocios en México: qué contratar (2026)"
 slug: "internet-negocios-mexico-2026"
-description: "**El internet para negocios en México cuesta entre $899/mes (Totalplay Empresarial 200 Mbps) y $4,999/mes (enlace dedicado 500 Mbps con SLA 99.9%); incl…"
+description: "El internet para negocios en México cuesta entre $899/mes (Totalplay Empresarial 200 Mbps) y $4,999/mes (enlace dedicado 500 Mbps con SLA 99.9%); incl…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

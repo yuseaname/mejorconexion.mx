@@ -1,7 +1,7 @@
 ---
 title: "Pérdida de paquetes (packet loss) en México: diagnóstico y solución"
 slug: "paquetes-perdidos-internet-mexico"
-description: "**La pérdida de paquetes (packet loss) en México se debe principalmente a: conexión WiFi débil o con interferencia, saturación de la red local por desca…"
+description: "La pérdida de paquetes (packet loss) en México se debe principalmente a: conexión WiFi débil o con interferencia, saturación de la red local por desca…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

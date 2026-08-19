@@ -2,7 +2,7 @@
 title: "Guía completa: mejores routers WiFi 6E México 2026 2026"
 slug: "mejores-routers-wifi-6e-méxico-2026"
 aliases: ["/blog/mejores-routers-wifi-6e-méxico-2026.html"]
-description: "Los **mejores routers WiFi 6E México 2026** ya están disponibles y representan un salto cuántico en velocidad, latencia y capacidad de conexión para hog…"
+description: "Los mejores routers WiFi 6E México 2026 ya están disponibles y representan un salto cuántico en velocidad, latencia y capacidad de conexión para hog…"
 date: 2026-05-26
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

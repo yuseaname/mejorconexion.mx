@@ -1,7 +1,7 @@
 ---
 title: "Cómo aumentar la velocidad de tu internet en México: 10 trucos reales"
 slug: "como-aumentar-velocidad-internet-mexico"
-description: "**Conectar por cable Ethernet Cat 6, cambiar el router a 5 GHz y configurar QoS te devuelve 30-80% de velocidad perdida; en planes de 100-200 Mbps Infin…"
+description: "Conectar por cable Ethernet Cat 6, cambiar el router a 5 GHz y configurar QoS te devuelve 30-80% de velocidad perdida; en planes de 100-200 Mbps Infin…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

@@ -1,7 +1,7 @@
 ---
 title: "Cómo configurar tu router paso a paso (México, 2026)"
 slug: "como-configurar-router-mexico-2026"
-description: "**Los routers en México suelen configurarse desde `192.168.1.1` o `tplinkwifi.net` con usuario `admin`/`admin`; cambiar SSID, contraseña WPA2-AES de 12+…"
+description: "Los routers en México suelen configurarse desde `192.168.1.1` o `tplinkwifi.net` con usuario `admin`/`admin`; cambiar SSID, contraseña WPA2-AES de 12+…"
 date: 2026-08-09
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

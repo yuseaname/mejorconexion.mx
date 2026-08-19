@@ -1,7 +1,7 @@
 ---
 title: "Mejor extensor WiFi en México: comparativa 2026 por precio y alcance"
 slug: "mejor-extensor-wifi-mexico-2026"
-description: "**Los mejores extensores WiFi en México 2026 van desde $300 MXN (TP-Link RE500X gama entrada) hasta $2,500 MXN (Netgear Nighthawk EAX80) para cobertura…"
+description: "Los mejores extensores WiFi en México 2026 van desde $300 MXN (TP-Link RE500X gama entrada) hasta $2,500 MXN (Netgear Nighthawk EAX80) para cobertura…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

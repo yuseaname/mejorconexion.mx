@@ -1,7 +1,7 @@
 ---
 title: "WiFi se desconecta y se reconecta solo: causas y solución (México 2026)"
 slug: "wifi-se-desconecta-y-reconecta-mexico"
-description: "**Cuando el WiFi se desconecta y se reconecta solo, las causas más comunes son: interferencia de canales, administración de energía del dispositivo (esp…"
+description: "Cuando el WiFi se desconecta y se reconecta solo, las causas más comunes son: interferencia de canales, administración de energía del dispositivo (esp…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

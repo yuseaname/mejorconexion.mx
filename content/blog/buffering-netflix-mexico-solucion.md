@@ -1,7 +1,7 @@
 ---
 title: "Buffering en Netflix, Disney+ y Prime Video: solución definitiva México 2026"
 slug: "buffering-netflix-mexico-solucion"
-description: "**El buffering constante en Netflix, Disney+ y Prime Video en México se debe a: velocidad insuficiente o inestable (menos de 25 Mbps para 4K), WiFi satu…"
+description: "El buffering constante en Netflix, Disney+ y Prime Video en México se debe a: velocidad insuficiente o inestable (menos de 25 Mbps para 4K), WiFi satu…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

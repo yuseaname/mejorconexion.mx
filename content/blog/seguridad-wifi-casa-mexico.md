@@ -1,7 +1,7 @@
 ---
 title: "Seguridad WiFi en casa en Mexico: guia completa"
 slug: "seguridad-wifi-casa-mexico"
-description: "**Para proteger tu Wi-Fi en México en 2026 necesitas cifrado WPA2 o WPA3, contraseña de 12+ caracteres y firmware actualizado. Activa una red de invitad…"
+description: "Para proteger tu Wi-Fi en México en 2026 necesitas cifrado WPA2 o WPA3, contraseña de 12+ caracteres y firmware actualizado. Activa una red de invitad…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

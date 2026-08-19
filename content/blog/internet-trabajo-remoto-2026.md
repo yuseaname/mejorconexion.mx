@@ -1,7 +1,7 @@
 ---
 title: "Internet para Trabajo Remoto en México: Lo Que Realmente Necesitas en 2026"
 slug: "internet-trabajo-remoto-2026"
-description: "**Para trabajo remoto en México necesitas 100-300 Mbps simétricos con latencia menor a 30 ms y datos ilimitados; planes recomendados: Totalplay 200 Mbps…"
+description: "Para trabajo remoto en México necesitas 100-300 Mbps simétricos con latencia menor a 30 ms y datos ilimitados; planes recomendados: Totalplay 200 Mbps…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

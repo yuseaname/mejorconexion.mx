@@ -1,7 +1,7 @@
 ---
 title: "Qué es el ping y por qué importa (latencia, jitter y juegos)"
 slug: "que-es-el-ping"
-description: "**El ping (o latencia) es el tiempo que tarda tu dispositivo en enviar una señal a un servidor y recibir respuesta, medido en milisegundos (ms). Un ping…"
+description: "El ping (o latencia) es el tiempo que tarda tu dispositivo en enviar una señal a un servidor y recibir respuesta, medido en milisegundos (ms). Un ping…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

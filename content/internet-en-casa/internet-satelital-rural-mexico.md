@@ -1,11 +1,12 @@
 ---
-title: "Internet satelital y opciones rurales en Mexico: guia 2025"
+title: "Internet satelital y opciones rurales en México: guía 2026"
 slug: "internet-satelital-rural-mexico"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
 author_slug: "equipo"
 draft: false
+description: "Internet satelital en México: Starlink, precios, cobertura rural y alternativas inalámbricas fijas; qué conviene según tu zona en 2026."
 image: "/images/generated/hero-telcel-att-movistar.webp"
 keywords:
   - "internet lento mexico"

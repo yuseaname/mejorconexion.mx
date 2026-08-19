@@ -1,7 +1,7 @@
 ---
 title: "Qué son los datos móviles (4G/5G) y cómo se consumen"
 slug: "que-son-los-datos-moviles"
-description: "**Los datos móviles son la conexión a internet que usa tu celular a través de la red celular (4G/5G) cuando no estás conectado a Wi-Fi. Se miden en giga…"
+description: "Los datos móviles son la conexión a internet que usa tu celular a través de la red celular (4G/5G) cuando no estás conectado a Wi-Fi. Se miden en giga…"
 date: 2026-01-01
 author: "Mtro. Daniel Cruz"
 author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."

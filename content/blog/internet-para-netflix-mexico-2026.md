@@ -1,7 +1,7 @@
 ---
 title: "Internet para Netflix en México: qué velocidad necesitas (2026)"
 slug: "internet-para-netflix-mexico-2026"
-description: "**Para Netflix en calidad 4K necesitas 25 Mbps por pantalla; un hogar mexicano con 2 TVs requiere 50-100 Mbps mínimo. Planes recomendados: Totalplay 100…"
+description: "Para Netflix en calidad 4K necesitas 25 Mbps por pantalla; un hogar mexicano con 2 TVs requiere 50-100 Mbps mínimo. Planes recomendados: Totalplay 100…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

@@ -1,7 +1,7 @@
 ---
 title: "Starlink en México: precio, cobertura y ¿vale la pena? (2026)"
 slug: "starlink-mexico-precio-cobertura-2026"
-description: "**Starlink en México 2026 cuesta $2,300 MXN al mes más $8,500 MXN del kit, con velocidades de 50-200 Mbps y latencia de 25-60 ms. Vale la pena solo en z…"
+description: "Starlink en México 2026 cuesta $2,300 MXN al mes más $8,500 MXN del kit, con velocidades de 50-200 Mbps y latencia de 25-60 ms. Vale la pena solo en z…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

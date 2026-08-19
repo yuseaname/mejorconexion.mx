@@ -2,7 +2,7 @@
 title: "¿Qué es internet simétrico? La guía definitiva para mejorar tu conexión en casa"
 slug: "que-es-internet-simétrico"
 aliases: ["/blog/que-es-internet-simétrico.html"]
-description: "**Internet simétrico es aquel donde la velocidad de subida es igual a la de bajada (ej: 200/200 Mbps). Es ideal para videollamadas, home office, subir v…"
+description: "Internet simétrico es aquel donde la velocidad de subida es igual a la de bajada (ej: 200/200 Mbps). Es ideal para videollamadas, home office, subir v…"
 date: 2026-05-30
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

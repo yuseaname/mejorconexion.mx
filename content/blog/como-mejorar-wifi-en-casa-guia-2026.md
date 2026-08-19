@@ -1,7 +1,7 @@
 ---
 title: "Cómo Mejorar la Señal Wi-Fi en Casa: Guía Completa 2026"
 slug: "como-mejorar-wifi-en-casa-guia-2026"
-description: "**Mover el router al centro de la casa a 1.5 m de altura, separar redes 2.4 y 5 GHz, y actualizar a WiFi 6 mejora entre 40% y 70% la cobertura; en plane…"
+description: "Mover el router al centro de la casa a 1.5 m de altura, separar redes 2.4 y 5 GHz, y actualizar a WiFi 6 mejora entre 40% y 70% la cobertura; en plane…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

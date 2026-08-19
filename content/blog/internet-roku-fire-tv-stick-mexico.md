@@ -1,7 +1,7 @@
 ---
 title: "Internet para Roku y Fire TV Stick: qué necesitas en México (2026)"
 slug: "internet-roku-fire-tv-stick-mexico"
-description: "**Roku y Fire TV Stick funcionan con 10-25 Mbps en HD y 25-50 Mbps en 4K; un plan Infinitum 100 Mbps $399/mes o Izzi 200 Mbps $449/mes cubre múltiples d…"
+description: "Roku y Fire TV Stick funcionan con 10-25 Mbps en HD y 25-50 Mbps en 4K; un plan Infinitum 100 Mbps $399/mes o Izzi 200 Mbps $449/mes cubre múltiples d…"
 date: 2026-08-09
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

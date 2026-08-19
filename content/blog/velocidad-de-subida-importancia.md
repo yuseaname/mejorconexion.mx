@@ -1,7 +1,7 @@
 ---
 title: "¿Tu internet se traba al hablar? Descubre la importancia de la velocidad de subida en tu hogar"
 slug: "velocidad-de-subida-importancia"
-description: "**La velocidad de subida es crucial para videollamadas, subir videos a YouTube, hacer backups en la nube y home office. En México, los planes asimétrico…"
+description: "La velocidad de subida es crucial para videollamadas, subir videos a YouTube, hacer backups en la nube y home office. En México, los planes asimétrico…"
 date: 2026-05-30
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

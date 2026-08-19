@@ -1,7 +1,7 @@
 ---
 title: "Cómo levantar una queja en PROFECO por mal internet en 2026 (paso a paso)"
 slug: "queja-profeco-internet-guia-2026"
-description: "Cuando tu internet falla de forma recurrente y el proveedor no corrige, no necesitas “pelear”: necesitas **proceso + evidencia**"
+description: "Cuando tu internet falla de forma recurrente y el proveedor no corrige, no necesitas “pelear”: necesitas proceso + evidencia"
 date: 2026-03-03
 author: "Lic. Patricia Núñez"
 author_bio: "Abogada especializada en derechos del consumidor y telecomunicaciones (UNAM). Experta en quejas PROFECO, contratos y portabilidad."

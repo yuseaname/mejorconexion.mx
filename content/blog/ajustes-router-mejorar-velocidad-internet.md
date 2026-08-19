@@ -1,7 +1,7 @@
 ---
 title: "Cómo Ajustar Tu Router para Mejorar la Velocidad de Internet (Guía 2026)"
 slug: "ajustes-router-mejorar-velocidad-internet"
-description: "**Cambiar el canal WiFi a uno menos saturado (1, 6 u 11 en 2.4 GHz), activar QoS para priorizar tráfico y subir el router a 1.5 m de altura puede devolv…"
+description: "Cambiar el canal WiFi a uno menos saturado (1, 6 u 11 en 2.4 GHz), activar QoS para priorizar tráfico y subir el router a 1.5 m de altura puede devolv…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

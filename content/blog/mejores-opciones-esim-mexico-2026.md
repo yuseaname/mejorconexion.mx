@@ -1,7 +1,7 @@
 ---
 title: "Mejores opciones eSIM en México 2026 (cómo elegir)"
 slug: "mejores-opciones-esim-mexico-2026"
-description: "**En México 2026, las mejores opciones eSIM son: planes locales Telcel/AT&T para uso nacional ($199-$399 MXN/mes), y Holafly/Airalo para viajeros intern…"
+description: "En México 2026, las mejores opciones eSIM son: planes locales Telcel/AT&T para uso nacional ($199-$399 MXN/mes), y Holafly/Airalo para viajeros intern…"
 date: 2026-01-01
 author: "Mtro. Daniel Cruz"
 author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."

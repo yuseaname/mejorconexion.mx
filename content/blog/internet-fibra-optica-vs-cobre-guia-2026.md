@@ -1,7 +1,7 @@
 ---
 title: "Internet de Fibra Óptica vs Cobre: ¿Cuál Es Mejor en 2026?"
 slug: "internet-fibra-optica-vs-cobre-guia-2026"
-description: "**La fibra óptica entrega hasta 1000 Mbps simétricos por $599-$999/mes (Totalplay, Izzi), mientras el cobre (par telefónico) llega máximo a 100 Mbps asi…"
+description: "La fibra óptica entrega hasta 1000 Mbps simétricos por $599-$999/mes (Totalplay, Izzi), mientras el cobre (par telefónico) llega máximo a 100 Mbps asi…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

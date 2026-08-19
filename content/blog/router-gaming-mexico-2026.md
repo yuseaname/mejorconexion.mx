@@ -1,7 +1,7 @@
 ---
 title: "Mejor router gaming en México: comparativa 2026 para latencia mínima"
 slug: "router-gaming-mexico-2026"
-description: "**Los mejores routers gaming en México 2026 van desde $2,500 MXN (TP-Link Archer AX5400) hasta $9,000 MXN (ASUS ROG Rapture GT-AX11000). La diferencia c…"
+description: "Los mejores routers gaming en México 2026 van desde $2,500 MXN (TP-Link Archer AX5400) hasta $9,000 MXN (ASUS ROG Rapture GT-AX11000). La diferencia c…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

@@ -1,7 +1,7 @@
 ---
 title: "Mejor cable Ethernet Cat6/Cat7 en México: cuál comprar y por qué"
 slug: "mejor-cable-ethernet-mexico"
-description: "**Para la mayoría de hogares en México, un cable Ethernet Cat6 es la mejor opción: soporta 1 Gbps hasta 100 metros y 10 Gbps hasta 55 m, es económico ($…"
+description: "Para la mayoría de hogares en México, un cable Ethernet Cat6 es la mejor opción: soporta 1 Gbps hasta 100 metros y 10 Gbps hasta 55 m, es económico ($…"
 date: 2026-08-10
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

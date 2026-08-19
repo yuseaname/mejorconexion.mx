@@ -1,7 +1,7 @@
 ---
 title: "Mejor velocidad para gaming (Mbps, ping y estabilidad)"
 slug: "mejor-velocidad-para-gaming"
-description: "**Para gaming en México 2026 necesitas 50-100 Mbps de bajada, 10-25 Mbps de subida, ping 1 Gbps con ping alto.** - **Conecta por cable Ethernet, desacti…"
+description: "Para gaming en México 2026 necesitas 50-100 Mbps de bajada, 10-25 Mbps de subida, ping 1 Gbps con ping alto. - Conecta por cable Ethernet, desacti…"
 date: 2026-01-01
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."

@@ -1,7 +1,7 @@
 ---
 title: "Fibra óptica vs cable en México: diferencias reales y cuál conviene (2026)"
 slug: "fibra-optica-vs-cable-mexico"
-description: "**La fibra óptica en México gana en velocidad simétrica (mismo upload que download) y latencia baja (5-15 ms), ideal para videojuegos y trabajo remoto;…"
+description: "La fibra óptica en México gana en velocidad simétrica (mismo upload que download) y latencia baja (5-15 ms), ideal para videojuegos y trabajo remoto;…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

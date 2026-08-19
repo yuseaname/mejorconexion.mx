@@ -1,7 +1,7 @@
 ---
 title: "Como elegir un router WiFi para casa en Mexico (guia realista)"
 slug: "como-elegir-router-wifi-casa-mexico"
-description: "**Para una casa de 1-2 recámaras en México, el router ideal es WiFi 6 de doble banda (2.4 + 5 GHz) con al menos 4 antenas; modelos como TP-Link Archer A…"
+description: "Para una casa de 1-2 recámaras en México, el router ideal es WiFi 6 de doble banda (2.4 + 5 GHz) con al menos 4 antenas; modelos como TP-Link Archer A…"
 date: 2026-01-01
 author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."

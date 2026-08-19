@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Cómo elegir el mejor internet para personas mayores en México"
 slug: "internet-para-personas-mayores"
-description: "**El internet ideal para adultos mayores en México es un plan simple y estable: Telmex Infinitum 100 Mbps $399/mes con instalación guiada, incluye route…"
+description: "El internet ideal para adultos mayores en México es un plan simple y estable: Telmex Infinitum 100 Mbps $399/mes con instalación guiada, incluye route…"
 date: 2026-05-30
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
