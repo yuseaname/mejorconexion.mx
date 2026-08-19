@@ -1,0 +1,912 @@
+{
+ "date": "2026-08-18",
+ "window": "2026-08-11 to 2026-08-18 (8 days, post-TOP10+UX-remediation)",
+ "site_id": "095d6520421b",
+ "overview": {
+  "data": {
+   "sessions": 174,
+   "pages_per_session": 1.2758620689655173,
+   "bounce_rate": 86.7816091954023,
+   "session_duration": 26.53448275862069,
+   "pageviews": 222,
+   "users": 166
+  }
+ },
+ "traffic_sources": {
+  "message": "Route GET:/api/sites/095d6520421b/traffic-sources?start_date=2026-08-11&end_date=2026-08-18&time_zone=America%2FMexico_City not found",
+  "error": "Not Found",
+  "statusCode": 404
+ },
+ "referrers": {
+  "message": "Route GET:/api/sites/095d6520421b/referrers?start_date=2026-08-11&end_date=2026-08-18&time_zone=America%2FMexico_City not found",
+  "error": "Not Found",
+  "statusCode": 404
+ },
+ "geography": {
+  "message": "Route GET:/api/sites/095d6520421b/geography?start_date=2026-08-11&end_date=2026-08-18&time_zone=America%2FMexico_City not found",
+  "error": "Not Found",
+  "statusCode": 404
+ },
+ "devices": {
+  "message": "Route GET:/api/sites/095d6520421b/devices?start_date=2026-08-11&end_date=2026-08-18&time_zone=America%2FMexico_City not found",
+  "error": "Not Found",
+  "statusCode": 404
+ },
+ "top_pages": {
+  "data": {
+   "data": [
+    {
+     "value": "/",
+     "hostname": "mejorconexion.mx",
+     "count": 20,
+     "percentage": 9.62,
+     "pageviews": 22,
+     "pageviews_percentage": 9.13,
+     "time_on_page_seconds": 13.5,
+     "bounce_rate": 65
+    },
+    {
+     "value": "/blog/por-que-internet-telmex-es-lento.html",
+     "hostname": "mejorconexion.mx",
+     "count": 12,
+     "percentage": 5.77,
+     "pageviews": 14,
+     "pageviews_percentage": 5.81,
+     "time_on_page_seconds": 63.857142857142854,
+     "bounce_rate": 91.67
+    },
+    {
+     "value": "/blog/mejor-internet-casa-mexico-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 11,
+     "percentage": 5.29,
+     "pageviews": 14,
+     "pageviews_percentage": 5.81,
+     "time_on_page_seconds": 15.5,
+     "bounce_rate": 63.64
+    },
+    {
+     "value": "/blog/internet-en-cdmx-por-colonia-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 8,
+     "percentage": 3.85,
+     "pageviews": 8,
+     "pageviews_percentage": 3.32,
+     "time_on_page_seconds": 159.625,
+     "bounce_rate": 62.5
+    },
+    {
+     "value": "/blog/izzi-vs-totalplay-telmex-megacable-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 8,
+     "percentage": 3.85,
+     "pageviews": 11,
+     "pageviews_percentage": 4.56,
+     "time_on_page_seconds": 76.36363636363636,
+     "bounce_rate": 50
+    },
+    {
+     "value": "/blog/internet-puebla-mejores-opciones-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 6,
+     "percentage": 2.88,
+     "pageviews": 6,
+     "pageviews_percentage": 2.49,
+     "time_on_page_seconds": 0.3333333333333333,
+     "bounce_rate": 83.33
+    },
+    {
+     "value": "/blog/internet-telcel-hogar-mexico-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 6,
+     "percentage": 2.88,
+     "pageviews": 8,
+     "pageviews_percentage": 3.32,
+     "time_on_page_seconds": 23.875,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-totalplay-planes-precios-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 6,
+     "percentage": 2.88,
+     "pageviews": 6,
+     "pageviews_percentage": 2.49,
+     "time_on_page_seconds": 50,
+     "bounce_rate": 50
+    },
+    {
+     "value": "/blog/por-que-el-internet-es-lento-a-veces.html",
+     "hostname": "mejorconexion.mx",
+     "count": 6,
+     "percentage": 2.88,
+     "pageviews": 23,
+     "pageviews_percentage": 9.54,
+     "time_on_page_seconds": 4.173913043478261,
+     "bounce_rate": 66.67
+    },
+    {
+     "value": "/internet-en-casa/internet-satelital-rural-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 6,
+     "percentage": 2.88,
+     "pageviews": 6,
+     "pageviews_percentage": 2.49,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-guadalajara-mejores-opciones-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 4,
+     "percentage": 1.92,
+     "pageviews": 5,
+     "pageviews_percentage": 2.07,
+     "time_on_page_seconds": 5.2,
+     "bounce_rate": 50
+    },
+    {
+     "value": "/blog/paquetes-perdidos-internet-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 4,
+     "percentage": 1.92,
+     "pageviews": 4,
+     "pageviews_percentage": 1.66,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/planes-moviles/telcel-vs-att-vs-movistar/",
+     "hostname": "mejorconexion.mx",
+     "count": 4,
+     "percentage": 1.92,
+     "pageviews": 4,
+     "pageviews_percentage": 1.66,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/como-configurar-router-mexico-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 3,
+     "percentage": 1.44,
+     "pageviews": 3,
+     "pageviews_percentage": 1.24,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/configurar-qos-router-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 3,
+     "percentage": 1.44,
+     "pageviews": 3,
+     "pageviews_percentage": 1.24,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/indice-calidad-internet-mexico-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 3,
+     "percentage": 1.44,
+     "pageviews": 3,
+     "pageviews_percentage": 1.24,
+     "time_on_page_seconds": 69.33333333333333,
+     "bounce_rate": 66.67
+    },
+    {
+     "value": "/blog/infinitum-vs-izzi-opiniones-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 3,
+     "percentage": 1.44,
+     "pageviews": 3,
+     "pageviews_percentage": 1.24,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-queretaro-mejores-opciones-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 3,
+     "percentage": 1.44,
+     "pageviews": 3,
+     "pageviews_percentage": 1.24,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 66.67
+    },
+    {
+     "value": "/blog/que-significa-la-velocidad-de-internet.html",
+     "hostname": "mejorconexion.mx",
+     "count": 3,
+     "percentage": 1.44,
+     "pageviews": 3,
+     "pageviews_percentage": 1.24,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/cobertura/guadalajara.html",
+     "hostname": "mejorconexion.mx",
+     "count": 3,
+     "percentage": 1.44,
+     "pageviews": 3,
+     "pageviews_percentage": 1.24,
+     "time_on_page_seconds": 14.333333333333334,
+     "bounce_rate": 66.67
+    },
+    {
+     "value": "/cobertura/mejor-internet-cdmx.html",
+     "hostname": "mejorconexion.mx",
+     "count": 3,
+     "percentage": 1.44,
+     "pageviews": 3,
+     "pageviews_percentage": 1.24,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/planes-moviles/telcel-vs-att-vs-movistar.html",
+     "hostname": "mejorconexion.mx",
+     "count": 3,
+     "percentage": 1.44,
+     "pageviews": 3,
+     "pageviews_percentage": 1.24,
+     "time_on_page_seconds": 11,
+     "bounce_rate": 66.67
+    },
+    {
+     "value": "/blog/como-abrir-puertos-router-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/control-parental-internet-hogar-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/cuanto-cuesta-internet-en-mexico-2026.html",
+     "hostname": "",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0.5,
+     "bounce_rate": 50
+    },
+    {
+     "value": "/blog/cuanto-tarda-instalar-internet-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/cuantos-gb-necesitas-al-mes.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/diferencia-4g-lte-y-5g-mexico.html",
+     "hostname": "",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0.5,
+     "bounce_rate": 50
+    },
+    {
+     "value": "/blog/dns-seguro-filtros-malware-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-sin-contrato-mexico-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/izzi-vs-totalplay-vs-telmex-vs-megacable-comparativa-2026-con-datos-reales.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/megacable-vs-totalplay-comparativa-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 50
+    },
+    {
+     "value": "/blog/modem-parpadea-rojo-solucion.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/modo-bridge-router-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 50
+    },
+    {
+     "value": "/blog/que-es-el-ping.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/starlink-mexico-precio-cobertura-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/totalplay-vs-izzi-2026-comparativa.html",
+     "hostname": "mejorconexion.mx",
+     "count": 2,
+     "percentage": 0.96,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 23.5,
+     "bounce_rate": 50
+    },
+    {
+     "value": "/about.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 23,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/cancelar-izzi-sin-cargos.html",
+     "hostname": "",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 1,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/cancelar-telmex-sin-penalizacion.html",
+     "hostname": "",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/cancelar-totalplay-sin-cargos.html",
+     "hostname": "",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/como-saber-si-tengo-fibra-optica-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/comparativa-totalplay-vs-izzi-vs-telmex-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/cuanto-consume-netflix-mexico.html",
+     "hostname": "",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/glosario-internet-telecomunicaciones.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-cancun-quintana-roo-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-cfe-mexico-existe-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-chihuahua-ciudad-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-culiacan-sinaloa-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-lento-en-la-noche-solucion.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-leon-guanajuato-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-merida-yucatan-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-monterrey-mejores-opciones-2026.html",
+     "hostname": "",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/internet-para-streaming-twitch-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/internet-para-zoom-y-videollamadas-mexico.html",
+     "hostname": "",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/internet-saturado-mexico-solucion.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-telmex-infinitum-planes-precios-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/internet-veracruz-puerto-2026.html",
+     "hostname": "",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 1,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/medidor-internet-speedtest-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/mejor-internet-gaming-mexico-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/mejor-internet-para-estudiantes-m%C3%A9xico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/mejor-internet-para-gaming-en-m%C3%A9xico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/mejor-internet-para-gaming-en-mexico-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/mejor-internet-para-wfh-mexico.html",
+     "hostname": "",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/mejor-internet-rural-mexico-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/mejores-routers-2026-mexico-guia.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/mejores-routers-wifi-6-mexico-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 2,
+     "pageviews_percentage": 0.83,
+     "time_on_page_seconds": 4.5,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/pilar-planes-moviles-datos-mexico-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/por-que-se-cae-wifi-casa-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/por-que-tus-datos-van-lentos-5g.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/que-es-el-ancho-de-banda.html",
+     "hostname": "",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/que-es-el-jitter-y-por-que-importa.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/red-invitados-iot-segura-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/blog/seguridad-wifi-casa-proteger-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 3,
+     "pageviews_percentage": 1.24,
+     "time_on_page_seconds": 13,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/totalplay-todo-lo-que-necesitas-saber.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/blog/velocidad-necesaria-videollamadas-mexico-2026.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/contact.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 47,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/corrections.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/esim-mexico.html",
+     "hostname": "",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/esim/mejor-esim-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/herramientas/calculadora-velocidad-internet.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/internet-en-casa/como-elegir-router-wifi-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/internet-en-casa/fibra-vs-inalambrico-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/internet-en-casa/internet-inalambrico-fijo-mexico.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/metodologia.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 24,
+     "bounce_rate": 0
+    },
+    {
+     "value": "/planes-internet/internet-barato-mexico-opciones-reales.html",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 100
+    },
+    {
+     "value": "/planes-internet/telmex-vs-izzi-vs-totalplay-mexico/",
+     "hostname": "mejorconexion.mx",
+     "count": 1,
+     "percentage": 0.48,
+     "pageviews": 1,
+     "pageviews_percentage": 0.41,
+     "time_on_page_seconds": 0,
+     "bounce_rate": 0
+    }
+   ],
+   "totalCount": 87
+  }
+ }
+}
