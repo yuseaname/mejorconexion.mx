@@ -1,0 +1,82 @@
+{{ define "main" }}
+<article class="article-shell">
+  <div class="article-container">
+    {{ partial "breadcrumbs.html" . }}
+
+    <header class="article-header">
+      {{/* Answer-first (MCX-02): H1 + lede reach the first viewport BEFORE the
+           hero image. Category badge, title, lede, update log, then hero. */}}
+      {{ with .CurrentSection }}
+        {{ if and (not .IsHome) (ne .Title "Blog") }}
+          <a href="{{ .RelPermalink }}" class="badge badge-primary article-category">{{ .Title }}</a>
+        {{ end }}
+      {{ end }}
+
+      <h1 class="article-title">{{ .Title }}</h1>
+
+      {{ with .Params.description }}
+      <p class="article-lede">{{ . }}</p>
+      {{ end }}
+
+      {{ partial "verdict-card.html" . }}
+
+      {{/* Trust source card (MCX-05b): above the first ad slot, inside header */}}
+      {{ with .Params.source_card }}
+        {{ if . }}{{ partial "source-card.html" (dict "fecha" .) }}{{ end }}
+      {{ end }}
+
+      {{ partial "update-log.html" . }}
+
+      {{ partial "hero-image.html" . }}
+    </header>
+
+    {{/* Ad slot: below title (desktop only via CSS) */}}
+    {{ if .Site.Params.adsense.client_id }}
+      {{ partial "adsense.html" (dict "position" "below_title" "ctx" .) }}
+    {{ end }}
+
+    {{/* TOC + content */}}
+    {{ if and (gt .WordCount 800) .TableOfContents }}
+      {{ partial "toc.html" . }}
+    {{ end }}
+
+    <div class="article-content">
+      {{ .Content }}
+    </div>
+
+    {{/* Mid-article ad */}}
+    {{ if .Site.Params.adsense.client_id }}
+      {{ partial "adsense.html" (dict "position" "mid_article" "ctx" .) }}
+    {{ end }}
+
+    {{/* Tags */}}
+    {{ with .Params.tags }}
+    <div class="article-tags">
+      {{ range . }}
+        <span class="badge badge-neutral">{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{ partial "author-box.html" . }}
+
+    {{/* End-article ad */}}
+    {{ if .Site.Params.adsense.client_id }}
+      {{ partial "adsense.html" (dict "position" "end_article" "ctx" .) }}
+    {{ end }}
+
+    {{/* Email capture */}}
+  {{ partial "email-capture.html" . }}
+
+  {{ partial "related-posts.html" . }}
+
+    {{/* Article trust strip */}}
+    <nav class="article-trust-strip" aria-label="Trust and methodology">
+      <span class="article-trust-label">Confianza:</span>
+      <a href="/metodologia.html" class="article-trust-link">Metodología</a>
+      <a href="/transparencia.html" class="article-trust-link">Transparencia</a>
+      <a href="/corrections.html" class="article-trust-link">Correcciones</a>
+    </nav>
+  </div>
+</article>
+{{ end }}

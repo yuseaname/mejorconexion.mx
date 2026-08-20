@@ -1,0 +1,29 @@
+{{- /* related-posts.html — topic-aware: same section first, then fallback */ -}}
+{{ $current := . }}
+{{ $sectionPages := where .Site.RegularPages "Section" .Section }}
+{{ $sameSection := where $sectionPages "Permalink" "!=" $current.Permalink | first 2 }}
+{{ $fallback := where .Site.RegularPages "Permalink" "!=" $current.Permalink | first (sub 3 (len $sameSection)) }}
+{{ $related := $sameSection | append $fallback }}
+
+{{ if gt (len $related) 0 }}
+  <section class="related-section" aria-label="Artículos relacionados">
+    <h2 class="related-title">Artículos relacionados</h2>
+    <div class="related-grid">
+      {{ range $related }}
+        <article class="related-card group">
+          <a href="{{ .RelPermalink }}" class="related-link">
+            {{ with .Params.image }}
+              <div class="related-image">
+                <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async" width="400" height="225">
+              </div>
+            {{ end }}
+            <div class="related-card-body">
+              <h3 class="related-card-title">{{ .Title }}</h3>
+              {{ with .Date }}<time datetime="{{ .Format "2006-01-02" }}" class="related-card-date">{{ .Format "2 Jan 2006" }}</time>{{ end }}
+            </div>
+          </a>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

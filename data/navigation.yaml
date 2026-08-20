@@ -1,0 +1,47 @@
+main:
+  - name: Inicio
+    url: /
+  - name: Elegir internet
+    url: /internet-en-casa/
+    weight: 1
+  - name: Planes y precios
+    url: /planes-internet/
+    weight: 2
+  - name: Datos móviles
+    url: /planes-moviles/
+    weight: 4
+  - name: eSIM
+    url: /esim/
+    weight: 5
+  - name: Herramientas
+    url: /herramientas/
+    weight: 6
+  - name: Blog
+    url: /blog/
+    weight: 7
+  - name: Acerca de
+    url: /about.html
+    weight: 10
+  - name: Contacto
+    url: /contact.html
+    weight: 11
+
+footer:
+  - name: Elegir internet
+    url: /internet-en-casa/
+  - name: Planes y precios
+    url: /planes-internet/
+  - name: Datos móviles
+    url: /planes-moviles/
+  - name: eSIM
+    url: /esim/
+  - name: Herramientas
+    url: /herramientas/
+  - name: Metodología
+    url: /metodologia.html
+  - name: Transparencia
+    url: /transparencia.html
+  - name: Privacidad
+    url: /privacy.html
+  - name: Contacto
+    url: /contact.html

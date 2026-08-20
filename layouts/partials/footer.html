@@ -1,0 +1,70 @@
+<footer style="background: var(--paper-2); border-top: 1px solid var(--border); margin-top: 4rem;" role="contentinfo">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-12">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+      <!-- Brand column -->
+      <div class="sm:col-span-2 lg:col-span-1">
+        <a href="{{ .Site.BaseURL | relURL }}" class="flex items-center gap-2 text-sm font-bold transition-opacity hover:opacity-80" style="color: #F0F4FA;">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true" style="color: var(--brand-bright);">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0"/>
+          </svg>
+          {{ .Site.Params.site_name | default .Site.Title }}
+        </a>
+        {{ with .Site.Params.description }}
+        <p class="text-xs mt-3 leading-relaxed max-w-xs" style="color: var(--ink-muted);">{{ . }}</p>
+        {{ end }}
+        <p class="text-xs mt-4" style="color: var(--ink-faint);">&copy; {{ now.Year }} Todos los derechos reservados.</p>
+      </div>
+
+      <!-- Atajos -->
+      <div>
+        <h3 class="footer-heading">Atajos</h3>
+        <ul class="space-y-2">
+          <li><a href="/" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Inicio</a></li>
+          <li><a href="/blog.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Blog</a></li>
+          <li><a href="/about.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Acerca de</a></li>
+          <li><a href="/contact.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Contacto</a></li>
+        </ul>
+      </div>
+
+      <!-- Categorías -->
+      <div>
+        <h3 class="footer-heading">Categorías</h3>
+        <ul class="space-y-2">
+          {{ range first 6 .Site.Sections }}
+          <li><a href="{{ .RelPermalink }}" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+
+      <!-- Editorial -->
+      <div>
+        <h3 class="footer-heading">Editorial</h3>
+        <ul class="space-y-2">
+          {{ $allPages := where .Site.Pages "Kind" "page" }}
+          {{ $slugs := slice "privacy" "privacy-policy" "disclosure" "editorial-policy" "terms" "terms-of-service" }}
+          {{ range $slugs }}
+            {{ $slug := . }}
+            {{ range $allPages }}
+              {{ if or (eq .File.BaseFileName $slug) (eq .File.TranslationBaseName $slug) }}
+                <li><a href="{{ .RelPermalink }}" class="text-sm capitalize transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">{{ replace $slug "-" " " }}</a></li>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </ul>
+        <ul class="space-y-2 mt-3">
+          <li><a href="/editorial-policy.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Política editorial</a></li>
+          <li><a href="/corrections.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Correcciones</a></li>
+          <li><a href="/sitemap.xml" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Sitemap</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- AdSense disclosure -->
+    <div class="mt-10 pt-6" style="border-top: 1px solid var(--border);">
+      <p class="text-xs max-w-3xl" style="color: var(--ink-faint);">
+        Este sitio muestra anuncios de terceros. Los espacios publicitarios son automáticos y no constituyen una recomendación personal.
+        {{ with .Site.Params.adsense.client_id }}Usamos Google AdSense para mostrarlos.{{ end }}
+      </p>
+    </div>
+  </div>
+</footer>

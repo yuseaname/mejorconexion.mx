@@ -3,26 +3,27 @@
 
 {{/* ── WebSite schema (homepage only) ── */}}
 {{- if .IsHome -}}
-  {{- $org := dict
-      "@context" "https://schema.org"
-      "@type" "Organization"
-      "name" "Utility Explained"
-      "url" "https://utilityexplained.com/"
-  -}}
-  {{- $org = dict "logo" "https://utilityexplained.com/images/og-default.png" | merge $org -}}
   {{- $searchAction := dict
       "@type" "SearchAction"
-      "target" "https://utilityexplained.com/search/?q={search_term_string}"
+      "target" (printf "%sbuscar?q={search_term_string}" .Site.BaseURL)
       "query-input" "required name=search_term_string"
   -}}
   {{- $ws := dict
       "@context" "https://schema.org"
       "@type" "WebSite"
-      "name" "Utility Explained"
-      "url" "https://utilityexplained.com/"
+      "name" .Site.Title
+      "url" .Site.BaseURL
       "potentialAction" $searchAction
   -}}
-  {{- $schemas = $schemas | append $org -}}
+  {{- with .Site.Params.description -}}
+    {{- $ws = dict "description" . | merge $ws -}}
+  {{- end -}}
+  {{- $pub := dict
+      "@type" "Organization"
+      "name" (or .Site.Params.org_name .Site.Title)
+      "url" .Site.BaseURL
+  -}}
+  {{- $ws = dict "publisher" $pub | merge $ws -}}
   {{- $schemas = $schemas | append $ws -}}
 {{- end -}}
 
@@ -47,30 +48,18 @@
   {{- $pub := dict
       "@type" "Organization"
       "name" (or .Site.Params.org_name .Site.Title)
+      "url" .Site.BaseURL
   -}}
   {{- with .Site.Params.logo -}}
     {{- $pub = dict "logo" (dict "@type" "ImageObject" "url" .) | merge $pub -}}
   {{- end -}}
+  {{- /* Add sameAs links for E-E-A-T */ -}}
+  {{- $pub = dict "sameAs" (slice "https://mejorconexion.mx/") | merge $pub -}}
   {{- $article = dict "publisher" $pub | merge $article -}}
   {{- with .Date -}}
     {{- $article = dict "datePublished" (.Format "2006-01-02T15:04:05-07:00") | merge $article -}}
   {{- end -}}
-  {{- with .Params.updated -}}
-    {{- $article = dict "dateModified" . | merge $article -}}
-  {{- else -}}
-    {{- with .Lastmod -}}
-      {{- $article = dict "dateModified" (.Format "2006-01-02T15:04:05Z07:00") | merge $article -}}
-    {{- end -}}
-  {{- end -}}
-  {{- with .WordCount -}}
-    {{- $article = dict "wordCount" . | merge $article -}}
-  {{- end -}}
-  {{- with .Params.keywords -}}
-    {{- $article = dict "keywords" (delimit . ", ") | merge $article -}}
-  {{- end -}}
-  {{- with .Params.categories -}}
-    {{- $article = dict "articleSection" (delimit . ", ") | merge $article -}}
-  {{- end -}}
+  {{- with .Params.updated -}}{{- $article = dict "dateModified" . | merge $article -}}{{- else -}}{{- with .Lastmod -}}{{- $article = dict "dateModified" (.Format "2006-01-02T15:04:05Z07:00") | merge $article -}}{{- end -}}{{- end -}}
   {{- $schemas = $schemas | append $article -}}
 {{- end -}}
 
@@ -128,14 +117,16 @@
   {{- end -}}
 {{- end -}}
 
-
-{{/* ── HowTo schema (if howto shortcodes were used) ── */}}
-{{- with .Store.Get "howtoSteps" -}}
-  {{- if gt (len .) 0 -}}
-    {{- $steps := slice -}}
-    {{- range $i, $step := . -}}
-      {{- $steps = $steps | append (dict
+{{/* ── HowTo schema (if howto shortcodes were used on this page) ── */}}
+{{- $howtoTitle := .Store.Get "howto-title" -}}
+{{- $howtoSteps := .Store.Get "howto-steps" -}}
+{{- if and $howtoTitle $howtoSteps -}}
+  {{- if gt (len $howtoSteps) 0 -}}
+    {{- $stepItems := slice -}}
+    {{- range $i, $step := $howtoSteps -}}
+      {{- $stepItems = $stepItems | append (dict
           "@type" "HowToStep"
+          "position" (add $i 1)
           "name" $step.name
           "text" $step.text
       ) -}}
@@ -143,16 +134,17 @@
     {{- $howtoSchema := dict
         "@context" "https://schema.org"
         "@type" "HowTo"
-        "name" ($.Store.Get "howtoTitle")
-        "step" $steps
+        "name" $howtoTitle
+        "step" $stepItems
     -}}
+    {{- with .Store.Get "howto-desc" -}}
+      {{- $howtoSchema = dict "description" . | merge $howtoSchema -}}
+    {{- end -}}
     {{- $schemas = $schemas | append $howtoSchema -}}
   {{- end -}}
 {{- end -}}
 
 {{/* ── Output combined JSON-LD ── */}}
-{{- /* safeJS is required: script content is a JS context — safeHTML still gets
-       JS-escaped there, double-encoding the JSON into an unparseable string. */ -}}
 {{- if gt (len $schemas) 0 -}}
 <script type="application/ld+json">
 {{- $schemas | jsonify | safeJS -}}

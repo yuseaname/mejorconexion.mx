@@ -1,0 +1,126 @@
+<nav class="nav-container sticky top-0 z-50" id="main-nav" role="navigation" aria-label="Main navigation">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6">
+    <div class="flex items-center justify-between h-14">
+      <!-- Logo -->
+      <a href="{{ .Site.BaseURL | relURL }}" class="flex items-center gap-2 text-lg font-bold hover:opacity-80 transition-opacity" style="color: #F0F4FA;">
+        <svg class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true" style="color: var(--brand-bright);">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0"/>
+        </svg>
+        <span>{{ .Site.Params.site_name | default .Site.Title }}</span>
+      </a>
+
+      <!-- Desktop nav -->
+      <div class="hidden sm:flex items-center gap-1">
+        {{ $currentPage := . }}
+        {{ $currentRel := $currentPage.RelPermalink }}
+        {{ $menuItems := .Site.Data.navigation.main }}
+        {{ if and $menuItems (gt (len $menuItems) 0) }}
+          {{/* Resolve the single active menu URL: first menu item whose URL matches the
+               current page (exact, section-prefix, or uglyURLs .html-equivalent of a
+               section root). Menu entries that share a URL with the resolved active
+               item render inactive — exactly one highlighted destination (MCX-01). */}}
+          {{ $activeURL := "" }}
+          {{ $currentStem := strings.TrimSuffix "/" (strings.TrimSuffix ".html" $currentRel) }}
+          {{ range $menuItems }}
+            {{ $u := .url }}
+            {{ $isHome := eq $u "/" }}
+            {{ $isExact := eq $currentRel $u }}
+            {{ $isHTMLLeaf := hasSuffix $u ".html" }}
+            {{ $isPrefix := and (not $isHome) (not $isHTMLLeaf) (hasPrefix $currentRel $u) }}
+            {{ $itemStem := strings.TrimSuffix "/" (strings.TrimSuffix ".html" $u) }}
+            {{ $isSectionRoot := and (ne $itemStem "") (eq $currentStem $itemStem) }}
+            {{ if and (eq $activeURL "") (or $isExact (or $isPrefix $isSectionRoot)) }}
+              {{ $activeURL = $u }}
+            {{ end }}
+          {{ end }}
+          {{ range $menuItems }}
+            {{ $itemURL := .url }}
+            {{ $itemName := .name }}
+            {{ $isActive := and (ne $activeURL "") (eq $itemURL $activeURL) }}
+            <a href="{{ $itemURL }}"
+               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors"
+               {{- if $isActive }} aria-current="page"{{ end }}
+               style="{{ if $isActive }}background: var(--brand-100); color: var(--brand-bright);{{ else }}color: var(--ink-secondary);{{ end }}"
+               onmouseover="{{ if not $isActive }}this.style.background='var(--surface-2)';this.style.color='#F0F4FA'{{ end }}"
+               onmouseout="{{ if not $isActive }}this.style.background='';this.style.color='var(--ink-secondary)'{{ end }}">
+              {{ $itemName }}
+            </a>
+          {{ end }}
+        {{ else }}
+          {{ range .Site.Sections }}
+            <a href="{{ .RelPermalink }}" class="px-3 py-2 text-sm font-medium rounded-lg transition-colors" style="color: var(--ink-secondary);">{{ .Title }}</a>
+          {{ end }}
+        {{ end }}
+
+        <!-- Search icon -->
+        <a href="/buscar.html" class="ml-1 p-2 rounded-lg transition-colors" style="color: var(--ink-secondary);" aria-label="Buscar"
+           onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+           onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+        </a>
+      </div>
+
+      <!-- Mobile controls -->
+      <div class="flex items-center sm:hidden">
+        <a href="/buscar.html" class="mr-1 p-2 rounded-lg transition-colors" style="color: var(--ink-secondary);" aria-label="Buscar"
+           onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+           onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+        </a>
+        <button class="p-2 rounded-lg transition-colors" style="color: var(--ink-secondary);" id="nav-toggle" aria-label="Abrir menú" aria-expanded="false" aria-controls="mobile-menu"
+           onmouseover="this.style.background='var(--surface-2)';this.style.color='#F0F4FA'"
+           onmouseout="this.style.background='';this.style.color='var(--ink-secondary)'">
+          <svg class="w-6 h-6" id="hamburger-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+          </svg>
+          <svg class="w-6 h-6 hidden" id="close-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile menu -->
+    <div class="sm:hidden hidden border-t pb-4" style="border-color: var(--border);" id="mobile-menu" role="menu">
+      <div class="pt-3 space-y-1">
+        {{ $currentPage := . }}
+        {{ $currentRel := $currentPage.RelPermalink }}
+        {{ $menuItems := .Site.Data.navigation.main }}
+        {{ if and $menuItems (gt (len $menuItems) 0) }}
+          {{ $activeURL := "" }}
+          {{ $currentStem := strings.TrimSuffix "/" (strings.TrimSuffix ".html" $currentRel) }}
+          {{ range $menuItems }}
+            {{ $u := .url }}
+            {{ $isHome := eq $u "/" }}
+            {{ $isExact := eq $currentRel $u }}
+            {{ $isHTMLLeaf := hasSuffix $u ".html" }}
+            {{ $isPrefix := and (not $isHome) (not $isHTMLLeaf) (hasPrefix $currentRel $u) }}
+            {{ $itemStem := strings.TrimSuffix "/" (strings.TrimSuffix ".html" $u) }}
+            {{ $isSectionRoot := and (ne $itemStem "") (eq $currentStem $itemStem) }}
+            {{ if and (eq $activeURL "") (or $isExact (or $isPrefix $isSectionRoot)) }}
+              {{ $activeURL = $u }}
+            {{ end }}
+          {{ end }}
+          {{ range $menuItems }}
+            {{ $itemURL := .url }}
+            {{ $itemName := .name }}
+            {{ $isActive := and (ne $activeURL "") (eq $itemURL $activeURL) }}
+            <a href="{{ $itemURL }}"
+               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors"
+               {{- if $isActive }} aria-current="page"{{ end }}
+               style="{{ if $isActive }}background: var(--brand-100); color: var(--brand-bright);{{ else }}color: var(--ink-secondary);{{ end }}"
+               role="menuitem">{{ $itemName }}</a>
+          {{ end }}
+        {{ else }}
+          {{ range .Site.Sections }}
+            <a href="{{ .RelPermalink }}" class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors" style="color: var(--ink-secondary);" role="menuitem">{{ .Title }}</a>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</nav>

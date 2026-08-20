@@ -1,0 +1,325 @@
+{{ define "main" }}
+<div class="max-w-7xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+
+  <!-- Warm Editorial Hero -->
+  <section class="relative overflow-hidden rounded-2xl border mb-12" style="border-color: var(--border); background: var(--surface);">
+    <div class="grid lg:grid-cols-2 gap-0">
+      <div class="p-8 sm:p-12 lg:p-16 flex flex-col justify-center">
+        {{ with .Site.Params.tagline }}
+        <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[var(--accent-100)] text-[var(--accent-700)] text-xs font-semibold uppercase tracking-wider mb-5 w-fit">
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+          </svg>
+          {{ . }}
+        </span>
+        {{ end }}
+
+        <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-[var(--ink)] leading-tight">
+          {{ .Site.Params.site_name | default .Site.Title }}
+        </h1>
+
+        {{ with .Site.Params.description }}
+        <p class="text-lg sm:text-xl text-[var(--ink-muted)] mt-5 max-w-xl leading-relaxed">
+          {{ . }}
+        </p>
+        {{ end }}
+
+        <!-- Decision hub CTA: single primary action = home internet comparison (MCX-05).
+             Mint-filled primary; mobile plans demoted to ghost/outline secondary. -->
+        <div class="mt-8 flex flex-col sm:flex-row gap-3">
+          <a href="/internet-en-casa/" data-cta="home-internet-primary" class="inline-flex items-center justify-center gap-2 px-6 py-3 bg-[var(--brand)] text-white font-semibold rounded-xl hover:bg-[var(--brand-700)] transition-colors shadow-md">
+            Comparar internet para mi hogar
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+            </svg>
+          </a>
+          <a href="/planes-moviles/" data-cta="mobile-plans-secondary" class="inline-flex items-center justify-center gap-2 px-6 py-3 border border-[var(--border-bright)] text-[var(--ink-muted)] font-medium rounded-xl hover:text-[var(--ink)] hover:border-[var(--brand-bright)] transition-colors">
+            Comparar planes móviles
+          </a>
+        </div>
+      </div>
+
+      <div class="relative min-h-[260px] lg:min-h-full">
+        <img
+          src="/assets/images/generated/homepage-hero.webp"
+          alt="Hogar mexicano al atardecer eligiendo internet"
+          class="absolute inset-0 w-full h-full object-cover"
+          loading="eager"
+          fetchpriority="high"
+          width="1024"
+          height="576"
+          decoding="async"
+        >
+        <div class="absolute inset-0 bg-gradient-to-r from-[var(--paper)] via-transparent to-transparent lg:bg-gradient-to-l lg:from-transparent lg:via-transparent lg:to-[var(--paper)]/30" aria-hidden="true"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Guías Más Leídas -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 py-10 sm:py-14">
+    <h2 class="text-2xl sm:text-3xl font-bold mb-2">Las Guías Más Leídas</h2>
+    <p class="mb-8">Los artículos que más consultan nuestros visitantes.</p>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+      <a href="/planes-moviles/telcel-vs-att-vs-movistar.html" class="block p-5 rounded-xl transition group">
+        <h3 class="font-semibold">Telcel vs AT&T vs Movistar</h3>
+        <p class="text-sm mt-1">Compara precios, cobertura y datos.</p>
+      </a>
+      <a href="/blog/que-significa-la-velocidad-de-internet.html" class="block p-5 rounded-xl transition group">
+        <h3 class="font-semibold">Velocidad de Internet</h3>
+        <p class="text-sm mt-1">Mbps, ping y velocidad real explicados.</p>
+      </a>
+      <a href="/cobertura/mejor-internet-cdmx.html" class="block p-5 rounded-xl transition group">
+        <h3 class="font-semibold">Mejor Internet en CDMX</h3>
+        <p class="text-sm mt-1">Los mejores proveedores en Ciudad de México.</p>
+      </a>
+      <a href="/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html" class="block p-5 rounded-xl transition group">
+        <h3 class="font-semibold">Telmex vs Izzi vs Totalplay</h3>
+        <p class="text-sm mt-1">Comparativa directa de los tres grandes.</p>
+      </a>
+      <a href="/blog/cuanto-cuesta-internet-en-mexico-2026.html" class="block p-5 rounded-xl transition group">
+        <h3 class="font-semibold">Cuánto Cuesta Internet</h3>
+        <p class="text-sm mt-1">Precios reales de internet residencial 2026.</p>
+      </a>
+      <a href="/blog/cuanta-velocidad-internet-necesitas-2026.html" class="block p-5 rounded-xl transition group">
+        <h3 class="font-semibold">Cuántos Mbps Necesito</h3>
+        <p class="text-sm mt-1">Calcula la velocidad ideal para tu hogar.</p>
+      </a>
+    </div>
+  </section>
+
+  <!-- Trust Bar -->
+  <div class="trust-bar mb-12">
+    <div class="trust-item">
+      <svg class="w-5 h-5 text-[var(--success)]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+      </svg>
+      <span>Guías actualizadas para México</span>
+    </div>
+    <div class="trust-item">
+      <svg class="w-5 h-5 text-[var(--accent)]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
+      </svg>
+      <span>Comparativas por uso real, no por marketing</span>
+    </div>
+    <div class="trust-item">
+      <svg class="w-5 h-5 text-[var(--brand)]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+      </svg>
+      <span>{{ len (where .Site.RegularPages ".Kind" "page") }}+ guías y comparativas</span>
+    </div>
+  </div>
+
+  <!-- 4 Hub Cards -->
+  <section class="mb-12" aria-label="Elige por decisión">
+    <h2 class="text-2xl font-bold mb-6">¿Qué necesitas decidir?</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+      <a href="/internet-en-casa/" class="hub-card">
+        <div class="hub-card-icon bg-[var(--brand-100)] text-[var(--brand)]">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+          </svg>
+        </div>
+        <h3 class="hub-card-title">Internet en casa</h3>
+        <p class="hub-card-text">Compara proveedores, tecnologías y precios según tu hogar.</p>
+        <span class="hub-card-cta">Ver opciones <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></span>
+      </a>
+
+      <a href="/planes-moviles/" class="hub-card">
+        <div class="hub-card-icon bg-[var(--success-50)] text-[var(--success)]">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"/>
+          </svg>
+        </div>
+        <h3 class="hub-card-title">Planes móviles</h3>
+        <p class="hub-card-text">Elige entre Telcel, AT&T, Movistar y opciones de prepago.</p>
+        <span class="hub-card-cta">Comparar planes <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></span>
+      </a>
+
+      <a href="/esim/" class="hub-card">
+        <div class="hub-card-icon bg-[var(--accent-50)] text-[var(--accent)]">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+          </svg>
+        </div>
+        <h3 class="hub-card-title">eSIM local y viajera</h3>
+        <p class="hub-card-text">Activa una eSIM en México o antes de viajar al extranjero.</p>
+        <span class="hub-card-cta">Ver guías eSIM <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></span>
+      </a>
+
+      <a href="/cobertura/" class="hub-card">
+        <div class="hub-card-icon bg-[var(--color-secondary-100)] text-[var(--color-secondary-700)]">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+          </svg>
+        </div>
+        <h3 class="hub-card-title">Cobertura por ciudad</h3>
+        <p class="hub-card-text">Encuentra las mejores opciones en tu ciudad o zona.</p>
+        <span class="hub-card-cta">Ver ciudades <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></span>
+      </a>
+    </div>
+  </section>
+
+  <!-- Tools Strip -->
+  <section class="mb-12" aria-label="Herramientas útiles">
+    <div class="tools-strip">
+      <div class="tools-strip-content">
+        <h2 class="text-xl font-bold">Herramientas para decidir sin adivinar</h2>
+        <p class="text-sm mt-1 max-w-xl">Calculadoras, checklists y tests de velocidad para aterrizar tu decisión en números reales.</p>
+      </div>
+      <div class="tools-strip-links">
+        <a href="/herramientas/" class="tool-chip">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"/></svg>
+          Calculadora de datos
+        </a>
+        <a href="/internet-en-casa/test-velocidad-internet-mexico.html" class="tool-chip">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+          Test de velocidad
+        </a>
+        <a href="/blog/cuanta-velocidad-internet-necesitas-2026.html" class="tool-chip">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 002 2h2a2 2 0 002-2z"/></svg>
+          ¿Cuántos Mbps necesito?
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Comparisons -->
+  <section class="mb-12" aria-label="Comparativas destacadas">
+    <div class="flex items-center justify-between mb-6">
+      <h2 class="text-2xl font-bold">Comparativas destacadas</h2>
+      <a href="/planes-internet/" class="text-sm font-medium transition-colors">Ver todas →</a>
+    </div>
+    <div class="section-grid">
+      {{ $featured := slice
+        (dict "url" "/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html" "image" "/images/generated/featured-telmex-izzi-totalplay.webp" "title" "Telmex vs Izzi vs Totalplay" "desc" "Cuál conviene según estabilidad, subida, latencia y costo real en 2026.")
+        (dict "url" "/planes-moviles/telcel-vs-att-vs-movistar.html" "image" "/images/generated/hero-telcel-att-movistar.webp" "title" "Telcel vs AT&T vs Movistar" "desc" "Cobertura real, precios y velocidad: cuál operador conviene en tu zona.")
+        (dict "url" "/internet-en-casa/fibra-vs-coaxial-mexico.html" "image" "/images/generated/hero-fibra-vs-coaxial.webp" "title" "Fibra vs coaxial" "desc" "Diferencias de velocidad, estabilidad y latencia en México.")
+        (dict "url" "/internet-en-casa/starlink-vs-fibra-optica-mexico-2026.html" "image" "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp" "title" "Starlink vs fibra óptica" "desc" "¿Vale la pena Starlink o es mejor la fibra? Precio, latencia y cobertura.")
+        (dict "url" "/internet-en-casa/izzi-vs-totalplay-2026-comparativa.html" "image" "/images/generated/featured-izzi-vs-totalplay.webp" "title" "Izzi vs Totalplay" "desc" "Comparativa directa de precios, velocidad real y contratos en 2026.")
+        (dict "url" "/esim/mejor-esim-mexico.html" "image" "/images/generated/mejorconexion-mx-esim-index-html-hero-d8a4b5e8.webp" "title" "Mejor eSIM en México" "desc" "Cómo elegir una eSIM que sí funcione según tu equipo y uso.")
+      }}
+      {{ range $featured }}
+      <article class="card">
+        <a href="{{ .url }}" class="block">
+          {{ with .image }}
+          <div class="overflow-hidden">
+            <img src="{{ . }}" alt="{{ $.Title }}" class="card-image" loading="lazy">
+          </div>
+          {{ end }}
+          <div class="card-body">
+            <h3 class="card-title">{{ .title }}</h3>
+            <p class="card-text">{{ .desc }}</p>
+            <span class="inline-flex items-center gap-1 text-sm font-medium text-[var(--brand)] mt-3">
+              Leer comparativa
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+            </span>
+          </div>
+        </a>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+
+  {{/* Ad slot: homepage mid */}}
+  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "mid_article" "ctx" .) }}{{ end }}
+
+  <!-- Guías Más Leídas (top traffic from Rybbit) -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 py-10 sm:py-14">
+    <h2 class="text-2xl sm:text-3xl font-bold mb-2">Las Guías Más Leídas</h2>
+    <p class="mb-8">Los artículos que más consultan nuestros visitantes.</p>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+      <a href="/planes-moviles/telcel-vs-att-vs-movistar.html" class="block p-5 rounded-xl transition group">
+        <h3 class="font-semibold">Telcel vs AT&T vs Movistar</h3>
+        <p class="text-sm mt-1">Compara precios, cobertura y datos de los tres grandes.</p>
+      </a>
+      <a href="/blog/que-significa-la-velocidad-de-internet.html" class="block p-5 rounded-xl transition group">
+        <h3 class="font-semibold">Qué Significa la Velocidad de Internet</h3>
+        <p class="text-sm mt-1">Mbps, ping y velocidad real explicados en español simple.</p>
+      </a>
+      <a href="/cobertura/mejor-internet-cdmx.html" class="block p-5 rounded-xl transition group">
+        <h3 class="font-semibold">Mejor Internet en CDMX</h3>
+        <p class="text-sm mt-1">Los mejores proveedores y planes en Ciudad de México.</p>
+      </a>
+      <a href="/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html" class="block p-5 rounded-xl transition group">
+        <h3 class="font-semibold">Telmex vs Izzi vs Totalplay</h3>
+        <p class="text-sm mt-1">Comparativa directa de los tres proveedores más grandes.</p>
+      </a>
+      <a href="/blog/cuanto-cuesta-internet-en-mexico-2026.html" class="block p-5 rounded-xl transition group">
+        <h3 class="font-semibold">Cuánto Cuesta Internet en México</h3>
+        <p class="text-sm mt-1">Precios reales de internet residencial en 2026.</p>
+      </a>
+      <a href="/blog/cuantos-gb-necesitas-al-mes.html" class="block p-5 rounded-xl transition group">
+        <h3 class="font-semibold">Cuántos GB Necesitas al Mes</h3>
+        <p class="text-sm mt-1">Calcula tu consumo de datos móviles fácilmente.</p>
+      </a>
+    </div>
+  </section>
+
+  <!-- Latest Guides -->
+  <section class="mb-12" aria-label="Últimas guías">
+    <div class="flex items-center justify-between mb-6">
+      <h2 class="text-2xl font-bold">Últimas guías</h2>
+      <a href="/blog/" class="text-sm font-medium transition-colors">Ver todas →</a>
+    </div>
+    <div class="section-grid">
+      {{ range first 6 .Site.RegularPages.ByDate.Reverse }}
+        <article class="card">
+          <a href="{{ .RelPermalink }}" class="block">
+            {{ with .Params.image }}
+              <div class="overflow-hidden">
+                <img src="{{ . }}" alt="{{ $.Title }}" class="card-image" loading="lazy">
+              </div>
+            {{ end }}
+            <div class="card-body">
+              {{ with .CurrentSection }}
+                {{ if and (not .IsHome) (ne .Title "Blog") }}
+                  <span class="badge badge-primary mb-2 inline-block">{{ .Title }}</span>
+                {{ end }}
+              {{ end }}
+              <h3 class="card-title">{{ .Title }}</h3>
+              <p class="card-text">{{ .Params.description | default (truncate 120 .Plain) }}</p>
+              <time datetime="{{ .Date.Format "2006-01-02" }}" class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</time>
+            </div>
+          </a>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+
+  <!-- Cities Strip -->
+  <section class="mb-12" aria-label="Cobertura por ciudad">
+    <div class="cities-strip">
+      <div class="cities-strip-header">
+        <h2 class="text-xl font-bold">Internet en tu ciudad</h2>
+        <p class="text-sm mt-1">Cobertura y mejores opciones por zona.</p>
+      </div>
+      <div class="cities-strip-links">
+        <a href="/cobertura/mejor-internet-cdmx.html" class="city-chip">CDMX</a>
+        <a href="/cobertura/guadalajara.html" class="city-chip">Guadalajara</a>
+        <a href="/cobertura/monterrey.html" class="city-chip">Monterrey</a>
+        <a href="/cobertura/puebla.html" class="city-chip">Puebla</a>
+        <a href="/cobertura/queretaro.html" class="city-chip">Querétaro</a>
+        <a href="/cobertura/" class="city-chip city-chip-more">Ver todas <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Decision Footer Strip -->
+  <section class="decision-footer" aria-label="Empieza a decidir">
+    <div class="decision-footer-content">
+      <h2 class="text-2xl font-bold">¿Listo para elegir mejor?</h2>
+      <p class="mt-2 max-w-xl">Explora comparativas, calcula tu consumo o encuentra la mejor opción en tu ciudad.</p>
+    </div>
+    <div class="decision-footer-actions">
+      <a href="/internet-en-casa/" class="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-[var(--brand)] text-white font-semibold rounded-lg hover:bg-[var(--brand-700)] transition-colors">
+        Internet en casa
+      </a>
+      <a href="/planes-moviles/" class="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-white border border-[var(--border)] text-[var(--ink)] font-semibold rounded-lg hover:bg-[var(--color-neutral-50)] transition-colors">
+        Planes móviles
+      </a>
+    </div>
+  </section>
+
+</div>
+{{ end }}

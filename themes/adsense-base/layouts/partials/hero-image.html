@@ -1,15 +1,19 @@
-{{- /* hero-image.html — performance-optimized article hero using responsive-image partial */ -}}
+{{/* Hero/Featured Image for article pages */}}
+{{ with . }}
 {{ $image := .Params.image }}
 {{ if $image }}
-  {{ partial "responsive-image.html" (dict
-    "src" $image
-    "alt" (.Params.image_alt | default .Title)
-    "caption" .Params.image_caption
-    "figure_class" "hero-figure article-hero"
-    "img_class" "hero-img"
-    "loading" "eager"
-    "fetchpriority" "high"
-    "sizes" "(max-width: 768px) 100vw, 1200px"
-    "page_ctx" .
-  ) }}
+  <figure class="mb-6">
+    <img
+      src="{{ $image }}"
+      alt="{{ with .Params.image_alt }}{{ . }}{{ else }}{{ .Title }}{{ end }}"
+      class="w-full h-auto rounded-lg"
+      loading="lazy"
+      {{ with .Params.image_width }}width="{{ . }}"{{ end }}
+      {{ with .Params.image_height }}height="{{ . }}"{{ end }}
+    >
+    {{ with .Params.image_caption }}
+      <figcaption class="text-sm text-gray-500 mt-2 text-center">{{ . }}</figcaption>
+    {{ end }}
+  </figure>
+{{ end }}
 {{ end }}

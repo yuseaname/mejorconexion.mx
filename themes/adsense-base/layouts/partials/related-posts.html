@@ -1,25 +1,72 @@
-{{- /* related-posts.html — topic-aware: same section first, then fallback */ -}}
+{{/* Related Posts: topically-matched, ranked by shared category + tags.
+     Falls back to most-recent same-section pages only if no topical match.
+     Renders using the design-system card pattern for visual consistency. */}}
 {{ $current := . }}
-{{ $sectionPages := where .Site.RegularPages "Section" .Section }}
-{{ $sameSection := where $sectionPages "Permalink" "!=" $current.Permalink | first 2 }}
-{{ $fallback := where .Site.RegularPages "Permalink" "!=" $current.Permalink | first (sub 3 (len $sameSection)) }}
-{{ $related := $sameSection | append $fallback }}
+{{ $currentCat := .Params.category }}
+{{ $currentTags := .Params.tags }}
 
-{{ if gt (len $related) 0 }}
-  <section class="related-section" aria-label="Artículos relacionados">
-    <h2 class="related-title">Artículos relacionados</h2>
-    <div class="related-grid">
-      {{ range $related }}
-        <article class="related-card group">
-          <a href="{{ .RelPermalink }}" class="related-link">
+{{ $allPages := where .Site.RegularPages ".Permalink" "!=" $current.Permalink }}
+
+{{/* Score every candidate: +2 for same category, +1 per shared tag */}}
+{{ $scored := slice }}
+{{ range $allPages }}
+  {{ $candidate := . }}
+  {{ $score := 0 }}
+  {{ if and $currentCat (eq .Params.category $currentCat) }}
+    {{ $score = add $score 2 }}
+  {{ end }}
+  {{ with $currentTags }}
+    {{ range $t := . }}
+      {{ if in ($candidate.Params.tags | default slice) $t }}
+        {{ $score = add $score 1 }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if gt $score 0 }}
+    {{ $scored = $scored | append (dict "page" $candidate "score" $score) }}
+  {{ end }}
+{{ end }}
+
+{{/* Sort by score (desc), tiebreak by date (desc), take 3 */}}
+{{ $related := sort $scored "score" "desc" }}
+
+{{ $top := slice }}
+{{ range first 3 $related }}
+  {{ $top = $top | append .page }}
+{{ end }}
+
+{{/* Fallback: if no topical match, use 3 most recent non-current pages */}}
+{{ if eq (len $top) 0 }}
+  {{ $top = first 3 $allPages }}
+{{ end }}
+
+{{ if gt (len $top) 0 }}
+  <section class="related-section" aria-label="Related articles">
+    <div class="section-heading">
+      <h2 class="related-title">Keep Reading</h2>
+    </div>
+    <div class="section-grid">
+      {{ range $top }}
+        <article class="card">
+          <a href="{{ .RelPermalink }}" class="block">
             {{ with .Params.image }}
-              <div class="related-image">
-                <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async" width="400" height="225">
+              <div class="overflow-hidden">
+                {{/* Decorative card art: the visible card heading labels the link,
+                     so alt stays empty instead of duplicating (or mislabeling) text. */}}
+                <img src="{{ . }}" alt="" class="card-image" loading="lazy" decoding="async">
               </div>
+            {{ else }}
+              {{/* Intentional no-image fallback: branded monogram block keeps card
+                   geometry stable instead of a missing-image gap. */}}
+              <div class="card-fallback" aria-hidden="true">{{ substr .Title 0 1 }}</div>
             {{ end }}
-            <div class="related-card-body">
-              <h3 class="related-card-title">{{ .Title }}</h3>
-              {{ with .Date }}<time datetime="{{ .Format "2006-01-02" }}" class="related-card-date">{{ .Format "2 Jan 2006" }}</time>{{ end }}
+            <div class="card-body">
+              <h3 class="card-title">{{ .Title }}</h3>
+              <p class="card-text">{{ .Params.description | default (truncate 110 .Plain) }}</p>
+              <div class="flex items-center justify-between mt-3">
+                <time datetime="{{ .Date.Format "2006-01-02" }}" class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</time>
+                <span class="text-xs" style="color: var(--color-text-muted)">{{ .ReadingTime }} min read</span>
+              </div>
             </div>
           </a>
         </article>

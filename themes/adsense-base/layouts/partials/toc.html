@@ -1,28 +1,27 @@
-{{- /* toc.html — table of contents with mobile collapsible and active-link accent */ -}}
+{{- /* toc.html — collapsible Table of Contents.
+   Collapsed by default so it never pushes the answer below the fold; readers
+   who want to jump sections expand it. */ -}}
 {{- with .TableOfContents -}}
   {{- $html := . | strings.TrimSpace -}}
   {{- if ne $html "" -}}
+    {{- /* Check if there are actual list items (not just an empty <nav>) */ -}}
     {{- if strings.Contains $html "<li" -}}
-<nav class="toc" aria-label="Tabla de contenidos">
-  <details class="toc-details sm:toc-static">
-    <summary class="toc-summary">
-      <span class="toc-title">Tabla de contenidos</span>
-      <svg class="toc-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" width="20" height="20">
-        <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
-      </svg>
-    </summary>
-    <div class="toc-nav">
-      {{- $clean := strings.Replace $html `<nav id="TableOfContents">` "" 1 -}}
-      {{- $clean = strings.Replace $clean `</nav>` "" 1 -}}
-      {{- $clean = strings.TrimSpace $clean -}}
-      {{- $clean = strings.Replace $clean "<ul>" "<ul class=\"toc-list\">" 1 -}}
-      {{- $clean = strings.Replace $clean "<ul>" "<ul class=\"toc-sublist\">" -1 -}}
-      {{- $clean = strings.Replace $clean "<li>" "<li class=\"toc-item\">" -1 -}}
-      {{- $clean = strings.Replace $clean "<a" "<a class=\"toc-link\"" -1 -}}
-      {{- $clean | safeHTML -}}
-    </div>
-  </details>
-</nav>
+<details class="toc">
+  <summary class="toc-summary">
+    <span class="toc-title">On this page</span>
+    <svg class="toc-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+  </summary>
+  <div class="toc-nav">
+    {{- /* Remove Hugo's default <nav id="TableOfContents"> wrapper since we provide our own */ -}}
+    {{- $clean := strings.Replace $html `<nav id="TableOfContents">` "" 1 -}}
+    {{- $clean = strings.Replace $clean `</nav>` "" 1 -}}
+    {{- $clean = strings.TrimSpace $clean -}}
+    {{- $clean = strings.Replace $clean "<ul>" "<ul class=\"space-y-1 ml-4\">" 1 -}}
+    {{- $clean = strings.Replace $clean "<ul>" "<ul class=\"ml-4\">" -1 -}}
+    {{- $clean = strings.Replace $clean "<li>" "<li class=\"mt-1\">" -1 -}}
+    {{- $clean | safeHTML -}}
+  </div>
+</details>
     {{- end -}}
   {{- end -}}
 {{- end -}}

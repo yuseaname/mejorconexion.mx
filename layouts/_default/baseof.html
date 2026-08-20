@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ .Lang | default "en" }}" dir="{{ if eq .Lang "ar" }}rtl{{ else }}ltr{{ end }}">
+<html lang="{{ .Site.LanguageCode | default "es" }}" dir="{{ if eq .Site.LanguageCode "ar" }}rtl{{ else }}ltr{{ end }}">
 <head>
   {{ partial "head.html" . }}
 </head>
-<body class="min-h-screen flex flex-col {{ if eq .Site.Language.Lang "es" }}font-sans{{ else }}font-sans{{ end }}">
+<body class="min-h-screen flex flex-col font-sans" style="background: var(--paper); color: var(--ink);">
 
   <!-- Skip to content (accessibility) -->
   <a href="#main-content" class="skip-to-content">Skip to content</a>
@@ -64,6 +64,8 @@
   {{ with resources.Get "js/main.js" }}
     <script src="{{ .RelPermalink }}"></script>
   {{ end }}
+
+  {{ block "scripts" . }}{{ end }}
 
   {{/* Rybbit Analytics */}}
   {{ partial "rybbit-analytics.html" . }}

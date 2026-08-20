@@ -1,69 +1,62 @@
-<footer style="background: var(--paper-2); border-top: 1px solid var(--border); margin-top: 4rem;" role="contentinfo">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-12">
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+<footer class="site-footer" role="contentinfo">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-14">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
       <!-- Brand column -->
       <div class="sm:col-span-2 lg:col-span-1">
-        <a href="{{ .Site.BaseURL | relURL }}" class="flex items-center gap-2 text-sm font-bold transition-opacity hover:opacity-80" style="color: #F0F4FA;">
-          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true" style="color: var(--brand-bright);">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0"/>
+        <a href="{{ .Site.BaseURL | relURL }}" class="flex items-center gap-2 text-sm font-bold footer-brand">
+          <svg class="w-5 h-5 footer-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
           </svg>
           {{ .Site.Params.site_name | default .Site.Title }}
         </a>
         {{ with .Site.Params.description }}
-        <p class="text-xs mt-3 leading-relaxed max-w-xs" style="color: var(--ink-muted);">{{ . }}</p>
+        <p class="footer-desc mt-3">{{ . }}</p>
         {{ end }}
-        <p class="text-xs mt-4" style="color: var(--ink-faint);">&copy; {{ now.Year }} Todos los derechos reservados.</p>
+        <p class="footer-copy mt-4">© {{ now.Year }} {{ .Site.Params.site_name | default .Site.Title }}. All rights reserved.</p>
       </div>
 
-      <!-- Atajos -->
+      <!-- Quick Links -->
       <div>
-        <h3 class="footer-heading">Atajos</h3>
-        <ul class="space-y-2">
-          <li><a href="/" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Inicio</a></li>
-          <li><a href="/blog.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Blog</a></li>
-          <li><a href="/about.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Acerca de</a></li>
-          <li><a href="/contact.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Contacto</a></li>
+        <h3 class="footer-heading">Guides</h3>
+        <ul class="footer-list">
+          <li><a href="/" class="footer-link">Home</a></li>
+          <li><a href="/blog/" class="footer-link">All Guides</a></li>
+          <li><a href="/about/" class="footer-link">About</a></li>
+          <li><a href="/contact/" class="footer-link">Contact</a></li>
         </ul>
       </div>
 
-      <!-- Categorías -->
+      <!-- Categories -->
       <div>
-        <h3 class="footer-heading">Categorías</h3>
-        <ul class="space-y-2">
-          {{ range first 6 .Site.Sections }}
-          <li><a href="{{ .RelPermalink }}" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">{{ .Title }}</a></li>
+        <h3 class="footer-heading">Topics</h3>
+        <ul class="footer-list">
+          {{ $cats := .Site.Taxonomies.categories }}
+          {{ range first 6 (sort $cats "Count" "desc") }}
+          <li><a href="{{ .Page.RelPermalink }}" class="footer-link">{{ .Page.Title | default (humanize (path.Base .Page.RelPermalink)) | title }}</a></li>
           {{ end }}
         </ul>
       </div>
 
-      <!-- Editorial -->
+      <!-- Trust & Policies -->
       <div>
-        <h3 class="footer-heading">Editorial</h3>
-        <ul class="space-y-2">
-          {{ $allPages := where .Site.Pages "Kind" "page" }}
-          {{ $slugs := slice "privacy" "privacy-policy" "disclosure" "editorial-policy" "terms" "terms-of-service" }}
-          {{ range $slugs }}
-            {{ $slug := . }}
-            {{ range $allPages }}
-              {{ if or (eq .File.BaseFileName $slug) (eq .File.TranslationBaseName $slug) }}
-                <li><a href="{{ .RelPermalink }}" class="text-sm capitalize transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">{{ replace $slug "-" " " }}</a></li>
-              {{ end }}
-            {{ end }}
-          {{ end }}
-        </ul>
-        <ul class="space-y-2 mt-3">
-          <li><a href="/editorial-policy.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Política editorial</a></li>
-          <li><a href="/corrections.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Correcciones</a></li>
-          <li><a href="/sitemap.xml" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Sitemap</a></li>
+        <h3 class="footer-heading">Trust &amp; Legal</h3>
+        <ul class="footer-list">
+          <li><a href="/editorial-team/" class="footer-link">Editorial Team</a></li>
+          <li><a href="/editorial-policy/" class="footer-link">Editorial Policy</a></li>
+          <li><a href="/methodology/" class="footer-link">Methodology</a></li>
+          <li><a href="/corrections/" class="footer-link">Corrections</a></li>
+          <li><a href="/privacy-policy/" class="footer-link">Privacy Policy</a></li>
+          <li><a href="/terms/" class="footer-link">Terms</a></li>
+          <li><a href="/disclaimer/" class="footer-link">Disclaimer</a></li>
         </ul>
       </div>
     </div>
 
     <!-- AdSense disclosure -->
-    <div class="mt-10 pt-6" style="border-top: 1px solid var(--border);">
-      <p class="text-xs max-w-3xl" style="color: var(--ink-faint);">
-        Este sitio muestra anuncios de terceros. Los espacios publicitarios son automáticos y no constituyen una recomendación personal.
-        {{ with .Site.Params.adsense.client_id }}Usamos Google AdSense para mostrarlos.{{ end }}
+    <div class="footer-disclosure">
+      <p>
+        This site may display advertisements provided by third parties. Ad placements are automated and not personally endorsed.
+        {{ with .Site.Params.adsense.client_id }}We use Google AdSense to serve ads.{{ end }}
       </p>
     </div>
   </div>

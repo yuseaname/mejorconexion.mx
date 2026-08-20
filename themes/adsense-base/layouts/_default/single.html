@@ -1,82 +1,119 @@
 {{ define "main" }}
-<article class="article-shell">
-  <div class="article-container">
-    {{ partial "breadcrumbs.html" . }}
+<article class="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+  {{ partial "breadcrumbs.html" . }}
 
-    <header class="article-header">
-      {{/* Answer-first (MCX-02): H1 + lede reach the first viewport BEFORE the
-           hero image. Category badge, title, lede, update log, then hero. */}}
-      {{ with .CurrentSection }}
-        {{ if and (not .IsHome) (ne .Title "Blog") }}
-          <a href="{{ .RelPermalink }}" class="badge badge-primary article-category">{{ .Title }}</a>
-        {{ end }}
+  <!-- Article Header -->
+  <header class="mb-6">
+    <!-- Category badge -->
+    {{ with .CurrentSection }}
+      {{ if and (not .IsHome) (ne .Title "Blog") }}
+        <a href="{{ .RelPermalink }}" class="badge badge-primary mb-3 inline-block">{{ .Title }}</a>
       {{ end }}
+    {{ end }}
 
-      <h1 class="article-title">{{ .Title }}</h1>
+    <h1 class="text-3xl sm:text-4xl font-bold text-gray-900 leading-tight mb-4">{{ .Title }}</h1>
 
-      {{ with .Params.description }}
-      <p class="article-lede">{{ . }}</p>
+    <!-- Article meta (blog posts only; suppressed on static pages) -->
+    {{ if eq .Section "blog" }}
+    <div class="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-gray-500">
+      {{ with .Params.author }}
+      <span class="flex items-center gap-1.5">
+        <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/>
+        </svg>
+        <span class="font-medium text-gray-700">{{ . }}</span>
+      </span>
       {{ end }}
+      <span class="flex items-center gap-1.5">
+        <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+        </svg>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      </span>
+      <span class="flex items-center gap-1.5">
+        <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"/>
+        </svg>
+        {{ .ReadingTime }} min read
+      </span>
+    </div>
+    {{ end }}
 
-      {{ partial "verdict-card.html" . }}
+    {{ with .Params.description }}
+    <p class="text-lg text-gray-600 mt-4 leading-relaxed">{{ . }}</p>
+    {{ end }}
 
-      {{/* Trust source card (MCX-05b): above the first ad slot, inside header */}}
-      {{ with .Params.source_card }}
-        {{ if . }}{{ partial "source-card.html" (dict "fecha" .) }}{{ end }}
-      {{ end }}
+    {{ if .Params.updated }}
+    <p class="text-xs text-gray-400 mt-2 flex items-center gap-1">
+      <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/>
+      </svg>
+      Updated: {{ dateFormat "January 2, 2006" .Params.updated }}
+    </p>
+    {{ end }}
 
-      {{ partial "update-log.html" . }}
-
+    {{/* Hero image sits AFTER the title/lead so the answer leads, not the image.
+           Pages with `hero_below_answer: true` push the hero further down —
+           it renders after the TOC, right before the body, so the Quick
+           Answer block is the first thing on screen under the header. */}}
+    {{ if not .Params.hero_below_answer }}
       {{ partial "hero-image.html" . }}
-    </header>
-
-    {{/* Ad slot: below title (desktop only via CSS) */}}
-    {{ if .Site.Params.adsense.client_id }}
-      {{ partial "adsense.html" (dict "position" "below_title" "ctx" .) }}
     {{ end }}
+  </header>
 
-    {{/* TOC + content */}}
-    {{ if and (gt .WordCount 800) .TableOfContents }}
-      {{ partial "toc.html" . }}
+  {{/* Table of Contents (collapsible — reclaims above-the-fold space) */}}
+  {{ if and (gt .WordCount 800) .TableOfContents }}
+    {{ partial "toc.html" . }}
+  {{ end }}
+
+  {{/* Deferred hero (hero_below_answer pages): body content carries its own
+           inline figure, so the front-matter hero is suppressed entirely —
+           the Quick Answer block reaches screen first. */}}
+  {{ if .Params.hero_below_answer }}
+    {{/* hero intentionally not rendered */}}
+  {{ end }}
+
+  <!-- Article Content (the answer leads — no ads precede it) -->
+  <div class="article-content">
+    {{ .Content }}
+  </div>
+
+  {{/* Tags */}}
+  {{ with .Params.tags }}
+  <div class="mt-8 flex flex-wrap gap-2">
+    {{ range . }}
+      <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="badge badge-neutral">{{ . }}</a>
     {{ end }}
+  </div>
+  {{ end }}
 
-    <div class="article-content">
-      {{ .Content }}
+  {{/* Bottom ad */}}
+  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "end_article" "ctx" .) }}{{ end }}
+
+  {{/* Sources / methodology strip */}}
+  <div class="sources-strip">
+    <div class="sources-strip-title">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/></svg>
+      How we got these numbers
     </div>
+    <p>Cost ranges reflect typical U.S. utility bills and are labeled as estimates, not guarantees. Rates, climates, and providers vary by region. Read our <a href="{{ "/methodology/" | relURL }}">methodology</a> to see how we calculate and review these figures.</p>
+  </div>
 
-    {{/* Mid-article ad */}}
-    {{ if .Site.Params.adsense.client_id }}
-      {{ partial "adsense.html" (dict "position" "mid_article" "ctx" .) }}
-    {{ end }}
+  {{/* Author bio — default links to the editorial team */}}
+  {{ $authorName := .Params.author | default "Utility Explained" }}
+  {{ $authorSlug := $authorName | urlize }}
+  {{ $authorPage := site.GetPage (printf "/author/%s" $authorSlug) }}
+  <div class="author-bio">
+    <div class="author-bio-avatar">{{ substr $authorName 0 1 }}</div>
+      <p class="author-bio-name">By {{ with $authorPage }}<a href="{{ .RelPermalink }}">{{ $authorName }}</a>{{ else }}{{ $authorName }}{{ end }} · <a href="{{ "/editorial-team/" | relURL }}">Editorial Team</a></p>
+      <p class="author-bio-text">Utility Explained's editorial team decodes utility bills so you don't have to. <a href="{{ "/editorial-policy/" | relURL }}">Read our editorial standards</a>{{ with $authorPage }} or <a href="{{ .RelPermalink }}">learn more about {{ $authorName }}</a>{{ end }}.</p>
+  </div>
 
-    {{/* Tags */}}
-    {{ with .Params.tags }}
-    <div class="article-tags">
-      {{ range . }}
-        <span class="badge badge-neutral">{{ . }}</span>
-      {{ end }}
-    </div>
-    {{ end }}
-
-    {{ partial "author-box.html" . }}
-
-    {{/* End-article ad */}}
-    {{ if .Site.Params.adsense.client_id }}
-      {{ partial "adsense.html" (dict "position" "end_article" "ctx" .) }}
-    {{ end }}
-
-    {{/* Email capture */}}
+  {{/* Email capture */}}
   {{ partial "email-capture.html" . }}
 
+  {{ if eq .Section "blog" }}
   {{ partial "related-posts.html" . }}
-
-    {{/* Article trust strip */}}
-    <nav class="article-trust-strip" aria-label="Trust and methodology">
-      <span class="article-trust-label">Confianza:</span>
-      <a href="/metodologia.html" class="article-trust-link">Metodología</a>
-      <a href="/transparencia.html" class="article-trust-link">Transparencia</a>
-      <a href="/corrections.html" class="article-trust-link">Correcciones</a>
-    </nav>
-  </div>
+  {{ end }}
 </article>
 {{ end }}
