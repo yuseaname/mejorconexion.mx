@@ -89,7 +89,7 @@ Guadalajara es una de las ciudades con mejor cobertura de internet en México. L
 | Izzi | Cable/fibra | 300-700 Mbps | $449 MXN/mes |
 | Megacable | Cable/fibra | 200-500 Mbps | $349 MXN/mes |
 
-[VERIFICAR PRECIOS Y COBERTURA EN TU COLONIA]
+Los precios y la cobertura cambian por colonia — consulta la tarifa vigente directamente en los sitios oficiales de los proveedores.
 
 La cobertura cambia por colonia. Zonas como Providencia, Chapalita y Zapopan tienen fibra de múltiples proveedores. Colonias más alejadas pueden tener menos opciones.
 :::

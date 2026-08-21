@@ -66,7 +66,7 @@ El internet sin contrato te da flexibilidad: cancelas cuando quieras sin penaliz
 | Planes de carrier con hotspot | $150-$300 MXN/mes | Variable | Uso ligero |
 | Satelital prepago | $500-$900 MXN/mes | 5-25 Mbps | Zona muy remota |
 
-[VERIFICAR PRECIOS EN SITIOS OFICIALES]
+Los precios cambian constantemente — consulta la tarifa vigente directamente en los sitios oficiales de los proveedores.
 
 Algunos proveedores grandes ofrecen planes "sin plazo forzoso" que técnicamente no te amarran, pero incluyen promociones que se pierden si cancelas antes de ciertos meses. Lee bien la letra pequeña.
 :::

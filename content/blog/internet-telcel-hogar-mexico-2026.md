@@ -66,7 +66,7 @@ Telcel Hogar es el servicio de internet fijo de Telcel que usa la red celular (4
 | Hogar 10 | 10-30 Mbps | desde $399 MXN | Limitados |
 | Hogar 20+ | 20-50 Mbps | desde $499 MXN | Más amplios |
 
-[VERIFICAR EN TELCEL.COM]
+Los precios cambian constantemente — consulta la tarifa vigente directamente con [Telcel](https://www.telcel.com).
 
 Los precios y planes cambian con frecuencia. La velocidad real depende de la señal celular en tu domicilio. Antes de contratar, verifica cuántas barras de señal tiene tu celular con Telcel en tu casa.
 :::

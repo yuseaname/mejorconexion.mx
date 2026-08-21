@@ -73,7 +73,7 @@ Sí se puede tener internet en casa en México por menos de $300 MXN al mes. Per
 | WISP local | $250-$300 MXN | 5-20 Mbps | Zona semiurbana | Estabilidad variable |
 | Plan móvil con hotspot | $150-$300 MXN | Variable | Uso muy ligero | Datos limitados |
 
-[VERIFICAR PRECIOS EN SITIOS OFICIALES]
+Los precios cambian constantemente — consulta la tarifa vigente directamente en los sitios oficiales de los proveedores.
 
 **Notas importantes:**
 - Los precios marcados como "promo" suben después de 3-6 meses. Pregunta el precio regular.

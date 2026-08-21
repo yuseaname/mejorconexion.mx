@@ -82,7 +82,7 @@ La velocidad depende de tres factores:
 | Telcel (planes con hotspot) | 4G/5G | Variable | desde $200 MXN/mes |
 | Proveedores locales (WISP) | Radioenlace | 5-20 Mbps | desde $250 MXN/mes |
 
-[VERIFICAR PRECIOS Y DISPONIBILIDAD EN SITIOS OFICIALES]
+Los precios y la disponibilidad cambian constantemente — consulta la tarifa vigente directamente en los sitios oficiales de los proveedores.
 
 Los precios y la disponibilidad cambian por zona. Algunos proveedores locales (WISP) ofrecen radioenlace dedicado, que puede ser más estable que el 4G compartido.
 :::

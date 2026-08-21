@@ -17,6 +17,8 @@ keywords:
 
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Respuesta Rápida
 
 Elige un router Wi-Fi con **WiFi 6** (AX), doble banda simultánea y al menos **4 puertos Gigabit Ethernet**; para planes de fibra de 300-500 Mbps en México, un TP-Link Archer AX21 o ASUS RT-AX58U ($1,200-$2,200 MXN) rinde mejor que el router básico que regala tu proveedor.
@@ -109,7 +111,7 @@ Para entender las bandas Wi-Fi, lee [cómo mejorar el Wi-Fi en casa](/internet-e
 
 **Regla:** si tu casa tiene un piso y menos de 100 m², un buen router individual basta. Si tiene dos pisos o más de 150 m², considera mesh.
 
-[VERIFICAR PRECIOS EN MERCADO LIBRE/AMAZON MX]
+Ver precios actuales de routers Wi-Fi en [Amazon México](https://www.amazon.com.mx/s?k=router+wifi&tag=litwd-20).
 :::
 
 ::: section

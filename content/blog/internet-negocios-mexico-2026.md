@@ -85,7 +85,7 @@ Un negocio necesita internet que funcione de 9 AM a 9 PM sin interrupciones. Si 
 | Dedicado (fibra empresarial) | $2,000-$10,000 MXN/mes | SLA, simétrico | Caro |
 | 4G fijo como respaldo | $200-$400 MXN/mes | Siempre disponible | Velocidad limitada |
 
-[VERIFICAR EN SITIOS OFICIALES DE CADA PROVEEDOR]
+Los precios cambian constantemente — consulta la tarifa vigente directamente en los sitios oficiales de cada proveedor.
 
 Para negocios pequeños, un plan residencial de fibra suele bastar. Para negocios medianos que no pueden tolerar caídas, considera un plan empresarial o un respaldo de 4G fijo.
 :::

@@ -17,6 +17,8 @@ keywords:
 
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Respuesta Rápida
 
 En México 2026, el WiFi mesh **sí vale la pena** si tu casa pasa de 80 m² o tiene dos pisos: un sistema de 2 nodos **TP-Link Deco M4** ($1,500-$2,000 MXN) o **Deco X20** ($1,800-$2,500 MXN) elimina zonas muertas sin perder velocidad, a diferencia de los repetidores que reducen 50% el ancho de banda.
@@ -77,7 +79,7 @@ Un sistema mesh tiene un nodo principal (conectado a tu módem) y uno o más nod
 | Mesh 2 nodos | $1,500-$2,500 | Alta | Muy buena | Casa de 1 piso mediana |
 | Mesh 3 nodos | $2,000-$4,000 | Muy alta | Buena | Casa de 2 pisos o 150+ m² |
 
-[VERIFICAR PRECIOS EN MERCADO LIBRE/AMAZON MX]
+Ver precios actuales de sistemas Wi-Fi Mesh en [Amazon México](https://www.amazon.com.mx/s?k=sistema+wifi+mesh&tag=litwd-20).
 :::
 
 ::: {.ad-slot ad-slot="mid-content"}

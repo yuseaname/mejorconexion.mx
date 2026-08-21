@@ -112,7 +112,7 @@ Para entender por qué el Wi-Fi afecta tanto, lee [cómo mejorar tu Wi-Fi](/inte
 | Izzi | Cable/fibra | 20-50 ms | 60-120 ms |
 | Megacable | Cable/fibra | 25-60 ms | 70-130 ms |
 
-Estos son rangos generales. La latencia real depende de tu ubicación, el servidor del juego y la ruta de red. [VERIFICAR DISPONIBILIDAD EN TU ZONA]
+Estos son rangos generales. La latencia real depende de tu ubicación, el servidor del juego y la ruta de red. La disponibilidad varía por zona — verifica cobertura directamente en el sitio oficial del proveedor.
 :::
 
 ::: section

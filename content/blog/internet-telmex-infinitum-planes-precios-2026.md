@@ -74,7 +74,7 @@ Los precios a continuación son aproximados y basados en información pública. 
 | 750 Mbps | desde $899 MXN | Fibra | 300 Mbps | Línea fija |
 | 1 Gbps | desde $1,099 MXN | Fibra | 500 Mbps | Línea fija |
 
-[VERIFICAR PRECIOS EN TELMEX.COM]
+Los precios cambian constantemente — consulta la tarifa vigente directamente con [Telmex](https://www.telmex.com.mx).
 
 **Notas importantes:**
 - Los precios son aproximados y cambian por zona y promoción.

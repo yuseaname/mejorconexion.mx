@@ -73,7 +73,7 @@ Los precios a continuación son aproximados y basados en información pública y
 | 600 Mbps | desde $599 MXN | 300 Mbps | Alto rendimiento |
 | 1000 Mbps | desde $899 MXN | 500 Mbps | Máximo disponible |
 
-[VERIFICAR PRECIOS EN TOTALPLAY.COM.MX]
+Los precios cambian constantemente — consulta la tarifa vigente directamente con [Totalplay](https://www.totalplay.com.mx).
 
 ### Bundles populares de Totalplay (2026)
 

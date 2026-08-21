@@ -73,7 +73,7 @@ Megacable y Telmex son dos de los proveedores de internet más usados en México
 | TV incluida | Algunos paquetes | En la mayoría |
 | Teléfono incluido | Sí (ilimitado) | En algunos paquetes |
 
-[VERIFICAR PRECIOS EN SITIOS OFICIALES]
+Los precios cambian constantemente — consulta la tarifa vigente directamente en los sitios oficiales de Megacable y Telmex.
 :::
 
 <!-- ADSENSE_BREAK -->

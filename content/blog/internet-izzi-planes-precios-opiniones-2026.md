@@ -75,7 +75,7 @@ Los precios a continuación son aproximados y basados en información pública y
 | 700 Mbps | desde $749 MXN | Fibra | 70 Mbps | Multi-dispositivo |
 | 1000 Mbps | desde $899 MXN | Fibra | 100 Mbps | Power users |
 
-[VERIFICAR PRECIOS EN IZZI.MX]
+Los precios cambian constantemente — consulta la tarifa vigente directamente con [Izzi](https://www.izzi.mx).
 
 **Notas importantes:**
 - Los precios son promocionales y suben después de 3-6 meses. Pregunta el precio del mes 7 en adelante.

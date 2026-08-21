@@ -107,7 +107,7 @@ Estos son rangos generales basados en sitios oficiales. La disponibilidad cambia
 | Izzi | Cable/fibra | 300 Mbps | $449 MXN/mes |
 | Megacable | Cable/fibra | 200 Mbps | $349 MXN/mes |
 
-[VERIFICAR PRECIOS EN SITIOS OFICIALES]
+Los precios cambian constantemente — consulta la tarifa vigente directamente en los sitios oficiales de los proveedores.
 
 El punto clave: cualquier plan de 100 Mbps o más basta para streaming en una pantalla. El problema casi nunca es el plan — es el Wi-Fi o la estabilidad en horario pico.
 :::

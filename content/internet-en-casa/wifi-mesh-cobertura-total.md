@@ -17,9 +17,13 @@ keywords:
 
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Respuesta Rápida
 
 Un sistema Wi-Fi mesh (2-3 nodos) elimina zonas muertas en casas de **80-200 m²** en México: opciones como **TP-Link Deco X20** (2 nodos, $1,800-$2,500 MXN) o **Google Nest WiFi** ($2,500-$3,500 MXN) dan una sola red con roaming inteligente, a diferencia de los repetidores que duplican el SSID.
+
+Ver opciones de sistemas Wi-Fi Mesh en [Amazon México](https://www.amazon.com.mx/s?k=sistema+wifi+mesh&tag=litwd-20).
 
 - Coloca el nodo principal junto al módem y los secundarios a **mitad de camino** entre el router y la zona muerta.
 - Elige mesh **WiFi 6** si tu plan de fibra pasa de 300 Mbps; con WiFi 5 la velocidad se reduce a la mitad entre nodos.

@@ -102,7 +102,7 @@ La tercera opción, a menudo con precios competitivos y promociones agresivas.
 - **Debilidad:** cobertura la más limitada de las tres fuera de ciudades.
 - **Plan base típico:** desde $100 MXN/mes (prepago) o $200-$400 (pospago).
 
-[VERIFICAR PRECIOS Y COBERTURA EN SITIOS OFICIALES]
+Los precios y la cobertura cambian constantemente — consulta la tarifa vigente directamente con [Movistar](https://www.movistar.com.mx).
 
 Para una comparación más profunda entre los tres, checa [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar.html).
 :::

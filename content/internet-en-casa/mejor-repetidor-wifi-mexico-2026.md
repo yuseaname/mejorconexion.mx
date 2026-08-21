@@ -17,6 +17,8 @@ keywords:
 
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Respuesta Rápida
 
 El mejor repetidor WiFi en México 2026 es el **TP-Link RE605X** (WiFi 6, $1,200-$1,500 MXN) si necesitas extender señal a una habitación; pero si tienes más de 80 m² o dos pisos, un **sistema mesh de 2 nodos** ($1,800-$2,500 MXN) rinde mejor que cualquier repetidor porque no divide la velocidad.
@@ -82,7 +84,7 @@ Un repetidor WiFi puede resolver zonas muertas en tu casa, pero comprar el equiv
 | Access point cableado | $500-$1,000 MXN | Mejor rendimiento | Necesitas cable Ethernet al router |
 | Sistema mesh (2 nodos) | $1,500-$3,500 MXN | Cobertura total sin perder velocidad | Más caro |
 
-[VERIFICAR PRECIOS EN MERCADO LIBRE/AMAZON MX]
+Ver precios actuales de repetidores Wi-Fi en [Amazon México](https://www.amazon.com.mx/s?k=repetidor+wifi&tag=litwd-20).
 
 El repetidor más barato puede resolver un problema puntual. Pero si tu casa tiene más de 100 m² o dos pisos, un sistema mesh o access point cableado da mejores resultados.
 :::

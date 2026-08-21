@@ -73,7 +73,7 @@ Megacable y Totalplay son dos de los proveedores de internet más usados en Méx
 | Precio base desde | ~$389 MXN/mes | ~$349 MXN/mes |
 | TV incluida | En algunos paquetes | Sí, en la mayoría |
 
-[VERIFICAR PRECIOS Y DISPONIBILIDAD EN SITIOS OFICIALES]
+Los precios y la disponibilidad cambian constantemente — consulta la tarifa vigente directamente en los sitios oficiales de Megacable y Totalplay.
 :::
 
 <!-- ADSENSE_BREAK -->

@@ -18,6 +18,8 @@ keywords:
 
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Respuesta Rápida
 
 **Un adaptador Powerline en México cuesta entre $600 y $2,500 MXN por par y usa el cableado eléctrico para llevar internet. Funciona bien en casas con instalación eléctrica moderna y un solo piso; rinde entre 100-300 Mbps reales. Es mejor opción que un repetidor Wi-Fi si las paredes son gruesas.**
@@ -72,7 +74,7 @@ No necesita configuración compleja: enchufas y funciona. La velocidad depende d
 | $400-$700 (kit básico) | 50-200 Mbps | Mismo circuito eléctrico |
 | $700-$1,200 (kit AV1000+) | 100-500 Mbps | Mismo circuito |
 
-[VERIFICAR PRECIOS EN MERCADO LIBRE/AMAZON MX]
+Ver precios actuales de adaptadores Powerline en [Amazon México](https://www.amazon.com.mx/s?k=adaptador+powerline&tag=litwd-20).
 :::
 
 <!-- ADSENSE_BREAK -->

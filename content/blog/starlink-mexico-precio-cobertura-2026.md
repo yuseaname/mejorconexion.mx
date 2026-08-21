@@ -67,7 +67,7 @@ Starlink es el servicio de internet satelital de SpaceX que llega a México con 
 | Mensualidad (Roam/Ilimitado) | ~$3,000-$4,000 MXN/mes |
 | Envío e impuestos | Variable |
 
-[VERIFICAR PRECIOS ACTUALES EN STARLINK.COM]
+Los precios cambian constantemente — consulta la tarifa vigente directamente en [Starlink](https://www.starlink.com).
 
 El costo inicial incluye la antena y el router. La mensualidad es significativamente más alta que un plan de fibra o cable urbano ($300-$600 MXN/mes). Starlink solo conviene donde no hay otra opción viable.
 :::

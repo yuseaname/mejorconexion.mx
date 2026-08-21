@@ -82,7 +82,7 @@ Antes de contratar, pregunta el **precio total mensual después de promoción**,
 | Internet móvil (4G fijo) | $200-$350 MXN/mes | Rápido de instalar | Depende de señal celular |
 | WISP local | $250-$400 MXN/mes | Llega a zonas sin cable | Estabilidad variable |
 
-[VERIFICAR PRECIOS Y DISPONIBILIDAD EN SITIOS OFICIALES]
+Los precios y la disponibilidad cambian constantemente — consulta la tarifa vigente directamente en los sitios oficiales de los proveedores.
 
 El más barato en precio mensual no siempre es el más barato en costo total. Suma instalación, equipo y permanencia antes de comparar.
 :::

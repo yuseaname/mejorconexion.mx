@@ -23,6 +23,7 @@ uglyURLs = true
   favicon = '/assets/images/logo.png'
   og_image = '/assets/images/logo.png'
   google_site_verification = ''
+  amazon_tag = 'litwd-20'
 
   [params.adsense]
     client_id = 'ca-pub-5566942094411042'
