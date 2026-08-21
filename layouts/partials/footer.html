@@ -59,11 +59,13 @@
       </div>
     </div>
 
-    <!-- AdSense disclosure -->
+    <!-- AdSense + affiliate disclosure (S1: conspicuous, both channels, links to transparency page) -->
     <div class="mt-10 pt-6" style="border-top: 1px solid var(--border);">
       <p class="text-xs max-w-3xl" style="color: var(--ink-faint);">
-        Este sitio muestra anuncios de terceros. Los espacios publicitarios son automáticos y no constituyen una recomendación personal.
+        <strong>Anuncios y enlaces de afiliados:</strong> este sitio muestra anuncios de terceros. Los espacios publicitarios son automáticos y no constituyen una recomendación personal.
         {{ with .Site.Params.adsense.client_id }}Usamos Google AdSense para mostrarlos.{{ end }}
+        {{ with .Site.Params.amazon_tag }}Algunos enlaces a productos son de afiliados y pueden generarnos una comisión sin costo adicional para ti.{{ end }}
+        <a href="/transparencia.html" style="color: var(--ink-muted); text-decoration: underline;">Más detalles sobre cómo se financia este sitio</a>.
       </p>
     </div>
   </div>

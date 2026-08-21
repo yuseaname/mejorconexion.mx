@@ -23,7 +23,7 @@ main:
     url: /about.html
     weight: 10
   - name: Contacto
-    url: /contact.html
+    url: /contacto.html
     weight: 11
 
 footer:
@@ -44,4 +44,4 @@ footer:
   - name: Privacidad
     url: /privacy.html
   - name: Contacto
-    url: /contact.html
+    url: /contacto.html

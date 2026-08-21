@@ -26,6 +26,20 @@ jobs:
           test -f public/planes-moviles/telcel-vs-att-vs-movistar.html
           grep -q 'ca-pub-5566942094411042' public/index.html
           grep -q '095d6520421b' public/index.html
+      - name: Content-defect ratchet (mission SQ-014 S1)
+        # Ratchets: counts must never EXCEED baseline. Cleanup sprints lower the
+        # numbers; regression fails the deploy. FAQPage floor catches the R8
+        # shortcode/Store race dropping schema wholesale (seen: 96 vs 215 builds).
+        run: |
+          TRIPLE_COLON=$(grep -rl ':::' public --include='*.html' | wc -l)
+          PANDOC_ATTR=$(grep -rl '{\.card}\|{\.label}\|{\.btn}' public --include='*.html' | wc -l)
+          FAQPAGES=$(grep -rl 'FAQPage' public --include='*.html' | wc -l)
+          echo "::: leak pages: $TRIPLE_COLON (ratchet <= 179)"
+          echo "{.attr} leak pages: $PANDOC_ATTR (ratchet <= 32)"
+          echo "FAQPage pages: $FAQPAGES (floor >= 200)"
+          test "$TRIPLE_COLON" -le 179
+          test "$PANDOC_ATTR" -le 32
+          test "$FAQPAGES" -ge 200
       - name: Setup SSH
         run: |
           mkdir -p ~/.ssh

@@ -25,6 +25,10 @@ uglyURLs = true
   google_site_verification = ''
   amazon_tag = 'litwd-20'
 
+  # Trust/legal pages excluded from all ad slots (blueprint S1, mission SQ-014):
+  # AdSense policy exposure on thin-content policy pages + trust corrosion.
+  ad_free_pages = ['about.md', 'contact.md', 'contacto.md', 'corrections.md', 'editorial-policy.md', 'metodologia.md', 'privacy.md', 'transparencia.md', 'buscar.md']
+
   [params.adsense]
     client_id = 'ca-pub-5566942094411042'
     [params.adsense.slots]

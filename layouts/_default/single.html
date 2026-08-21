@@ -1,4 +1,9 @@
 {{ define "main" }}
+{{/* S1 policy fix (SQ-014 blueprint): trust/legal pages carry zero ad slots —
+     AdSense "little original content" exposure + trust corrosion. List lives in
+     hugo.toml params.ad_free_pages so it stays self-documenting. */}}
+{{ $noAds := and .File (in .Site.Params.ad_free_pages .File.LogicalName) }}
+{{ $showAds := and .Site.Params.adsense.client_id (not $noAds) }}
 <article class="article-shell">
   <div class="article-container">
     {{ partial "breadcrumbs.html" . }}
@@ -31,7 +36,7 @@
     </header>
 
     {{/* Ad slot: below title (desktop only via CSS) */}}
-    {{ if .Site.Params.adsense.client_id }}
+    {{ if $showAds }}
       {{ partial "adsense.html" (dict "position" "below_title" "ctx" .) }}
     {{ end }}
 
@@ -45,7 +50,7 @@
     </div>
 
     {{/* Mid-article ad */}}
-    {{ if .Site.Params.adsense.client_id }}
+    {{ if $showAds }}
       {{ partial "adsense.html" (dict "position" "mid_article" "ctx" .) }}
     {{ end }}
 
@@ -61,7 +66,7 @@
     {{ partial "author-box.html" . }}
 
     {{/* End-article ad */}}
-    {{ if .Site.Params.adsense.client_id }}
+    {{ if $showAds }}
       {{ partial "adsense.html" (dict "position" "end_article" "ctx" .) }}
     {{ end }}
 
