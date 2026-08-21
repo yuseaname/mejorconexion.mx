@@ -2,12 +2,12 @@
 title: "Mejor internet para estudiantes méxico: comparativa definitiva 2026"
 slug: "mejor-internet-para-estudiantes-méxico"
 aliases: ["/blog/mejor-internet-para-estudiantes-méxico.html"]
-description: "for comparisons - Internal links: /blog/mejor-internet-casa-mexico-2026.html, /blog/izzi-vs-totalplay-telmex-megacable-2026.html, etc. - Output ONLY art…"
+description: "Guía de internet para estudiantes en México: velocidades, precios y proveedores que convienen según tu presupuesto y vivienda."
 date: 2026-05-24
 author: "Equipo Mejor Conexión"
 author_bio: "Comparamos internet y datos en México con criterio real, sin promesas raras."
 author_slug: "equipo"
-draft: false
+draft: true
 image: "/images/cat-proveedores.webp"
 keywords:
   - "internet lento mexico"

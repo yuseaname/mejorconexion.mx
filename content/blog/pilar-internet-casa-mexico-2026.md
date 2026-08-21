@@ -238,7 +238,7 @@ El proceso de portabilidad de internet es más simple de lo que parece y no tien
 El internet ideal cambia según el perfil del hogar. Hemos creado guías específicas:
 
 - **Familias grandes:** [mejor internet para familias grandes](/blog/mejor-internet-para-familias-grandes-en-m%C3%A9xico-2026.html).
-- **Estudiantes:** [mejor internet para estudiantes](/blog/mejor-internet-para-estudiantes-m%C3%A9xico.html).
+- **Estudiantes:** [internet para clases en línea](/blog/mejor-internet-clases-en-linea-mexico.html).
 - **Trabajo remoto:** [internet para trabajo remoto](/blog/internet-trabajo-remoto-2026.html) y [red estable para home office](/blog/red-estable-home-office-mexico.html).
 - **Gaming:** [mejor internet para gamers](/blog/mejor-internet-para-gamers-mexico-2026.html).
 - **Netflix y streaming:** [internet para Netflix](/blog/internet-para-netflix-mexico-2026.html) y [streaming sin cortes](/blog/streaming-sin-cortes-mexico.html).
