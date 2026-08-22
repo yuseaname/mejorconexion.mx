@@ -224,37 +224,7 @@
   {{/* Ad slot: homepage mid */}}
   {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "mid_article" "ctx" .) }}{{ end }}
 
-  <!-- Guías Más Leídas (top traffic from Rybbit) -->
-  <section class="max-w-7xl mx-auto px-4 sm:px-6 py-10 sm:py-14">
-    <h2 class="text-2xl sm:text-3xl font-bold mb-2">Las Guías Más Leídas</h2>
-    <p class="mb-8">Los artículos que más consultan nuestros visitantes.</p>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-      <a href="/planes-moviles/telcel-vs-att-vs-movistar.html" class="block p-5 rounded-xl transition group">
-        <h3 class="font-semibold">Telcel vs AT&T vs Movistar</h3>
-        <p class="text-sm mt-1">Compara precios, cobertura y datos de los tres grandes.</p>
-      </a>
-      <a href="/blog/que-significa-la-velocidad-de-internet.html" class="block p-5 rounded-xl transition group">
-        <h3 class="font-semibold">Qué Significa la Velocidad de Internet</h3>
-        <p class="text-sm mt-1">Mbps, ping y velocidad real explicados en español simple.</p>
-      </a>
-      <a href="/cobertura/mejor-internet-cdmx.html" class="block p-5 rounded-xl transition group">
-        <h3 class="font-semibold">Mejor Internet en CDMX</h3>
-        <p class="text-sm mt-1">Los mejores proveedores y planes en Ciudad de México.</p>
-      </a>
-      <a href="/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html" class="block p-5 rounded-xl transition group">
-        <h3 class="font-semibold">Telmex vs Izzi vs Totalplay</h3>
-        <p class="text-sm mt-1">Comparativa directa de los tres proveedores más grandes.</p>
-      </a>
-      <a href="/blog/cuanto-cuesta-internet-en-mexico-2026.html" class="block p-5 rounded-xl transition group">
-        <h3 class="font-semibold">Cuánto Cuesta Internet en México</h3>
-        <p class="text-sm mt-1">Precios reales de internet residencial en 2026.</p>
-      </a>
-      <a href="/blog/cuantos-gb-necesitas-al-mes.html" class="block p-5 rounded-xl transition group">
-        <h3 class="font-semibold">Cuántos GB Necesitas al Mes</h3>
-        <p class="text-sm mt-1">Calcula tu consumo de datos móviles fácilmente.</p>
-      </a>
-    </div>
-  </section>
+  {{/* S3 (SQ-014): duplicate "Guías Más Leídas" section removed — it rendered twice (Challenger E-finding). The canonical block after the hero remains. */}}
 
   <!-- Latest Guides -->
   <section class="mb-12" aria-label="Últimas guías">
@@ -263,7 +233,9 @@
       <a href="/blog/" class="text-sm font-medium transition-colors">Ver todas →</a>
     </div>
     <div class="section-grid">
-      {{ range first 6 .Site.RegularPages.ByDate.Reverse }}
+      {{/* S3 (SQ-014): policy/author pages are not "guías" — list real content only. */}}
+      {{ $latest := where (where .Site.RegularPages ".Section" "ne" "") ".Section" "ne" "authors" }}
+      {{ range first 6 $latest.ByDate.Reverse }}
         <article class="card">
           <a href="{{ .RelPermalink }}" class="block">
             {{ with .Params.image }}

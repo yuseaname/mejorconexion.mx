@@ -22,7 +22,7 @@
           <li><a href="/" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Inicio</a></li>
           <li><a href="/blog.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Blog</a></li>
           <li><a href="/about.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Acerca de</a></li>
-          <li><a href="/contact.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Contacto</a></li>
+          <li><a href="/contacto.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Contacto</a></li>
         </ul>
       </div>
 
@@ -39,17 +39,12 @@
       <!-- Editorial -->
       <div>
         <h3 class="footer-heading">Editorial</h3>
+        {{/* S3 (SQ-014): Spanish labels — the old slug loop rendered English
+             ("privacy", "editorial policy") amid the Spanish footer. */}}
         <ul class="space-y-2">
-          {{ $allPages := where .Site.Pages "Kind" "page" }}
-          {{ $slugs := slice "privacy" "privacy-policy" "disclosure" "editorial-policy" "terms" "terms-of-service" }}
-          {{ range $slugs }}
-            {{ $slug := . }}
-            {{ range $allPages }}
-              {{ if or (eq .File.BaseFileName $slug) (eq .File.TranslationBaseName $slug) }}
-                <li><a href="{{ .RelPermalink }}" class="text-sm capitalize transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">{{ replace $slug "-" " " }}</a></li>
-              {{ end }}
-            {{ end }}
-          {{ end }}
+          <li><a href="/metodologia.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Metodología</a></li>
+          <li><a href="/transparencia.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Transparencia</a></li>
+          <li><a href="/privacy.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Privacidad</a></li>
         </ul>
         <ul class="space-y-2 mt-3">
           <li><a href="/editorial-policy.html" class="text-sm transition-colors" style="color: var(--ink-muted);" onmouseover="this.style.color='var(--brand-bright)'" onmouseout="this.style.color='var(--ink-muted)'">Política editorial</a></li>
