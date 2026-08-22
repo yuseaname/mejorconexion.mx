@@ -25,7 +25,7 @@ image: "/images/cat-proveedores.webp"
 | Velocidad simétrica | Solo Totalplay | Casi siempre |
 | Compensación por cortes | No | Sí (según SLA) |
 
-::: section
+
 ## ¿Cuándo necesitas internet empresarial?
 
 Necesitas plan empresarial si:
@@ -36,7 +36,7 @@ Necesitas plan empresarial si:
 5. Necesitas IP fija para servicios externos
 
 Para más, lee [internet para negocios](/blog/internet-para-negocio-mexico.html).
-:::
+
 
 ## Preguntas Frecuentes
 

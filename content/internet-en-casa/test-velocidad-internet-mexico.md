@@ -31,32 +31,27 @@ Para más detalle, consulta [cómo mejorar tu Wi-Fi en casa](/internet-en-casa/c
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Test de velocidad
-:::
+
 
 Un test de velocidad mide qué tan rápido llega tu internet. Pero si lo haces mal (por Wi-Fi, con Netflix abierto o a las 3 PM), vas a culpar al proveedor cuando el problema es tu configuración. Aquí está cómo medir bien y qué hacer con los resultados.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Cómo hacer un test de velocidad correctamente
 
 1. **Conecta una computadora por cable Ethernet** al router. No uses celular, no uses Wi-Fi.
@@ -66,11 +61,11 @@ Un test de velocidad mide qué tan rápido llega tu internet. Pero si lo haces m
 5. **Repite mañana, tarde y noche** para detectar congestión en horario pico.
 
 Busca "test de velocidad" en Google y usa cualquiera de las opciones gratuitas. La herramienta no importa tanto como cómo mides.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Qué significan los resultados
 
 | Medida | Qué te dice | Qué buscar |
@@ -81,14 +76,11 @@ Busca "test de velocidad" en Google y usa cualquiera de las opciones gratuitas. 
 | Jitter (ms) | Variación de la latencia | Menos de 10 ms para videollamadas |
 
 Para entender las unidades, checa [la diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Tabla: qué velocidad deberías recibir
 
 | Tu plan | Esperado por cable | Preocupante si recibes menos de |
@@ -100,9 +92,8 @@ Para entender las unidades, checa [la diferencia entre Mbps y MB](/blog/cuanta-v
 | 500 Mbps | 400-500 Mbps | 300 Mbps |
 
 Si recibes menos del 60% de tu plan de forma constante (medido por cable, en varios horarios), tu proveedor tiene un problema.
-:::
 
-::: section
+
 ## Cómo interpretar: diagnóstico según resultados
 
 ### Velocidad correcta por cable, lenta por Wi-Fi
@@ -120,11 +111,11 @@ Si juegas online o haces videollamadas, esto causa problemas. Conecta por cable 
 ### Todo mal, todo el día
 
 Llama a tu proveedor con los datos de las pruebas. Si no resuelven en 30 días, presenta una queja ante [PROFECO](https://www.gob.mx/profeco){rel="nofollow noopener" target="_blank"}.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Checklist de medición
 
 - [ ] Probé por cable Ethernet (no Wi-Fi).
@@ -134,9 +125,8 @@ Llama a tu proveedor con los datos de las pruebas. Si no resuelven en 30 días, 
 - [ ] Medí en distintos horarios (mañana y noche).
 - [ ] Anoté fecha, hora y resultados.
 - [ ] Comparé con el 80% de mi plan contratado.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Por qué mido distinto cada vez?
@@ -156,17 +146,15 @@ Sirve como referencia rápida, pero no es preciso. El celular mide por Wi-Fi, qu
 ### ¿Sirve reiniciar el router antes de medir?
 
 Sí. Un reinicio limpia la memoria del router. Mide con y sin reinicio para ver la diferencia.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para entender qué significan las unidades, checa [la diferencia entre Mbps y MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Si tu internet está lento, lee [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
 - Para saber [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

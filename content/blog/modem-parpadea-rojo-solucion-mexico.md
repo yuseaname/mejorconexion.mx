@@ -33,32 +33,27 @@ Para más detalle, consulta [diagnosticar problemas de conexión](/guias/que-hac
 
 {{< faq "¿La luz roja del módem significa que me cortaron el servicio?" >}}
 No necesariamente. Puede ser un problema técnico temporal, un corte de la red o daño en los cables. Solo significa que el módem no logra conectarse a la red del proveedor. Llama a soporte para confirmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo arreglarlo yo mismo?" >}}
 Si el problema es un cable flojo o el módem necesita reinicio, sí. Si el problema es en la red exterior o en el cable de fibra, necesitas un técnico. Nunca abras el módem: invalidas la garantía.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿El módem rojo consume más electricidad?" >}}
 No. El color de la luz no afecta el consumo eléctrico. El módem consume entre 8 y 15 watts independientemente del color de las luces.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Debo comprar un módem nuevo si parpadea en rojo?" >}}
 No primero. El problema suele ser de conexión, no del módem. Reinicia, revisa cables y llama a soporte antes de pensar en reemplazarlo. Solo considera un módem nuevo si el soporte confirma que el tuyo está dañado.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Módem parpadea rojo
-:::
+
 
 Las luces de tu módem son su forma de comunicarse. Verde o azul significa que todo está bien. Rojo fijo o parpadeando significa que hay un problema. En México, los módems de Telmex, Totalplay, Izzi y Megacable usan un sistema de luces similar, pero con algunas diferencias. Aquí está qué significa cada luz y cómo resolverlo según tu proveedor.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Qué significa cada luz del módem
 
 | Luz | Color | Significado | ¿Es problema? |
@@ -87,11 +82,11 @@ Las luces de tu módem son su forma de comunicarse. Verde o azul significa que t
 | Rojo intermitente breve | Caída temporal | Reinicia y monitorea |
 
 Para entender mejor tu módem, lee [router vs módem](/blog/router-vs-modem-diferencia.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Solución paso a paso (aplica para todos los proveedores)
 
 Esta es la secuencia que resuelve aproximadamente el 70% de los casos de luz roja, sin necesidad de llamar a soporte.
@@ -130,14 +125,11 @@ Si el reinicio y la revisión de cables no resolvieron el problema, puede haber 
 - **Llama a soporte** para confirmar si hay un problema de red en tu zona.
 
 Para más diagnóstico, lee [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Solución por proveedor: qué hacer
 
 ### Totalplay (ONT Huawei/ZTE)
@@ -187,9 +179,8 @@ Igual que Izzi (ambos usan coaxial):
 5. **Datos útiles:** ten listo tu número de cuenta.
 
 **Problema común de Megacable:** la señal coaxial puede degradarse en horario pico. Si la luz roja aparece solo en la noche, puede ser saturación local.
-:::
 
-::: section
+
 ## ¿Cuándo llamar a soporte?
 
 Llama a soporte cuando:
@@ -218,9 +209,8 @@ Llama a soporte cuando:
 | Megacable | 800 123 4362 | L-D 8am-10pm |
 
 Si el soporte no resuelve en 30 días, lee [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
 
-::: section
+
 ## Causas comunes de luz roja (y cómo prevenirlas)
 
 | Causa | Frecuencia | Prevención |
@@ -235,9 +225,8 @@ Si el soporte no resuelve en 30 días, lee [cómo quejarse en PROFECO](/blog/com
 | Corte por impago | Baja | Mantén tus pagos al corriente |
 
 **¿Sabías que...?** Un módem que no se reinicia nunca puede desarrollar problemas de memoria y saturación. Reiniciar el módem una vez por semana (desconectándolo 60 segundos) previene muchos problemas de conectividad.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿La luz roja del módem significa que me cortaron el servicio?
@@ -264,18 +253,15 @@ En zonas con cobre (Telmex ADSL), la lluvia puede afectar las líneas telefónic
 
 Algunos proveedores (Totalplay, Telmex) permiten reiniciar el módem desde su app oficial. Pero un reinicio remoto no es tan efectivo como un reinicio físico (desconectando el cable de poder por 60 segundos).
 
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
 ## Sigue aprendiendo
 
 - Para diagnóstico completo, checa [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
 - Si el WiFi se cae, lee [por qué se cae el WiFi](/blog/por-que-se-cae-wifi-casa-mexico.html).
 - Para medir tu velocidad, revisa [cómo hacer un test de velocidad](/guias/como-medir-velocidad-real-internet.html).
 - Para entender tu equipo, lee [router vs módem](/blog/router-vs-modem-diferencia.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

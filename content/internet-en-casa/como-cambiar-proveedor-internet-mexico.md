@@ -31,32 +31,27 @@ Para más detalle, consulta [cómo elegir compañía de internet](/internet-en-c
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Cambiar de proveedor
-:::
+
 
 Cambiar de proveedor de internet en México parece un dolor de cabeza, pero si sigmes estos pasos no te quedas sin servicio ni pagas de más. La clave es comparar antes, cancelar bien y coordinar la instalación nueva con la baja del servicio anterior.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Paso 1: Verifica qué llega a tu domicilio
 
 Antes de soñar con un proveedor, confirma que puede instalar en tu calle. La disponibilidad cambia por zona e incluso por cuadra.
@@ -71,11 +66,11 @@ Llama o consulta el sitio de cada proveedor con tu código postal y dirección e
 | Megacable | megacable.com.mx |
 
 Para comparar lo que ofrecen, checa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Paso 2: Compara el costo real (no el de promoción)
 
 El error más caro es fijarte solo en el precio del primer mes. Las promociones suelen durar 3-6 meses y después suben.
@@ -90,14 +85,11 @@ Pregunta siempre:
 - ¿Incluye teléfono o TV o es solo internet?
 
 Anota todo. El precio real es el que vas a pagar del mes 7 en adelante, no el de la promo.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Paso 3: Contrata el nuevo servicio primero
 
 **Nunca canceles el servicio actual antes de tener el nuevo funcionando.** Esto parece obvio, pero mucha gente lo hace y se queda semanas sin internet.
@@ -107,9 +99,8 @@ Anota todo. El precio real es el que vas a pagar del mes 7 en adelante, no el de
 3. Solo entonces cancela el anterior.
 
 Algunos proveedores pueden tardar de 3 a 15 días en instalar. Coordina las fechas.
-:::
 
-::: section
+
 ## Paso 4: Cancela el servicio anterior correctamente
 
 Llama a tu proveedor actual y pide la baja. Ten listos:
@@ -121,9 +112,8 @@ Llama a tu proveedor actual y pide la baja. Ten listos:
 **Si hay plazo forzoso**, revisa si ya terminó. Si no terminó, pregunta por la penalización. Algunos proveedores la perdonan si portas tu número o si cambias dentro del mismo grupo empresarial.
 
 Si te ponen trabas, puedes presentar una queja ante [PROFECO](https://www.gob.mx/profeco){rel="nofollow noopener" target="_blank"}. Lee [cómo quejarte en PROFECO](/blog/queja-profeco-internet-guia-2026.html).
-:::
 
-::: section
+
 ## Paso 5: Devuelve el equipo del proveedor anterior
 
 El módem, router, control remoto o decodificador no son tuyos. Si no los devuelves, te van a cobrar.
@@ -133,11 +123,11 @@ El módem, router, control remoto o decodificador no son tuyos. Si no los devuel
 3. Guarda ese folio por lo menos 6 meses.
 
 Algunos proveedores cobran hasta $2,000 MXN por equipo no devuelto. El acuse te protege.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Checklist completo de cambio
 
 - [ ] Confirmé disponibilidad en mi dirección con el nuevo proveedor.
@@ -148,9 +138,8 @@ Algunos proveedores cobran hasta $2,000 MXN por equipo no devuelto. El acuse te 
 - [ ] Tengo folio de cancelación.
 - [ ] Devolví el equipo del proveedor anterior con acuse.
 - [ ] Probé el nuevo servicio por cable y Wi-Fi.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Puedo conservar mi número de teléfono al cambiar de proveedor?
@@ -168,17 +157,15 @@ Solo si tienes plazo forzoso vigente. Revisa tu contrato. Si ya cumpliste el pla
 ### ¿Qué hago si el nuevo servicio es peor?
 
 Dentro de los primeros días, algunos proveedores ofrecen garantía de devolución. Si no, puedes volver a cambiar — pero coordina bien las fechas para no quedarte sin servicio.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para comparar opciones antes de cambiar, checa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 - Si quieres saber qué tecnología elegir, lee [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
 - Si el servicio nuevo llega lento, revisa [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

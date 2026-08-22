@@ -28,7 +28,7 @@ Transmitir en vivo (streaming) es una de las actividades más exigentes para tu 
 
 Para streaming, la velocidad de SUBIDA es más importante que la de bajada. Lee [importancia de la velocidad de subida](/blog/velocidad-de-subida-importancia.html).
 
-::: section
+
 ## Por qué la velocidad de subida es crítica para streaming
 
 Cuando ves Netflix, tu internet **descarga** datos del servidor de Netflix. Pero cuando transmites en Twitch, tu internet **sube** datos al servidor de Twitch continuamente. Esto es lo que diferencia el streaming de cualquier otra actividad.
@@ -60,9 +60,8 @@ Para streaming, esto significa:
 - **Megacable 200**: 5-10 Mbps de subida = no reaches ni para 720p estable
 
 Consulta también: [mejor internet para gaming](/blog/mejor-internet-para-gaming-en-mexico.html).
-:::
 
-::: section
+
 ## Requisitos de velocidad por calidad de stream
 
 | Calidad de stream | Bitrate recomendado | Mbps de subida necesarios | Plan mínimo |
@@ -125,9 +124,8 @@ Output:
 - **Usa NVENC** si tienes tarjeta gráfica NVIDIA (libera CPU)
 - **Cierra apps que consuman ancho de banda** durante el stream
 - **Configura QoS** en tu router para priorizar OBS
-:::
 
-::: section
+
 ## Otros factores importantes para streaming
 
 ### Latencia (ping)
@@ -159,9 +157,8 @@ Si tu conexión pierde paquetes, el stream se pixelará o cortará. Un packet lo
 | Zona sin fibra | Starlink | ~$2,400 | Subida 10-40 Mbps, 25-35 ms |
 
 **Para la mayoría de streamers**: Totalplay 200 Mbps simétrico ($399/mes) es el mejor punto de precio/rendimiento. Te da 200 Mbps de subida, más que suficiente para 1080p60 y permite jugar mientras transmites.
-:::
 
-::: section
+
 ## Equipamiento recomendado para streamers
 
 Además del internet, necesitas:
@@ -189,7 +186,7 @@ Sin embargo, todavía existen problemas comunes:
 4. **Cobertura desigual**: La calidad varía enormemente entre zonas de la misma ciudad
 
 Si experimentas problemas con tu proveedor, recuerda que tienes derechos como consumidor. PROFECO y el IFT pueden ayudarte. Lee nuestra guía de [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

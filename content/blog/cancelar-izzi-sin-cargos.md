@@ -145,7 +145,6 @@ Para más tips, lee [cómo cambiar de proveedor sin cortes](/blog/cambiar-de-pro
 | Facturas vencidas | Según deuda | Debes pagar antes de cancelar |
 
 
-
 ## Cronograma del proceso de cancelación
 
 Entender los tiempos del proceso evita sorpresas en tu facturación:
@@ -194,13 +193,12 @@ Para más información sobre cambio de proveedor, lee [cómo cambiar de proveedo
 ## Preguntas Frecuentes
 
 
-::: section
 ## Sigue leyendo
 
 - [Cómo cancelar Telmex/Infinitum sin penalización (2026)](/blog/cancelar-telmex-sin-penalizacion.html)
 - [Cómo cancelar Totalplay sin cargos ni penalizaciones (2026)](/blog/cancelar-totalplay-sin-cargos.html)
 - [¿Cuánto Cuesta Internet en México en 2026? Precios Reales por ISP](/blog/cuanto-cuesta-internet-en-mexico-2026.html)
-:::
+
 
 {{< faq "¿Cómo cancelo Izzi sin pena patrimonial?" >}}
 Para cancelar sin pena: 1) verifica que no tengas plazo forzado vigente, 2) paga cualquier factura pendiente, 3) solicita la cancelación por la app, chat, teléfono o sucursal, 4) devuelve todo el equipo en sucursal. Si tienes plazo forzado, la pena patrimonial puede ser de $1,500-$3,900. Para evitarla: argumenta mudanza sin cobertura o deficiencias comprobadas del servicio.

@@ -22,7 +22,7 @@ image: "/images/cat-proveedores.webp"
 | Departamento compartido (2-3) | 200 Mbps | Totalplay | $399/mes |
 | Gamer + streaming + estudio | 300 Mbps | Totalplay | $599/mes |
 
-::: section
+
 ## Qué necesita un estudiante de internet
 
 ### Clases en línea (Zoom, Meet, Teams)
@@ -39,9 +39,8 @@ image: "/images/cat-proveedores.webp"
 - Gaming: 25 Mbps + ping bajo (usa Ethernet)
 
 Lee también: [internet para estudiantes](/blog/mejor-internet-estudiantes-mexico.html) e [internet para clases en línea](/blog/mejor-internet-para-clases-en-linea.html).
-:::
 
-::: section
+
 ## Trucos para ahorrar en internet como estudiante
 
 1. **Plan sin contrato**: Si te mudas cada semestre, evita contratos de 12+ meses. Ver [internet sin contrato](/blog/internet-sin-contrato-mexico-2026.html).
@@ -53,7 +52,7 @@ Lee también: [internet para estudiantes](/blog/mejor-internet-estudiantes-mexic
 4. **Horario de descargas**: Programa actualizaciones grandes (Steam, Windows) para la madrugada cuando la red está libre.
 
 5. **WiFi público**: Universidades, bibliotecas y cafeterías tienen WiFi gratuito para tareas pesadas.
-:::
+
 
 ## Preguntas Frecuentes
 

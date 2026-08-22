@@ -33,7 +33,7 @@ image: "/images/cat-proveedores.webp"
 
 Saber cuánto consume cada aplicación te ayuda a elegir el plan de internet adecuado, evitar quedarte sin datos móviles y optimizar tu consumo. Esta guía tiene tablas detalladas del consumo real de cada app popular en México, con ejemplos prácticos para que calcules tu propio consumo mensual.
 
-::: section
+
 ## Consumo detallado por aplicación (2026)
 
 ### Streaming de música
@@ -95,9 +95,8 @@ Saber cuánto consume cada aplicación te ayuda a elegir el plan de internet ade
 **Nota**: Jugar online consume poco (50-100 MB/hora), pero descargar juegos consume enormemente (un juego moderno de 50-100 GB puede tardar horas y consumir mucho de tu plan si tienes límite de datos).
 
 Para más contexto, lee [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
-:::
 
-::: section
+
 ## Calculadora de consumo mensual
 
 Calcula tu consumo estimado sumando tus actividades:
@@ -136,9 +135,8 @@ Calcula tu consumo estimado sumando tus actividades:
 | Telcel Hogar | "Ilimitado" (depriorización tras 250-500 GB) | Sí, pero cuidado con uso extremo |
 
 **Conclusión**: Para internet fijo en casa, no te preocupes por el consumo de datos. Todos los planes residenciales principales son ilimitados. El problema es con datos móviles.
-:::
 
-::: section
+
 ## Cómo reducir el consumo de datos móviles
 
 Si te quedas sin datos móviles antes de fin de mes, estas son las formas más efectivas de reducir consumo:
@@ -185,9 +183,8 @@ Facebook, Instagram y Twitter reproducen videos automáticamente. Desactiva esta
 ### 5. Usa WiFi siempre que sea posible
 
 Conéctate al WiFi del trabajo, café, escuela o casa de amigos. Cada hora en WiFi ahorra 0.5-7 GB de datos móviles.
-:::
 
-::: section
+
 ## Cuánto plan de internet necesitas según tu consumo
 
 | Consumo mensual estimado | Plan recomendado | Precio/mes |
@@ -214,7 +211,7 @@ Sin embargo, todavía existen problemas comunes:
 Para evitar caer en estas trampas, siempre verifica: disponibilidad en tu código postal, precio real post-promoción, tecnología (fibra vs coaxial), y condiciones de cancelación antes de firmar cualquier contrato.
 
 Si experimentas problemas con tu proveedor, recuerda que tienes derechos como consumidor. PROFECO y el IFT pueden ayudarte a resolver disputas. Lee nuestra guía de [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

@@ -23,7 +23,7 @@ type: "pillar"
 - **Mejor 5G**: AT&T y Telcel
 - **GB promedio necesario**: 15-30 GB/mes para uso moderado
 
-::: section
+
 ## Comparativa de los 3 grandes operadores
 
 | Característica | Telcel | AT&T | Movistar |
@@ -36,9 +36,8 @@ type: "pillar"
 | eSIM | Sí | Sí | Sí |
 
 Para comparar en detalle, lee [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar.html).
-:::
 
-::: section
+
 ## ¿Cuántos GB de datos móviles necesitas?
 
 | Perfil de uso | GB/mes | Ejemplo |
@@ -49,9 +48,8 @@ Para comparar en detalle, lee [Telcel vs AT&T vs Movistar](/planes-moviles/telce
 | Pesado (+ Netflix, gaming) | 100+ GB | Todo el día |
 
 Calculadora detallada: [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
-:::
 
-::: section
+
 ## Cluster de guías relacionadas
 
 - [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar.html) — Comparativa completa
@@ -70,7 +68,7 @@ Calculadora detallada: [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas
 - [Cuánto consume Netflix, TikTok y Spotify](/blog/cuanto-consume-spotify-youtube-mexico.html)
 - [Telcel Hogar internet fijo](/blog/telcel-hogar-internet-fijo-mexico.html)
 - [Internet para TikTok y redes sociales](/blog/internet-para-tiktok-y-redes-sociales.html)
-:::
+
 
 ## Preguntas Frecuentes
 

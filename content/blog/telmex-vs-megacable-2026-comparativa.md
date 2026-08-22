@@ -23,7 +23,7 @@ image: "/images/cat-proveedores.webp"
 | Plan 100 Mbps | $449 | $449 | $349 | **Megacable** (precio) |
 | Cobertura | 95%+ | 95%+ | Ciudades medianas | **Telmex** |
 
-::: section
+
 ## La clave: ¿Telmex fibra o cobre?
 
 La diferencia entre Telmex y Megacable depende de qué tecnología Telmex te ofrece:
@@ -34,7 +34,7 @@ La diferencia entre Telmex y Megacable depende de qué tecnología Telmex te ofr
 Para verificar, lee [cómo saber si tienes fibra óptica](/blog/como-saber-si-tengo-fibra-optica-2026.html).
 
 Para más, lee [Megacable vs Telmex](/blog/megacable-vs-telmex-comparativa-directa-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

@@ -32,32 +32,27 @@ Para más detalle, consulta [/blog/como-aumentar-velocidad-internet-mexico/](/bl
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet lento en la noche
-:::
+
 
 Tu internet funciona bien de día pero se traba en la noche. No es tu imaginación. El internet es un recurso compartido y cuando todos lo usan al mismo tiempo, se satura. Aquí están las tres causas reales y cómo arreglar cada una.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Horario pico en México: cuando todo se satura
 
 | Hora | Uso típico | Congestión |
@@ -70,11 +65,11 @@ Tu internet funciona bien de día pero se traba en la noche. No es tu imaginaci�
 | 2 AM | Bajo | Mínima |
 
 El horario pico en México es de **7:00 PM a 11:00 PM**. Si tu internet se siente lento en ese rango pero bien el resto del día, es congestión.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Causa 1: Congestión en tu proveedor
 
 Los proveedores reparten el ancho de banda entre muchos usuarios. Si todos se conectan a las 9 PM, la tubería se satura.
@@ -87,14 +82,11 @@ Los proveedores reparten el ancho de banda entre muchos usuarios. Si todos se co
 - Afecta a vecinos con el mismo proveedor.
 
 **Solución:** cambiar a un proveedor con menor sobresuscripción. La fibra óptica dedicada suele ser mejor que el cable compartido. Compara opciones en [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Causa 2: Interferencia Wi-Fi de vecinos
 
 Todos los routers usan los mismos canales. Si 10 vecinos usan el canal 6, hay interferencia. Esto empeora en la noche porque más routers están activos.
@@ -107,9 +99,8 @@ Todos los routers usan los mismos canales. Si 10 vecinos usan el canal 6, hay in
 - Mejora temporalmente al reiniciar el router.
 
 **Solución:** cambia el canal de tu Wi-Fi. Busca "WiFi Analyzer" en tu celular y escoge un canal menos saturado (prueba 1, 6 u 11). Lee [cómo mejorar tu Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
 
-::: section
+
 ## Causa 3: Dispositivos en tu casa
 
 En la noche, todos en casa usan internet: Netflix en la TV, YouTube en la tablet, TikTok en el celular, videollamada de alguien y actualizaciones automáticas.
@@ -121,9 +112,8 @@ En la noche, todos en casa usan internet: Netflix en la TV, YouTube en la tablet
 - Tienes muchos dispositivos (10+).
 
 **Solución:** activa QoS en tu router para priorizar tráfico. Programa descargas para la madrugada. Lee [cómo ajustar tu router](/blog/ajustes-router-mejorar-velocidad-internet.html).
-:::
 
-::: section
+
 ## Cómo diagnosticar: prueba de los 3 pasos
 
 | Hora | Velocidad por cable | Velocidad por Wi-Fi |
@@ -136,9 +126,8 @@ En la noche, todos en casa usan internet: Netflix en la TV, YouTube en la tablet
 - Si **todo baja cuando alguien llega** → dispositivos saturando.
 
 Para medir bien, lee [cómo hacer un test de velocidad](/guias/como-medir-velocidad-real-internet.html).
-:::
 
-::: section
+
 ## Soluciones prácticas (de gratis a pagadas)
 
 | Solución | Costo | Efectividad | Dificultad |
@@ -152,9 +141,8 @@ Para medir bien, lee [cómo hacer un test de velocidad](/guias/como-medir-veloci
 | [Cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html) a fibra | $0-$1,000 MXN inst. | Muy alta | Alta |
 
 Empieza por las opciones gratuitas. Si después de eso sigues lento en la noche por cable, es momento de considerar cambiar de proveedor.
-:::
 
-::: section
+
 ## Cuándo cambiar de proveedor
 
 Cambia si:
@@ -165,9 +153,8 @@ Cambia si:
 - Tu contrato ya no tiene plazo forzoso.
 
 Lee [cómo cambiar de proveedor sin sufrir](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Es normal que el internet sea más lento en la noche?
@@ -185,17 +172,15 @@ Solo si el problema es Wi-Fi. Si por cable también va lento, un router nuevo no
 ### ¿Puedo quejarme con PROFECO?
 
 Sí, si documentas que recibes significativamente menos de lo que pagas en horario pico. Lee [cómo quejarte en PROFECO](/blog/queja-profeco-internet-guia-2026.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para diagnosticar a fondo, checa [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
 - Para mejorar tu señal, lee [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 - Para comparar proveedores, revisa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

@@ -31,32 +31,27 @@ Para más detalle, consulta [calcular Mbps necesarios](/blog/cuanta-velocidad-in
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Guías](/guias.html) / Mbps vs MB
-:::
+
 
 **Mbps** es la unidad que usan los proveedores de internet para anunciar la velocidad. **MB/s** es la unidad que usan las descargas y Netflix para mostrar qué tan rápido baja un archivo. La trampa: un byte tiene 8 bits. Por eso una conexión de 100 Mbps no descarga a 100 MB/s.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## La regla que lo explica todo
 
 Divide los Mbps entre 8 para saber cuántos MB/s de descarga real tienes.
@@ -70,11 +65,11 @@ Divide los Mbps entre 8 para saber cuántos MB/s de descarga real tienes.
 | 1 Gbps (1000 Mbps) | 1000 | 125 |
 
 Si tu plan dice 100 Mbps y Steam o Netflix muestran 12 MB/s, **todo está funcionando bien**. No estás recibiendo menos de lo que pagas — solo estás viendo la misma velocidad en unidades distintas.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Qué es un bit y qué es un byte
 
 - **Bit:** la unidad más pequeña de información digital. Un cero o un uno.
@@ -83,14 +78,11 @@ Si tu plan dice 100 Mbps y Steam o Netflix muestran 12 MB/s, **todo está funcio
 Los proveedores de internet venden en **megabits por segundo (Mbps)** porque el número se ve más grande. Los sistemas de descarga muestran **megabytes por segundo (MB/s)** porque así miden el tamaño de los archivos.
 
 No es engaño — son unidades distintas para lo mismo.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Ejemplo práctico: descargar un juego
 
 Quieres descargar un juego de 50 GB (gigabytes). Tu plan es de 100 Mbps.
@@ -101,9 +93,8 @@ Quieres descargar un juego de 50 GB (gigabytes). Tu plan es de 100 Mbps.
 4. Convierte a minutos: 4,000 ÷ 60 = 66 minutos
 
 Una descarga de 50 GB con un plan de 100 Mbps tarda aproximadamente una hora. Si ves "12 MB/s" en la barra de progreso, todo va como debe.
-:::
 
-::: section
+
 ## Otras unidades que vas a ver
 
 | Unidad | Abreviatura | Equivale a |
@@ -115,11 +106,11 @@ Una descarga de 50 GB con un plan de 100 Mbps tarda aproximadamente una hora. Si
 | Gigabyte (almacenamiento) | GB | 1,024 MB |
 
 Para entender más sobre velocidad, checa [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Errores comunes
 
 ### Pensar que "me están dando menos"
@@ -133,9 +124,8 @@ Un celular de "128 GB" tiene almacenamiento (gigabytes). Un plan de "200 Mbps" t
 ### Creer que más Mbps = menos latencia
 
 No. La latencia (ping) depende de la ruta y la tecnología, no de la cantidad de Mbps. Para gaming y videollamadas, checa [qué es el ping](/blog/que-es-el-ping.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Por qué mi proveedor anuncia en Mbps y no en MB/s?
@@ -153,17 +143,15 @@ Sí. Gbps significa gigabits por segundo. 1 Gbps = 1000 Mbps.
 ### ¿Los MB de mi plan de celular son lo mismo?
 
 No. Los "GB" de tu plan móvil son de almacenamiento/consumo de datos, no de velocidad. 10 GB de tu plan significa que puedes descargar/subir 10 gigabytes de datos en el mes.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para entender toda la velocidad de tu internet, checa [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
 - Si quieres medir bien tu conexión, lee [cómo medir la velocidad real](/guias/como-medir-velocidad-real-internet.html).
 - Para saber cuántos Mbps necesitas, revisa [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

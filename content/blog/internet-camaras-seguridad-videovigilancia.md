@@ -32,32 +32,27 @@ Para más detalle, consulta [/blog/internet-casa-inteligente-mexico-2026/](/blog
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet para cámaras
-:::
+
 
 Las cámaras de seguridad con conexión WiFi son cada vez más comunes en casas mexicanas. Pero cada cámara consume internet constante y si tienes varias, pueden saturar tu red. Aquí está cuánto necesitas y cómo evitar que las cámaras maten tu velocidad.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Cuánto consume una cámara de seguridad
 
 | Resolución | Consumo por cámara | Consumo 4 cámaras |
@@ -69,11 +64,11 @@ Las cámaras de seguridad con conexión WiFi son cada vez más comunes en casas 
 El consumo es **constante** mientras la cámara está activa y enviando video (en vivo o a la nube). Si tienes un plan de 50 Mbps y 4 cámaras 1080p grabando en la nube, ya se van 8-16 Mbps solo en cámaras.
 
 Para entender cuánto es eso, lee [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Cámaras en la nube vs almacenamiento local
 
 | Opción | Consume internet | Ventaja | Desventaja |
@@ -83,14 +78,11 @@ Para entender cuánto es eso, lee [qué significa la velocidad de internet](/blo
 | Detección de movimiento (solo graba al detectar) | Intermitente | Consume menos | Puede perder eventos |
 
 **El mejor consejo:** si tienes varias cámaras, usa detección de movimiento con almacenamiento local. Solo sube a la nube los clips cortos cuando detecta movimiento.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Cómo evitar que las cámaras saturen tu red
 
 1. **Usa detección de movimiento** en lugar de grabación 24/7 en la nube.
@@ -101,9 +93,8 @@ Para entender cuánto es eso, lee [qué significa la velocidad de internet](/blo
 6. **Calcula tu consumo total** antes de instalar 5-10 cámaras.
 
 Para más sobre gestión de dispositivos, lee [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
 
-::: section
+
 ## ¿Qué plan de internet necesitas para cámaras?
 
 | Número de cámaras | Resolución | Mbps necesarios (solo cámaras) | Plan recomendado |
@@ -116,9 +107,8 @@ Para más sobre gestión de dispositivos, lee [cómo mejorar el Wi-Fi en casa](/
 Si usas almacenamiento local y detección de movimiento, el impacto en tu internet es mínimo. Si grabas todo en la nube a 1080p, necesitas un plan generoso.
 
 Para calcular tu velocidad ideal, lee [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Las cámaras de seguridad consumen muchos datos?
@@ -136,17 +126,15 @@ Depende. Si graban en la nube, pierden capacidad de grabar remotamente. Si tiene
 ### ¿Mejor cámaras WiFi o cableadas?
 
 Las cableadas (Ethernet) son más estables y no consumen WiFi. Las WiFi son más fáciles de instalar. Si tienes muchas cámaras, considera cablear las más críticas.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para gestionar muchos dispositivos, checa [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 - Para entender la velocidad que necesitas, lee [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Para elegir router, revisa [cómo elegir router WiFi](/internet-en-casa/como-elegir-router-wifi-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

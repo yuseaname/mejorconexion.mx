@@ -139,7 +139,6 @@ Para más contexto, lee [cuánto cuesta el internet en México](/blog/cuanto-cue
 Para más información sobre Starlink, lee [Starlink en México: precio y cobertura](/blog/starlink-mexico-precio-cobertura-2026.html).
 
 
-
 ## Comparativa de latencia para uso específico
 
 La latencia es uno de los factores más importantes al elegir entre satelital e inalámbrico. Aquí te mostramos qué actividades funcionan bien con cada tecnología:

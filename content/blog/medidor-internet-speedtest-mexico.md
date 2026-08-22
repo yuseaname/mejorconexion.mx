@@ -27,7 +27,7 @@ image: "/images/cat-velocidad.webp"
 
 Medir tu velocidad de internet parece simple, pero hay muchos errores comunes que llevan a resultados engañosos. Si mides por WiFi, con Netflix reproduciendo en otra habitación, a las 9 PM cuando todos en tu zona están conectados, el resultado no representará lo que realmente recibes. Esta guía te enseña a medir como un profesional y, lo más importante, cómo interpretar los resultados para saber si tu proveedor te está dando lo que pagas.
 
-::: section
+
 ## Paso a paso: medir correctamente
 
 ### 1. Preparación (crítico)
@@ -78,9 +78,8 @@ Para más detalle, lee nuestra [guía completa de medición](/guias/como-medir-v
 | Diferentes días | Verificar consistencia |
 
 **Para reclamar**: Mide 3 veces en días diferentes, a la misma hora (preferiblemente mañana). Si consistentemente recibes menos del 80% de tu velocidad contratada, tienes base para una queja.
-:::
 
-::: section
+
 ## Cómo interpretar los resultados
 
 ### Velocidad de bajada (download)
@@ -124,9 +123,8 @@ El ping es el tiempo que tarda un paquete en ir y volver del servidor.
 | > 100 ms | Pobre | Problemas en todo |
 
 Lee también: [por qué no me llega la velocidad](/blog/velocidad-contratada-no-me-llega-mexico.html).
-:::
 
-::: section
+
 ## Errores comunes al medir internet
 
 ### Error 1: Medir por WiFi
@@ -163,9 +161,8 @@ En Speedtest, elige un servidor cercano a tu ciudad. Si el servidor está en otr
 ### Error 7: Medir con VPN activa
 
 Las VPN añaden latencia y reducen velocidad. Desactiva tu VPN antes de medir.
-:::
 
-::: section
+
 ## Qué hacer si no recibes la velocidad contratada
 
 ### Paso 1: Verifica tu medición
@@ -207,9 +204,8 @@ Presenta tus mediciones y exige solución. Pide un número de reporte.
 | Telcel Hogar | 100 | 50-70 Mbps | 30-50 Mbps | 30-70% |
 
 **Conclusión**: Totalplay y Telmex fibra cumplen mejor. Izzi y Megacable sufren más en horas pico. Telcel Hogar tiene alta variabilidad.
-:::
 
-::: section
+
 ## Datos clave del mercado de internet en México 2026
 
 El mercado de internet en México ha cambiado significativamente en los últimos años. La fibra óptica se ha expandido a más ciudades, Totalplay ha consolidado su posición como líder en velocidad, y la competencia ha bajado los precios de entrada. Esto significa que cada vez más usuarios pueden recibir la velocidad que contratan.
@@ -224,7 +220,7 @@ Sin embargo, todavía existen problemas comunes:
 Para evitar caer en estas trampas, siempre verifica: disponibilidad en tu código postal, precio real post-promoción, tecnología (fibra vs coaxial), y condiciones de cancelación antes de firmar cualquier contrato.
 
 Si experimentas problemas con tu proveedor, recuerda que tienes derechos como consumidor. PROFECO y el IFT pueden ayudarte a resolver disputas. Lee nuestra guía de [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

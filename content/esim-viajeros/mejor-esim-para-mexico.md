@@ -31,32 +31,27 @@ Para más detalle, consulta [qué es una eSIM](/blog/que-es-una-esim.html).
 
 {{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
 Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
 Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
 Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
 Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [eSIM](/esim.html) / eSIM para viajeros a México
-:::
+
 
 Si viajas a México y quieres datos sin pagar roaming, una eSIM puede ser la solución. Pero no todas las eSIM sirven para lo mismo: algunas dan datos sin llamadas, otras incluyen teléfono, y la cobertura depende de la red que usen por debajo. Esta guía te ayuda a elegir sin pagar de más.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Tipos de eSIM para viajeros a México
 
 | Tipo | Qué incluye | Costo aprox. | Mejor para |
@@ -68,11 +63,11 @@ Si viajas a México y quieres datos sin pagar roaming, una eSIM puede ser la sol
 La mayoría de las eSIM turísticas solo dan datos. Si necesitas hacer llamadas a números mexicanos, conviene una SIM de Telcel Turista o similar.
 
 Para entender qué es una eSIM, lee [qué es una eSIM](/blog/que-es-una-esim.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Qué revisar antes de comprar una eSIM de viaje
 
 1. **Cobertura en México:** verifica qué red usa (Telcel tiene la mejor cobertura nacional).
@@ -81,12 +76,8 @@ Para entender qué es una eSIM, lee [qué es una eSIM](/blog/que-es-una-esim.htm
 4. **Velocidad:** pregunta si hay límite de velocidad o si reduce después de cierto consumo.
 5. **Activación:** ¿se activa al llegar a México o necesitas configurar antes?
 6. **Compatibilidad:** confirma que tu teléfono soporta eSIM y está desbloqueado.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
-::: section
 ## Cuántos datos necesitas de viaje
 
 | Actividad | GB por día aprox. |
@@ -99,9 +90,8 @@ Para entender qué es una eSIM, lee [qué es una eSIM](/blog/que-es-una-esim.htm
 Para una semana de viaje con uso moderado (maps, WhatsApp, algo de Instagram), 5 GB suelen ser suficientes. Para uso intensivo con streaming, planea 10-15 GB.
 
 Para entender cuánto consumes, checa [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
-:::
 
-::: section
+
 ## Errores comunes de viajeros con eSIM
 
 ### Comprar sin verificar compatibilidad del teléfono
@@ -115,9 +105,8 @@ Algunas eSIM requieren que descargues el perfil con Wi-Fi antes de llegar al des
 ### Elegir la más barata sin revisar la red
 
 Una eSIM barata que usa una red con mala cobertura va a ser más frustrante que útil. La mejor red en México para cobertura nacional es Telcel.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Puedo usar mi eSIM y mi SIM física al mismo tiempo en México?
@@ -131,17 +120,15 @@ Generalmente no. La mayoría de las eSIM turísticas solo dan datos. Si necesita
 ### ¿Es mejor eSIM o SIM física de Telcel turista?
 
 Depende. La eSIM es más conveniente (no tienes que buscar una tienda), pero la SIM física de Telcel incluye llamadas locales y mejor soporte. Para más contexto, lee [mejores opciones eSIM en México](/blog/mejores-opciones-esim-mexico-2026.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para entender qué es una eSIM, checa [qué es una eSIM](/blog/que-es-una-esim.html).
 - Para ver opciones locales, lee [mejores opciones eSIM en México](/blog/mejores-opciones-esim-mexico-2026.html).
 - Para verificar compatibilidad de tu teléfono, revisa [celulares compatibles con eSIM](/internet-en-casa/celulares-compatibles-con-esim-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: [Telcel eSIM Turista](https://www.telcel.com/viajar-a-mexico/esim){rel="nofollow noopener" target="_blank"}
-:::
-:::
+
+

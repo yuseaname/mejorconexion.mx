@@ -145,9 +145,6 @@ No permitas que el miedo a perder tu número te mantenga atado a un servicio len
 **¿Estás listo para mejorar tu conexión?** Comienza hoy mismo revisando tu velocidad actual y comparándola con las nuevas ofertas de fibra óptica disponibles en tu zona. ¡Tu productividad y entretenimiento te lo agradecerán!
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -158,24 +155,23 @@ No permitas que el miedo a perder tu número te mantenga atado a un servicio len
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cómo mejoro la señal del Wi-Fi en mi casa?" >}}
 Mueve el router al centro de la casa a 1.5 metros de altura, separa las redes 2.4 GHz y 5 GHz, y cambia a un canal menos saturado. Si la casa tiene más de 80 m² o muros gruesos, considera un sistema mesh.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Vale la pena comprar un router propio en lugar del del proveedor?" >}}
 Sí, especialmente si tienes más de 10 dispositivos o un plan de más de 200 Mbps. Un router Wi-Fi 6 propio ($1,200-$3,500 MXN) ofrece mejor cobertura, más estabilidad y funciones que el router básico del proveedor no tiene.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Mesh o repetidor Wi-Fi?" >}}
 Mesh es mejor para casas grandes (>120 m²) o de dos pisos porque crea una sola red sin cortes. Los repetidores son más baratos ($300-$600 MXN) pero crean una red separada y reducen la velocidad a la mitad.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Wi-Fi 5 o Wi-Fi 6?" >}}
 Wi-Fi 6 ofrece hasta 40% más rendimiento real con muchos dispositivos conectados. Si tienes más de 10 dispositivos o un plan de 300+ Mbps, el cambio a Wi-Fi 6 vale la pena.
-{{< /faq >}}}
+{{< /faq >}}
 

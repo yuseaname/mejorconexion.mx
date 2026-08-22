@@ -30,7 +30,7 @@ image: "/images/cat-instalacion.webp"
 
 La pregunta "¿puedo instalar internet yo mismo?" es común entre personas que quieren ahorrar dinero, evitar esperas o simplemente tener control sobre el proceso. En México, la respuesta corta es: casi nunca con los proveedores tradicionales, pero sí con opciones como Telcel Hogar y Starlink. Esta guía explica exactamente qué puedes hacer tú, qué requiere un técnico y cómo prepararte para la instalación profesional.
 
-::: section
+
 ## Por qué la mayoría de proveedores requieren técnico
 
 La razón principal es la tecnología. La fibra óptica y el cable coaxial requieren:
@@ -97,9 +97,8 @@ Starlink también es auto-instalable: el kit viene con todo lo necesario.
 - Precio mensual alto (~$2,400 MXN)
 
 Lee más sobre [Starlink en México](/blog/starlink-mexico-precio-cobertura-2026.html).
-:::
 
-::: section
+
 ## Qué hacer mientras esperas la instalación
 
 El tiempo de espera para instalación puede ser de 3 a 15 días según el proveedor. Durante ese tiempo, tienes opciones:
@@ -129,9 +128,8 @@ Si necesitas más datos:
 
 ### 4. Verifica infraestructura previa
 Si el inquilino anterior tenía el mismo proveedor, la instalación puede ser mucho más rápida: solo activan el servicio sin necesidad de obra civil. Pregunta a la administración del edificio o al propietario qué proveedor tenía el ocupante anterior.
-:::
 
-::: section
+
 ## Costos de instalación por proveedor
 
 | Proveedor | Costo instalación | Promoción común | Equipo incluido |
@@ -170,9 +168,8 @@ Si tu proveedor requiere técnico, prepárate así:
 - Cambia los DNS a 1.1.1.1 (Cloudflare) para mejor velocidad
 - Guarda los datos de soporte del proveedor
 - Lee [cómo configurar tu nuevo internet](/internet-en-casa/instalacion-internet-en-casa-mexico.html)
-:::
 
-::: section
+
 ## Datos clave para contratar internet en 2026
 
 El mercado de internet en México ha cambiado significativamente en los últimos años. La fibra óptica se ha expandido a más ciudades, Totalplay ha consolidado su posición como líder en velocidad, y la competencia ha bajado los precios de entrada. Sin embargo, todavía existen problemas comunes:
@@ -185,7 +182,7 @@ El mercado de internet en México ha cambiado significativamente en los últimos
 Para evitar caer en estas trampas, siempre verifica: disponibilidad en tu código postal, precio real post-promoción, tecnología (fibra vs coaxial), y condiciones de cancelación antes de firmar cualquier contrato.
 
 Si experimentas problemas con tu proveedor, recuerda que tienes derechos como consumidor. PROFECO y el IFT pueden ayudarte a resolver disputas. Lee nuestra guía de [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

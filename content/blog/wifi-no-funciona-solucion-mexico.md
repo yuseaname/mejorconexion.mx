@@ -27,7 +27,7 @@ image: "/images/cat-wifi-router.webp"
 
 Cuando el WiFi se cae, la mayoría de la gente entra en pánico: no puede trabajar, estudiar ni entretenerse. La buena noticia es que el 80% de los problemas se solucionan en menos de 10 minutos sin llamar a un técnico. Esta guía te lleva paso a paso por el diagnóstico y solución de los problemas más comunes, específicamente adaptada a los proveedores mexicanos (Telmex, Totalplay, Izzi, Megacable).
 
-::: section
+
 ## Diagnóstico en 5 pasos
 
 ### Paso 1: Reinicia el módem (resuelve el 60% de los casos)
@@ -115,9 +115,8 @@ Si tu módem está bien pero no hay internet, puede ser un corte masivo en tu zo
 | Corte masivo regional | 4-12 horas |
 
 Si es corte masivo, solo queda esperar. Llamar a soporte no acelera la solución.
-:::
 
-::: section
+
 ## Problemas comunes y solución
 
 | Problema | Causa probable | Solución |
@@ -157,9 +156,8 @@ Si tu WiFi muestra "conectado" pero no carga páginas, el problema suele ser DNS
 4. Agrega 1.1.1.1
 
 Lee [cómo cambiar DNS](/blog/dns-que-es-como-cambiar-mexico.html).
-:::
 
-::: section
+
 ## Cuándo llamar a soporte y qué decir
 
 Si después de 3 reinicios, revisión de cables y cambio de DNS el problema persiste, es hora de llamar al proveedor:
@@ -184,9 +182,8 @@ Si después de 3 reinicios, revisión de cables y cambio de DNS el problema pers
 - "Probé por cable Ethernet y tampoco funciona"
 - "Mis vecinos con el mismo proveedor también tienen problema"
 - "Necesito un número de reporte para seguimiento"
-:::
 
-::: section
+
 ## Cómo prevenir problemas de WiFi
 
 ### 1. Ubica el router correctamente
@@ -209,7 +206,7 @@ Los routers modernos se actualizan solos, pero verifica en la app o interfaz web
 Si tu casa tiene más de 150 m² o múltiples pisos, un sistema mesh (como TP-Link Deco o Eero) elimina las zonas muertas de WiFi.
 
 Lee [WiFi mesh para casas grandes](/blog/wifi-mesh-para-casas-grandes-mexico.html).
-:::
+
 
 ## Preguntas Frecuentes
 

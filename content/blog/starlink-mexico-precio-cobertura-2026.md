@@ -32,32 +32,27 @@ Para más detalle, consulta [comparar internet rural en México](/blog/mejor-int
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Starlink México
-:::
+
 
 Starlink es el servicio de internet satelital de SpaceX que llega a México con velocidades de 50 a 250 Mbps vía satélites en órbita baja. Para zonas rurales donde no hay fibra ni cable, puede ser la mejor opción. Pero el costo inicial es alto y la latencia, aunque mejor que el satélite tradicional, no iguala a la fibra.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Starlink en México: precios (2026)
 
 | Concepto | Costo aprox. |
@@ -70,11 +65,11 @@ Starlink es el servicio de internet satelital de SpaceX que llega a México con 
 Los precios cambian constantemente — consulta la tarifa vigente directamente en [Starlink](https://www.starlink.com).
 
 El costo inicial incluye la antena y el router. La mensualidad es significativamente más alta que un plan de fibra o cable urbano ($300-$600 MXN/mes). Starlink solo conviene donde no hay otra opción viable.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Velocidad y latencia real de Starlink
 
 | Medida | Starlink típico | Fibra óptica | Internet 4G fijo |
@@ -87,14 +82,11 @@ El costo inicial incluye la antena y el router. La mensualidad es significativam
 La latencia de Starlink (25-50 ms) es mucho mejor que el satélite tradicional geoestacionario (600+ ms), pero sigue siendo mayor que la fibra. Para streaming y navegación, es más que suficiente. Para gaming competitivo, puede generar retraso.
 
 Para entender por qué la latencia importa, lee [qué es el ping](/blog/que-es-el-ping.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Starlink vs otras opciones rurales en México
 
 | Opción | Precio inicial | Mensual | Velocidad | Mejor para |
@@ -105,9 +97,8 @@ Para entender por qué la latencia importa, lee [qué es el ping](/blog/que-es-e
 | Satélite tradicional | $3,000-$5,000 MXN | $1,000-$2,000 MXN | 5-25 Mbps | Zona muy remota sin otra opción |
 
 Si tienes buena señal celular en tu zona, el 4G fijo es mucho más barato que Starlink y puede ser suficiente. Si no hay señal celular ni WISP, Starlink es la mejor alternativa. Lee [internet satelital y opciones rurales](/internet-en-casa/internet-satelital-rural-mexico.html).
-:::
 
-::: section
+
 ## ¿Cuándo vale la pena Starlink en México?
 
 **Vale la pena si:**
@@ -122,9 +113,8 @@ Si tienes buena señal celular en tu zona, el 4G fijo es mucho más barato que S
 - La señal 4G es buena en tu zona (4G fijo es más barato).
 - Tu presupuesto es ajustado.
 - Necesitas latencia muy baja para gaming competitivo.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Starlink funciona en todo México?
@@ -144,17 +134,15 @@ Funciona para la mayoría de juegos, pero la latencia (25-50 ms) puede ser un pr
 No directamente. Starlink es para zonas donde Totalplay, Telmex, Izzi y Megacable no llegan. En zonas urbanas con fibra, la fibra es mejor y más barata.
 
 Para comparar todas las opciones rurales, checa [internet satelital y opciones rurales en México](/internet-en-casa/internet-satelital-rural-mexico.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para ver todas las opciones rurales, checa [internet satelital y opciones rurales](/internet-en-casa/internet-satelital-rural-mexico.html).
 - Para entender internet inalámbrico fijo, lee [internet inalámbrico fijo en México](/internet-en-casa/internet-inalambrico-fijo-mexico.html).
 - Para comparar todas las tecnologías, revisa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: [Starlink.com](https://www.starlink.com){rel="nofollow noopener" target="_blank"}
-:::
-:::
+
+

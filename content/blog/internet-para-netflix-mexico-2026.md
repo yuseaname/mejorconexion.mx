@@ -32,32 +32,27 @@ Para más detalle, consulta [/blog/internet-roku-fire-tv-stick-mexico/](/blog/in
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet para Netflix
-:::
+
 
 Netflix es la plataforma de streaming más usada en México, pero verla sin buffering no depende solo de tener "muchos megas". La estabilidad de tu conexión, la tecnología (fibra vs cable), la calidad del Wi-Fi y cuántos dispositivos se conectan a la vez importan tanto como la velocidad del plan.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Mbps que necesitas para Netflix
 
 | Calidad | Mbps mínimo | Mbps recomendado | Notas |
@@ -68,11 +63,11 @@ Netflix es la plataforma de streaming más usada en México, pero verla sin buff
 | 4K HDR | 20 | 30 | HDR necesita más ancho de banda |
 
 Esos números son **por dispositivo**. Si dos personas ven Netflix a la vez en 1080p, necesitas el doble: 10-16 Mbps solo para Netflix, más lo que consuman otros dispositivos en la casa.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Por qué Netflix se ve mal aunque tengas "buena velocidad"
 
 ### El Wi-Fi no llega bien a la TV
@@ -86,14 +81,11 @@ De 7 a 11 PM, tu proveedor reparte ancho de banda entre miles de usuarios. Si ti
 ### Alguien más está descargando
 
 Si alguien en casa está descargando un juego o actualizando su celular, Netflix compite por el ancho de banda. Solución: activa QoS en el router o pausa descargas.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Mejores proveedores para Netflix en México
 
 | Proveedor | Tecnología | Experiencia Netflix | Notas |
@@ -106,9 +98,8 @@ Si alguien en casa está descargando un juego o actualizando su celular, Netflix
 La fibra óptica es la mejor tecnología para streaming. Si tienes opción de fibra, casi siempre conviene sobre el cable coaxial para Netflix sin cortes.
 
 Para más detalle, lee [internet para streaming en México](/internet-en-casa/internet-para-streaming-mexico.html).
-:::
 
-::: section
+
 ## Checklist para eliminar el buffering de Netflix
 
 1. **Conecta tu TV por cable Ethernet** si puedes. Un cable de $80 MXN elimina el 90% de los problemas.
@@ -118,9 +109,8 @@ Para más detalle, lee [internet para streaming en México](/internet-en-casa/in
 5. **Prueba en horario pico** (8-10 PM). Si ahí funciona bien, el resto del día también.
 6. **Reinicia el router** una vez por semana.
 7. **Si nada funciona, mide por cable.** Si por cable también va mal, es el proveedor.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cuántos Mbps necesito para Netflix 4K?
@@ -140,17 +130,15 @@ Si la TV está lejos del router, mejor usa un adaptador Powerline o cable Ethern
 Sí. Una hora de Netflix en 4K consume aproximadamente 7 GB. Si tu plan tiene límite de datos, revisa tu consumo.
 
 Para calcular tu consumo, lee [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para streaming en general, checa [internet para streaming en México](/internet-en-casa/internet-para-streaming-mexico.html).
 - Para arreglar tu Wi-Fi, lee [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 - Para comparar proveedores, revisa [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: [Netflix help center](https://help.netflix.com/es/node/306){rel="nofollow noopener" target="_blank"}
-:::
-:::
+
+

@@ -34,32 +34,27 @@ Para más detalle, consulta nuestra guía de [internet barato en México](/blog/
 
 {{< faq "¿Cuál es el internet más barato en México?" >}}
 Depende de la zona. Megacable y planes sin contrato suelen tener las opciones más económicas desde $200-$300 MXN/mes. En zonas rurales, CFE Telecomunicaciones ofrece $199/mes. Totalplay tiene promos de $249/mes por 50 Mbps en ciudades.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Hay internet gratis en México?" >}}
 Algunos programas gubernamentales (Internet para Todos) ofrecen WiFi gratuito en espacios públicos. Pero no hay planes residenciales gratuitos de forma permanente.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Vale la pena el internet 4G fijo barato?" >}}
 Si no hay cable ni fibra en tu zona y la señal celular es buena, sí. Pero verifica la señal antes de pagar y revisa el límite de datos (suele ser 20-50 GB).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo negociar un precio más bajo con mi proveedor?" >}}
 Sí. Si amenazas con irte (de verdad), muchos proveedores ofrecen descuentos o mejoras de plan temporales. Funciona especialmente si ya pasó tu plazo forzoso.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet barato menos de $300
-:::
+
 
 Sí se puede tener internet en casa en México por menos de $300 MXN al mes. Pero las opciones en este rango tienen limitaciones: menor velocidad, posible límite de datos o cobertura restringida. Aquí están las opciones reales, sin engaños, y qué esperar de cada una.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Opciones de internet por menos de $300 MXN/mes
 
 | Opción | Precio aprox. | Velocidad | Mejor para | Limitación |
@@ -79,11 +74,11 @@ Los precios cambian constantemente — consulta la tarifa vigente directamente e
 - Los precios marcados como "promo" suben después de 3-6 meses. Pregunta el precio regular.
 - Las velocidades son máximas teóricas; la velocidad real puede ser menor.
 - La disponibilidad depende de tu zona. No todas las opciones llegan a todas las áreas.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Qué puedes esperar por menos de $300 MXN/mes
 
 ### Velocidad
@@ -118,14 +113,11 @@ Los planes más baratos suelen ser en cable coaxial o 4G, que pueden degradarse 
 Si necesitas estabilidad constante (para trabajo remoto o gaming), la fibra es mejor, aunque suele costar más de $300 MXN/mes.
 
 Para entender qué velocidad necesitas, lee [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Las mejores opciones detalladas
 
 ### 1. Totalplay 50 Mbps con promoción ($249/mes primeros 6 meses)
@@ -187,9 +179,8 @@ Lee más sobre [internet inalámbrico fijo](/internet-en-casa/internet-inalambri
 **Ideal para:** Comunidades rurales sin otros proveedores.
 
 Lee más sobre [internet de CFE](/blog/internet-cfe-mexico-existe-2026.html).
-:::
 
-::: section
+
 ## 4 trampas del internet barato
 
 ### 1. "Desde $199 MXN" que luego cuesta $499
@@ -209,9 +200,8 @@ El módem/router puede tener costo mensual adicional ($50-$100 MXN) que no apare
 La velocidad publicitada como "hasta 50 Mbps" puede ser de 20-30 Mbps en la realidad, especialmente en horario pico. Exige saber la velocidad garantizada o mínima.
 
 Para evitar estas trampas, lee [cómo contratar internet paso a paso](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
-:::
 
-::: section
+
 ## ¿Vale la pena el internet barato?
 
 **Sí, si:**
@@ -229,9 +219,8 @@ Para evitar estas trampas, lee [cómo contratar internet paso a paso](/blog/c%C3
 En esos casos, invertir $400-$600 MXN/mes en un plan mejor te da una experiencia muy superior. La diferencia entre 50 Mbps y 200 Mbps es notoria en hogares con 3+ personas.
 
 Para ver todas las opciones, lee [internet barato en México](/internet-en-casa/internet-barato-mexico.html) o [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cuál es el internet más barato en México?
@@ -258,18 +247,15 @@ Para uso básico (WhatsApp, correo, YouTube 1080p, Netflix HD), 30-50 Mbps es su
 
 Sí, pero con limitaciones. El hotspot consume los datos de tu plan móvil y la velocidad es menor que un internet fijo. Solo es viable para uso muy ligero o como solución temporal.
 
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
 ## Sigue aprendiendo
 
 - Para ver todas las opciones económicas, checa [internet barato en México](/internet-en-casa/internet-barato-mexico.html).
 - Para comparar proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 - Para calcular [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Para zonas rurales, lee [internet de CFE](/blog/internet-cfe-mexico-existe-2026.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

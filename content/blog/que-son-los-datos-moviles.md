@@ -31,8 +31,6 @@ keywords:
 Para entender la diferencia entre Mbps y GB, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Si necesitas calcular cuántos GB necesitas al mes, revisa [cuántos GB necesitas](/blog/cuantos-gb-necesitas-al-mes.html).
 
 
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -43,37 +41,34 @@ Para entender la diferencia entre Mbps y GB, consulta [qué significa la velocid
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: {#definicion .section}
 ## Qué son los datos móviles
 
 Los datos móviles son el acceso a internet que te da tu operador cuando no estás conectado a Wi‑Fi. En lugar de pasar por un módem de casa, tu celular se conecta a antenas cercanas y usa la red 4G o 5G.
 
 Ese acceso se mide en gigabytes (GB). Cada video, audio, imagen o app que uses consume una parte de esos GB. Por eso tu plan incluye un límite o una política de uso justo.
-:::
 
-::: {#como-funcionan .section}
+
 ## Cómo funcionan 4G y 5G
 
 4G y 5G son generaciones de red móvil. Ambas te dan internet, pero con diferencias en velocidad, latencia y estabilidad. En términos simples:
@@ -84,9 +79,8 @@ Ese acceso se mide en gigabytes (GB). Cada video, audio, imagen o app que uses c
 En México 2026, la cobertura 5G aún varía por zona. Si tu señal baja a 4G, el consumo de datos sigue igual, pero la experiencia puede cambiar.
 
 Si tus datos se sienten lentos en 5G, revisa: [por qué tus datos van lentos en 5G](/blog/por-que-tus-datos-van-lentos-5g.html).
-:::
 
-::: {#unidades .section}
+
 ## MB, GB y cómo se cuentan
 
 Las operadoras miden tu consumo en MB o GB. Un GB equivale a 1024 MB. Cuando ves "10 GB", piénsalo como 10,240 MB disponibles.
@@ -94,9 +88,8 @@ Las operadoras miden tu consumo en MB o GB. Un GB equivale a 1024 MB. Cuando ves
 El consumo se acumula cada vez que descargas o subes datos: videos, fotos, mapas, audios, actualizaciones y navegación.
 
 Por eso un video puede "comerse" un GB en una hora, mientras que mensajes de texto gastan muy poco.
-:::
 
-::: {#latencia .section}
+
 ## Velocidad vs latencia en móviles
 
 La velocidad es cuántos MB puedes descargar por segundo. La latencia es el tiempo de respuesta. En datos móviles, la latencia puede cambiar mucho según la zona.
@@ -104,9 +97,8 @@ La velocidad es cuántos MB puedes descargar por segundo. La latencia es el tiem
 Para streaming, la velocidad importa más. Para juegos o videollamadas, la latencia estable es clave.
 
 Si sientes "lag" en juegos móviles, no siempre es falta de GB, sino latencia o congestión.
-:::
 
-::: {#consumo .section}
+
 ## Qué consume más datos
 
 Lo que más gasta datos suele ser lo audiovisual. Videos y transmisiones en vivo se llevan una gran parte de tu plan.
@@ -120,12 +112,11 @@ Orden aproximado de mayor a menor consumo:
 5.  Navegación web y mensajería.
 
 El consumo exacto depende de la calidad del video y el tiempo que estés conectado.
-:::
 
-::: {#tabla .section}
+
 ## Tabla rápida de consumo
 
-::: {.table-wrap role="region" aria-label="Consumo aproximado de datos móviles"}
+
   Actividad               Consumo aproximado        Nota práctica
   ----------------------- ------------------------- --------------------
   Video en calidad baja   300--500 MB por hora      Bueno para ahorrar
@@ -133,12 +124,11 @@ El consumo exacto depende de la calidad del video y el tiempo que estés conecta
   Videollamadas           500 MB--1.5 GB por hora   Depende de la app
   Música en streaming     60--150 MB por hora       Depende de calidad
   Redes sociales          200--600 MB por hora      Autoplay gasta más
-:::
+
 
 Estos rangos son orientativos. El consumo real varía por app y configuración.
-:::
 
-::: {#calidad .section}
+
 ## Calidad de video y ajustes
 
 La calidad de video es el factor que más cambia tu consumo. Un video en calidad alta puede gastar el triple que uno en calidad media.
@@ -146,17 +136,15 @@ La calidad de video es el factor que más cambia tu consumo. Un video en calidad
 Muchas apps permiten elegir "ahorro de datos" o "calidad automática". Activar esa opción hace una gran diferencia si ves video diario.
 
 Si usas streaming, revisa la configuración dentro de cada app. No todas tienen el mismo consumo por defecto.
-:::
 
-::: {#mensajeria .section}
+
 ## Mensajería y archivos
 
 Mensajes de texto consumen poco, pero los archivos pesados pueden gastar mucho. Un video enviado por chat puede ser de 50 a 200 MB.
 
 Si recibes muchos archivos, desactiva la descarga automática en datos móviles. Eso evita sorpresas sin dejar de usar la app.
-:::
 
-::: {#background .section}
+
 ## Consumo en segundo plano
 
 Muchas apps consumen datos aunque no las estés usando. Actualizaciones, respaldos y sincronizaciones pueden gastar MB sin que lo notes.
@@ -164,9 +152,8 @@ Muchas apps consumen datos aunque no las estés usando. Actualizaciones, respald
 Por eso a veces "se van los datos" aunque no hayas visto tantos videos. Revisar el consumo en segundo plano es clave.
 
 Tip rápido: en la configuración del celular puedes limitar datos en segundo plano o activar modo ahorro.
-:::
 
-::: {#apn .section}
+
 ## APN y configuración del operador
 
 El APN es la configuración que le dice a tu celular cómo conectarse a la red del operador. Normalmente viene configurado, pero si hay fallas puede afectar velocidad.
@@ -174,9 +161,8 @@ El APN es la configuración que le dice a tu celular cómo conectarse a la red d
 Si cambiaste de operador, de chip o de eSIM, vale la pena revisar que el APN esté correcto.
 
 Un APN mal configurado puede causar navegación lenta o que el 5G no aparezca.
-:::
 
-::: {#hotspot .section}
+
 ## Hotspot y compartir datos
 
 Compartir internet desde tu celular (hotspot) consume datos a la velocidad de tus otros dispositivos. Es útil, pero gasta rápido.
@@ -184,25 +170,22 @@ Compartir internet desde tu celular (hotspot) consume datos a la velocidad de tu
 Si usas hotspot para una laptop, el consumo puede ser similar a usar Wi‑Fi en casa: videollamadas, streaming y descargas.
 
 Por eso, si haces hotspot seguido, necesitas un plan con más GB.
-:::
 
-::: {#uso-justo .section}
+
 ## Uso justo y "ilimitados"
 
 En México, muchos planes se anuncian como ilimitados, pero incluyen una política de uso justo. Esto significa que después de cierto consumo la velocidad baja.
 
 No es un engaño, pero sí un detalle importante. Siempre revisa cuántos GB reales tienes a velocidad completa.
-:::
 
-::: {#roaming .section}
+
 ## Roaming y uso fuera de tu ciudad
 
 El roaming es cuando usas la red de otro operador fuera de tu zona. En muchos planes nacionales ya está incluido, pero la velocidad puede variar.
 
 En viajes internacionales, el consumo suele ser caro. Si viajas, revisa opciones de [eSIM](/esim/) o paquetes de viaje.
-:::
 
-::: {#wifi-vs-datos .section}
+
 ## Datos móviles vs Wi‑Fi
 
 Los datos móviles son prácticos, pero el Wi‑Fi suele ser más estable y económico en casa.
@@ -210,25 +193,22 @@ Los datos móviles son prácticos, pero el Wi‑Fi suele ser más estable y econ
 Si trabajas o estudias en casa, un internet fijo te da mejor estabilidad y te ahorra GB móviles.
 
 Usa datos móviles para movilidad y Wi‑Fi para consumo pesado. Esa combinación suele ser la más eficiente.
-:::
 
-::: {#seguridad .section}
+
 ## Seguridad básica en datos móviles
 
 Los datos móviles son más seguros que Wi‑Fi público, pero no son infalibles. Usa HTTPS y evita redes abiertas si puedes.
 
 Si compartes internet con hotspot, pon contraseña y cámbiala si la compartiste con demasiadas personas.
-:::
 
-::: {#esim .section}
+
 ## Datos móviles y eSIM
 
 La eSIM es un chip digital que permite activar un plan sin cambiar físicamente el SIM. Es útil para viajeros o para tener dos líneas.
 
 En México 2026, varias operadoras y proveedores ya ofrecen eSIM. Guía: [qué es una eSIM](/esim/).
-:::
 
-::: {#medir .section}
+
 ## Cómo medir tu consumo real
 
 El mejor punto de partida es tu propio historial. En Android e iOS puedes ver qué app consume más y cuánto gastas al mes.
@@ -236,25 +216,22 @@ El mejor punto de partida es tu propio historial. En Android e iOS puedes ver qu
 También puedes revisar la app de tu operador para ver consumo real y fechas de corte.
 
 Si quieres estimar tu necesidad mensual, revisa: [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
-:::
 
-::: {#corte .section}
+
 ## Corte, vigencia y renovación
 
 Los planes móviles tienen una fecha de corte o vigencia. En pospago se renueva mensualmente en una fecha fija. En prepago depende del paquete que compras.
 
 Si tu plan se renueva el día 10, todo lo que gastes antes de esa fecha cuenta para el mismo ciclo. Conocer tu corte ayuda a evitar sorpresas.
-:::
 
-::: {#prepago .section}
+
 ## Prepago vs pospago
 
 En prepago compras paquetes con una duración específica. Si se acaba antes, necesitas recargar. En pospago tienes un plan mensual con renovación automática.
 
 Prepago da control, pospago da comodidad. La mejor opción depende de tu estabilidad de consumo y de tu presupuesto.
-:::
 
-::: {#ejemplo-dia .section}
+
 ## Ejemplo de un día típico
 
 Supongamos un día común:
@@ -265,9 +242,8 @@ Supongamos un día común:
 -   Mensajes y fotos en WhatsApp.
 
 Ese día podría consumir entre 300 y 700 MB. En un mes, eso se traduce en 9--21 GB dependiendo de la calidad y el tiempo.
-:::
 
-::: {#ahorro .section}
+
 ## Cómo ahorrar datos sin sufrir
 
 -   Desactiva autoplay de videos en redes sociales.
@@ -279,9 +255,8 @@ Ese día podría consumir entre 300 y 700 MB. En un mes, eso se traduce en 9--21
 Estas acciones suelen reducir el consumo sin cambiar tus hábitos de forma drástica.
 
 Si haces estos ajustes una sola vez, te duran meses y evitan quedarte sin datos a mitad del ciclo.
-:::
 
-::: {#planes .section}
+
 ## Cómo elegir un plan sin pagar de más
 
 Elegir plan es una mezcla de consumo real y cobertura. Si tu consumo es bajo, no tiene sentido pagar por muchos GB que no usas.
@@ -289,9 +264,8 @@ Elegir plan es una mezcla de consumo real y cobertura. Si tu consumo es bajo, no
 Si gastas mucho, conviene un plan con más datos o con política de uso justo estable.
 
 Para ver opciones en México, puedes revisar [planes móviles](/planes-moviles/) y comparar con tu consumo.
-:::
 
-::: {#errores .section}
+
 ## Errores comunes
 
 -   Usar streaming en máxima calidad con pocos GB.
@@ -302,9 +276,8 @@ Para ver opciones en México, puedes revisar [planes móviles](/planes-moviles/)
 Evitar estos errores reduce sorpresas y te ayuda a elegir mejor plan.
 
 Con pequeños ajustes puedes estirar tus GB sin cambiar de compañía.
-:::
 
-::: {#mitos .section}
+
 ## Mitos comunes
 
 ### "El 5G gasta más datos"
@@ -318,9 +291,8 @@ Muchos planes "ilimitados" tienen política de uso justo. Después de cierto con
 ### "Cerrar apps evita todo el consumo"
 
 Ayuda, pero lo más importante es limitar datos en segundo plano y controlar la calidad de streaming.
-:::
 
-::: {#checklist .section}
+
 ## Checklist práctico
 
 -   Revisar consumo mensual real.
@@ -333,9 +305,8 @@ Ayuda, pero lo más importante es limitar datos en segundo plano y controlar la 
 Con este checklist, los datos móviles dejan de ser un misterio.
 
 Es simple y funciona.
-:::
 
-::: {#glosario .section}
+
 ## Glosario rápido
 
 **GB:** gigabyte, unidad de datos.
@@ -349,9 +320,8 @@ Es simple y funciona.
 **Roaming:** usar la red fuera de tu zona o país.
 
 **5G:** generación de red móvil más reciente.
-:::
 
-::: {#preguntas-frecuentes .section}
+
 ## Preguntas frecuentes
 
 ### ¿Los datos móviles se gastan aunque no use el teléfono?
@@ -373,36 +343,33 @@ Es posible, pero suele ser más caro y menos estable que un internet fijo.
 ### ¿Cómo sé si mi plan es suficiente?
 
 Revisa tu consumo real de los últimos meses y compáralo con tu plan actual.
-:::
 
-::: {#relacionados .section .callout related-block="" style="margin-top:18px"}
+
 ## Lecturas relacionadas
 
-::: {.grid .two}
-[](/blog/cuantos-gb-necesitas-al-mes.html){.card}
+
+[](/blog/cuantos-gb-necesitas-al-mes.html)
 
 ### Cuántos GB necesitas al mes
 
 Estimación clara por hábitos reales.
 
-[](/blog/por-que-tus-datos-van-lentos-5g.html){.card}
+[](/blog/por-que-tus-datos-van-lentos-5g.html)
 
 ### Datos lentos en 5G
 
 Causas reales y soluciones.
 
-[](/planes-moviles/){.card}
+[](/planes-moviles/)
 
 ### Planes móviles
 
 Comparar opciones en México.
 
-[](/esim/){.card}
+[](/esim/)
 
 ### eSIM en México
 
 Conectividad móvil sin chip físico.
-:::
-:::
 
-:::
+

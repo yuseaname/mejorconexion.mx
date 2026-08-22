@@ -27,7 +27,7 @@ image: "/images/cat-proveedores.webp"
 
 El internet residencial funciona para una casa, pero un negocio tiene necesidades diferentes: necesitas confiabilidad, soporte prioritario, velocidad simétrica para videollamadas y cloud, y garantías de servicio. Esta guía te ayuda a elegir el plan correcto según el tipo y tamaño de tu negocio, con precios reales del mercado mexicano.
 
-::: section
+
 ## Cuánta velocidad necesita tu negocio
 
 El cálculo depende del número de dispositivos, el tipo de operaciones y la criticidad del internet.
@@ -58,9 +58,8 @@ El cálculo depende del número de dispositivos, el tipo de operaciones y la cri
 **Ejemplo de cálculo**: Un restaurante con 2 TPV (10 Mbps), 4 cámaras en la nube (20 Mbps), WiFi para 10 clientes (50 Mbps), 1 videollamada ocasional (10 Mbps) y música de fondo (2 Mbps) = ~92 Mbps. Redondeando, necesita un plan de **100-200 Mbps mínimo**.
 
 Para más contexto sobre velocidades, lee [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
-:::
 
-::: section
+
 ## Planes empresariales vs residenciales
 
 La diferencia entre un plan residencial y uno empresarial no es solo el precio: es el nivel de servicio, soporte y garantías.
@@ -125,9 +124,8 @@ Cambia a plan empresarial cuando tu negocio depende del internet para operar. Es
 | Dedicado | Simétrico garantizado | $2,500+ | SLA fuerte |
 
 **Ventajas de Telmex Empresas**: Llega a más zonas (incluyendo ciudades medianas y zonas semi-rurales), respaldo de marca, soporte empresarial.
-:::
 
-::: section
+
 ## Fibra dedicada: ¿cuándo la necesitas?
 
 La fibra dedicada es diferente a un plan empresarial normal: tienes un canal exclusivo, no compartido. Es la opción premium para negocios críticos.
@@ -172,9 +170,8 @@ Para estos casos, un plan empresarial de 200-500 Mbps simétrico es más que suf
 | Switch administrable | $800-$3,000 | Redes con múltiples puntos |
 | UPS (respaldo eléctrico) | $800-$3,000 | Para que el internet no se caa con cortes de luz |
 | Línea de respaldo (4G/5G) | $300-$600/mes | Conexión de backup |
-:::
 
-::: section
+
 ## Configuración recomendada para un negocio
 
 ### Seguridad (firewall y VPN)
@@ -210,7 +207,7 @@ Sin embargo, todavía existen problemas comunes:
 Para evitar caer en estas trampas, siempre verifica: disponibilidad en tu código postal, precio real post-promoción, SLA por escrito, y condiciones de cancelación antes de firmar cualquier contrato.
 
 Si experimentas problemas con tu proveedor, recuerda que tienes derechos como consumidor. PROFECO y el IFT pueden ayudarte a resolver disputas. Lee nuestra guía de [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

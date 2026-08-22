@@ -147,12 +147,11 @@ Si tu celular no es compatible con 5G, no importa qué plan tengas: nunca conect
 ## Preguntas Frecuentes
 
 
-::: section
 ## Sigue leyendo
 
 - [Qué es el ancho de banda y por qué se agota tu internet](/blog/que-es-el-ancho-de-banda.html)
 - [Internet satelital vs inalámbrico fijo: cuál conviene en México](/blog/internet-satelital-vs-inalambrico-mexico.html)
-:::
+
 
 {{< faq "¿Cuál es la diferencia entre 4G LTE y 5G?" >}}
 El 5G es 5-10 veces más rápido que el 4G LTE (200-800 Mbps vs 20-60 Mbps reales), tiene la mitad de latencia (10-30 ms vs 30-80 ms) y soporta más dispositivos conectados simultáneamente. Sin embargo, la cobertura 5G en México aún es limitada a las principales ciudades.

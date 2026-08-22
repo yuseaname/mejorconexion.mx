@@ -42,19 +42,19 @@ Cobertura: informe "Quién es quién en cobertura móvil en México" (CRT, 4Q25)
 
 {{< faq "¿Cuál es el mejor operador móvil en México en 2026?" >}}
 Depende de tu uso. Telcel lidera cobertura nacional (86.7% 4G garantizado) y es el más confiable fuera de las ciudades; Movistar da el mejor precio por GB (Plan Pro 18: 18 GB por $299/mes); AT&T destaca por roaming incluido en 77 países. En ciudades grandes los tres superan 99% de cobertura, así que conviene decidir por precio y datos.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué operador conviene si vivo en una ciudad grande?" >}}
 En CDMX los tres superan 99% en 4G garantizado, así que la señal es casi equivalente: elige por precio. Movistar Plan Pro 18 (18 GB por $299/mes, promo $150 los primeros 2 meses) es de las mejores relaciones GB/precio; AT&T Ármalo 5 GB ($349) permite compartir datos con 9 líneas.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué operador conviene para zonas rurales o carretera?" >}}
 Telcel. En Oaxaca, por ejemplo, AT&T baja a 26% y Movistar a 28% de 4G garantizado, mientras Telcel se mantiene en 57.8%. Si sales con frecuencia de las ciudades principales, Telcel es consistentemente la opción más segura.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de operador sin penalización?" >}}
 Sí, si estás en prepago o en un plan sin plazo forzoso: Telcel Libre no tiene plazos, y los planes anuales (AT&T Simple: $2,392 por un año; Movistar Plan 10: pagas 10 meses y usas 12) funcionan sin permanencia mensual. Si financiaste un equipo en pospago, revisa tu plazo de equipo antes de cambiar.
-{{< /faq >}}}
+{{< /faq >}}
 ## ⚡ Resumen rápido
 
 -   **Telcel** lidera cobertura: **86.7%** 4G garantizado, **34.5%** 5G --- el más confiable si sales de la ciudad.
@@ -316,19 +316,19 @@ Sí. Los tres operadores principales soportan eSIM en dispositivos compatibles. 
 
 Comparativa por uso y relación precio/beneficio.
 ## Artículos relacionados
-[](/planes-moviles/){.card}
+[](/planes-moviles/)
 
 ### Planes móviles
 
 Hub con comparativas y guías móviles.
 
-[](/planes-moviles/mejores-planes-prepago-mexico.html){.card}
+[](/planes-moviles/mejores-planes-prepago-mexico.html)
 
 ### Mejores planes prepago
 
 Paquetes, vigencias y letras chiquitas.
 
-[](/esim/mejor-esim-mexico.html){.card}
+[](/esim/mejor-esim-mexico.html)
 
 ### Mejor eSIM en México
 

@@ -30,7 +30,7 @@ image: "/images/cat-velocidad.webp"
 
 Si contrataste "100 Mbps" y al descargar un archivo ves "12 MB/s" en la pantalla, tu internet funciona perfectamente. No te están estafando: es solo una diferencia de unidades. Esta guía explica todo lo que necesitas saber sobre Mbps, MB/s y cómo no confundirte al medir tu velocidad.
 
-::: section
+
 ## La diferencia explicada de forma simple
 
 **Mbps** = Megabits por segundo. Es la unidad que usan los proveedores de internet para vender planes.
@@ -67,9 +67,8 @@ Para más detalle, lee [diferencia entre Mbps y MB](/blog/cuanta-velocidad-inter
 | Gigabyte | GB | 1,000,000,000 bytes |
 
 **Regla mnemotécnica**: La "b" minúscula son bits (velocidad, lo que contratas). La "B" mayúscula son bytes (tamaño de archivos, lo que descargas).
-:::
 
-::: section
+
 ## Tabla de conversión completa
 
 | Mbps (lo que contratas) | MB/s (velocidad real de descarga) | Tiempo en bajar 1 GB | Tiempo en bajar 50 GB (juego) |
@@ -116,9 +115,8 @@ No es engaño técnico, pero es marketing inteligente. Lo importante es que enti
 | Megacable | 80 Mbps | "80 megas" | 10 MB/s |
 
 **Nota**: Cuando un proveedor dice "100 megas", se refiere a 100 Mbps, no a 100 MB/s. La velocidad real de descarga es 12.5 MB/s.
-:::
 
-::: section
+
 ## Cómo medir tu velocidad correctamente
 
 Para medir tu velocidad real y comparar con lo contratado:
@@ -151,9 +149,8 @@ Lee nuestra guía de [cómo medir velocidad correctamente](/guias/como-medir-vel
 3. **Medir en horas pico**: La saturación del nodo reduce velocidad entre 19-23h. Mide a las 10 AM para referencia real.
 4. **Confiar en una sola medición**: Mide 3 veces en días diferentes y promedia.
 5. **Confundir Mbps con MB/s**: Speedtest.net muestra Mbps. Las descargas de archivos muestran MB/s. Son diferentes unidades.
-:::
 
-::: section
+
 ## Cuántos Mbps necesitas realmente
 
 Según tus actividades y número de dispositivos:
@@ -180,7 +177,7 @@ Solo necesitas 1 Gbps si:
 - Tienes un servidor doméstico (NAS, Plex)
 
 Para el 90% de los hogares mexicanos, 100-300 Mbps es más que suficiente.
-:::
+
 
 ## Preguntas Frecuentes
 

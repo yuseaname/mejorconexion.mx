@@ -140,9 +140,6 @@ Para un dueño de casa, la clave del éxito financiero y tecnológico reside en 
 **¿Estás pensando en mejorar la conexión de tu hogar?** No esperes a que una videollamada se corte o que tus hijos se queden sin conexión en medio de una tarea. Evalúa hoy mismo tu consumo actual y considera actualizar tu plan a uno de fibra óptica para asegurar el futuro digital de tu familia.
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -153,24 +150,23 @@ Para un dueño de casa, la clave del éxito financiero y tecnológico reside en 
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 

@@ -155,7 +155,6 @@ Si tu internet falla, ten un plan de respaldo: un hotspot móvil con al menos 10
 Para más información sobre precios, lee [cuánto cuesta el internet en México](/blog/cuanto-cuesta-internet-en-mexico-2026.html).
 
 
-
 ## Velocidad de subida: el factor más ignorado
 
 La mayoría de personas solo miran la velocidad de bajada al contratar internet ("100 Mbps" suena bien). Pero para oficina en casa, **la velocidad de subida** es igual o más importante. Cuando haces una videollamada, estás enviando video y audio constantemente. Cuando subes un archivo a Google Drive o Dropbox, necesitas buena subida. Cuando usas herramientas colaborativas en tiempo real (Google Docs, Figma, Notion), la subida afecta la fluidez.

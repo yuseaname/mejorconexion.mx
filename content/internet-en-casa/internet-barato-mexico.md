@@ -31,32 +31,27 @@ Para más detalle, consulta [internet sin contrato en México](/internet-en-casa
 
 {{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
 Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
 Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
 Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
 Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet barato
-:::
+
 
 Internet barato en México existe, pero el más barato no siempre conviene. La diferencia entre ahorrar $100 MXN al mes y pasar meses con internet lento se decide en lo que revisas antes de contratar, no en el precio del anuncio.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Qué define si un internet es "barato" o es una trampa
 
 Un internet barato de verdad te entrega velocidad suficiente para tu uso, sin sorpresas en el recibo y sin amarrarte a un contrato abusivo. Un internet "barato" que es trampa tiene alguna de estas señales:
@@ -67,11 +62,11 @@ Un internet barato de verdad te entrega velocidad suficiente para tu uso, sin so
 - El costo de instalación o equipo lo descubres hasta el segundo recibo.
 
 Antes de contratar, pregunta el **precio total mensual después de promoción**, incluyendo equipo, instalación prorrateada y cualquier cargo adicional.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Opciones de internet económico en México
 
 | Tipo | Rango de precio | Ventaja | Riesgo |
@@ -85,14 +80,11 @@ Antes de contratar, pregunta el **precio total mensual después de promoción**,
 Los precios y la disponibilidad cambian constantemente — consulta la tarifa vigente directamente en los sitios oficiales de los proveedores.
 
 El más barato en precio mensual no siempre es el más barato en costo total. Suma instalación, equipo y permanencia antes de comparar.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Checklist antes de contratar internet barato
 
 1. **Confirma cobertura** en tu dirección exacta, no solo tu ciudad.
@@ -102,9 +94,8 @@ El más barato en precio mensual no siempre es el más barato en costo total. Su
 5. **Verifica la velocidad de subida**, no solo la de descarga.
 6. **Checa qué equipo entregan** (router, módem) y si puedes usar el propio.
 7. **Compara el costo total a 12 meses**, incluyendo todo.
-:::
 
-::: section
+
 ## Internet sin contrato: ¿cuándo conviene?
 
 El internet sin contrato o prepago funciona si:
@@ -116,11 +107,11 @@ El internet sin contrato o prepago funciona si:
 Pero cuidado: algunos planes "sin contrato" tienen velocidad menor, equipo más básico o no incluyen soporte prioritario. Compara el costo por Mbps real.
 
 Para más detalles, checa [internet sin contrato en México](/internet-en-casa/internet-sin-contrato-mexico.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## 3 errores que te hacen creer que el internet barato es malo
 
 ### Contratar la velocidad más baja y esperar que aguante todo
@@ -134,9 +125,8 @@ Muchos planes baratos tienen buena descarga pero subida mínima (1-5 Mbps). Si h
 ### Elegir solo por el precio del primer mes
 
 Una promo de $199 MXN por 3 meses suena bien. Pero si después sube a $499 MXN, el costo anual real es mayor que un plan de $350 MXN sin promoción.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cuál es el internet más barato en México?
@@ -150,17 +140,15 @@ Algunos programas sociales ofrecen internet subsidiado. Si calificas, puede ser 
 ### ¿Puedo negociar el precio con mi proveedor?
 
 Sí. Si ya eres cliente y amenazas con irte (de verdad, no solo de boca), muchos proveedores te ofrecen una mejora de plan o descuento temporal. Ten a mano ofertas de la competencia.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para comparar proveedores, checa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 - Para saber [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html), lee [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Si quieres opciones sin amarrarte, revisa [internet sin contrato](/internet-en-casa/internet-sin-contrato-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

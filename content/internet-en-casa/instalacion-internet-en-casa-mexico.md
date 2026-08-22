@@ -27,9 +27,6 @@ Una instalación estándar de internet en casa en México tarda entre **2 y 4 ho
 Para más detalle, consulta [cómo [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html) de internet](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -40,39 +37,33 @@ Para más detalle, consulta [cómo [cambiar de proveedor](/blog/cambiar-de-prove
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Instalación
-:::
+
 
 La instalación de internet en México varía según la tecnología (fibra, cable o inalámbrico), el proveedor y tu vivienda. Esta guía explica qué esperar, cuánto tarda, qué cablean y qué debes revisar antes de que el técnico se vaya.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Tipos de instalación según tecnología
 
 ### Fibra óptica
@@ -98,11 +89,11 @@ El técnico entrega un módem que se enchufa a la corriente. No requiere cablead
 - Tiempo: 15-30 minutos.
 - Requiere: buena señal celular en tu casa.
 - Deja: solo el módem y su cable de corriente.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Antes de la instalación: qué preparar
 
 1. **Decide dónde quieres el módem.** Debe estar en zona central de la casa, con corriente y preferiblemente cerca de donde más usas internet.
@@ -110,14 +101,11 @@ El técnico entrega un módem que se enchufa a la corriente. No requiere cablead
 3. **Ten lista tu identificación** oficial y el número de contrato.
 4. **Si vives en renta o condominio**, confirma con la administración que permiten la instalación.
 5. **Pide que el técnico deje el cable lo más limpio posible.** Si no lo pides, lo van a dejar donde sea más rápido para ellos.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Durante la instalación: qué revisar
 
 1. **Pide ver la velocidad por cable.** El técnico puede hacer una prueba de velocidad conectando una laptop por Ethernet al módem.
@@ -125,9 +113,8 @@ El técnico entrega un módem que se enchufa a la corriente. No requiere cablead
 3. **Pregunta por la contraseña del Wi-Fi y del panel del módem.** Cámbiala si puedes.
 4. **Pregunta qué hacer si se cae el servicio.** Anota el número de soporte.
 5. **No firmes el acta de instalación** hasta que hayas probado que el internet funciona.
-:::
 
-::: section
+
 ## Después de la instalación: checklist
 
 - [ ] El módem está en una zona central, no escondido ni encajonado.
@@ -139,9 +126,8 @@ El técnico entrega un módem que se enchufa a la corriente. No requiere cablead
 - [ ] Si la velocidad no es correcta, agendaste una revisión.
 
 Si después de la instalación el internet va lento, lee [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto tarda la instalación de fibra?
@@ -159,17 +145,15 @@ Sí, dentro de lo razonable. Si el cable llega, el técnico lo instala donde pid
 ### ¿Qué pasa si no llega la velocidad contratada?
 
 Si por cable Ethernet mides significativamente menos de lo que pagas, llama a soporte. Tienes derecho a que funcione lo que contrataste.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para optimizar tu Wi-Fi después de la instalación, checa [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 - Para entender qué velocidad necesitas, lee [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Si tu internet llegó lento, revisa [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

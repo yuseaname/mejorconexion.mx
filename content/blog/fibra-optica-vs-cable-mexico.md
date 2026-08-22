@@ -51,9 +51,6 @@ La comparación útil entre fibra óptica y cable no es "qué se ve más rápido
 11. [Estado del contenido](#status)
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -64,37 +61,34 @@ La comparación útil entre fibra óptica y cable no es "qué se ve más rápido
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: {#basico .section}
 ## Qué es fibra óptica y qué es cable
 
 La fibra óptica transmite datos con luz a través de hilos de vidrio o plástico. El cable (coaxial) transmite datos por un conductor metálico. En la práctica, ambos te dan internet, pero su comportamiento en estabilidad, subida y horario pico suele ser diferente.
 
 Si quieres entender la base de velocidad antes de comparar, revisa: [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
-:::
 
-::: {#diferencias .section}
+
 ## Diferencias reales: estabilidad, subida y latencia
 
 En México, estas son las diferencias que más se sienten:
@@ -104,17 +98,15 @@ En México, estas son las diferencias que más se sienten:
 -   **Latencia:** la fibra suele tener menor latencia, útil para juegos y videollamadas.
 
 El cable puede funcionar muy bien en muchas zonas, pero es más sensible a saturación local cuando hay muchos usuarios conectados al mismo tiempo.
-:::
 
-::: {#horario .section}
+
 ## Horario pico: por qué cambia la experiencia
 
 El horario pico en México suele ser de 7 a 11 pm. En ese horario, el cable puede bajar más porque la red se comparte con muchos usuarios. En fibra, la caída suele ser menor.
 
 Si tu problema es "solo en la noche", probablemente es saturación local. Guía útil: [por qué el internet es lento a veces](/blog/por-que-el-internet-es-lento-a-veces.html).
-:::
 
-::: {#uso .section}
+
 ## Qué conviene según tu uso
 
 ### Streaming y uso básico
@@ -130,9 +122,8 @@ Guía relacionada: [red estable para home office](/blog/red-estable-home-office-
 ### Gaming
 
 La latencia baja es más importante que el número de Mbps. La fibra suele dar mejor ping. Si juegas en línea, revisa: [mejor velocidad para gaming](/blog/mejor-velocidad-para-gaming.html).
-:::
 
-::: {#zona .section}
+
 ## Cómo evaluar tu zona antes de contratar
 
 Dos vecinos con el mismo plan pueden tener experiencias distintas. Por eso es clave preguntar en tu colonia:
@@ -142,9 +133,8 @@ Dos vecinos con el mismo plan pueden tener experiencias distintas. Por eso es cl
 -   ¿La instalación es buena?
 
 Si quieres aterrizar por ubicación: [guías por ciudad](/ciudades/).
-:::
 
-::: {#costo .section}
+
 ## Costo real y contrato: lo que casi nadie revisa
 
 La promoción inicial no es el costo real. Revisa:
@@ -154,30 +144,26 @@ La promoción inicial no es el costo real. Revisa:
 -   Costos de instalación o reubicación.
 
 Si quieres comparar proveedores con lógica, revisa: [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-:::
 
-::: {#wifi .section}
+
 ## Wi‑Fi interno: la mitad de la experiencia
 
 La tecnología del proveedor no arregla un Wi‑Fi mal configurado. Si el router está mal ubicado, se pierde velocidad aunque tengas fibra.
 
 Guía práctica: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
 
-::: {#tabla .section}
+
 ## Tabla comparativa rápida
 
-::: {style="overflow:auto"}
+
   Aspecto          Fibra óptica            Cable (coaxial)
   ---------------- ----------------------- -------------------------------
   Estabilidad      Alta                    Media (varía en horario pico)
   Subida           Generalmente alta       Generalmente menor
   Latencia         Más baja                Puede ser más alta
   Disponibilidad   No en todas las zonas   Más común en zonas urbanas
-:::
-:::
 
-::: {#cobertura .section}
+
 ## Cobertura real en México: lo que pasa en la calle, no en el anuncio
 
 En México, la disponibilidad cambia por colonia e incluso por calle. Hay zonas con fibra de un lado y solo cable del otro. Por eso la decisión debe empezar con cobertura real, no con la oferta más bonita.
@@ -185,9 +171,8 @@ En México, la disponibilidad cambia por colonia e incluso por calle. Hay zonas 
 Si un proveedor te dice "sí hay fibra", pide que confirmen la dirección exacta. Y si puedes, pregunta a vecinos cómo se comporta en la noche. Esa información vale más que cualquier publicidad.
 
 Para aterrizar por ubicación, revisa: [guías por ciudad](/ciudades/).
-:::
 
-::: {#instalacion .section}
+
 ## Instalación: la parte que define la experiencia
 
 Una instalación bien hecha hace que un plan medio se sienta sólido. Una instalación mal hecha hace que un plan alto se sienta lento. Esto aplica para fibra y cable.
@@ -197,17 +182,15 @@ Una instalación bien hecha hace que un plan medio se sienta sólido. Una instal
 -   Pide una prueba de velocidad por cable al terminar la instalación.
 
 Si tienes dudas, revisa: [instalación de internet en casa](/internet-en-casa/instalacion-internet-en-casa-mexico.html).
-:::
 
-::: {#simetrico .section}
+
 ## Planes simétricos: por qué importan
 
 Un plan simétrico tiene subida y bajada parecidas. Esto es común en fibra y raro en cable. Para home office y creación de contenido, una subida alta cambia la experiencia diaria.
 
 Si subes archivos a la nube, haces videollamadas largas o envías archivos pesados, la fibra suele tener ventaja. Si tu uso es básico, la diferencia se siente menos.
-:::
 
-::: {#costos-ocultos .section}
+
 ## Costos ocultos y letra chica
 
 El costo real de un plan no es el precio del primer mes. Revisa:
@@ -218,9 +201,8 @@ El costo real de un plan no es el precio del primer mes. Revisa:
 -   Si el router incluido es básico o de buena cobertura.
 
 Si quieres una guía práctica de ahorro, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales.html).
-:::
 
-::: {#decision .section}
+
 ## Cómo decidir en 5 pasos (sin complicarte)
 
 1.  Confirma la tecnología disponible en tu calle.
@@ -230,9 +212,8 @@ Si quieres una guía práctica de ahorro, revisa: [internet barato sin trampas](
 5.  Evalúa la calidad de tu Wi‑Fi interno.
 
 Si quieres decidir por tamaño de hogar: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
-:::
 
-::: {#caso-extra .section}
+
 ## Mini caso extra: cambio de tecnología en una familia
 
 **Escenario:** familia de 4 con videollamadas y streaming por la noche. Con cable, la velocidad bajaba en horario pico y las videollamadas se cortaban.
@@ -240,9 +221,8 @@ Si quieres decidir por tamaño de hogar: [plan según personas](/planes-internet
 **Cambio:** migraron a fibra en su zona. La descarga no subió mucho, pero la subida y la estabilidad mejoraron. Resultado: videollamadas sin cortes y streaming más estable.
 
 Este caso muestra que la estabilidad pesa más que el número de Mbps.
-:::
 
-::: {#preguntas-clave .section}
+
 ## Preguntas clave antes de contratar
 
 -   ¿La conexión es fibra hasta la casa o solo fibra hasta el nodo?
@@ -252,9 +232,8 @@ Este caso muestra que la estabilidad pesa más que el número de Mbps.
 -   ¿Hay penalización por cancelar?
 
 Si no te responden con claridad, es una señal de alerta.
-:::
 
-::: {#mantenimiento .section}
+
 ## Mantenimiento y estabilidad a largo plazo
 
 Una conexión estable depende de tres cosas: proveedor, instalación y mantenimiento básico. Esto aplica a fibra y cable.
@@ -264,17 +243,15 @@ Una conexión estable depende de tres cosas: proveedor, instalación y mantenimi
 -   Evita mover el router a lugares cerrados.
 
 Si hay fallas constantes, reporta y pide revisión de instalación.
-:::
 
-::: {#respaldo .section}
+
 ## Respaldo: qué hacer si la conexión falla
 
 Si trabajas desde casa, un respaldo es útil. Puede ser datos móviles o un plan secundario ligero. No necesitas algo caro, pero sí algo que te permita mantener llamadas y enviar archivos básicos.
 
 Para dimensionar datos, revisa: [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
-:::
 
-::: {#cuando-no .section}
+
 ## Cuándo no conviene cambiar a fibra
 
 La fibra no siempre es la mejor decisión si:
@@ -286,9 +263,8 @@ La fibra no siempre es la mejor decisión si:
 En esos casos, puede ser mejor mantener el cable y mejorar el Wi‑Fi interno. La estabilidad cotidiana pesa más que la tecnología en el anuncio.
 
 Lo importante es medir tu experiencia real antes de cambiar.
-:::
 
-::: {#resumen .section}
+
 ## Resumen rápido para decidir
 
 Si haces home office diario, subes archivos y necesitas estabilidad, la fibra suele ser mejor opción. Si tu uso es básico y el cable es estable en tu zona, puedes quedarte con cable sin problema.
@@ -296,9 +272,8 @@ Si haces home office diario, subes archivos y necesitas estabilidad, la fibra su
 La clave es evaluar tecnología disponible, estabilidad en horario pico y calidad del Wi‑Fi interno. Con esos tres factores claros, la decisión se vuelve sencilla.
 
 Así evitas pagar de más o quedarte corto.
-:::
 
-::: {#como-funciona .section}
+
 ## Cómo funciona cada tecnología (sin tecnicismos)
 
 **Fibra óptica:** la señal viaja como luz. Eso hace que sea menos sensible a interferencias y que mantenga mejor estabilidad. Por eso es común que la subida sea más alta y más constante.
@@ -306,25 +281,22 @@ Así evitas pagar de más o quedarte corto.
 **Cable coaxial:** la señal viaja por un conductor metálico compartido. Funciona bien, pero cuando muchos vecinos se conectan al mismo tiempo, el rendimiento puede bajar. No siempre pasa, pero es más probable en zonas con alta densidad.
 
 En la práctica, ambas pueden dar buen internet. La diferencia aparece en horarios pico, videollamadas exigentes y gaming competitivo.
-:::
 
-::: {#subida .section}
+
 ## Subida: la diferencia que se siente diario
 
 La subida es clave para videollamadas, subir archivos y respaldos en la nube. En México, la fibra suele ofrecer subida más alta y más estable. En cable, la subida puede ser menor y más variable.
 
 Si trabajas desde casa, una subida estable evita cortes en Zoom o Meet. Por eso la fibra suele ser mejor para home office. Guía útil: [red estable para home office](/blog/red-estable-home-office-mexico.html).
-:::
 
-::: {#latencia .section}
+
 ## Latencia y gaming: por qué importa
 
 El ping es el tiempo de respuesta. En gaming, un ping bajo y estable es más importante que tener muchos Mbps. La fibra suele dar menor latencia, aunque el cable también puede funcionar bien si la zona no está saturada.
 
 Si juegas en línea, revisa: [mejor velocidad para gaming](/blog/mejor-velocidad-para-gaming.html) y [qué es el ping](/blog/que-es-el-ping.html).
-:::
 
-::: {#casos-reales .section}
+
 ## Casos reales (ejemplos prácticos)
 
 **Caso 1:** familia con 3 personas, streaming HD y clases en línea. Con cable funcionaba bien en la mañana, pero se degradaba en la noche. Cambió a fibra y la estabilidad mejoró en horario pico.
@@ -332,9 +304,8 @@ Si juegas en línea, revisa: [mejor velocidad para gaming](/blog/mejor-velocidad
 **Caso 2:** pareja con uso básico. El cable les funciona bien porque el consumo es bajo y su zona no está saturada. No fue necesario cambiar.
 
 **Caso 3:** gamer competitivo. Con cable tenía ping variable. Al cambiar a fibra, el ping bajó y se mantuvo estable.
-:::
 
-::: {#checklist .section}
+
 ## Checklist antes de contratar
 
 -   Confirma la tecnología real en tu calle.
@@ -344,17 +315,15 @@ Si juegas en línea, revisa: [mejor velocidad para gaming](/blog/mejor-velocidad
 -   Revisa la calidad del Wi‑Fi interno.
 
 Si quieres ahorrar sin errores, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales.html).
-:::
 
-::: {#mitos .section}
+
 ## Mitos comunes
 
 -   **"Fibra siempre es perfecta":** depende de la zona y la instalación.
 -   **"Cable siempre es malo":** en zonas bien dimensionadas puede funcionar muy bien.
 -   **"Más megas arregla todo":** sin buen Wi‑Fi no se siente.
-:::
 
-::: {#errores .section}
+
 ## Errores comunes al elegir tecnología
 
 -   Elegir por el número de Mbps sin revisar estabilidad.
@@ -363,9 +332,8 @@ Si quieres ahorrar sin errores, revisa: [internet barato sin trampas](/planes-in
 -   Ignorar el Wi‑Fi interno.
 
 Para elegir por tamaño de hogar: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
-:::
 
-::: {#faq .section}
+
 ## Preguntas frecuentes
 
 ### ¿La fibra siempre es mejor?
@@ -387,6 +355,5 @@ Pregunta al proveedor y verifica con vecinos. La cobertura puede variar de una c
 ### ¿Qué hago si mi internet se cae en la noche?
 
 Es probable saturación local. Haz pruebas en horario pico y evalúa cambio de tecnología.
-:::
 
-:::
+

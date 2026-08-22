@@ -26,7 +26,7 @@ keywords:
 - **Conecta por cable Ethernet y reinicia el router del operador; si sigue, pide al operador que desactive CG-NAT.**
 
 Para más detalle, consulta [qué velocidad necesitas para gaming](/blog/mejor-velocidad-para-gaming.html).
-::: {#que-es-lag .section}
+
 ## Qué es lag (y qué no es)
 
 Lag es un retraso entre lo que haces y lo que el juego refleja. No siempre se trata de que "el internet esté lento", sino de que la señal llega tarde o llega con irregularidad.
@@ -34,9 +34,8 @@ Lag es un retraso entre lo que haces y lo que el juego refleja. No siempre se tr
 Cuando hay lag, puedes sentir que los personajes se teletransportan o que los disparos no registran. Eso suele ser latencia y jitter, no falta de Mbps.
 
 En otras palabras, el lag es un problema de tiempo, no de tamaño de descarga.
-:::
 
-::: {#velocidad-vs-latencia .section}
+
 ## Velocidad vs latencia
 
 La velocidad es cuánto puedes descargar en un segundo. La latencia es cuánto tarda un paquete en ir y volver. El gaming depende más de latencia estable que de velocidad alta.
@@ -44,20 +43,15 @@ La velocidad es cuánto puedes descargar en un segundo. La latencia es cuánto t
 Por eso alguien con 80 Mbps puede jugar mejor que alguien con 300 Mbps si su red es más estable. Esta guía lo explica a fondo: [qué es el ping](/blog/que-es-el-ping.html).
 
 Si el ping fluctúa, el juego se siente inconsistente aunque haya muchos Mbps.
-:::
 
-::: {#no-es-fps .section}
+
 ## Lag no es lo mismo que FPS bajos
 
 Un error común es confundir lag con caída de FPS. El lag es red; los FPS son rendimiento del equipo.
 
 Si el juego se "traba" pero el ping está bien, puede ser la tarjeta gráfica o la configuración. Si el ping sube y baja, es red.
-:::
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -68,29 +62,27 @@ Si el juego se "traba" pero el ping está bien, puede ser la tarjeta gráfica o 
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: {#causas .section}
 ## Causas reales del lag con buen internet
 
 Estas son las causas más comunes en México, aunque el plan diga "rápido":
@@ -114,22 +106,19 @@ Si el servidor está en otro país, el ping sube aunque tengas un plan premium.
 ### 5) Ruta del proveedor
 
 Algunos ISPs hacen rutas largas o saturadas hacia servidores de juegos. Esto genera lag en horarios pico.
-:::
 
-::: {#tabla-causas .section}
+
 ## Causa vs solución (resumen rápido)
 
-::: {.table-wrap role="region" aria-label="Causas de lag y soluciones rápidas"}
+
   Señal                                    Posible causa                Solución práctica
   ---------------------------------------- ---------------------------- --------------------------------
   Ping sube cuando alguien sube archivos   Subida saturada              QoS/SQM y limitar backups
   Lag solo en Wi‑Fi                        Interferencias o distancia   5 GHz, mejor ubicación o cable
   Lag a la misma hora                      Saturación del ISP           Reportar y comparar opciones
   Lag en servidores lejanos                Distancia                    Elegir servidor cercano
-:::
-:::
 
-::: {#senales .section}
+
 ## Señales claras de que el problema no es la velocidad
 
 -   El ping sube solo en ciertas horas.
@@ -139,17 +128,15 @@ Algunos ISPs hacen rutas largas o saturadas hacia servidores de juegos. Esto gen
 -   Mejora al acercarte al router.
 
 Si te pasa algo de esto, tu plan probablemente no es el problema principal.
-:::
 
-::: {#wifi .section}
+
 ## Wi‑Fi, interferencias y distancia
 
 El Wi‑Fi es cómodo, pero es la causa #1 de lag en casa. Cada pared reduce señal y agrega variaciones. En departamentos, la congestión por vecinos es común.
 
 Si quieres estabilidad real, prueba con cable o un buen mesh. Aquí está la guía de [Wi‑Fi vs Ethernet](/blog/wifi-vs-ethernet-para-jugar.html).
-:::
 
-::: {#bufferbloat .section}
+
 ## Subida saturada y bufferbloat
 
 El bufferbloat ocurre cuando el router crea colas enormes al estar saturado, subiendo la latencia aunque tengas buen plan.
@@ -157,17 +144,15 @@ El bufferbloat ocurre cuando el router crea colas enormes al estar saturado, sub
 Esto pasa mucho cuando hay respaldos automáticos, cámaras o alguien subiendo archivos grandes.
 
 Solución práctica: activar QoS/SQM en el router. Guía: [red doméstica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html).
-:::
 
-::: {#servidores .section}
+
 ## Servidor y ruta de red
 
 A veces el lag no está en tu casa sino en el camino hasta el servidor del juego. Si el servidor está lejos o la ruta del ISP es mala, el ping sube.
 
 En ese caso, cambiar de plan no arregla el problema. Puedes probar servidores más cercanos si el juego lo permite.
-:::
 
-::: {#diagnostico .section}
+
 ## Diagnóstico rápido paso a paso
 
 1.  Conecta por cable si es posible.
@@ -177,9 +162,8 @@ En ese caso, cambiar de plan no arregla el problema. Puedes probar servidores m�
 5.  Repite en horario pico (noche) y horario tranquilo (mañana).
 
 Si por cable mejora mucho, el problema es Wi‑Fi. Si no mejora, revisa saturación del proveedor o ruta.
-:::
 
-::: {#pruebas .section}
+
 ## Pruebas simples que sí sirven
 
 ### Prueba A/B de Wi‑Fi vs cable
@@ -193,9 +177,8 @@ Si solo falla una consola, puede ser el equipo. Si falla todo, es la red o el pr
 ### Prueba con la red limpia
 
 Apaga dispositivos no esenciales 10 minutos y juega. Si mejora, la saturación en casa era la causa.
-:::
 
-::: {#diagnostico-avanzado .section}
+
 ## Diagnóstico avanzado (sin ser técnico)
 
 Si quieres ir un paso más, usa estos indicadores:
@@ -205,9 +188,8 @@ Si quieres ir un paso más, usa estos indicadores:
 -   Consistencia por horario: si solo falla de noche, es saturación externa.
 
 No necesitas herramientas complejas, solo consistencia en tus pruebas.
-:::
 
-::: {#comparar-redes .section}
+
 ## Comparar con otra red para aislar el problema
 
 Si puedes, prueba el mismo juego en otra red: casa de un amigo o incluso con hotspot del celular. No es para jugar así siempre, sino para comparar.
@@ -215,9 +197,8 @@ Si puedes, prueba el mismo juego en otra red: casa de un amigo o incluso con hot
 Si en otra red todo va bien, el problema es tu red o tu proveedor. Si en ambas redes hay lag, puede ser el servidor o el juego.
 
 Esta comparación rápida te ahorra semanas de dudas.
-:::
 
-::: {#soluciones .section}
+
 ## Soluciones prácticas
 
 ### Usa cable para el dispositivo principal
@@ -239,9 +220,8 @@ Un sistema mesh reduce zonas muertas y mejora estabilidad: [Wi‑Fi mesh para ca
 ### Revisa tecnología del proveedor
 
 Fibra suele dar mejor estabilidad que coaxial. Comparativa: [fibra óptica vs cable](/blog/fibra-optica-vs-cable-mexico.html).
-:::
 
-::: {#checklist-20 .section}
+
 ## Checklist de corrección en 20 minutos
 
 1.  Reinicia el router (solo una vez, no cada día).
@@ -251,9 +231,8 @@ Fibra suele dar mejor estabilidad que coaxial. Comparativa: [fibra óptica vs ca
 5.  Prueba el ping en el juego y toma nota.
 
 Si con esto mejora, ya tienes el diagnóstico: era red local, no falta de Mbps.
-:::
 
-::: {#router .section}
+
 ## Configuración básica del router que ayuda
 
 Sin entrar a cosas técnicas, hay ajustes simples que ayudan:
@@ -263,17 +242,15 @@ Sin entrar a cosas técnicas, hay ajustes simples que ayudan:
 -   Evita canales saturados en edificios.
 
 Si tu router es muy básico, considera uno mejor antes de subir de plan.
-:::
 
-::: {#equipo .section}
+
 ## Revisa el equipo antes de culpar al internet
 
 Algunos lags vienen del equipo, no de la red. Si la consola está actualizando en segundo plano o el PC tiene procesos pesados, se siente como lag.
 
 Haz una prueba con el sistema "limpio": reinicia, cierra aplicaciones y vuelve a jugar. Si mejora, era rendimiento, no conexión.
-:::
 
-::: {#antes-isp .section}
+
 ## Antes de contactar al proveedor
 
 Si vas a reportar, llega con datos claros. Esto ayuda a que te tomen en serio:
@@ -284,17 +261,15 @@ Si vas a reportar, llega con datos claros. Esto ayuda a que te tomen en serio:
 -   Capturas o notas de pérdida de paquetes.
 
 Con eso pueden revisar saturación o ruta. Si no hay solución, considera otras opciones en tu zona.
-:::
 
-::: {#home-office .section}
+
 ## Si también trabajas desde casa
 
 El mismo lag que afecta juegos también afecta videollamadas. Por eso muchas mejoras sirven para ambos casos.
 
 Guía útil: [red estable para home office](/blog/red-estable-home-office-mexico.html).
-:::
 
-::: {#habitos .section}
+
 ## Hábitos simples que reducen lag
 
 -   Evita respaldos automáticos en horario de juego.
@@ -305,9 +280,8 @@ Guía útil: [red estable para home office](/blog/red-estable-home-office-mexico
 No necesitas prohibir nada, solo organizar horarios para que el juego tenga prioridad.
 
 Un cambio pequeño en hábitos suele reducir más el lag que pagar por un plan más caro.
-:::
 
-::: {#casos .section}
+
 ## Casos reales (para ubicarte rápido)
 
 ### "Solo tengo lag en el Wi‑Fi de 2.4 GHz"
@@ -321,17 +295,15 @@ El streaming puede saturar la red. Solución: QoS o limitar calidad en la TV.
 ### "Por la mañana va perfecto, por la noche no"
 
 Eso apunta a saturación del proveedor o de la zona. En ese caso, cambiar de plan no siempre ayuda.
-:::
 
-::: {#isp .section}
+
 ## Cuándo vale la pena hablar con tu proveedor
 
 Si ya probaste por cable y el problema sigue en horarios específicos, vale la pena reportarlo. Anota horarios, pruebas y resultados para que te tomen en serio.
 
 Si el problema se repite todas las noches y no hay solución, considera comparar tecnologías en tu zona.
-:::
 
-::: {#cambiar-plan .section}
+
 ## ¿Cuándo sí conviene cambiar de plan?
 
 Si tu casa está saturada porque hay muchas personas y múltiples streams, subir de plan puede ayudar. Pero solo después de mejorar la red interna.
@@ -341,9 +313,8 @@ El orden correcto es: optimizar Wi‑Fi, probar cable, usar QoS, y luego decidir
 Si tu velocidad actual ya cubre lo básico pero el lag sigue, cambiar de plan no cambia el ping.
 
 Para ver rangos reales por número de personas, revisa: [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
-:::
 
-::: {#errores .section}
+
 ## Errores comunes
 
 ### Subir de plan sin arreglar la red interna
@@ -357,9 +328,8 @@ Haz pruebas en distintos horarios y compara. Un test aislado no cuenta toda la h
 ### Ignorar la subida
 
 La subida baja es un gran causante de bufferbloat. Para gaming y videollamadas es clave.
-:::
 
-::: {#resumen-rapido .section}
+
 ## Resumen rápido en 60 segundos
 
 -   Lag casi siempre es latencia o jitter, no falta de Mbps.
@@ -369,9 +339,8 @@ La subida baja es un gran causante de bufferbloat. Para gaming y videollamadas e
 -   Si todo falla, compara tecnología o proveedor.
 
 Si quieres jugar sin frustración, empieza por la red local.
-:::
 
-::: {#preguntas-frecuentes .section}
+
 ## Preguntas frecuentes
 
 ### ¿Por qué tengo lag si tengo 200 Mbps?
@@ -393,36 +362,33 @@ Más importante que Mbps es la estabilidad. Aun así, revisa la guía de [mejor 
 ### ¿El Wi‑Fi 6 reduce el lag?
 
 Ayuda, pero no elimina interferencias ni distancia. Cable sigue siendo la opción más estable.
-:::
 
-::: {#relacionados .section .callout related-block="" style="margin-top:18px"}
+
 ## Lecturas relacionadas
 
-::: {.grid .two}
-[](/blog/mejor-velocidad-para-gaming.html){.card}
+
+[](/blog/mejor-velocidad-para-gaming.html)
 
 ### Mejor velocidad para gaming
 
 Rangos reales y prioridades claras.
 
-[](/blog/wifi-vs-ethernet-para-jugar.html){.card}
+[](/blog/wifi-vs-ethernet-para-jugar.html)
 
 ### Wi‑Fi vs Ethernet para jugar
 
 Comparativa directa y práctica.
 
-[](/blog/que-es-el-ping.html){.card}
+[](/blog/que-es-el-ping.html)
 
 ### Qué es el ping
 
 Latencia explicada simple.
 
-[](/blog/por-que-se-cae-wifi-casa-mexico.html){.card}
+[](/blog/por-que-se-cae-wifi-casa-mexico.html)
 
 ### Por qué se cae el Wi‑Fi en casa
 
 Si hay microcortes, aquí está la razón.
-:::
-:::
 
-:::
+

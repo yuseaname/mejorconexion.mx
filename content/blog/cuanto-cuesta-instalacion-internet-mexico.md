@@ -25,9 +25,8 @@ image: "/images/cat-precios.webp"
 | Starlink | Compra equipo ($4,500) | N/A | Auto-instalación |
 
 Para más sobre contratación, lee [cómo contratar internet en México](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
-:::
 
-::: section
+
 ## ¿Cuándo la instalación es gratis?
 
 La instalación suele ser gratis cuando:
@@ -37,9 +36,8 @@ La instalación suele ser gratis cuando:
 4. Contratas **online** (algunos proveedores ofrecen descuentos por web)
 
 Pregunta siempre: "¿La instalación tiene costo? ¿Hay promo de instalación gratis?"
-:::
 
-::: section
+
 ## ¿Qué incluye la instalación?
 
 Una instalación estándar incluye:
@@ -53,7 +51,7 @@ Una instalación estándar incluye:
 - Router premium (solo el básico)
 - Extensor WiFi
 - Instalación de puntos Ethernet adicionales
-:::
+
 
 ## Preguntas Frecuentes
 

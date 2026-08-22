@@ -34,32 +34,27 @@ Para más detalle sobre todas las opciones de conectividad, consulta nuestra gu�
 
 {{< faq "¿Existe de verdad el internet de CFE en 2026?" >}}
 Sí. CFE Telecomunicaciones ofrece planes residenciales en zonas rurales y semiurbanas desde $199/mes. La cobertura es limitada (5-15% del territorio) y se concentra en el sureste y zonas marginadas del país.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cuánto cuesta el internet de CFE?" >}}
 Los planes van de $199/mes (20 Mbps) a $499/mes (100 Mbps) con IVA incluido. La instalación puede tener costo adicional dependiendo de la zona, pero a menudo es gratuita en comunidades atendidas por programas de conectividad.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo contrato internet de CFE en mi casa?" >}}
 Verifica cobertura con tu código postal en cfeteinternet.mx o acude al módulo de CFE más cercano. Necesitas identificación oficial, comprobante de domicilio y el número de contrato eléctrico asociado a tu domicilio.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿La CFE va a competir con Telmex o Totalplay?" >}}
 No de forma directa. El enfoque de CFE Telecomunicaciones es llegar a zonas sin cobertura comercial. En ciudades donde Telmex, Izzi o Totalplay ya operan, la CFE no ofrece planes residenciales.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet CFE México
-:::
+
 
 La CFE (Comisión Federal de Electricidad) es conocida por la electricidad, pero ¿ofrece internet? La respuesta corta es: no de la forma tradicional como Telmex o Totalplay, pero sí de forma limitada. La CFE tiene iniciativas de conectividad y, desde 2021, ofrece servicios de internet en zonas rurales y marginadas donde los grandes proveedores no llegan. Aquí está todo lo que necesitas saber para 2026.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## ¿La CFE ofrece internet en México?
 
 La respuesta depende de dónde vivas. La CFE no ofrece planes de internet residencial de forma directa en ciudades donde Telmex, Totalplay, Izzi o Megacable ya tienen cobertura. Sin embargo, la CFE sí ofrece internet en zonas rurales y marginadas a través de **CFE Telecomunicaciones**, y participa en la infraestructura que otros proveedores usan.
@@ -71,11 +66,11 @@ La CFE está involucrada en tres áreas clave:
 - **CFE Telecomunicaciones:** desde 2021, la CFE ofrece planes residenciales en zonas donde no hay proveedores comerciales. Los precios van de $199 a $499/mes, con velocidades de 20 a 100 Mbps usando una combinación de fibra troncal y Wimax en la última milla.
 
 Si buscas "internet de CFE", probablemente lo que necesitas es verificar si tu zona tiene cobertura de CFE Telecomunicaciones o de un proveedor local que use la infraestructura de fibra de la CFE. Verifica qué proveedores llegan a tu dirección en nuestra guía de [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Planes y precios de internet CFE Telecomunicaciones (2026)
 
 CFE Telecomunicaciones ofrece un catálogo limitado pero funcional de planes para zonas donde no hay otros proveedores. Los precios son accesibles y en muchos casos incluyen instalación gratuita.
@@ -92,14 +87,11 @@ CFE Telecomunicaciones ofrece un catálogo limitado pero funcional de planes par
 - La instalación puede ser gratuita en zonas atendidas por programas de conectividad, pero en algunos casos tiene costo de $500-$1,000 MXN.
 - La tecnología depende de la zona: en algunas se usa fibra directa y en otras Wimax (radioenlace).
 - No todos los planes están disponibles en todas las zonas. Consulta con tu código postal.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Cobertura de CFE Internet: ¿en qué estados llega?
 
 La cobertura de CFE Telecomunicaciones se concentra en zonas donde los grandes proveedores no tienen presencia comercial. Los estados con mayor cobertura son:
@@ -122,9 +114,8 @@ La cobertura de CFE Telecomunicaciones se concentra en zonas donde los grandes p
 4. Si no hay cobertura de CFE, revisa otras opciones (WISP local, 4G fijo, satelital)
 
 Para zonas donde CFE no llega, consulta nuestra guía de [internet para zonas rurales](/internet-en-casa/internet-satelital-rural-mexico.html) o revisa si [Starlink llega a tu zona](/blog/starlink-mexico-precio-cobertura-2026.html).
-:::
 
-::: section
+
 ## Programas de internet subsidiado en México
 
 Más allá de CFE Telecomunicaciones, el gobierno mexicano tiene programas para llevar internet a zonas sin cobertura comercial. Estos programas no reemplazan un proveedor de internet en casa, pero pueden ser un complemento:
@@ -139,9 +130,8 @@ Más allá de CFE Telecomunicaciones, el gobierno mexicano tiene programas para 
 El **IFT** supervisa que los operadores con concesión cumplan con sus obligaciones de cobertura en zonas de interés social. Esto ha llevado a que Telcel, AT&T y Movistar amplíen su cobertura 4G a más localidades rurales.
 
 Estos programas son importantes porque, según datos del INEGI, aproximadamente el 50% de los hogares mexicanos aún no tienen acceso a internet de banda ancha fija. La CFE y el gobierno federal buscan reducir esta brecha digital.
-:::
 
-::: section
+
 ## CFE Internet vs otros proveedores: comparación rápida
 
 Si tienes la opción de elegir entre CFE y otro proveedor, esta tabla te ayuda a comparar:
@@ -158,9 +148,8 @@ Si tienes la opción de elegir entre CFE y otro proveedor, esta tabla te ayuda a
 **Veredicto:** Si vives en una zona donde Telmex, Totalplay o Izzi tienen cobertura, casi siempre conviene más por la velocidad y el soporte. CFE Telecom es la mejor opción (a veces la única) en zonas rurales sin otros proveedores.
 
 Para comparar más a fondo, lee nuestra guía de [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-:::
 
-::: section
+
 ## Lo que sí puedes hacer para tener internet si no hay CFE
 
 Si buscabas "internet CFE" porque no hay proveedores tradicionales en tu zona y tampoco llegó CFE Telecomunicaciones, estas son tus opciones reales:
@@ -173,9 +162,8 @@ Si buscabas "internet CFE" porque no hay proveedores tradicionales en tu zona y 
 6. **Usa el hotspot de tu celular** como solución temporal. Lee nuestra guía de [cómo compartir internet de tu celular](/blog/como-compartir-internet-celular-mexico.html).
 
 Para comparar todas las opciones disponibles en el país, lee nuestra guía completa de [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Puedo contratar internet con CFE?
@@ -201,18 +189,16 @@ Sí. CFE Telecomunicaciones es un proveedor de servicios sujeto a las mismas reg
 ### ¿CFE Telecom ofrece TV o teléfono?
 
 Actualmente no. CFE Telecomunicaciones se enfoca en conectividad a internet. Si necesitas TV o teléfono, considera bundles de Telmex, Izzi o Megacable.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para ver todas las opciones, checa [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
 - Para zonas rurales, lee [internet satelital](/internet-en-casa/internet-satelital-rural-mexico.html).
 - Para entender los proveedores, revisa [compañías de internet en México](/internet-en-casa/companias-internet-mexico.html).
 - Para internet económico, consulta [internet barato por menos de $300 MXN](/blog/internet-barato-menos-300-mxn-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

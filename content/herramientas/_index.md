@@ -3,10 +3,9 @@ title: "Herramientas"
 description: "Herramientas interactivas para tu internet: calculadora de velocidad, test de cobertura y más."
 ---
 
-::: container
-::: breadcrumbs
+
 [Inicio](/) / Herramientas
-:::
+
 
 # Herramientas para tu internet
 

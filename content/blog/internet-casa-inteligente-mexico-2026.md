@@ -32,32 +32,27 @@ Para más detalle, consulta [/blog/internet-para-casas-inteligentes-en-m%C3%A9xi
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet casa inteligente
-:::
+
 
 Una casa inteligente con bombillas conectadas, cámaras de seguridad, asistentes de voz y sensores necesita una red WiFi estable más que velocísima. El problema no es la velocidad del plan — es cuántos dispositivos se conectan a la vez y si tu router puede manejarlos.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Cuántos dispositivos consume una casa inteligente típica
 
 | Dispositivo | Cantidad típica | Consumo de red |
@@ -72,11 +67,11 @@ Una casa inteligente con bombillas conectadas, cámaras de seguridad, asistentes
 | **Total** | **14-29** | — |
 
 Un hogar mexicano promedio con algunos dispositivos inteligentes puede llegar a 20+ conexiones simultáneas. Los routers básicos de los proveedores pueden saturarse.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Mbps necesarios para casa inteligente
 
 | Uso | Mbps necesarios |
@@ -89,14 +84,11 @@ Un hogar mexicano promedio con algunos dispositivos inteligentes puede llegar a 
 | Navegación general | 5-10 |
 
 Para una casa con streaming 4K + 2 cámaras + dispositivos IoT + celulares, conviene **100 Mbps o más** de descarga. Pero más importante que los Mbps: necesitas un router que maneje bien 20+ dispositivos.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Qué router necesitas para casa inteligente
 
 | Necesidad | Recomendación |
@@ -109,9 +101,8 @@ Para una casa con streaming 4K + 2 cámaras + dispositivos IoT + celulares, conv
 Las cámaras de seguridad son las que más consumen porque mandan video constante. Si tienes 4 cámaras 1080p grabando en la nube, suma 8-16 Mbps solo en cámaras.
 
 Para elegir router, lee [cómo elegir router WiFi](/internet-en-casa/como-elegir-router-wifi-mexico.html).
-:::
 
-::: section
+
 ## 3 errores con casa inteligente e internet
 
 ### Conectar todo a la misma banda WiFi
@@ -125,9 +116,8 @@ Algunas cámaras (como las de seguridad) usan conexión constante al servidor de
 ### Olvidar que cada dispositivo suma
 
 Cada bombilla inteligente no consume casi nada. Pero 10 bombillas + 4 cámaras + 2 asistentes + 3 celulares + TV = más de 20 dispositivos. El router del proveedor puede no dar abasto.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Necesito internet más rápido para casa inteligente?
@@ -147,17 +137,15 @@ Sí, pero la latencia del 4G puede hacer que los comandos de voz (Alexa, Google)
 Sí. El mesh distribuye la carga entre nodos y maneja mejor muchos dispositivos que un router individual.
 
 Para más sobre mesh, lee [WiFi mesh: ¿vale la pena?](/internet-en-casa/wifi-mesh-mexico-vale-pena-2026.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para elegir router, checa [cómo elegir router WiFi](/internet-en-casa/como-elegir-router-wifi-mexico.html).
 - Para mejorar cobertura, lee [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 - Para ver opciones de internet, revisa [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

@@ -151,12 +151,11 @@ Para calcular tu consumo total de datos, consulta [cuántos GB necesitas al mes]
 ## Preguntas Frecuentes
 
 
-::: section
 ## Sigue leyendo
 
 - [Qué es el jitter y por qué arruina tu internet (explicación fácil)](/blog/que-es-el-jitter-y-por-que-importa.html)
 - [Mejor internet para trabajo desde casa (WFH): comparativa 2026](/blog/mejor-internet-para-wfh-mexico.html)
-:::
+
 
 {{< faq "¿Cuántos Mbps necesita Zoom en México?" >}}
 Para una llamada 1:1 en SD, Zoom necesita 1.5 Mbps de bajada y subida. Para llamadas grupales en HD, se recomiendan mínimo 10 Mbps. Si otras personas en casa usan internet simultáneamente, necesitas un plan de al menos 50-100 Mbps.

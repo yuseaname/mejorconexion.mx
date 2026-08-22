@@ -144,7 +144,6 @@ Un no-break pequeño ($800-$1,500 MXN) mantiene tu router funcionando durante co
 Para más información, lee [mejor internet para trabajo remoto](/blog/mejor-internet-para-trabajo-remoto-en-mexico-2026.html).
 
 
-
 ## Velocidad de subida: el factor crítico para WFH
 
 La mayoría de personas compara planes mirando solo la velocidad de bajada. Pero para trabajo desde casa, **la velocidad de subida** es lo que determina si tus videollamadas se pixelan y si tus archivos suben rápido.
@@ -162,12 +161,11 @@ La fibra simétrica de Totalplay es la única que ofrece igual subida y bajada. 
 ## Preguntas Frecuentes
 
 
-::: section
 ## Sigue leyendo
 
 - [Internet para Zoom y videollamadas: qué velocidad necesitas en México (2026)](/blog/internet-para-zoom-y-videollamadas-mexico.html)
 - [Qué es el jitter y por qué arruina tu internet (explicación fácil)](/blog/que-es-el-jitter-y-por-que-importa.html)
-:::
+
 
 {{< faq "¿Cuál es el mejor internet para trabajo desde casa en México?" >}}
 Totalplay con fibra simétrica de 300 Mbps ($599/mes) es el mejor para WFH por su velocidad de subida igual a la de bajada, latencia de 5-12 ms y estabilidad en horas pico. Si buscas una opción económica, Telmex Infinitum 100 Mbps con fibra ($399/mes) es la mejor alternativa.

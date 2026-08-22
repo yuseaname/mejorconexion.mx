@@ -38,7 +38,7 @@ Esta guía analiza el estado real del mercado mexicano: velocidades mínimas rec
 
 En esta guía aprenderás qué velocidad mínima necesitas para una casa inteligente real, cuál es el mejor proveedor según tu ciudad, cómo evitar que tus cámaras de seguridad se caigan del cloud, qué planes incluyen priorización de tráfico IoT, y cómo combinar internet fijo con conectividad móvil para respaldo.
 
-::: quick-answer
+
 ## Respuesta rápida
 
 <figure class="article-image">
@@ -54,7 +54,7 @@ En esta guía aprenderás qué velocidad mínima necesitas para una casa intelig
     </figure>
 
     alarmas o cámaras en tiempo real), busca planes que incluyan **QoS (priorización de tráfico)** y **gw IoT dedicado** ---solo Totalplay e Izzi lo ofrecen en 2026.
-:::
+
 
 ## ¿Por qué el internet para casas inteligentes en México cambió en 2026?
 
@@ -182,11 +182,9 @@ La tecnología doméstica evoluciona rápido. Hoy, una casa inteligente no es un
 
 **Compara planes de internet para casas inteligentes en México 2026 ahora mismo en mejorconexion.mx y encuentra el que realmente funciona con tu domótica.**
 
-::: {.author-bio style="margin-top: 48px; padding: 24px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #0066cc;"}
-::: {style="display: flex; align-items: flex-start; gap: 16px;"}
-::: {style="width: 64px; height: 64px; border-radius: 50%; background: #0066cc; display: flex; align-items: center; justify-content: center; color: white; font-size: 24px; font-weight: bold; flex-shrink: 0;"}
+
 MC
-:::
+
 
 <div>
 
@@ -199,21 +197,15 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 [✓ Datos verificados 2026]{style="margin-right: 12px;"} [✓ Actualizado: 2026-05-29]{style="margin-right: 12px;"} ✓ Transparencia editorial
 
 </div>
-:::
-:::
 
-::: {.related-articles style="margin-top: 32px;"}
+
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
 -   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
-:::
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -224,24 +216,23 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 

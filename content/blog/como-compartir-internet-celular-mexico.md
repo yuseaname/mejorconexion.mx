@@ -34,32 +34,27 @@ Para más detalle sobre datos móviles, consulta [qué son los datos móviles](/
 
 {{< faq "¿Compartir internet consume mis datos del plan?" >}}
 Sí. Todo lo que hagan los dispositivos conectados consume los datos de tu plan móvil. Una hora de Netflix en HD consume unos 3 GB. Revisa tu plan antes de depender del hotspot.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué el hotspot va lento?" >}}
 Depende de la señal celular, la congestión de la red y si tu plan limita la velocidad del hotspot. Cerca de una ventana con buena señal 4G suele ir mejor. También puede ser que tu plan reduzca la velocidad del hotspot después de cierto consumo.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cuántos dispositivos puedo conectar al hotspot?" >}}
 La mayoría de teléfonos permiten 5-10 dispositivos conectados al mismo tiempo. Pero entre más dispositivos, más se divide la velocidad y más rápido se consumen los datos.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Pueden ver qué páginas visito los dispositivos conectados?" >}}
 Tu proveedor puede ver el tráfico. Las personas conectadas a tu hotspot no pueden ver lo que navegas (a menos que usen herramientas especiales de monitoreo).
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Compartir internet celular
-:::
+
 
 Compartir internet de tu celular (hotspot o zona portátil) convierte tu teléfono en un router WiFi que otros dispositivos pueden usar. En México sirve para emergencias, trabajo temporal o cuando tu internet de casa se cae. Pero tiene límites de velocidad y datos que necesitas conocer antes de depender de él. Esta guía te explica cómo activarlo, qué esperar y cómo evitar quedarte sin datos.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Cómo activar hotspot en iPhone (iOS)
 
 Activar el hotspot en iPhone es sencillo. Solo necesitas que tu plan móvil lo permita (todos los planes pospago de Telcel, AT&T y Movistar lo incluyen).
@@ -76,9 +71,8 @@ Activar el hotspot en iPhone es sencillo. Solo necesitas que tu plan móvil lo p
 - Para apagar el hotspot automáticamente cuando no se usa, ve a Ajustes → Zona personal → Activar automáticamente.
 
 **Modelos compatibles:** iPhone XS, XR, 11, 12, 13, 14, 15, 16 y SE (2ª y 3ª gen). Los iPhone más antiguos pueden tener limitaciones.
-:::
 
-::: section
+
 ## Cómo activar hotspot en Android
 
 Los menús cambian ligeramente según la marca (Samsung, Motorola, Xiaomi, etc.), pero el concepto es el mismo.
@@ -107,14 +101,11 @@ Los menús cambian ligeramente según la marca (Samsung, Motorola, Xiaomi, etc.)
 - Conecta el teléfono al cargador mientras usas el hotspot (consume bastante batería).
 
 **Modelos compatibles:** Cualquier Android con Android 8 o superior que soporte hotspot (la mayoría de teléfonos de los últimos 5 años).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
-::: section
 ## Límites del hotspot que debes conocer
 
 El hotspot no es un reemplazo de internet fijo. Tiene limitaciones importantes que necesitas conocer antes de depender de él.
@@ -142,9 +133,8 @@ Algunos planes móviles limitan la velocidad del hotspot después de cierto cons
 | Movistar | Sin Límite 600 $599 | 20 GB | Después: 2 Mbps |
 
 **Consejo:** Revisa tu plan antes de depender del hotspot. Si necesitas más de 20 GB/mes de hotspot, un internet fijo es más económico y estable.
-:::
 
-::: section
+
 ## Consumo de datos: qué se gana más rápido
 
 Saber cuánto consume cada actividad te ayuda a administrar tus datos:
@@ -167,9 +157,8 @@ Saber cuánto consume cada actividad te ayuda a administrar tus datos:
 **Regla práctica:** Si tienes 10 GB de hotspot al mes, te duran aproximadamente 3-4 horas de streaming HD, o 15-20 horas de navegación web, o 8-10 horas de videollamadas.
 
 Para entender cuántos datos consumes, lee [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
-:::
 
-::: section
+
 ## ¿Cuándo sirve el hotspot y cuándo no?
 
 **Sirve para:**
@@ -200,9 +189,8 @@ Para entender cuántos datos consumes, lee [cuántos GB necesitas al mes](/blog/
 | Ideal para | Emergencias, uso temporal | Uso residencial permanente |
 
 Para comparar opciones de internet fijo, lee [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
-:::
 
-::: section
+
 ## Cómo ahorrar datos al usar hotspot
 
 1. **Baja la calidad del video** en Netflix, YouTube y otras apps a 480p o 720p.
@@ -217,9 +205,8 @@ Para comparar opciones de internet fijo, lee [mejor internet en México](/intern
 10. **Usa compresión de datos** en el navegador (Chrome Lite mode).
 
 Estas acciones pueden reducir el consumo de datos hasta un 60% sin afectar demasiado la experiencia.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Compartir internet consume mis datos?
@@ -247,18 +234,16 @@ Sí. Todos los planes prepago de Telcel, AT&T y Movistar permiten hotspot, pero 
 Puedes ocultar el nombre de tu red (SSID) en la configuración del hotspot de Android. En iPhone no es posible ocultar el SSID. Pero ocultar el SSID no es una medida de seguridad real: usa una contraseña fuerte.
 
 Para comparar opciones de internet móvil, lee [mejores planes móviles en México](/planes-moviles/mejores-planes-mexico.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para entender cuántos datos consumes, checa [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
 - Para ver opciones de internet para casa, lee [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
 - Si tu internet de casa se cae seguido, revisa [por qué se cae el WiFi](/blog/por-que-se-cae-wifi-casa-mexico.html).
 - Para entender qué son los datos móviles, lee [qué son los datos móviles](/blog/que-son-los-datos-moviles.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

@@ -27,7 +27,7 @@ image: "/images/cat-proveedores.webp"
 
 Elegir proveedor de internet en México en 2026 no es simple. Los tres grandes tienen fortalezas claras y debilidades reales. Esta comparativa no se basa en publicidad sino en datos de Speedtest (Ookla), quejas registradas en PROFECO, y análisis técnico de la infraestructura de cada proveedor. El objetivo: que tomes la decisión correcta para tu situación específica.
 
-::: section
+
 ## Tabla comparativa completa
 
 ### Velocidad y tecnología
@@ -68,9 +68,8 @@ Elegir proveedor de internet en México en 2026 no es simple. Los tres grandes t
 | Tiempo respuesta promedio | 5-15 min | 10-30 min | 10-25 min |
 | Quejas PROFECO (2024-2025) | Moderadas | Altas | Altas |
 | App móvil | Sí | Sí (Mi Telmex) | Sí (Mi Izzi) |
-:::
 
-::: section
+
 ## ¿Cuál conviene según tu perfil?
 
 ### Para gaming competitivo
@@ -124,9 +123,8 @@ Si tu prioridad es el precio más bajo posible:
 | Izzi | 100 Mbps | $349 | 100 Mbps |
 
 Lee [internet barato](/blog/internet-barato-mexico-2026.html) para más opciones económicas.
-:::
 
-::: section
+
 ## Comparativa de planes equivalentes (2026)
 
 | Plan ~300 Mbps | Totalplay | Telmex | Izzi |
@@ -140,9 +138,8 @@ Lee [internet barato](/blog/internet-barato-mexico-2026.html) para más opciones
 | TV incluida | No | No | Sí |
 
 **La diferencia clave**: Por el mismo precio (~$599/mes), Totalplay te da 300 Mbps simétricos (300 de subida), Telmex te da 50-100 Mbps de subida, e Izzi te da solo 15-30 Mbps de subida. Si necesitas velocidad de subida (trabajo remoto, streaming, backups en la nube), Totalplay es claramente superior.
-:::
 
-::: section
+
 ## Tabla resumen: cuál elegir
 
 | Tu prioridad #1 | Proveedor recomendado | Por qué |
@@ -157,7 +154,7 @@ Lee [internet barato](/blog/internet-barato-mexico-2026.html) para más opciones
 | Zona rural | **Telcel Hogar / Starlink** | Únicos que llegan |
 
 **Regla de oro**: Siempre verifica primero qué proveedores llegan a tu código postal. No importa cuál sea "el mejor" si no tiene cobertura en tu colonia. Verifica con cada proveedor antes de decidir.
-:::
+
 
 ## Preguntas Frecuentes
 

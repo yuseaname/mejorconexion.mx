@@ -52,9 +52,6 @@ El ping es el tiempo de respuesta de tu conexión. Aunque tengas muchos Mbps, un
 12. [Estado del contenido](#status)
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -65,29 +62,27 @@ El ping es el tiempo de respuesta de tu conexión. Aunque tengas muchos Mbps, un
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: {#definicion .section}
 ## Qué es el ping (latencia) en palabras simples
 
 El ping es el tiempo que tarda tu dispositivo en enviar una señal y recibir respuesta. Se mide en milisegundos (ms). Mientras más bajo, mejor.
@@ -95,9 +90,8 @@ El ping es el tiempo que tarda tu dispositivo en enviar una señal y recibir res
 Una forma simple de entenderlo: es como preguntar algo por teléfono. Si te contestan rápido, el ping es bajo. Si hay delay, el ping es alto.
 
 El ping no es lo mismo que la velocidad. Puedes tener 300 Mbps y un ping alto si la ruta a los servidores es larga o si tu red está saturada.
-:::
 
-::: {#rangos .section}
+
 ## Rangos de ping: qué es bueno y qué es malo
 
 No hay un número mágico, pero estos rangos sirven como referencia:
@@ -109,17 +103,15 @@ No hay un número mágico, pero estos rangos sirven como referencia:
 -   **150+ ms:** problemático (cortes y retrasos constantes).
 
 Estos rangos dependen de tu ubicación y del servidor al que te conectas. Un servidor en otro país siempre dará ping más alto.
-:::
 
-::: {#jitter .section}
+
 ## Qué es el jitter y por qué lo sientes
 
 El jitter es la variación del ping. Si un momento tienes 20 ms y al siguiente 80 ms, eso es jitter. Se siente como inestabilidad en juegos o videollamadas.
 
 El jitter alto es casi peor que un ping moderado, porque provoca cortes y saltos en la comunicación. Por eso muchos gamers prefieren un ping estable de 60 ms que uno que sube y baja.
-:::
 
-::: {#perdida .section}
+
 ## Pérdida de paquetes: el problema silencioso
 
 La pérdida de paquetes ocurre cuando parte de la información se pierde en el camino. Aunque tengas buena velocidad, si hay pérdida de paquetes la experiencia se degrada.
@@ -129,9 +121,8 @@ Se nota cuando:
 -   Las llamadas se cortan o suenan entrecortadas.
 -   Los juegos "teletransportan" personajes.
 -   Las videollamadas se congelan.
-:::
 
-::: {#causas .section}
+
 ## Causas comunes de ping alto
 
 -   **Wi‑Fi saturado:** muchas redes cercanas o router mal ubicado.
@@ -139,9 +130,8 @@ Se nota cuando:
 -   **Servidor lejano:** juegos o servicios en otro país.
 -   **Interferencia:** microondas, paredes gruesas, dispositivos viejos.
 -   **Equipo limitado:** router básico o antiguo.
-:::
 
-::: {#medir .section}
+
 ## Cómo medir ping correctamente
 
 Para medir bien:
@@ -151,9 +141,8 @@ Para medir bien:
 3.  Usa la misma herramienta para comparar.
 
 Si necesitas un paso a paso, revisa: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet.html).
-:::
 
-::: {#gaming .section}
+
 ## Ping en gaming: lo que realmente importa
 
 En juegos competitivos, el ping bajo y estable es clave. Si tu ping sube y baja, la experiencia se siente "lag".
@@ -165,46 +154,40 @@ Factores que mejoran tu ping en gaming:
 -   Elegir servidores cercanos.
 
 Más detalles: [mejor velocidad para gaming](/blog/mejor-velocidad-para-gaming.html) y [Wi‑Fi vs Ethernet](/blog/wifi-vs-ethernet-para-jugar.html).
-:::
 
-::: {#video .section}
+
 ## Ping en videollamadas y trabajo remoto
 
 En videollamadas largas, el ping alto se siente como retraso. La subida también importa, pero la latencia define si la conversación fluye.
 
 Si trabajas desde casa, revisa: [red estable para home office](/blog/red-estable-home-office-mexico.html).
-:::
 
-::: {#wifi .section}
+
 ## Wi‑Fi vs cable: impacto real en latencia
 
 El cable siempre da menor latencia que el Wi‑Fi. Si estás teniendo problemas de ping, prueba conectarte por cable y compara resultados.
 
 Si la diferencia es grande, el problema es tu Wi‑Fi. Soluciones comunes: mejor ubicación del router, cambiar a 5 GHz o usar un sistema mesh.
-:::
 
-::: {#ping-vs-velocidad .section}
+
 ## Ping vs velocidad: por qué no son lo mismo
 
 La velocidad mide cuánto puedes descargar o subir. El ping mide cuánto tarda en responder la red. Puedes tener un plan muy rápido y aun así sentir lag si la latencia es alta.
 
 Ejemplo: en una videollamada, una buena descarga no evita que la conversación tenga retraso si el ping es alto. En juegos, una buena descarga no evita que los disparos "lleguen tarde".
-:::
 
-::: {#tabla-causas .section}
+
 ## Tabla rápida de causas y soluciones
 
-::: {style="overflow:auto"}
+
   Problema          Señal típica                       Solución probable
   ----------------- ---------------------------------- --------------------------------
   Wi‑Fi saturado    Ping sube en varias habitaciones   Mejor ubicación o mesh
   Horario pico      Ping alto solo en la noche         Evaluar tecnología o proveedor
   Servidor lejano   Ping alto constante                Elegir servidor cercano
   Interferencia     Picos de jitter                    Cambiar canal o banda
-:::
-:::
 
-::: {#herramientas .section}
+
 ## Herramientas útiles para medir ping
 
 No necesitas herramientas avanzadas, pero sí constancia. Puedes medir con:
@@ -214,9 +197,8 @@ No necesitas herramientas avanzadas, pero sí constancia. Puedes medir con:
 -   Monitoreo en el router si tiene panel de control.
 
 Lo importante es comparar en horarios distintos y con el mismo método.
-:::
 
-::: {#buenas-practicas .section}
+
 ## Buenas prácticas en red doméstica
 
 Para mantener un ping estable:
@@ -227,9 +209,8 @@ Para mantener un ping estable:
 -   Actualiza el firmware del router si es posible.
 
 Si tienes muchos dispositivos inteligentes, usa red de invitados: [red de invitados e IoT segura](/blog/red-invitados-iot-segura-mexico.html).
-:::
 
-::: {#checklist .section}
+
 ## Checklist rápido para bajar el ping
 
 1.  Prueba por cable y por Wi‑Fi.
@@ -237,9 +218,8 @@ Si tienes muchos dispositivos inteligentes, usa red de invitados: [red de invita
 3.  Reinicia el router si hay saturación temporal.
 4.  Mejora cobertura con mesh si hay zonas muertas.
 5.  Evita descargas grandes cuando juegas.
-:::
 
-::: {#caso-practico .section}
+
 ## Caso práctico: ping alto con internet "rápido"
 
 **Escenario:** un gamer con plan de 300 Mbps reporta lag en la noche. La velocidad de descarga es alta, pero el ping sube de 30 ms a 120 ms.
@@ -249,42 +229,37 @@ Si tienes muchos dispositivos inteligentes, usa red de invitados: [red de invita
 **Solución:** conectar por cable para sesiones de juego, ajustar horarios de descargas y mejorar la cobertura. Resultado: ping estable entre 35 y 45 ms.
 
 Este caso muestra por qué el ping se resuelve con estabilidad y ruta, no solo con más Mbps.
-:::
 
-::: {#servidores .section}
+
 ## Elegir servidor cercano: la diferencia más rápida
 
 En juegos y servicios en línea, el servidor importa. Un servidor en tu región puede dar 20--40 ms, mientras uno en otro continente puede dar 120--200 ms.
 
 Si tienes opciones de región, elige México o Norteamérica. Si no, elige la opción más cercana geográficamente. Es la forma más sencilla de bajar ping sin cambiar de plan.
-:::
 
-::: {#glosario .section}
+
 ## Glosario breve
 
 -   **Ping:** tiempo de respuesta en milisegundos.
 -   **Jitter:** variación del ping.
 -   **Pérdida de paquetes:** datos que se pierden en la ruta.
 -   **Servidor:** computadora remota donde corre el juego o servicio.
-:::
 
-::: {#video-llamadas .section}
+
 ## Ping en videollamadas: por qué se siente el retraso
 
 En videollamadas largas, un ping alto se nota como retraso en la conversación. Si además hay jitter, la voz se corta o se escucha con "saltos". Por eso muchas veces el problema no es la velocidad de descarga, sino la latencia y la subida.
 
 Si trabajas desde casa, combina buena subida con ping estable. Revisa: [red estable para home office](/blog/red-estable-home-office-mexico.html).
-:::
 
-::: {#router-qos .section}
+
 ## Routers, QoS y prioridades
 
 Algunos routers permiten priorizar ciertos dispositivos o actividades (QoS). Esto ayuda a mantener un ping estable cuando alguien está descargando o haciendo streaming.
 
 No necesitas ser experto: basta con priorizar videollamadas o consolas. Si tu router no lo permite, considera actualizarlo si el uso es intenso.
-:::
 
-::: {#errores .section}
+
 ## Errores comunes al medir ping
 
 -   Medir solo una vez y en un horario tranquilo.
@@ -292,17 +267,15 @@ No necesitas ser experto: basta con priorizar videollamadas o consolas. Si tu ro
 -   Elegir servidores muy lejanos en juegos.
 
 La clave es medir de forma consistente y comparar por cable y por Wi‑Fi.
-:::
 
-::: {#rutas .section}
+
 ## Distancia y rutas de red: la parte invisible
 
 El ping también depende de la ruta que siguen los datos. Aunque el servidor esté en el mismo país, los datos pueden pasar por rutas largas si la red está saturada o mal optimizada.
 
 Por eso a veces un servidor "cercano" da peor ping que uno "más lejano". La ruta real importa más que el mapa. En estos casos, cambiar de servidor o esperar a horarios menos saturados puede mejorar el ping sin mover nada en casa.
-:::
 
-::: {#diagnostico-avanzado .section}
+
 ## Diagnóstico avanzado (sin complicarse)
 
 Si quieres ir un paso más allá, haz este mini diagnóstico:
@@ -312,25 +285,22 @@ Si quieres ir un paso más allá, haz este mini diagnóstico:
 3.  Haz pruebas en la mañana y en la noche.
 
 Si el ping sube solo en la noche, es saturación local. Si el ping sube solo en Wi‑Fi, es cobertura. Si sube en todo momento, puede ser ruta del proveedor.
-:::
 
-::: {#iot .section}
+
 ## Ping y dispositivos inteligentes
 
 Los dispositivos IoT (cámaras, focos, asistentes) no consumen mucha velocidad, pero sí añaden tráfico constante. Si tu red está muy cargada, el ping puede volverse inestable.
 
 Una buena práctica es separar IoT en una red de invitados para reducir interferencias en la red principal.
-:::
 
-::: {#navegacion .section}
+
 ## Ping en navegación y streaming: lo que sí se nota
 
 En navegación web, el ping alto se nota como "tarda en abrir", aunque luego las páginas carguen rápido. En streaming, el ping no es tan crítico como la estabilidad, pero sí influye en el tiempo de inicio del video y en los cambios de calidad.
 
 Si el ping es alto y el jitter también, los servicios tardan más en responder y se sienten "pesados". Por eso un ping estable mejora la sensación de fluidez incluso cuando la velocidad es buena.
-:::
 
-::: {#resumen .section}
+
 ## Resumen rápido para decidir
 
 Si tu ping es alto solo en Wi‑Fi, mejora la cobertura. Si es alto todo el tiempo, revisa la ruta del proveedor o el servidor. Si el ping sube en la noche, es saturación local.
@@ -346,9 +316,8 @@ Si tu objetivo es jugar competitivo, prioriza siempre ping bajo y estable, inclu
 Ese cambio suele ser más visible que subir de plan.
 
 Es la diferencia entre jugar cómodo o frustrado.
-:::
 
-::: {#mejorar .section}
+
 ## Cómo mejorar el ping en casa
 
 -   Conéctate por cable cuando sea posible.
@@ -358,9 +327,8 @@ Es la diferencia entre jugar cómodo o frustrado.
 -   Si la casa es grande, usa Wi‑Fi mesh.
 
 Guía complementaria: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
 
-::: {#faq .section}
+
 ## Preguntas frecuentes
 
 ### ¿Qué es un buen ping para jugar?
@@ -382,6 +350,5 @@ No necesariamente. El ping depende más de la ruta y la estabilidad que de la ve
 ### ¿Cómo reduzco el jitter?
 
 Con conexión por cable, mejor Wi‑Fi interno y evitando saturar la red con descargas pesadas.
-:::
 
-:::
+

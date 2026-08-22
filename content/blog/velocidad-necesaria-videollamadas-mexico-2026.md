@@ -32,32 +32,27 @@ Para más detalle, consulta [elegir internet para home office](/blog/mejor-inter
 
 {{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
 Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
 Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
 Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
 Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Velocidad para videollamadas
-:::
+
 
 Para videollamadas sin cortes no necesitas muchos megas de descarga — necesitas velocidad de subida estable y latencia baja. La mayoría de los planes de internet en México tienen buena descarga pero subida limitada, y ahí es donde fallan las videollamadas.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Mbps que necesitas por plataforma
 
 | Plataforma | Descarga mínima | Subida mínima | Recomendado |
@@ -69,11 +64,11 @@ Para videollamadas sin cortes no necesitas muchos megas de descarga — necesita
 | Zoom (grupo 10+) | 5 Mbps | 5 Mbps | 10+ Mbps |
 
 Los números son por dispositivo. Si alguien más está viendo Netflix mientras haces videollamada, necesitas más ancho de banda.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Por qué se congela tu video (y cómo arreglarlo)
 
 ### Subida insuficiente
@@ -93,14 +88,11 @@ El Wi-Fi añade latencia y jitter. Tu video llega entrecortado aunque la velocid
 Si alguien en casa está descargando una actualización o viendo Netflix en 4K, tu videollamada compite por el ancho de banda.
 
 **Solución:** activa QoS en tu router para priorizar videollamadas. Lee [cómo ajustar tu router](/blog/ajustes-router-mejorar-velocidad-internet.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Checklist para videollamadas perfectas
 
 1. **Conecta por cable Ethernet** tu computadora de trabajo.
@@ -110,9 +102,8 @@ Si alguien en casa está descargando una actualización o viendo Netflix en 4K, 
 5. **Activa QoS** en el router para priorizar videollamadas.
 6. **Prueba antes de reuniones importantes** con alguien de confianza.
 7. **Ten un plan de respaldo** (hotspot de tu celular) por si se cae el internet.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cuántos Mbps necesito para Zoom?
@@ -135,18 +126,15 @@ Puede funcionar, pero la latencia del 4G (30-80 ms) es mayor que la fibra (5-20 
 4. Usa iluminación frontal (la cámara comprime menos con buena luz).
 
 Para entender más, lee [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para optimizar tu conexión de trabajo, checa [internet para home office](/internet-en-casa/internet-para-home-office-mexico.html).
 - Para entender la latencia, lee [qué es el ping](/blog/que-es-el-ping.html).
 - Para arreglar problemas de velocidad, revisa [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
-:::
 
 
-::: section
 ## Preguntas frecuentes adicionales
 
 ### ¿Qué hago si necesito más información?
@@ -160,9 +148,7 @@ Sí. Los criterios son generales para México, pero la disponibilidad específic
 ### ¿Puedo compartir esta guía?
 
 Sí. Esta guía es gratuita y está diseñada para ayudar a mexicanos a tomar mejores decisiones sobre internet y conectividad. Si te sirvió, compártela con quien la necesite.
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+

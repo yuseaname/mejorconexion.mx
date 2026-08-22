@@ -22,7 +22,7 @@ image: "/images/cat-proveedores.webp"
 | Familia con nietos | Totalplay 200 Mbps | $399/mes | Streaming para visitas |
 | Presupuesto limitado | CFE Telecomunicaciones | $0-$199/mes | Subsidiado |
 
-::: section
+
 ## Qué buscar en internet para personas mayores
 
 ### 1. Simplicidad
@@ -38,9 +38,8 @@ Muchos jubilados todavía usan teléfono fijo. Los planes de Telmex incluyen tel
 Para personas mayores, la consistencia es más importante que la velocidad. Un internet que SIEMPRE funciona a 30 Mbps es mejor que uno que a veces da 300 Mbps y otras veces no funciona.
 
 Lee también: [internet para personas mayores](/blog/internet-para-personas-mayores.html).
-:::
 
-::: section
+
 ## Cómo configurar internet para que sea fácil de usar
 
 ### Consejo 1: Una sola red WiFi
@@ -57,7 +56,7 @@ Enseña a configurar WhatsApp videollamadas y Zoom en su dispositivo. Para video
 
 ### Consejo 5: Alertas de uso de datos
 Si tienen plan de celular con límite, configura alertas para evitar cobros excesivos por datos móviles.
-:::
+
 
 ## Preguntas Frecuentes
 

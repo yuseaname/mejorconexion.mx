@@ -278,24 +278,24 @@ Esta guía pilar es el centro de un cluster sobre velocidad. Profundiza en cada 
 
 {{< faq "¿Cuántos Mbps necesito para una casa promedio en México?" >}}
 Para una familia de 3–4 personas con streaming, celulares y trabajo o estudio remoto, **200–300 Mbps de bajada** son suficientes. Si haces gaming competitivo, streaming en vivo o subes videos grandes, busca **internet simétrico** de 500 Mbps o más. Calcula tu caso en [cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
 Las causas más comunes son: Wi-Fi débil (70 % de los casos), saturación del proveedor en horas pico, plan insuficiente o equipo viejo. Mide primero **con cable Ethernet** para aislar el problema. Si por cable recibes menos del 80 %, es del proveedor. Guía: [velocidad contratada no me llega](/blog/velocidad-contratada-no-me-llega-mexico.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué es mejor: muchos Mbps o ping bajo?" >}}
 Depende del uso. Para **descargas y streaming**, muchos Mbps. Para **gaming, videollamadas y trabajo remoto**, el ping bajo es más importante. Una fibra de 100 Mbps con ping de 10 ms supera a un coaxial de 1,000 Mbps con ping de 60 ms para experiencia en tiempo real. Detalle en [qué es el ping](/blog/que-es-el-ping.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo mido mi velocidad correctamente?" >}}
 Conecta por **cable Ethernet**, cierra programas que consuman ancho de banda, usa un servidor de prueba en México y haz 3 mediciones en distintos momentos del día. Anota bajada, subida y ping. Paso a paso en [cómo medir la velocidad real](/guias/como-medir-velocidad-real-internet.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Vale la pena el internet simétrico?" >}}
 Sí si eres creador de contenido, haces trabajo remoto con videollamadas pesadas, gaming con streaming o usas NAS/cloud intensivamente. El simétrico cuesta ~$200–$300 MXN/mes más que un plan asimétrico equivalente, pero elimina el cuello de botella de subida. Lee [qué es el internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué mi internet va lento solo en la noche?" >}}
 Es **saturación del nodo** en horas pico (19:00–23:00), común en planes coaxiales (Izzi, Megacable). El proveedor comparte el ancho de banda entre muchos hogares y cuando todos se conectan, la velocidad cae. Soluciones: migrar a fibra, plan superior o reporte formal. Guía: [internet lento en la noche](/blog/internet-lento-noche-mexico-2026.html).
-{{< /faq >}}}
+{{< /faq >}}

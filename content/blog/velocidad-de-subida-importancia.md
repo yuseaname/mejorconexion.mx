@@ -147,9 +147,6 @@ No esperes a que la próxima llamada se corte. Te recomendamos realizar un test 
 ¡Toma el control de tu conexión y deja de sufrir por el lag!
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -160,24 +157,23 @@ No esperes a que la próxima llamada se corte. Te recomendamos realizar un test 
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
 Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
 Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
 Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
 Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
-{{< /faq >}}}
+{{< /faq >}}
 

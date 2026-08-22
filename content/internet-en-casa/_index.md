@@ -5,16 +5,13 @@ description: ""
 image: "/assets/images/generated/hub-elegir-internet.webp"
 draft: false
 ---
-::: container
-::: breadcrumbs
-[Inicio](/) / Internet en casa
-:::
 
-::: {.hero-grid style="margin-top:14px"}
-::: hero-surface
-::: kicker
+
+[Inicio](/) / Internet en casa
+
+
 Guías y comparativas
-:::
+
 
 # Internet en casa {#internet-en-casa .page-title}
 
@@ -22,18 +19,16 @@ Guías y comparativas
 
 Aquí hablamos de lo que sí pega: estabilidad, velocidad real, contrato, instalación y servicio en México. Sin tecnicismos raros.
 
-::: button-row
-[Ver la guía principal](/blog/mejor-internet-casa-mexico-2026.html){.btn .primary} [Buscar por ciudad](/ciudades/){.btn}
-:::
-:::
+
+[Ver la guía principal](/blog/mejor-internet-casa-mexico-2026.html) [Buscar por ciudad](/ciudades/)
+
 
 <figure class="hero-media" aria-label="Imagen editorial">
 <img src="/assets/images/homepage/home-hero-family-living-room.webp" decoding="async" data-fetchpriority="high" loading="eager" width="1200" height="900" alt="Imagen editorial sobre internet en casa" />
 <figcaption>Estabilidad primero: fibra, instalación y Wi-Fi bien puesto.</figcaption>
 </figure>
-:::
 
-::: {.section .hub-intro hub-intro="true"}
+
 Esta sección de **internet en casa** está diseñada para tomar decisiones reales, no para memorizar siglas. En México, el "mejor plan" depende de la tecnología disponible, la calidad de instalación y cómo usas la red en casa: streaming, videollamadas, gaming o trabajo remoto. Aquí reunimos comparativas y guías para entender estabilidad, velocidad real, latencia/ping y Wi‑Fi sin humo ni tecnicismos innecesarios.
 
 Cómo usar este hub de **internet en casa**: empieza con la guía principal de [mejor internet en casa en México](/blog/mejor-internet-casa-mexico-2026.html) y luego baja al detalle según tu caso. Si dudas entre tecnologías, revisa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html) y ajusta expectativas. Para dimensionar tu plan, apóyate en [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html). Y si tu zona cambia mucho, pasa por [ciudades](/ciudades/) para aterrizar la decisión a lo local.
@@ -51,135 +46,130 @@ El objetivo es que tu conexión en casa sea estable y predecible. Aquí explicam
 -   Ajusta el plan a tu uso real (streaming, videollamadas, gaming).
 
 **Nota sin humo:** no vendemos planes; damos criterios claros para elegir lo que sí te funciona.
-:::
 
-::: {.grid .two}
-[](/internet-en-casa/mejor-internet-mexico.html){.card}
+
+[](/internet-en-casa/mejor-internet-mexico.html)
 
 ## Mejor internet en México (guía nacional) {#mejor-internet-en-méxico-guía-nacional style="margin:0 0 8px"}
 
 Cómo elegir por tecnología, uso y evidencia (no por promesas).
 
-[](/blog/mejor-internet-casa-mexico-2026.html){.card}
+[](/blog/mejor-internet-casa-mexico-2026.html)
 
 ## Mejor internet en casa en México {#mejor-internet-en-casa-en-méxico style="margin:0 0 8px"}
 
 Cómo comparar opciones (fibra, coaxial, inalámbrico) según tu uso.
 
-[](/internet-en-casa/companias-internet-mexico.html){.card}
+[](/internet-en-casa/companias-internet-mexico.html)
 
 ## Compañías de internet en México {#compañías-de-internet-en-méxico style="margin:0 0 8px"}
 
 Qué revisar por proveedor y cómo evitar la trampa del precio.
 
-[](/internet-en-casa/internet-barato-mexico.html){.card}
+[](/internet-en-casa/internet-barato-mexico.html)
 
 ## Internet barato en México {#internet-barato-en-méxico style="margin:0 0 8px"}
 
 Cómo ahorrar sin quedarte con un servicio inestable.
 
-[](/internet-en-casa/internet-sin-contrato-mexico.html){.card}
+[](/internet-en-casa/internet-sin-contrato-mexico.html)
 
 ## Internet sin contrato en México {#internet-sin-contrato-en-méxico style="margin:0 0 8px"}
 
 Qué es, cuándo conviene y en qué te tienes que fijar.
 
-[](/internet-en-casa/fibra-vs-inalambrico-mexico.html){.card}
+[](/internet-en-casa/fibra-vs-inalambrico-mexico.html)
 
 ## Fibra vs inalámbrico (4G/5G) {#fibra-vs-inalámbrico-4g5g style="margin:0 0 8px"}
 
 Comparativa clara y cuándo conviene cada uno.
-:::
 
-::: {.callout style="margin-top:16px"}
+
 **Tip rápido:** si trabajas desde casa o haces videollamadas, pesa más la *estabilidad* y la *latencia* que tener muchos Mbps.
 
 [Ver guía de Mbps](/blog/cuanta-velocidad-internet-necesitas-2026.html)
-:::
 
-::: {.section style="margin-top:18px"}
+
 ## Más guías (casos de uso)
 
-::: {.grid .two}
-[](/internet-en-casa/internet-para-streaming-mexico.html){.card}
+
+[](/internet-en-casa/internet-para-streaming-mexico.html)
 
 ### Internet para streaming {#internet-para-streaming style="margin:0 0 8px"}
 
 Cómo evitar buffering: Wi-Fi, estabilidad y horario pico.
 
-[](/internet-en-casa/internet-satelital-rural-mexico.html){.card}
+[](/internet-en-casa/internet-satelital-rural-mexico.html)
 
 ### Internet satelital y rural {#internet-satelital-y-rural style="margin:0 0 8px"}
 
 Opciones reales para zonas con poca cobertura.
 
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.card}
+[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html)
 
 ### Cómo mejorar tu Wi-Fi {#cómo-mejorar-tu-wi-fi style="margin:0 0 8px"}
 
 Pasos que sí funcionan antes de pagar un plan más caro.
 
-[](/internet-en-casa/wifi-mesh-cobertura-total.html){.card}
+[](/internet-en-casa/wifi-mesh-cobertura-total.html)
 
 ### Wi-Fi Mesh y cobertura total {#wi-fi-mesh-y-cobertura-total style="margin:0 0 8px"}
 
 Malla Wi-Fi para eliminar zonas muertas en casa.
 
-[](/internet-en-casa/internet-para-estudiantes-mexico.html){.card}
+[](/internet-en-casa/internet-para-estudiantes-mexico.html)
 
 ### Internet para estudiantes {#internet-para-estudiantes style="margin:0 0 8px"}
 
 Clases en línea, tareas y presupuesto: qué conviene.
 
-[](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html){.card}
+[](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html)
 
 ### Cómo cambiar de proveedor {#cómo-cambiar-de-proveedor style="margin:0 0 8px"}
 
 Pasos para cambiar sin quedarte sin servicio.
 
-[](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html){.card}
+[](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html)
 
 ### Red doméstica pro {#red-doméstica-pro style="margin:0 0 8px"}
 
 Cableado, switches y QoS para estabilidad real.
 
-[](/internet-en-casa/internet-inalambrico-fijo-mexico.html){.card}
+[](/internet-en-casa/internet-inalambrico-fijo-mexico.html)
 
 ### Internet inalámbrico fijo {#internet-inalámbrico-fijo style="margin:0 0 8px"}
 
 Qué es, cuándo conviene y qué revisar de señal.
-:::
-:::
 
-::: {.section style="margin-top:18px"}
+
 ## Lecturas del blog (diagnóstico y rendimiento)
 
-::: {.grid .two}
-[](/blog/por-que-el-internet-es-lento-a-veces.html){.card}
+
+[](/blog/por-que-el-internet-es-lento-a-veces.html)
 
 ### Por qué el internet es lento a veces {#por-qué-el-internet-es-lento-a-veces style="margin:0 0 8px"}
 
 Causas comunes y pasos para diagnosticar.
 
-[](/blog/mejor-internet-para-clases-en-linea.html){.card}
+[](/blog/mejor-internet-para-clases-en-linea.html)
 
 ### Internet para clases en línea {#internet-para-clases-en-línea style="margin:0 0 8px"}
 
 Checklist para videollamadas estables.
 
-[](/blog/mejor-velocidad-para-gaming.html){.card}
+[](/blog/mejor-velocidad-para-gaming.html)
 
 ### Velocidad para gaming {#velocidad-para-gaming style="margin:0 0 8px"}
 
 Lo que importa de verdad (ping, jitter y estabilidad).
 
-[](/blog/wifi-vs-ethernet-para-jugar.html){.card}
+[](/blog/wifi-vs-ethernet-para-jugar.html)
 
 ### Wi‑Fi vs Ethernet para jugar {#wifi-vs-ethernet-para-jugar style="margin:0 0 8px"}
 
 Cuándo conviene cada uno y cómo reducir lag.
-:::
+
 
 [Ver más en el blog](/blog/)
-:::
-:::
+
+

@@ -32,32 +32,27 @@ Para más detalle, consulta [comparar routers Wi-Fi 6](/blog/mejores-routers-wif
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / WiFi 5 vs WiFi 6
-:::
+
 
 WiFi 6 es la última generación de tecnología inalámbrica. Pero cambiar de router WiFi 5 a WiFi 6 solo vale la pena si cumples ciertas condiciones: tienes dispositivos compatibles, muchos dispositivos conectados o necesitas mejor cobertura. Aquí está cómo decidir sin gastar de más.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Tabla comparativa: WiFi 5 vs WiFi 6
 
 | Aspecto | WiFi 5 (802.11ac) | WiFi 6 (802.11ax) |
@@ -70,11 +65,11 @@ WiFi 6 es la última generación de tecnología inalámbrica. Pero cambiar de ro
 | Tu celular lo soporta | Si es 2019+ | Si es 2020+ (la mayoría) |
 
 La diferencia más grande no es velocidad bruta sino **manejo de múltiples dispositivos**. WiFi 6 gestiona mejor 15-30 dispositivos simultáneos sin degradación.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## ¿Vale la pena cambiar a WiFi 6?
 
 **Cambia a WiFi 6 si:**
@@ -92,14 +87,11 @@ La diferencia más grande no es velocidad bruta sino **manejo de múltiples disp
 - Tu router actual funciona bien y tiene menos de 3 años.
 
 Para entender más sobre routers, lee [cómo elegir router WiFi](/internet-en-casa/como-elegir-router-wifi-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Cómo saber si tu dispositivo soporta WiFi 6
 
 | Dispositivo | ¿Soporta WiFi 6? |
@@ -113,9 +105,8 @@ Para entender más sobre routers, lee [cómo elegir router WiFi](/internet-en-ca
 Busca "WiFi" en las especificaciones oficiales de tu dispositivo. Si dice "802.11ax" o "WiFi 6", lo soporta.
 
 Si ninguno de tus dispositivos soporta WiFi 6, comprar un router WiFi 6 no va a mejorar nada para esos dispositivos.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿WiFi 6 es más rápido que WiFi 5?
@@ -135,17 +126,15 @@ No exactamente. El alcance es similar. Pero WiFi 6 mantiene mejor velocidad en l
 Desde $800 MXN (entrada) hasta $2,500 MXN (gaming/alto rendimiento). Lee [mejor router WiFi para casa](/internet-en-casa/mejor-router-wifi-casa-mexico-2026.html) para más detalle.
 
 Para comparar con mesh, revisa [WiFi mesh: ¿vale la pena?](/internet-en-casa/wifi-mesh-mexico-vale-pena-2026.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para elegir router, checa [mejor router WiFi para casa](/internet-en-casa/mejor-router-wifi-casa-mexico-2026.html).
 - Para mejorar tu WiFi actual, lee [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 - Para entender velocidades, revisa [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

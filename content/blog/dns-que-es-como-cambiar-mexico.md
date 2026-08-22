@@ -34,32 +34,27 @@ Para más detalle, consulta nuestra guía de [DNS seguro y filtros](/blog/dns-se
 
 {{< faq "¿Cambiar DNS es peligroso?" >}}
 No, siempre que uses DNS reconocidos (Cloudflare, Google, OpenDNS). Evita DNS desconocidos porque podrían redirigirte a sitios falsos. El cambio es completamente reversible.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿El DNS gratuito de 1.1.1.1 es de confianza?" >}}
 Sí. Cloudflare es una de las empresas de infraestructura de internet más grandes del mundo. Su DNS es gratuito, rápido y respeta la privacidad (no registra tu actividad).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cambiar DNS arregla el internet lento?" >}}
 No directamente. Mejora el tiempo de inicio de carga de páginas, pero no aumenta la velocidad de descarga de archivos o streaming.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Debo cambiar DNS en el router o en cada dispositivo?" >}}
 En el router es más práctico: todos los dispositivos heredan la configuración automáticamente. Pero si solo quieres probar en un dispositivo, cámbialo ahí primero.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / DNS qué es
-:::
+
 
 El DNS (Sistema de Nombres de Dominio) es la guía telefónica de internet. Cuando escribes "google.com", el DNS traduce ese nombre a una dirección numérica que las computadoras entienden. Cambiar tus DNS puede hacer que las páginas abran más rápido y evitar bloqueos de algunos sitios. En México, donde los DNS de los proveedores (Telmex, Izzi, Totalplay, Megacable) suelen ser lentos o filtran contenido, este cambio puede marcar una diferencia notable.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Qué hace el DNS (explicado simple)
 
 El DNS funciona como una guía telefónica gigante. Sin DNS, tendrías que recordar direcciones numéricas como "142.250.190.46" en lugar de "google.com".
@@ -75,9 +70,8 @@ Todo esto pasa en milisegundos. Si el DNS de tu proveedor es lento, las páginas
 ### Analogía: el DNS es como un directorio
 
 Imagina que quieres llamar a un restaurante. No sabes su número, así que buscas en un directorio. Si el directorio es rápido, encuentras el número en 1 segundo. Si es lento, tardas 5 segundos. El DNS funciona igual: si es rápido, las páginas abren rápido; si es lento, hay un retraso inicial en cada página que visitas.
-:::
 
-::: section
+
 ## DNS recomendados para México
 
 | DNS | Primario | Secundario | Ventaja | Velocidad en México |
@@ -100,14 +94,11 @@ Los proveedores mexicanos (Telmex, Izzi, Totalplay, Megacable) operan sus propio
 - **Redirecciones** a páginas de error del proveedor cuando un sitio no carga.
 
 Cambiar a Cloudflare o Google elimina estos problemas.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
-::: section
 ## Cómo cambiar DNS en tu router (recomendado)
 
 Cambiar el DNS en el router hace que **todos los dispositivos conectados** usen los nuevos DNS automáticamente. Es la opción más práctica.
@@ -128,9 +119,8 @@ Cambiar el DNS en el router hace que **todos los dispositivos conectados** usen 
 Después del reinicio, todos los dispositivos conectados usan los nuevos DNS automáticamente. Verifica que funciona entrando a [dnsleaktest.com](https://www.dnsleaktest.com) y comprobando que aparece "Cloudflare" en el resultado.
 
 Para más sobre el panel del router, lee [cómo configurar tu router](/blog/como-configurar-router-mexico-2026.html).
-:::
 
-::: section
+
 ## Cómo cambiar DNS en tu celular
 
 Si no quieres cambiar el DNS del router, puedes cambiarlo en cada dispositivo individualmente.
@@ -176,9 +166,8 @@ Si no quieres cambiar el DNS del router, puedes cambiarlo en cada dispositivo in
 5. Aplica y cierra.
 
 Para entender más sobre velocidades, lee [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
-:::
 
-::: section
+
 ## El mito del DNS y la velocidad
 
 Cambiar DNS **NO aumenta tu velocidad de descarga**. No hace que Netflix cargue más rápido ni que las descargas vayan más rápido.
@@ -199,9 +188,8 @@ Cambiar DNS **NO aumenta tu velocidad de descarga**. No hace que Netflix cargue 
 - No mejora la señal Wi-Fi.
 
 Si tu internet va lento, el DNS no es la solución. Lee [cómo aumentar la velocidad de tu internet](/blog/como-aumentar-velocidad-internet-mexico.html).
-:::
 
-::: section
+
 ## DNS y seguridad: bloqueo de malware
 
 Algunos DNS ofrecen filtros de seguridad gratuitos que bloquean automáticamente sitios maliciosos:
@@ -218,9 +206,8 @@ Algunos DNS ofrecen filtros de seguridad gratuitos que bloquean automáticamente
 **Para máxima seguridad:** Quad9 (9.9.9.9) bloquea dominios conocidos por distribuir malware. Es una capa extra de protección además del antivirus.
 
 Para más detalle sobre DNS y seguridad, lee [DNS seguro y filtros de malware](/blog/dns-seguro-filtros-malware-mexico.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cambiar DNS es peligroso?
@@ -248,18 +235,16 @@ Visita [dnsleaktest.com](https://www.dnsleaktest.com) y haz la prueba. Si aparec
 No por sí solo. Netflix detecta tu ubicación por la dirección IP, no por el DNS. Para desbloquear contenido de otros países necesitas una VPN, no un cambio de DNS.
 
 Para más configuraciones del router, lee [cómo configurar tu router](/blog/como-configurar-router-mexico-2026.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para optimizar tu internet, checa [cómo aumentar la velocidad de tu internet](/blog/como-aumentar-velocidad-internet-mexico.html).
 - Para entender velocidades, lee [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
 - Para configurar tu router a fondo, revisa [cómo configurar tu router](/blog/como-configurar-router-mexico-2026.html).
 - Para DNS seguro con filtros, lee [DNS seguro y filtros de malware](/blog/dns-seguro-filtros-malware-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

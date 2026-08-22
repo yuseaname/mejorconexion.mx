@@ -26,7 +26,7 @@ image: "/images/cat-proveedores.webp"
 
 Cada vez que sale una nueva generación de tecnología móvil o de internet, los usuarios se preguntan si deben esperar o cambiar ya. La realidad en México 2026 es que las mejoras que realmente importan no vienen del 6G (que ni existe como estándar), sino de la expansión del 5G real, la fibra óptica de mayor velocidad, y el internet satelital más accesible. Esta guía explica qué viene, cuándo llega y si vale la pena esperar.
 
-::: section
+
 ## Las 5 tendencias que cambian tu internet en México (2026-2027)
 
 ### 1. 5G Standalone (SA) llega de verdad
@@ -103,9 +103,8 @@ La inteligencia artificial está llegando al hogar de varias formas que consumen
 | Hogar con 15+ dispositivos IoT | Variable | 300+ Mbps |
 
 **Tendencia clave**: Los hogares que en 2024 necesitaban 100 Mbps, en 2026-2027 pueden necesitar 300+ Mbps por la proliferación de dispositivos inteligentes y aplicaciones con IA.
-:::
 
-::: section
+
 ## ¿Qué es el 6G y cuándo llega?
 
 El 6G es la sexta generación de tecnología de comunicaciones móviles. Está en fase de investigación y desarrollo, con los primeros estándares esperados para 2027-2028 y comercialización a partir de 2028-2030.
@@ -119,9 +118,8 @@ El 6G es la sexta generación de tecnología de comunicaciones móviles. Está e
 | Llegada a México | 2020-2026 | 2028-2030+ |
 
 **¿Deberías esperar al 6G?** No. Para el 99% de los usuarios, el 5G actual y la fibra óptica de 1 Gbps son más que suficientes para cualquier uso imaginable en los próximos 5 años. El 6G resolverá problemas que los hogares no tienen todavía.
-:::
 
-::: section
+
 ## Comparativa rápida de proveedores en 2026
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -148,9 +146,8 @@ Basado en tendencias del mercado mexicano:
 | Starlink | ~$2,400/mes | $2,000-$2,200/mes | Bajando |
 
 **Tendencia general**: La fibra de alta velocidad se abarata, mientras que los planes básicos (50-100 Mbps) pueden subir ligeramente en precio real post-inflación.
-:::
 
-::: section
+
 ## Tecnologías emergentes que afectan tu internet
 
 ### Wi-Fi 7 (802.11be)
@@ -175,7 +172,7 @@ Los sistemas mesh Wi-Fi se abaratan, permitiendo cobertura total en casas grande
 - Beneficio: elimina zonas muertas de WiFi
 
 Lee [WiFi mesh para casas grandes](/blog/wifi-mesh-para-casas-grandes-mexico.html).
-:::
+
 
 ## Preguntas Frecuentes
 

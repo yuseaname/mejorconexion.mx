@@ -33,32 +33,27 @@ Para más detalle, consulta nuestra guía de [mejores routers 2026](/blog/mejore
 
 {{< faq "¿Puedo comprar mi propio módem en lugar del del proveedor?" >}}
 En la mayoría de los casos no. El módem debe ser compatible con la red del proveedor (especialmente en fibra óptica). Algunos proveedores permiten módems propios en cable coaxial si son de una lista aprobada, pero casi nunca en fibra. Lo que sí puedes comprar es un router propio para mejorar el Wi-Fi.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo sé si mi aparato es módem-router combinado?" >}}
 Si tiene luces de Wi-Fi y conexión de internet en el mismo aparato, es combinado (combo). La mayoría de equipos que entregan Telmex, Izzi, Totalplay y Megacable son combos. Si solo tiene luces de conexión (no Wi-Fi) y un puerto Ethernet, es un módem o ONT puro.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cambiar el router mejora mi internet?" >}}
 Si el problema es cobertura Wi-Fi o número de dispositivos, sí. Un router Wi-Fi 6 propio ($1,200-$3,500 MXN) mejora cobertura, estabilidad y manejo de dispositivos. Pero si el problema es la velocidad que llega por cable del proveedor, cambiar el router no ayuda.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué es el ONT de Totalplay?" >}}
 El ONT (Optical Network Terminal) es el equivalente al módem para fibra óptica. Convierte la señal de luz en conexión de red. Necesitas un router separado o el ONT-router combinado que entrega Totalplay.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Router vs módem
-:::
+
 
 El módem conecta tu casa a la red del proveedor de internet. El router distribuye esa conexión entre tus dispositivos vía WiFi o cable. Muchos proveedores entregan un aparato que hace ambas cosas (módem-router combinado), pero entender la diferencia te ayuda a diagnosticar problemas y mejorar tu red. En México, los cuatro grandes (Telmex, Totalplay, Izzi, Megacable) entregan equipos distintos según la tecnología que usan, y saber qué tienes es clave para optimizar tu conexión.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Módem: qué hace y por qué lo necesitas
 
 El módem (modulador-demodulador) es el puente entre la red de tu proveedor y tu casa. Convierte la señal que llega por cable (fibra, coaxial o cobre) en una conexión de red que tus dispositivos pueden usar. Sin módem, no hay internet en casa.
@@ -79,9 +74,8 @@ El tipo de módem depende de la tecnología de tu proveedor:
 - El módem se reinicia solo.
 
 Si experimentas alguno de estos, lee nuestra guía de [módem que parpadea en rojo](/blog/modem-parpadea-rojo-solucion.html).
-:::
 
-::: section
+
 ## Router: qué hace y por qué importa
 
 El router toma la conexión del módem y la distribuye entre tus dispositivos. Crea la red WiFi y los puertos Ethernet donde conectas tus aparatos. Sin router, solo puedes conectar un dispositivo por cable (sin WiFi).
@@ -96,14 +90,11 @@ Un router hace cuatro cosas esenciales:
 Si tienes un módem sin router, solo puedes conectar un dispositivo por cable y no tienes WiFi. Por eso casi todos los proveedores entregan equipos combo (módem + router integrados).
 
 Para más sobre routers, lee [cómo elegir router WiFi](/internet-en-casa/como-elegir-router-wifi-mexico.html) o nuestra guía de [mejores routers 2026](/blog/mejores-routers-2026-mexico-guia.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
-::: section
 ## Módem-router combinado vs separados: comparativa
 
 La mayoría de proveedores en México entregan un aparato que hace ambas cosas (combo). Pero un combo casi siempre es peor que módem y router separados.
@@ -133,9 +124,8 @@ La mayoría de proveedores en México entregan un aparato que hace ambas cosas (
 | Megacable | Hitron CGN2 / Technicolor | Coaxial HFC | Wi-Fi 5 (802.11ac) |
 
 Ninguno de estos equipos incluye Wi-Fi 6 de fábrica. Si quieres Wi-Fi 6 (802.11ax), necesitas comprar tu propio router.
-:::
 
-::: section
+
 ## Cómo conectar tu propio router al módem del operador
 
 Si quieres mejor WiFi, la estrategia común es:
@@ -160,9 +150,8 @@ Si quieres mejor WiFi, la estrategia común es:
 **Para Megacable:** Similar a Izzi. Verifica con soporte si tu modelo permite bridge.
 
 Esto te da mejor cobertura, más control y mejor manejo de dispositivos. Para la guía completa, lee [cómo configurar tu router](/blog/como-configurar-router-mexico-2026.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Puedo comprar mi propio módem?
@@ -190,18 +179,16 @@ Un router Wi-Fi 6 de gama media (TP-Link Archer AX55, Xiaomi AX3200) cuesta entr
 Para casas de más de 120 m² o de dos pisos, un sistema mesh (TP-Link Deco, Nest WiFi) da mejor cobertura que un solo router. Lee nuestra guía de [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 
 Para más sobre esto, lee [cómo configurar tu router](/blog/como-configurar-router-mexico-2026.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para elegir router, checa [mejor router WiFi para casa](/internet-en-casa/mejor-router-wifi-casa-mexico-2026.html).
 - Para entender la velocidad, lee [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
 - Para arreglar problemas, revisa [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
 - Para proteger tu red, lee [seguridad WiFi en casa](/blog/seguridad-wifi-casa-proteger-2026.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

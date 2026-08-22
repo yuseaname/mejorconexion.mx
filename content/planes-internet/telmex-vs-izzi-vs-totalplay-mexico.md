@@ -32,16 +32,15 @@ source_card: "agosto 2026"
 Si necesitas entender qué miden los Mbps y por qué no siempre “más es mejor”, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Para una comparativa móvil de los tres grandes operadores, revisa [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar.html). Y si quieres saber cuánto pagarás en 2026 por los planes principales, consulta [cuánto cuesta internet en México](/blog/cuanto-cuesta-internet-en-mexico-2026.html).
 
 
-::: {#comparacion-directa .section}
 ## Comparación directa: Telmex vs Izzi vs Totalplay
 
-::: {style="overflow:auto"}
+
   Proveedor              Tecnología principal      Velocidades típicas    Precio desde (promo)    Precio real/mes       Mejor para
   ---------------------- ------------------------- ---------------------- ----------------------- -------------------- ----------------------------------------------
   **Telmex (Infinitum)** Fibra óptica + cobre      20–1000 Mbps           ~$399 (3 meses)         ~$599–$1,099         Cobertura nacional, zonas donde otros no llegan
   **Totalplay**          Fibra óptica              100–1000 Mbps          ~$399 (6 meses)         ~$549–$1,199         Velocidad simétrica en zonas con fibra nueva
   **Izzi**               Coaxial + fibra           30–1000 Mbps           ~$299 (12 meses)        ~$599–$999           Bundles con TV, precio con paquete
-:::
+
 
 ### Resumen rápido por perfil
 
@@ -71,7 +70,7 @@ Si necesitas entender qué miden los Mbps y por qué no siempre “más es mejor
 - ❌ La velocidad de subida suele ser menor que Totalplay
 
 Para profundizar en un proveedor específico, consulta nuestras guías detalladas de [Telmex Infinitum](/blog/internet-telmex-infinitum-planes-precios-2026.html), [Totalplay](/blog/internet-totalplay-planes-precios-2026.html) e [Izzi](/blog/internet-izzi-planes-precios-opiniones-2026.html).
-:::
+
 
 <div>
 
@@ -97,7 +96,7 @@ Si estás entre Telmex, Izzi y Totalplay, la comparación que sí sirve no es "q
 12. [Preguntas frecuentes](#faq)
 13. [Estado del contenido](#status)
 
-::: {#enfoque-uso .section}
+
 ## Comparar por uso real (no por publicidad)
 
 El problema más común es elegir por la cifra más alta de Mbps. Eso rara vez resuelve el problema. La comparación útil es: **cómo usas el internet**, cuántas personas se conectan a la vez y qué tan estable lo necesitas.
@@ -110,12 +109,8 @@ Ejemplo rápido: una persona que ve streaming en HD necesita menos que una famil
 -   **Contrato:** ¿cuál es el costo real después de la promoción?
 
 Si necesitas conceptos base: [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html) y [qué es el ping](/blog/que-es-el-ping.html).
-:::
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -126,29 +121,27 @@ Si necesitas conceptos base: [qué significa la velocidad de internet](/blog/que
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: {#tecnologias .section}
 ## Tecnologías y por qué cambian la experiencia
 
 Telmex, Izzi y Totalplay pueden usar distintas tecnologías según la zona. Ese detalle puede cambiar toda tu experiencia, aunque el plan tenga el mismo número de Mbps.
@@ -166,9 +159,8 @@ Funciona bien en muchas zonas, pero es más sensible a saturación en horario pi
 ### Inalámbrico fijo
 
 Se usa cuando no hay cableado. Puede servir, pero depende mucho de la señal y del entorno. Es más variable y no siempre ideal para usos exigentes.
-:::
 
-::: {#ofertas .section}
+
 ## Cómo leer una oferta sin perderte
 
 Las ofertas suelen destacar la descarga máxima, pero hay otros datos que importan igual o más.
@@ -186,9 +178,8 @@ La latencia es el tiempo de respuesta. El jitter es la variación de ese tiempo.
 ### Contrato y letra chica
 
 Lee el contrato completo y pregunta si hay cambios de precio después de la promo. Revisa también instalación, penalizaciones y costos de equipo.
-:::
 
-::: {#perfiles .section}
+
 ## Perfiles de uso: qué conviene en cada caso
 
 En lugar de elegir por nombre, elige por perfil de uso. Aquí van los más comunes.
@@ -214,24 +205,21 @@ Necesitas baja latencia y estabilidad real. Para gaming: [mejor velocidad para g
 Si tu casa es grande, el plan no basta: necesitas buena distribución de Wi‑Fi. En estos casos conviene una red mesh o puntos de acceso.
 
 Guía útil: [Wi‑Fi mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total.html).
-:::
 
-::: {#tabla-criterios .section}
+
 ## Tabla de criterios de decisión
 
 Esta tabla no compara marcas, sino criterios para decidir rápido según tu uso.
 
-::: {style="overflow:auto"}
+
   Criterio                        Si tu caso es este                 Qué priorizar
   ------------------------------- ---------------------------------- ----------------------------------------------
   Videollamadas diarias           Home office, clases, entrevistas   Subida estable + baja latencia
   Streaming en varias pantallas   Familia con 2+ TVs                 Estabilidad y velocidad real en horario pico
   Gaming en línea                 Consolas/PC competitivos           Latencia baja + jitter bajo
   Casa grande                     2 pisos o paredes gruesas          Wi‑Fi interno (mesh o cableado)
-:::
-:::
 
-::: {#zona .section}
+
 ## Cómo evaluar tu zona antes de contratar
 
 En México, la experiencia cambia por colonia. Dos vecinos pueden tener resultados diferentes con el mismo proveedor.
@@ -241,9 +229,8 @@ En México, la experiencia cambia por colonia. Dos vecinos pueden tener resultad
 -   Confirma la tecnología disponible en tu calle.
 
 Si quieres aterrizar por ubicación, revisa: [guías por ciudad](/ciudades/).
-:::
 
-::: {#instalacion .section}
+
 ## Instalación y Wi‑Fi interno
 
 La instalación es donde se gana o se pierde media experiencia. Un plan de 300 Mbps se puede sentir como 30 si el router está mal ubicado o si el cableado es deficiente.
@@ -255,9 +242,8 @@ La instalación es donde se gana o se pierde media experiencia. Un plan de 300 M
 -   Prueba de velocidad por cable y por Wi‑Fi al terminar.
 
 Guía práctica: [cómo mejorar tu Wi‑Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
 
-::: {#costos .section}
+
 ## Costo total real y promociones
 
 El costo real es el precio total de 12 meses, no el precio del primer mes. Evalúa:
@@ -267,9 +253,8 @@ El costo real es el precio total de 12 meses, no el precio del primer mes. Eval�
 -   Penalizaciones por cancelar antes del plazo.
 
 Si tu prioridad es ahorrar, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales.html).
-:::
 
-::: {#alertas .section}
+
 ## Señales de alerta al contratar
 
 -   No especifican subida.
@@ -278,9 +263,8 @@ Si tu prioridad es ahorrar, revisa: [internet barato sin trampas](/planes-intern
 -   El contrato tiene penalizaciones altas.
 
 Si tu internet se pone lento en la noche, revisa causas reales: [por qué el internet es lento a veces](/blog/por-que-el-internet-es-lento-a-veces.html).
-:::
 
-::: {#proceso .section}
+
 ## Proceso simple en 7 pasos
 
 1.  Define tu uso real y cuántas personas se conectan.
@@ -290,17 +274,15 @@ Si tu internet se pone lento en la noche, revisa causas reales: [por qué el int
 5.  Revisa soporte en tu zona.
 6.  Evalúa tu Wi‑Fi interno.
 7.  Elige el plan que mejor se ajusta, no el más grande.
-:::
 
-::: {#mitos .section}
+
 ## Mitos comunes al elegir proveedor
 
 -   **"Más megas siempre es mejor":** si tu Wi‑Fi es malo, no se siente.
 -   **"La velocidad máxima es garantizada":** es un tope, no un promedio.
 -   **"El proveedor lo es todo":** instalación y equipo también pesan.
-:::
 
-::: {#medir-velocidad .section}
+
 ## Cómo medir tu velocidad real en casa
 
 Medir bien evita decisiones equivocadas. Haz al menos dos pruebas: una por cable y otra por Wi‑Fi. La de cable te dice lo que entrega el proveedor; la de Wi‑Fi te dice lo que realmente llega a tu dispositivo.
@@ -311,9 +293,8 @@ Medir bien evita decisiones equivocadas. Haz al menos dos pruebas: una por cable
 4.  Repite la prueba por Wi‑Fi en el lugar donde más usas internet.
 
 Si la velocidad por cable es buena y por Wi‑Fi es baja, el problema no es el proveedor. Guía: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet.html).
-:::
 
-::: {#instalacion-checklist .section}
+
 ## Checklist de instalación con el técnico
 
 Un técnico puede dejarte una instalación excelente o una que "medio funciona". Este checklist te ayuda a validar el trabajo en el momento.
@@ -324,9 +305,8 @@ Un técnico puede dejarte una instalación excelente o una que "medio funciona".
 -   Confirmación de la velocidad contratada en la orden.
 
 Si algo no cuadra, es mejor resolverlo en la visita que semanas después.
-:::
 
-::: {#glosario .section}
+
 ## Glosario rápido (sin tecnicismos)
 
 -   **Mbps:** cuántos datos pasan por segundo.
@@ -335,9 +315,8 @@ Si algo no cuadra, es mejor resolverlo en la visita que semanas después.
 -   **Latencia (ping):** tiempo de respuesta.
 -   **Jitter:** variación en el tiempo de respuesta.
 -   **Horario pico:** horas con más uso en tu zona.
-:::
 
-::: {#presupuesto .section}
+
 ## Comparación por presupuesto (sin marcas)
 
 Si tu presupuesto es ajustado, el objetivo no es "lo más barato", sino lo más estable dentro de ese rango. Una conexión económica pero estable rinde más que una rápida que se cae.
@@ -347,9 +326,8 @@ Para presupuestos bajos, prioriza estabilidad y buen Wi‑Fi interno. Para presu
 Si quieres comparar opciones concretas para casa, nuestra guía [mejor internet en casa en México](/internet-en-casa/mejor-internet-en-casa-mexico.html) desglosa planes por proveedor y uso. Para entender la diferencia entre Mbps y MB al revisar tu plan, consulta [Mbps vs MB explicado](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 Si estás en modo ahorro, revisa: [internet barato sin trampas](/planes-internet/internet-barato-mexico-opciones-reales.html).
-:::
 
-::: {#velocidad-real .section}
+
 ## Velocidad contratada vs velocidad real
 
 La velocidad contratada es un máximo teórico. La velocidad real depende de muchos factores: Wi‑Fi, interferencias, distancia al router y saturación local. Por eso dos casas con el mismo plan pueden tener experiencias distintas.
@@ -357,17 +335,15 @@ La velocidad contratada es un máximo teórico. La velocidad real depende de muc
 Si ves 200 Mbps en el contrato pero solo recibes 80 por Wi‑Fi, no siempre es culpa del proveedor. Primero mide por cable y luego por Wi‑Fi. Si por cable sí llega, el problema es interno.
 
 Guía rápida: [cómo medir tu velocidad real](/guias/como-medir-velocidad-real-internet.html).
-:::
 
-::: {#ofertas-iguales .section}
+
 ## Qué hacer cuando dos ofertas se ven iguales
 
 Cuando dos ofertas parecen iguales en precio y velocidad, la decisión está en los detalles: subida, latencia, contrato y calidad de instalación. Un plan con mejor subida puede sentirse mucho más estable en videollamadas y trabajo remoto.
 
 Si sigues en duda, busca opiniones locales, pregunta a vecinos y revisa el historial de fallas en tu zona. La consistencia en horario pico pesa más que la velocidad máxima del anuncio.
-:::
 
-::: {#comparacion-detallada .section}
+
 ## Checklist de comparación detallada
 
 Si quieres una comparación más fina, usa este checklist. No toma más de 10 minutos, pero evita meses de frustración.
@@ -379,9 +355,8 @@ Si quieres una comparación más fina, usa este checklist. No toma más de 10 mi
 -   **Soporte local:** tiempos de visita técnica en tu colonia.
 
 Este checklist ayuda a decidir incluso cuando las ofertas se ven "idénticas".
-:::
 
-::: {#soporte .section}
+
 ## Soporte: qué preguntar antes de contratar
 
 El soporte es el factor que solo notas cuando algo falla. Pregunta tiempos de visita técnica, canales de atención y si hay soporte en tu zona. Un proveedor con buena estabilidad pero soporte lento puede costarte días de trabajo o clases perdidas.
@@ -391,9 +366,8 @@ También pregunta si tienen atención en horarios nocturnos o fines de semana, p
 Si te ofrecen "soporte premium", pide que expliquen qué incluye y en cuánto tiempo responden.
 
 Si la respuesta es vaga o cambiante, tómalo como señal de alerta.
-:::
 
-::: {#faq .section}
+
 ## Preguntas frecuentes
 
 ### ¿Cuál es el mejor proveedor en México?
@@ -419,6 +393,5 @@ Vas a pagar de más sin sentir la mejora. Primero mejora la red interna y despu�
 ### ¿Cómo sé si mi zona está saturada?
 
 La señal suele bajar en la noche. Pregunta a vecinos y haz pruebas en horario pico para confirmarlo.
-:::
 
-:::
+

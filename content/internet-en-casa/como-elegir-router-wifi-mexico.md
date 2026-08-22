@@ -33,32 +33,27 @@ Para más detalle, consulta [cómo [mejorar tu Wi-Fi](/blog/como-mejorar-wifi-en
 
 {{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
 Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
 Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
 Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
 Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Elegir router
-:::
+
 
 El router que entrega tu proveedor suele ser básico: funciona, pero no da el máximo rendimiento. Cambiarlo por uno propio puede mejorar tu velocidad Wi-Fi, cobertura y estabilidad — pero solo si sabes qué buscar y cuándo conviene.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## ¿Necesitas cambiar tu router?
 
 Cambia tu router si:
@@ -75,11 +70,11 @@ No cambies si:
 - El problema es la velocidad que llega por cable (eso es del proveedor, no del router).
 
 Antes de comprar, haz la prueba en [cómo mejorar tu Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html). Muchos problemas se arreglan moviendo el router, no comprando uno nuevo.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Qué buscar en un router
 
 | Característica | Qué significa | ¿La necesitas? |
@@ -93,14 +88,11 @@ Antes de comprar, haz la prueba en [cómo mejorar tu Wi-Fi](/internet-en-casa/co
 | Beamforming | Enfoca la señal hacia los dispositivos | Bonus de cobertura |
 
 Para entender las bandas Wi-Fi, lee [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Router individual vs sistema mesh
 
 | Opción | Precio aprox. | Mejor para | Desventaja |
@@ -112,9 +104,8 @@ Para entender las bandas Wi-Fi, lee [cómo mejorar el Wi-Fi en casa](/internet-e
 **Regla:** si tu casa tiene un piso y menos de 100 m², un buen router individual basta. Si tiene dos pisos o más de 150 m², considera mesh.
 
 Ver precios actuales de routers Wi-Fi en [Amazon México](https://www.amazon.com.mx/s?k=router+wifi&tag=litwd-20).
-:::
 
-::: section
+
 ## Presupuesto recomendado
 
 | Presupuesto | Qué conseguir |
@@ -125,9 +116,8 @@ Ver precios actuales de routers Wi-Fi en [Amazon México](https://www.amazon.com
 | $2500-$4000 MXN | Sistema mesh de 2 nodos para casas grandes |
 
 No gastes más de $3000 MXN a menos que tengas una casa muy grande o necesidades técnicas específicas (servidor, múltiples VLAN).
-:::
 
-::: section
+
 ## 3 errores al comprar router
 
 ### Comprar el más caro sin saber por qué
@@ -141,9 +131,8 @@ Algunos proveedores requieren configuración específica para usar un router pro
 ### No configurar el router nuevo
 
 Sacar el router de la caja y enchufarlo sin configurar las bandas, el canal y la contraseña es tirar el dinero. Dedica 30 minutos a la configuración inicial. Lee [cómo ajustar tu router](/blog/ajustes-router-mejorar-velocidad-internet.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Puedo usar mi propio router con cualquier proveedor?
@@ -157,17 +146,15 @@ Si tienes un celular o laptop fabricado en 2020 o después, probablemente soport
 ### ¿Un router más caro da más velocidad de internet?
 
 No. El router mejora la distribución del Wi-Fi dentro de tu casa. La velocidad máxima que recibes está limitada por lo que llega por el cable del proveedor.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para optimizar tu router actual, checa [cómo ajustar tu router para mejorar la velocidad](/blog/ajustes-router-mejorar-velocidad-internet.html).
 - Para mejorar la cobertura Wi-Fi, lee [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 - Para entender la velocidad que necesitas, revisa [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

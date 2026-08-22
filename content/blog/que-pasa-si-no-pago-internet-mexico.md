@@ -24,7 +24,7 @@ image: "/images/cat-proveedores.webp"
 | 90+ días | Reporte a Buró de Crédito | Peligroso para historial |
 | 180+ días | Posible demanda civil | Consultar abogado |
 
-::: section
+
 ## Cómo evitar problemas si no puedes pagar
 
 1. **Llama antes del vencimiento**: La mayoría de proveedores ofrecen extensiones
@@ -33,7 +33,7 @@ image: "/images/cat-proveedores.webp"
 4. **Negocia los cargos moratorios**: Muchas veces los eliminan si pagas el principal
 
 Para más sobre tus derechos, lee [cómo cancelar servicio de internet](/blog/cancelar-servicio-internet-mexico.html) y [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

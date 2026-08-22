@@ -31,32 +31,27 @@ Para más detalle, consulta [fibra vs coaxial en México](/internet-en-casa/fibr
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet para jugar online
-:::
+
 
 Para jugar online no necesitas el plan con más megas. Necesitas **baja latencia**, **estabilidad** y la **conexión correcta**. Un plan de 500 Mbps con latencia alta se va a sentir peor para gaming que uno de 50 Mbps con latencia baja y estable.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Lo que de verdad importa para gaming
 
 | Factor | Qué es | Ideal para gaming |
@@ -68,11 +63,11 @@ Para jugar online no necesitas el plan con más megas. Necesitas **baja latencia
 | Conexión | Tipo de cableado | Fibra o Ethernet |
 
 Para entender la latencia, checa [qué es el ping](/blog/que-es-el-ping.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Fibra vs cable vs Wi-Fi para gaming
 
 ### Fibra óptica
@@ -95,14 +90,11 @@ Puede funcionar, pero la latencia suele ser mayor y más variable que con fibra.
 | Wi-Fi con repetidor | 50-100 ms | Pobre |
 
 Para entender por qué el Wi-Fi afecta tanto, lee [cómo mejorar tu Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Proveedores y gaming: qué esperar en México
 
 | Proveedor | Tecnología común | Latencia típica a servidores MX | Latencia a servidores EU |
@@ -113,9 +105,8 @@ Para entender por qué el Wi-Fi afecta tanto, lee [cómo mejorar tu Wi-Fi](/inte
 | Megacable | Cable/fibra | 25-60 ms | 70-130 ms |
 
 Estos son rangos generales. La latencia real depende de tu ubicación, el servidor del juego y la ruta de red. La disponibilidad varía por zona — verifica cobertura directamente en el sitio oficial del proveedor.
-:::
 
-::: section
+
 ## Checklist para optimizar tu conexión de gaming
 
 1. **Conecta por cable Ethernet** tu consola o PC. Es el cambio que más impacto tiene.
@@ -127,11 +118,11 @@ Estos son rangos generales. La latencia real depende de tu ubicación, el servid
 7. **Mide tu ping** dentro del juego. Si es mayor a 100 ms constantemente, considera [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html).
 
 Para optimizar tu router a fondo, lee [cómo ajustar tu router para mejorar la velocidad](/blog/ajustes-router-mejorar-velocidad-internet.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## 3 errores que arruinan tu experiencia de gaming
 
 ### Jugar por Wi-Fi cuando puedes usar cable
@@ -145,9 +136,8 @@ El lag no se arregla con más Mbps. Se arregla con menor latencia, mejor estabil
 ### Dejar que otros dispositivos saturen la red
 
 Si alguien está descargando una actualización o viendo Netflix en 4K mientras juegas, tu ping se va a disparar. Activa QoS en el router o pide que no descarguen mientras juegas.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cuántos Mbps necesito para jugar online?
@@ -171,26 +161,20 @@ No. Los repetidores añaden latencia. Mejor tira un cable Ethernet o usa un adap
 5. Si nada funciona, el problema puede ser la ruta de red de tu proveedor.
 
 Para más detalles sobre gaming y proveedores, checa [mejor internet para gaming en México](/blog/mejor-internet-para-gaming-en-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="before-faq"}
-:::
 
-::: section
 ## Veredicto
 
 El mejor internet para gaming en México es la fibra óptica instalada en tu dirección, conectada por cable Ethernet a tu consola o PC, con QoS activado. No te dejes llevar por los megas — mide la latencia y la estabilidad.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para entender por qué el ping importa tanto, checa [qué es el ping](/blog/que-es-el-ping.html).
 - Para optimizar tu conexión de casa, lee [cómo mejorar el Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 - Para comparar proveedores de internet, revisa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

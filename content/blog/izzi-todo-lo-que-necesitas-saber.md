@@ -27,7 +27,7 @@ image: "/images/cat-proveedores.webp"
 
 Izzi es una subsidiaria de Grupo Televisa. Originalmente conocida como Cablevisión, fue rebrandeada como Izzi en 2014. Su infraestructura de cable coaxial le da una cobertura sólida en zonas urbanas, pero limita la velocidad de subida comparada con la fibra óptica pura. Esta guía analiza objetivamente sus planes, cobertura, cuándo conviene y qué alternativas tienes.
 
-::: section
+
 ## Planes y Precios de Izzi (2026)
 
 | Plan | Velocidad bajada | Velocidad subida | Precio/mes | Precio regular | Incluye |
@@ -60,9 +60,8 @@ Izzi es una subsidiaria de Grupo Televisa. Originalmente conocida como Cablevisi
 5. **Permanencia**: Muchos planes requieren 12-24 meses
 
 Compara Izzi con otros proveedores: [Izzi vs Totalplay](/blog/izzi-vs-totalplay-2026.html), [Izzi vs Telmex](/blog/infinitum-vs-izzi-opiniones-2026.html), o la [comparativa completa de 4 proveedores](/blog/izzi-vs-totalplay-telmex-megacable-2026.html).
-:::
 
-::: section
+
 ## Cobertura de Izzi en México
 
 Izzi tiene cobertura principalmente en zonas urbanas. Su red de cable coaxial cubre:
@@ -114,9 +113,8 @@ Para entender por qué la tecnología importa, lee [fibra vs coaxial en México]
 | Saturación horas pico | Alta | Baja-media |
 | Simetría | No | Sí |
 | Bundle TV | Sí (incluido) | No |
-:::
 
-::: section
+
 ## Velocidad real de Izzi
 
 Basado en Speedtest y reseñas de usuarios (2024-2026):
@@ -137,9 +135,8 @@ Basado en Speedtest y reseñas de usuarios (2024-2026):
 2. Documenta con capturas (fecha, hora, velocidad)
 3. Llama al 55 5222 2222 con el reporte
 4. Si no resuelven en 72h: [queja ante PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html)
-:::
 
-::: section
+
 ## Izzi vs Competencia: Cuándo Elegirlo
 
 | Criterio | Mejor opción | Por qué |
@@ -179,7 +176,7 @@ Sin embargo, todavía existen problemas comunes:
 Para evitar caer en estas trampas, siempre verifica: disponibilidad en tu código postal, precio real post-promoción, tecnología (fibra vs coaxial), y condiciones de cancelación antes de firmar cualquier contrato.
 
 Si experimentas problemas con tu proveedor, recuerda que tienes derechos como consumidor. PROFECO y el IFT pueden ayudarte a resolver disputas. Lee nuestra guía de [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

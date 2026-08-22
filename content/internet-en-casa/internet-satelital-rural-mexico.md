@@ -28,8 +28,6 @@ En zonas rurales de México sin fibra ni cable, las opciones son **Starlink** ($
 Para más detalle, consulta [Starlink vs fibra óptica en México 2026](/internet-en-casa/starlink-vs-fibra-optica-mexico-2026.html).
 
 
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -40,37 +38,32 @@ Para más detalle, consulta [Starlink vs fibra óptica en México 2026](/interne
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa/) / Internet satelital rural
-:::
+
 
 Ana vive a 25 minutos del pueblo. El streaming se corta, las clases en linea se caen y el WhatsApp llega con retraso. Le dijeron que solo hay satelital, pero tambien escucho de 4G fijo, WISP y hasta 5G. Esta guia pone orden: que opciones existen, como compararlas y como decidir con datos reales.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
 -   [Panorama del internet rural en Mexico](#panorama-rural)
 -   [Opciones disponibles: satelital, 4G/5G fijo y WISP](#opciones-disponibles)
@@ -85,7 +78,7 @@ Ana vive a 25 minutos del pueblo. El streaming se corta, las clases en linea se 
 -   [Como optimizar la red en zona rural](#optimizar-red)
 -   [Preguntas frecuentes](#preguntas-frecuentes)
 
-::: {#panorama-rural .section}
+
 ## Panorama del internet rural en Mexico
 
 En zonas rurales, el problema no siempre es elegir entre planes; a veces es saber si hay infraestructura. Hay localidades con cobre antiguo, otras con radioenlaces de proveedores locales (WISP) y regiones sin redes terrestres donde el unico camino es satelital o internet inalambrico fijo 4G/5G. En muchas comunidades, la decision correcta no es la que promete mas Mbps, sino la que ofrece estabilidad en la noche, soporte tecnico accesible y costos claros.
@@ -98,9 +91,8 @@ Otro factor es el clima. Lluvias intensas, viento y polvo pueden afectar enlaces
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Satellite-internet-dish-snow.png" loading="lazy" decoding="async" width="1200" height="800" alt="Antena de internet satelital instalada en el exterior" />
 <figcaption>El satelital es clave donde no llegan redes terrestres, pero cambia latencia y costo.</figcaption>
 </figure>
-:::
 
-::: {#opciones-disponibles .section}
+
 ## Opciones disponibles: satelital, 4G/5G fijo y WISP
 
 Estas son las rutas reales para conectar una casa rural en Mexico. La clave es no asumir que el satelital es la unica salida. Muchas veces un 4G fijo bien instalado o un WISP serio dan mejor estabilidad y menor latencia. Lo importante es ver que opciones hay en tu zona y hacer pruebas reales, no confiar solo en mapas de cobertura.
@@ -137,9 +129,8 @@ Una ventaja del WISP local es el soporte cercano. Si algo falla, el tecnico pued
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Antenna-178969.jpg" loading="lazy" decoding="async" width="1200" height="800" alt="Antena direccional para enlaces inalambricos" />
 <figcaption>Las antenas direccionales ayudan cuando la senal es debil o hay distancia.</figcaption>
 </figure>
-:::
 
-::: {#comparativa-uso .section}
+
 ## Comparativa rapida por uso real
 
 No todas las familias usan internet igual. Un hogar con videollamadas necesita baja latencia; una familia que solo ve streaming requiere estabilidad y buen Wi-Fi interior. Usa esta comparativa para ubicar tu caso.
@@ -159,9 +150,8 @@ Trabajo remoto necesita consistencia. Gaming demanda latencia baja. Si puedes el
 ### Hogares con varios estudiantes
 
 Cuando hay varias clases en linea al mismo tiempo, el problema es el ancho de subida y la estabilidad del Wi-Fi. Asegura que el router soporte varios dispositivos y que la senal llegue bien a cada cuarto. En muchos casos, un sistema de malla hace la diferencia.
-:::
 
-::: {#latencia-jitter .section}
+
 ## Latencia, jitter y estabilidad: lo que realmente importa
 
 En zonas rurales es comun que el vendedor prometa una velocidad maxima. Pero lo que define la experiencia diaria es la estabilidad. La latencia es el tiempo que tarda un paquete en ir y volver. El jitter es la variacion de esa latencia. Un servicio puede dar 50 Mbps pero con jitter alto y cortes cada noche. Eso arruina videollamadas, clases y gaming.
@@ -169,9 +159,8 @@ En zonas rurales es comun que el vendedor prometa una velocidad maxima. Pero lo 
 Por eso es clave medir en varios horarios. Un test aislado no sirve. La guia de [medicion real](/guias/como-medir-velocidad-real-internet.html) explica como hacerlo sin enganos. Si ves latencias muy variables en horario pico, sospecha de saturacion en la torre o en el enlace del proveedor.
 
 En satelital GEO, la latencia suele ser alta por distancia. En LEO mejora mucho, pero aun hay picos cuando los satelites cambian o el clima afecta. En 4G/5G fijo, la latencia puede ser buena si hay senal fuerte y poca congestion. En WISP, depende del proveedor y de su capacidad de backhaul.
-:::
 
-::: {#mitos-realidades .section}
+
 ## Mitos y realidades del internet rural
 
 ### Mito: con mas Mbps todo se arregla
@@ -189,12 +178,8 @@ Hay WISP muy serios que invierten en enlaces de salida robustos. La clave es ped
 ### Realidad: la instalacion define la experiencia
 
 Una antena mal orientada, un modem encerrado o un router basico pueden destruir la estabilidad. La infraestructura es solo la mitad; la instalacion y el ajuste local son la otra mitad.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
-::: {#viabilidad-ubicacion .section}
 ## Como evaluar viabilidad en tu ubicacion
 
 En zona rural, la viabilidad se decide por geografia y senal. Antes de contratar, haz esta evaluacion simple. No te quedes con la promesa comercial: intenta ver la senal real en el lugar donde viviras.
@@ -214,9 +199,8 @@ En zonas con cortes frecuentes, elige equipo de bajo consumo y considera respald
 ### Distancia a la torre o punto de acceso
 
 En WISP o 4G fijo, la distancia a la torre importa. Si estas muy lejos, pregunta si hay repetidores o si la empresa planea ampliar cobertura. Un proveedor transparente te dira los limites reales.
-:::
 
-::: {#equipamiento .section}
+
 ## Equipo y costos ocultos
 
 Muchos planes parecen baratos, pero el costo real sube cuando sumas equipo e instalacion. En satelital, el plato y el modem suelen ser la mayor parte. En WISP, el costo de la antena puede variar segun distancia. En 4G fijo, el modem puede ser basico o puede incluir antena externa.
@@ -229,9 +213,8 @@ Antes de firmar, pregunta:
 -   Si puedes usar equipo propio compatible.
 
 Si el equipo es rentado, revisa el costo mensual real. A veces un plan barato se vuelve caro con la renta mensual del modem.
-:::
 
-::: {#costos-contratos .section}
+
 ## Costos reales y contratos
 
 El precio mensual no cuenta toda la historia. Revisa estos puntos:
@@ -248,9 +231,8 @@ El precio mensual no cuenta toda la historia. Revisa estos puntos:
 </figure>
 
 Para comparar proveedores y evitar trampas de precio, revisa [companias de internet en Mexico](/internet-en-casa/companias-internet-mexico.html).
-:::
 
-::: {#plan-pruebas .section}
+
 ## Plan de pruebas de 7 dias antes de decidir
 
 Si tienes la oportunidad de probar un servicio antes de comprometerte, sigue este plan. No se trata de un solo speedtest, sino de evaluar la experiencia real.
@@ -264,9 +246,8 @@ Si tienes la oportunidad de probar un servicio antes de comprometerte, sigue est
 7.  **Dia 7:** revisa si hubo cortes, reinicios o caidas en horario pico.
 
 Con estos datos puedes decidir sin improvisar. Si el servicio falla en horario pico, no es mala suerte: es la realidad diaria.
-:::
 
-::: {#checklist-eleccion .section}
+
 ## Checklist de eleccion paso a paso
 
 1.  Define tu uso principal (clases, trabajo, entretenimiento).
@@ -277,18 +258,16 @@ Con estos datos puedes decidir sin improvisar. Si el servicio falla en horario p
 6.  Si hay dudas, empieza con un plan sin contrato.
 
 Si aun no estas seguro, regresa a [mejor internet en casa en Mexico](/blog/mejor-internet-casa-mexico-2026.html) para alinear decision con presupuesto.
-:::
 
-::: {.section .decision-links editorial-links="true"}
+
 **Dónde ver opciones reales:** páginas oficiales con información y condiciones vigentes.
 
 -   [Starlink (satelital)](https://www.starlink.com/mx){rel="nofollow noopener" target="_blank"}
 -   [Viasat Mexico (satelital)](https://www.viasat.com.mx/){rel="nofollow noopener" target="_blank"}
 
 **Nota sin humo:** disponibilidad y condiciones pueden cambiar.
-:::
 
-::: {#optimizar-red .section}
+
 ## Como optimizar la red en zona rural
 
 Una buena eleccion puede arruinarse con mala instalacion. Estos ajustes tienen mayor impacto.
@@ -308,12 +287,8 @@ Un router con QoS ayuda a que videollamadas no se corten. Consulta [red domestic
 ### Ubicacion del equipo satelital
 
 En satelital, ubica el plato con vista despejada al cielo. Evita arboles y sombras nuevas. Un pequeño cambio de angulo puede mejorar mucho la estabilidad.
-:::
 
-::: {.ad-slot ad-slot="before-faq"}
-:::
 
-::: {#preguntas-frecuentes .section}
 ## Preguntas frecuentes
 
 ### El satelital sirve para videollamadas?
@@ -335,43 +310,40 @@ Es congestion. Prueba horarios, optimiza Wi-Fi y revisa [que hacer si tu interne
 ### Vale la pena firmar contrato largo?
 
 Solo si el proveedor tiene historial estable y si el descuento lo justifica. En zonas rurales es mejor tener salida rapida si el servicio no cumple.
-:::
 
-::: {.section .callout related-block="" style="margin-top:18px"}
+
 ## Siguiente lectura
 
 [Wi-Fi Mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total.html)
 
 Cobertura estable para casas grandes y varios pisos.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Articulos relacionados
 
-::: {.grid .two}
-[](/internet-en-casa/){.card}
+
+[](/internet-en-casa/)
 
 ### Internet en casa
 
 Hub con comparativas y guias clave.
 
-[](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html){.card}
+[](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html)
 
 ### Red domestica pro
 
 Cableado, switches y QoS para estabilidad real.
 
-[](/internet-en-casa/mejor-internet-mexico.html){.card}
+[](/internet-en-casa/mejor-internet-mexico.html)
 
 ### Mejor internet en Mexico
 
 Guia nacional para elegir con evidencia.
-:::
-:::
+
 
 ------------------------------------------------------------------------
 
-::: meta-row
+
 **Ultima actualizacion:** 27 de diciembre de 2025 \> [Metodologia](/metodologia.html)
-:::
-:::
+
+

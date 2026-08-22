@@ -32,32 +32,27 @@ Para más detalle, consulta [/blog/cancelar-servicio-internet-mexico/](/blog/can
 
 {{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
 Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
 Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
 Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
 Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Queja PROFECO internet
-:::
+
 
 Si tu proveedor de internet no entrega la velocidad que contrataste y no lo resuelve después de quejas repetidas, PROFECO puede ayudarte. Esta guía explica exactamente cómo presentar una queja efectiva, qué documentos necesitas y qué esperar del proceso.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Antes de ir a PROFECO: lo que debes hacer primero
 
 PROFECO no va a resolver un problema que no le planteaste primero a tu proveedor. Antes de presentar la queja:
@@ -71,11 +66,11 @@ PROFECO no va a resolver un problema que no le planteaste primero a tu proveedor
 Si después de todo eso el problema sigue, es momento de escalar a PROFECO.
 
 Para más contexto sobre la queja ante PROFECO, lee nuestra [guía de cómo quejarte por internet en PROFECO](/blog/queja-profeco-internet-guia-2026.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Documentos que necesitas para la queja
 
 Antes de presentarla, ten listos:
@@ -86,14 +81,11 @@ Antes de presentarla, ten listos:
 - **Bitácora de quejas al proveedor:** fechas, folios y resultados.
 - **Mediciones de velocidad** por cable, con fecha y hora.
 - **Capturas de pantalla** de pruebas (si las tienes).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Cómo presentar la queja en PROFECO
 
 ### Opción 1: En línea
@@ -111,9 +103,8 @@ Llama al **CONSUMER** (55 5568 8723) desde la CDMX o al **01 800 468 8723** desd
 ### Opción 3: Oficina de PROFECO
 
 Acude a la oficina más cercana con tus documentos. Lleva copias de todo.
-:::
 
-::: section
+
 ## Qué esperar del proceso
 
 PROFECO actúa como mediador entre tú y el proveedor. El proceso típico:
@@ -125,9 +116,8 @@ PROFECO actúa como mediador entre tú y el proveedor. El proceso típico:
 5. **Si no hay acuerdo:** puedes escalar a otras instancias.
 
 El proceso puede tardar de 2 a 8 semanas según el caso.
-:::
 
-::: section
+
 ## Qué resultados puedes obtener
 
 | Resultado | Qué significa |
@@ -138,9 +128,8 @@ El proceso puede tardar de 2 a 8 semanas según el caso.
 | Sin acuerdo | Puedes escalar a otras instancias |
 
 PROFECO no puede obligar al proveedor a entregar velocidad que técnicamente no puede, pero sí puede lograr compensaciones o cancelaciones sin penalización.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿PROFECO puede obligar a mi proveedor a darme más velocidad?
@@ -158,17 +147,15 @@ No. PROFECO está diseñado para que los consumidores presenten quejas sin neces
 ### ¿Qué pasa si el proveedor no responde a PROFECO?
 
 Si el proveedor no se presenta a la conciliación, PROFECO puede sancionarlo. Esto refuerza tu posición.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para la guía completa de PROFECO, checa [cómo quejarte por internet en PROFECO](/blog/queja-profeco-internet-guia-2026.html).
 - Para diagnosticar tu problema antes de quejarte, lee [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
 - Para comparar opciones si vas a cambiar, revisa [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: [PROFECO](https://www.gob.mx/profeco){rel="nofollow noopener" target="_blank"}
-:::
-:::
+
+

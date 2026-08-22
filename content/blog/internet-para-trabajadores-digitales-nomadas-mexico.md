@@ -16,7 +16,7 @@ image: "/images/cat-proveedores.webp"
 
 **Para nómadas digitales en México, las mejores opciones son: 1) Plan Telcel/AT&T con hotspot y eSIM ($399-$599/mes), 2) Coworking con fibra ($2,000-$5,000/mes), 3) Totalplay temporal donde estés más tiempo. La cobertura 4G/5G de Telcel es la más confiable para trabajo móvil.**
 
-::: section
+
 ## Opciones de internet para nómadas
 
 ### 1. Plan móvil con hotspot (más flexible)
@@ -33,7 +33,7 @@ image: "/images/cat-proveedores.webp"
 Si te quedas 1-3 meses en una ciudad, [Totalplay sin contrato](/blog/internet-sin-contrato-mexico-2026.html) ofrece fibra rápida instalable en días.
 
 Para más, lee [internet para trabajo remoto](/blog/internet-trabajo-remoto-2026.html) e [internet para home office](/internet-en-casa/internet-para-home-office-mexico.html).
-:::
+
 
 ## Preguntas Frecuentes
 

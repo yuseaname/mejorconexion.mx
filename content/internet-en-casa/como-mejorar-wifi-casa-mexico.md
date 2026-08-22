@@ -31,32 +31,27 @@ Para más detalle, consulta [el mejor router WiFi para casa en México](/interne
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Mejorar Wi-Fi
-:::
+
 
 Si tu internet va lento, antes de llamar a tu proveedor o contratar más megas, checa esto: el 80% de los problemas de internet en casa no son del proveedor — son del Wi-Fi. Una mala ubicación del router, la banda equivocada o un equipo viejo pueden estar matando tu velocidad.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Paso 1: Ubicación del router (lo que más cambia)
 
 El router es la antena de tu internet. Si está escondido detrás de un mueble, dentro de un closet o pegado a una pared gruesa, la señal no llega bien.
@@ -69,11 +64,11 @@ El router es la antena de tu internet. Si está escondido detrás de un mueble, 
 - **Visible:** no lo metas en un cajón ni detrás del TV.
 
 Mover el router 3 metros puede cambiar de 10 a 50 Mbps la velocidad en tu celular.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Paso 2: Banda correcta (2.4 GHz vs 5 GHz)
 
 Tu router probablemente tiene dos bandas Wi-Fi. Cada una sirve para algo distinto:
@@ -86,14 +81,11 @@ Tu router probablemente tiene dos bandas Wi-Fi. Cada una sirve para algo distint
 **Regla:** si tu TV o consola está cerca del router, conéctala a 5 GHz (o mejor, por cable Ethernet). Si tu celular pierde señal en el cuarto del fondo, usa 2.4 GHz.
 
 Si tu router tiene "banda unificada" (un solo nombre de red), puede que no esté eligiendo bien. Sepáralas en el panel de administración del router.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Paso 3: Cambiar de canal Wi-Fi
 
 En edificios o conjuntos habitacionales, tu router compite con los routers de tus vecinos. Si todos usan el canal 6, hay interferencia.
@@ -106,9 +98,8 @@ En edificios o conjuntos habitacionales, tu router compite con los routers de tu
 4. Guarda y reinicia el router.
 
 Para ver qué canales usan tus vecinos, busca "WiFi Analyzer" en la tienda de apps de tu celular.
-:::
 
-::: section
+
 ## Paso 4: ¿Repetidor, mesh o access point?
 
 Si después de mover el router y cambiar canal sigues con zonas muertas, necesitas extender la señal.
@@ -122,11 +113,11 @@ Si después de mover el router y cambiar canal sigues con zonas muertas, necesit
 **El mejor consejo:** un access point conectado por cable Ethernet al router principal siempre será mejor que cualquier repetidor. Si puedes tirar un cable, hazlo.
 
 Para elegir un router nuevo, checa [cómo elegir router Wi-Fi para tu casa](/internet-en-casa/como-elegir-router-wifi-mexico.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Paso 5: Actualizar firmware y cambiar contraseñas
 
 El firmware del router es el software que lo hace funcionar. Si tiene años sin actualizarse, puede tener errores de rendimiento o seguridad.
@@ -137,9 +128,8 @@ El firmware del router es el software que lo hace funcionar. Si tiene años sin 
 4. Mientras estás ahí, cambia la contraseña de administración (la que viene por defecto suele ser "admin/admin").
 
 También cambia la contraseña del Wi-Fi si la has compartido con muchas personas. Cada dispositivo conectado consume ancho de banda.
-:::
 
-::: section
+
 ## ¿Cuándo el problema sí es del proveedor?
 
 Si después de todos estos pasos el internet sigue lento, haz la prueba definitiva:
@@ -150,9 +140,8 @@ Si después de todos estos pasos el internet sigue lento, haz la prueba definiti
 4. Si por cable también va lento en horario pico, el problema es del proveedor.
 
 Si confirmas que es el proveedor, lee [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html) o revisa [cómo quejarte en PROFECO](/blog/queja-profeco-internet-guia-2026.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Un repetidor Wi-Fi mejora el internet?
@@ -170,26 +159,20 @@ Sí. Reiniciar el router (apagar 30 segundos y volver a encender) resuelve mucho
 ### ¿Debo comprar un router propio?
 
 Si el de tu proveedor es viejo o básico, un router propio puede mejorar bastante el Wi-Fi. Pero primero verifica que el problema no sea la velocidad que llega por el cable. Lee [cómo ajustar tu router para mejorar la velocidad](/blog/ajustes-router-mejorar-velocidad-internet.html).
-:::
 
-::: section
+
 ## Veredicto
 
 Antes de pagar por más megas o [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html), arregla tu Wi-Fi. Mover el router, separar bandas y cambiar de canal resuelven la mayoría de los problemas. Si después de eso sigues lento por cable Ethernet en horario pico, entonces sí es momento de hablar con tu proveedor.
-:::
 
-::: {.ad-slot ad-slot="before-faq"}
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
 ## Sigue aprendiendo
 
 - Si quieres optimizar a fondo, checa [cómo ajustar tu router para mejorar la velocidad](/blog/ajustes-router-mejorar-velocidad-internet.html).
 - Para saber si el problema es tu conexión, lee [cómo medir la velocidad real de tu internet](/guias/como-medir-velocidad-real-internet.html).
 - Si decides cambiar de proveedor, revisa [cómo cambiar de proveedor de internet en México](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

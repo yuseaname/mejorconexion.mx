@@ -4,10 +4,10 @@ date: 2026-01-01
 description: ""
 draft: false
 ---
-::: container
-::: breadcrumbs
+
+
 [Inicio](/) / eSIM y viajeros
-:::
+
 
 # eSIM y viajeros
 
@@ -15,7 +15,7 @@ draft: false
 
 Para viajar, para tener una línea extra, o para no andar cazando chips en el aeropuerto. Aquí te lo explicamos sin rodeos.
 
-::: {.section .hub-intro hub-intro="true"}
+
 Este hub de **eSIM para viajeros** está pensado para salir de viaje con datos desde el minuto uno, sin perseguir chips en el aeropuerto. En México (y fuera), lo que define la experiencia es la compatibilidad del equipo, la activación correcta y la cobertura real en tu destino. Aquí explicamos lo esencial para viajar con eSIM de forma simple y práctica.
 
 Si viajas a México, empieza por [mejor eSIM para México](/esim-viajeros/mejor-esim-para-mexico.html) y cruza con la guía general de [mejor eSIM en México](/esim/mejor-esim-mexico.html) si también la usarás en el día a día. Para entender lo básico, revisa [qué es una eSIM](/blog/que-es-una-esim.html), y si tienes duda de consumo, consulta [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
@@ -33,32 +33,29 @@ Para viajeros, esta opción digital es útil si necesitas mapas, mensajes y vide
 -   Apaga datos de la SIM principal si te cobran roaming.
 
 **Nota sin humo:** no vendemos eSIM; te damos pasos claros para viajar con datos sin sorpresas.
-:::
 
-::: {.grid .two}
-[](/esim-viajeros/mejor-esim-para-mexico.html){.card}
+
+[](/esim-viajeros/mejor-esim-para-mexico.html)
 
 ## Mejor eSIM para México {#mejor-esim-para-méxico style="margin:0 0 8px"}
 
 Qué revisar: cobertura real, redes, activación y soporte.
 
-[](/esim/mejor-esim-mexico.html){.card}
+[](/esim/mejor-esim-mexico.html)
 
 ## Mejor eSIM en México (uso diario) {#mejor-esim-en-méxico-uso-diario style="margin:0 0 8px"}
 
 Para línea secundaria, trabajo remoto y datos sin contrato largo.
-:::
 
-::: {.callout style="margin-top:16px"}
+
 **Regla rápida:** si tu cel es compatible con eSIM, muchas veces te salva para tener datos desde que aterrizas. Pero revisa bien el país/operador y el APN.
-:::
 
-::: {.section style="margin-top:18px"}
+
 ## Checklist rápido para viajar con eSIM
 
 -   Confirma que tu equipo tenga eSIM activa (no solo "compatible").
 -   Compra antes de viajar y deja la instalación para cuando tengas Wi‑Fi estable.
 -   Guarda el QR o el código manual por si necesitas reinstalar.
 -   Apaga datos de la SIM principal si te cobran roaming.
-:::
-:::
+
+

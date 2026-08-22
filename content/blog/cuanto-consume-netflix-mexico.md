@@ -138,7 +138,6 @@ Algunos proveedores incluyen Netflix en sus paquetes:
 Comparar paquetes puede ahorrarte $100-$200/mes si ya pagas Netflix por separado. Para más detalles, lee [planes de Totalplay](/blog/internet-totalplay-planes-precios-2026.html).
 
 
-
 ## Netflix en diferentes dispositivos
 
 El consumo de Netflix también varía según el dispositivo que uses. No todos los dispositivos reproducen la misma calidad máxima:
@@ -158,12 +157,11 @@ Un detalle importante: Netflix en navegador web (Chrome, Firefox, Safari) genera
 ## Preguntas Frecuentes
 
 
-::: section
 ## Sigue leyendo
 
 - [Qué es el ancho de banda y por qué se agota tu internet](/blog/que-es-el-ancho-de-banda.html)
 - [Internet para Zoom y videollamadas: qué velocidad necesitas en México (2026)](/blog/internet-para-zoom-y-videollamadas-mexico.html)
-:::
+
 
 {{< faq "¿Cuántos GB consume Netflix en una hora?" >}}
 Depende de la calidad: SD consume 1 GB/hora, HD (1080p) consume 3 GB/hora y 4K Ultra HD consume 7 GB/hora. Si activas el modo de ahorro de datos, puedes reducirlo a 0.3 GB/hora.

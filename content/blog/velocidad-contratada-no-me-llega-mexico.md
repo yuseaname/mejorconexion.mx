@@ -32,32 +32,27 @@ Para más detalle, consulta [diagnosticar internet lento](/guias/que-hacer-si-in
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Velocidad no llega
-:::
+
 
 Si pagas por 200 Mbps pero solo recibes 30, no siempre es fraude del proveedor. La diferencia entre la velocidad contratada y la real puede venir del WiFi, del router, de la congestión en horario pico o de la tecnología instalada. Aquí está cómo diagnosticar y resolverlo paso a paso.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Paso 1: Mide por cable Ethernet
 
 Antes de reclamar, mide por cable. Si por cable recibes la velocidad contratada, el problema es tu WiFi, no el proveedor.
@@ -70,9 +65,8 @@ Antes de reclamar, mide por cable. Si por cable recibes la velocidad contratada,
 Si por cable recibes menos del 60% de tu plan, hay un problema real del proveedor.
 
 Para medir correctamente, lee [cómo hacer un test de velocidad](/guias/como-medir-velocidad-real-internet.html).
-:::
 
-::: section
+
 ## Causa 1: El WiFi está limitando
 
 La causa más común de "no me llega la velocidad" es el WiFi. Las paredes, la distancia, la interferencia y la banda equivocada reducen la velocidad.
@@ -85,38 +79,32 @@ La causa más común de "no me llega la velocidad" es el WiFi. Las paredes, la d
 | WiFi en habitación lejana | 10-30% |
 
 Si por cable va bien pero por WiFi va mal, arregla tu red inalámbrica. Lee [cómo mejorar el Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
-::: section
 ## Causa 2: Congestión en horario pico
 
 De 7 a 11 PM, tu proveedor reparte ancho de banda entre miles de usuarios. La velocidad puede bajar al 50% o menos en horario pico, especialmente en cable coaxial.
 
 **Solución:** si el problema es todas las noches y por cable, considera cambiar a fibra o a un proveedor con menor sobresuscripción en tu zona. Lee [internet lento en la noche](/blog/internet-lento-noche-mexico-2026.html).
-:::
 
-::: section
+
 ## Causa 3: Router o módem viejo
 
 Un router de hace 5 años puede no soportar velocidades actuales. Si tienes un plan de 500 Mbps pero tu router solo soporta 100 Mbps, nunca vas a recibir más de 100.
 
 **Solución:** verifica las especificaciones de tu router. Si es antiguo, cámbialo. Lee [cómo elegir router WiFi](/internet-en-casa/como-elegir-router-wifi-mexico.html).
-:::
 
-::: section
+
 ## Causa 4: Tecnología insuficiente
 
 Si tienes cobre (ADSL) en lugar de fibra, la velocidad máxima puede ser de 10-20 Mbps sin importar lo que pagues. Pregunta a tu proveedor qué tecnología tienes.
 
 Para verificar, lee [cómo saber si tengo fibra óptica](/blog/como-saber-si-tengo-fibra-optica-2026.html).
-:::
 
-::: section
+
 ## Cómo reclamar si el proveedor no entrega
 
 1. **Documenta:** 5-10 mediciones por cable en distintos horarios durante una semana.
@@ -125,9 +113,8 @@ Para verificar, lee [cómo saber si tengo fibra óptica](/blog/como-saber-si-ten
 4. **Si no resuelven en 30 días, presenta queja ante PROFECO.**
 
 Lee [cómo quejarse en PROFECO paso a paso](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Es normal recibir menos de lo que contrato?
@@ -145,17 +132,15 @@ Depende del contrato. Algunos contratos permiten cancelación si el servicio no 
 ### ¿Cambiar de plan a uno mayor arregla el problema?
 
 Solo si el problema es de capacidad (necesitas más Mbps). Si el problema es WiFi, congestión o tecnología vieja, más megas no ayudan.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para medir bien, checa [cómo hacer un test de velocidad](/guias/como-medir-velocidad-real-internet.html).
 - Para entender las unidades, lee [Mbps vs MB](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Si el internet está lento, revisa [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

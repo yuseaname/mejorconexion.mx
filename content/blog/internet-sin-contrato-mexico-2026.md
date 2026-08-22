@@ -27,9 +27,9 @@ keywords:
 
 Para más detalle, consulta [/blog/internet-barato-mexico-2026/](/blog/internet-barato-mexico-2026.html).
 
-::: breadcrumbs
+
 [Inicio](/) / [Blog](/blog/)
-:::
+
 
 # Internet sin Contrato en México 2026: Opciones, Precios y Cómo Elegir
 
@@ -39,7 +39,7 @@ Para más detalle, consulta [/blog/internet-barato-mexico-2026/](/blog/internet-
 
 # Internet sin Contrato en México 2026: Opciones, Precios y Cómo Elegir
 
-![Professional photograph related to Internet sin Contrato en México 2026: Opciones, Precios y Cómo Elegir, illustrating key concepts for readers interested in Isp , Internet Mexico](./images/internet-sin-contrato-mexico-2026/internet-sin-contrato-mexico-2026-section-image.webp){.hero-image loading="lazy"}
+![Professional photograph related to Internet sin Contrato en México 2026: Opciones, Precios y Cómo Elegir, illustrating key concepts for readers interested in Isp , Internet Mexico](./images/internet-sin-contrato-mexico-2026/internet-sin-contrato-mexico-2026-section-image.webp)
 
 **¿Se puede tener internet sin contrato en México en 2026?** La respuesta es **sí, pero con limitaciones**. Mientras la mayoría de proveedores de internet fijo (Totalplay, izzi, Telmex) requieren contrato de 12 meses, existen alternativas reales: **internet móvil prepago**, **planes de datos ilimitados** y **internet satelital sin compromiso**. En esta guía desglosamos todas las opciones disponibles en 2026.
 
@@ -131,8 +131,6 @@ Aunque no es una opción \"oficial\", muchas personas comparten el costo del int
 -   **Costo por GB más alto:** Si consumes muchos datos, sale más caro que un plan fijo
 
 
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -143,7 +141,6 @@ Aunque no es una opción \"oficial\", muchas personas comparten el costo del int
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes

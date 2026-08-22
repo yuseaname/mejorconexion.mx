@@ -31,32 +31,27 @@ Para más detalle, consulta [internet para home office en México](/internet-en-
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet para estudiantes
-:::
+
 
 Para un estudiante en México, el internet ideal no es el más rápido ni el más barato — es el que mantiene videollamadas estables, descarga tareas sin tardar horas y cabe en el presupuesto. Esta guía te ayuda a elegir sin pagar de más.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Qué necesita un estudiante de internet
 
 | Actividad | Velocidad mínima | Recomendada |
@@ -68,11 +63,11 @@ Para un estudiante en México, el internet ideal no es el más rápido ni el má
 | Netflix en pausas (1080p) | 5 Mbps | 8 Mbps |
 
 El punto crítico es la **subida** para videollamadas. Un plan con buena descarga pero 1-2 Mbps de subida va a hacer que tu cámara se congele en Zoom. Revisa siempre la velocidad de subida antes de contratar.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Opciones económicas para estudiantes
 
 ### Plan básico de fibra ($300-$400 MXN/mes)
@@ -90,14 +85,11 @@ Si tu uso es ligero (tareas, correo, YouTube ocasional), un plan de celular con 
 ### WiFi de la escuela o biblioteca ($0)
 
 Muchas universidades y bibliotecas públicas en México ofrecen WiFi gratuito. Si tu uso intensivo es en la escuela, puedes complementar con un plan básico en casa.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## 3 errores comunes de estudiantes al contratar internet
 
 ### Contratar el plan más barato sin revisar la subida
@@ -111,9 +103,8 @@ Si vives con roomies, partir un plan bueno entre varios sale más barano que un 
 ### Olvidar revisar la cobertura antes de mudarte
 
 Si vas a cambiar de departamento o casa, verifica la cobertura del proveedor en la nueva dirección antes de mudarte. No asumas que si llega en tu colonia actual, también llega en la nueva.
-:::
 
-::: section
+
 ## Checklist para estudiantes
 
 1. Define tu presupuesto mensual real (incluyendo todo, no solo la promo).
@@ -122,9 +113,8 @@ Si vas a cambiar de departamento o casa, verifica la cobertura del proveedor en 
 4. Compara el costo de fibra compartida vs plan individual básico.
 5. Revisa si hay plazo forzoso (¿te vas a mudar en 6 meses?).
 6. Ten un plan de respaldo (datos móviles, WiFi de la escuela).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cuántos Mbps necesito para clases en línea?
@@ -138,17 +128,15 @@ Para emergencias sí, pero no es recomendable para uso regular. El hotspot consu
 ### ¿Vale la pena compartir internet con roomies?
 
 Sí, casi siempre. Un plan de 200 Mbps compartido entre 4 personas sale mejor que 4 planes individuales de 20 Mbps. Solo asegúrense de poner reglas claras de uso.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para ver opciones económicas, checa [internet barato en México](/internet-en-casa/internet-barato-mexico.html).
 - Para entender la velocidad que necesitas, lee [cuánta velocidad de internet necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Si quieres compartir gastos, revisa [planes de internet según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

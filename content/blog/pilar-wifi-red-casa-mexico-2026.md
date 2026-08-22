@@ -322,24 +322,24 @@ Esta guía pilar es el centro del cluster de Wi-Fi y red. Profundiza en cada sub
 
 {{< faq "¿Cómo mejoro la señal del Wi-Fi en mi casa?" >}}
 Mueve el router al **centro de la casa** a 1.5 metros de altura, separa las redes 2.4 GHz y 5 GHz, y cambia a un canal menos saturado. Si la casa tiene más de 80 m² o muros gruesos, considera un sistema mesh. Guía completa: [cómo mejorar el Wi-Fi](/blog/como-mejorar-wifi-en-casa-guia-2026.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Vale la pena comprar un router propio en lugar del del proveedor?" >}}
 Sí, especialmente si tienes más de 10 dispositivos, una casa de más de 80 m² o un plan de más de 200 Mbps. Un router Wi-Fi 6 propio ($1,200–$3,500 MXN) ofrece mejor cobertura, más estabilidad y funciones que el router básico del proveedor no tiene. Revisa [mejores routers 2026](/blog/mejores-routers-2026-mexico-guia.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Mesh o repetidor Wi-Fi?" >}}
 Mesh es mejor para casas grandes (>120 m²) o de dos pisos porque crea una sola red sin cortes al moverte. Los repetidores son más baratos ($300–$600 MXN) pero crean una red separada y reducen la velocidad a la mitad. Para decidir, lee [Wi-Fi mesh para casas grandes](/blog/wifi-mesh-para-casas-grandes-mexico.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Wi-Fi 5 o Wi-Fi 6?" >}}
 Wi-Fi 6 ofrece hasta 40 % más rendimiento real con muchos dispositivos conectados. Si tienes más de 10 dispositivos o un plan de 300+ Mbps, el cambio a Wi-Fi 6 vale la pena. Para casos de uso básico con pocos dispositivos, Wi-Fi 5 aún sirve. Detalle en [Wi-Fi 5 vs Wi-Fi 6](/blog/wifi-5-vs-wifi-6-vale-cambiar-mexico.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo protejo mi Wi-Fi de intrusos?" >}}
 Cambia la contraseña de fábrica del Wi-Fi y del panel de administración, activa WPA2 o WPA3, desactiva WPS, actualiza el firmware y crea una red de invitados para IoT. Estos pasos cierran el 90 % de las vulnerabilidades. Guía: [seguridad Wi-Fi en casa](/blog/seguridad-wifi-casa-mexico.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué se me cae el Wi-Fi de vez en cuando?" >}}
 Causas comunes: firmware desactualizado, sobrecalentamiento del router, interferencia de redes vecinales o saturación del router del operador con muchos dispositivos. Soluciones: actualiza firmware, mejora ventilación, cambia de canal o migra a un router propio/mesh. Guía: [por qué se cae el Wi-Fi](/blog/por-que-se-cae-wifi-casa-mexico.html).
-{{< /faq >}}}
+{{< /faq >}}

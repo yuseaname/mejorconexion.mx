@@ -28,8 +28,6 @@ keywords:
 Para más detalle, consulta [elegir velocidad según número de usuarios](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -40,53 +38,46 @@ Para más detalle, consulta [elegir velocidad según número de usuarios](/blog/
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog/) / Internet para clases en línea
-:::
 
-::: {.hero-grid style="margin-top:14px"}
-::: hero-surface
-::: kicker
+
 Blog
-:::
+
 
 # Mejor internet para clases en línea {#mejor-internet-para-clases-en-línea .page-title}
 
 Para clases en línea lo que manda es la estabilidad: videollamadas sin cortes, audio claro y subida constante. Aquí va qué revisar (plan + Wi‑Fi) para México en 2026.
 
-::: button-row
-[Internet para estudiantes](/internet-en-casa/internet-para-estudiantes-mexico.html){.btn .primary} [Medir tu velocidad real](/guias/como-medir-velocidad-real-internet.html){.btn}
-:::
-:::
+
+[Internet para estudiantes](/internet-en-casa/internet-para-estudiantes-mexico.html) [Medir tu velocidad real](/guias/como-medir-velocidad-real-internet.html)
+
 
 <figure class="hero-media" aria-label="Imagen editorial">
 <img src="/assets/images/homepage/home-guides-student-speedtest.webp" loading="eager" decoding="async" data-fetchpriority="high" width="1200" height="900" alt="Estudiante revisando velocidad de internet para clases en línea" />
 <figcaption>Si el audio se corta, suele ser Wi‑Fi o subida saturada.</figcaption>
 </figure>
-:::
+
 
 ## Tabla de contenidos
 
@@ -98,7 +89,7 @@ Para clases en línea lo que manda es la estabilidad: videollamadas sin cortes, 
 6.  [Preguntas frecuentes](#preguntas-frecuentes)
 7.  [Lecturas relacionadas](#relacionados)
 
-::: {#que-importa .section}
+
 ## Qué importa para clases en línea (de verdad)
 
 Para Zoom/Meet, no necesitas "gigabits". Necesitas una conexión que no tenga picos: latencia estable, subida suficiente y Wi‑Fi confiable.
@@ -106,9 +97,8 @@ Para Zoom/Meet, no necesitas "gigabits". Necesitas una conexión que no tenga pi
 -   **Estabilidad:** evita microcortes que congelan audio/video.
 -   **Subida consistente:** tu cámara y micrófono dependen de esto.
 -   **Wi‑Fi bien puesto:** un router mal ubicado arruina cualquier plan.
-:::
 
-::: {#mbps .section}
+
 ## Cuántos Mbps necesitas
 
   Escenario                                       Descarga mínima   Subida mínima   Plan recomendado
@@ -121,17 +111,15 @@ Para Zoom/Meet, no necesitas "gigabits". Necesitas una conexión que no tenga pi
 Depende de cuántas clases/videollamadas ocurren al mismo tiempo en casa y si hay streaming simultáneo. Para elegir sin sobrepagar, usa la guía: [cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 Si solo hay una clase y navegación ligera, la mayoría de planes decentes funcionan. Si hay 2--3 videollamadas simultáneas y streaming, conviene subir de nivel (o al menos asegurar buena subida).
-:::
 
-::: {#subida .section}
+
 ## La subida: el detalle que suele fallar
 
 Muchos planes se anuncian por descarga (bajada), pero en clases en línea la subida importa mucho. Si alguien está subiendo archivos, respaldos o usando hotspot, puede saturar la subida y causar cortes aunque "sobren Mbps".
 
 Si tu router tiene QoS, prioriza videollamadas. Guía: [red doméstica pro](/internet-en-casa/red-domestica-ethernet-qos-wifi-6.html).
-:::
 
-::: {#wifi .section}
+
 ## Cómo evitar cortes por Wi‑Fi
 
 -   Coloca el router en un punto central, elevado y sin encierro.
@@ -140,9 +128,8 @@ Si tu router tiene QoS, prioriza videollamadas. Guía: [red doméstica pro](/int
 -   Para una laptop fija, Ethernet suele ser lo más estable.
 
 Guía completa: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
 
-::: {#checklist .section}
+
 ## Checklist antes de contratar o ajustar
 
 1.  Haz speed tests en 3 horarios (incluye noche).
@@ -151,9 +138,8 @@ Guía completa: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-c
 4.  Evita saturación en horario de clase (respaldos/descargas).
 
 Si necesitas comparar tecnologías, revisa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html) y [fibra vs inalámbrico](/internet-en-casa/fibra-vs-inalambrico-mexico.html).
-:::
 
-::: {.section .decision-links editorial-links="true"}
+
 **Dónde ver opciones reales:** páginas oficiales con información y condiciones vigentes.
 
 -   [Paquetes de internet Telmex](https://telmex.com/web/hogar/paquetes-de-internet){rel="nofollow noopener" target="_blank"}
@@ -161,9 +147,8 @@ Si necesitas comparar tecnologías, revisa [fibra vs coaxial](/internet-en-casa/
 -   [Internet de Megacable](https://www.megacable.com.mx/servicios/internet){rel="nofollow noopener" target="_blank"}
 
 **Nota sin humo:** disponibilidad y condiciones pueden cambiar.
-:::
 
-::: {#preguntas-frecuentes .section}
+
 ## Preguntas frecuentes
 
 ### ¿Qué es mejor para clases en línea: fibra o coaxial?
@@ -177,41 +162,39 @@ Suele ser Wi‑Fi (señal débil/interferencia) o subida saturada. Prueba por ca
 ### ¿Conviene un mesh para estudiar?
 
 Si hay zonas muertas o muchas paredes, sí. Guía: [Wi‑Fi mesh y cobertura total](/internet-en-casa/wifi-mesh-cobertura-total.html).
-:::
 
-::: {#relacionados .section .callout related-block="" style="margin-top:18px"}
+
 ## Lecturas relacionadas
 
-::: {.grid .two}
-[](/internet-en-casa/internet-para-estudiantes-mexico.html){.card}
+
+[](/internet-en-casa/internet-para-estudiantes-mexico.html)
 
 ### Internet para estudiantes
 
 Opciones y criterios con presupuesto en mente.
 
-[](/guias/como-medir-velocidad-real-internet.html){.card}
+[](/guias/como-medir-velocidad-real-internet.html)
 
 ### Cómo [medir tu velocidad](/guias/como-medir-velocidad-real-internet.html) real
 
 Pruebas para saber si falla el proveedor o el Wi‑Fi.
 
-[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html){.card}
+[](/internet-en-casa/como-mejorar-wifi-casa-mexico.html)
 
 ### Cómo mejorar tu Wi‑Fi
 
 Ubicación, bandas y soluciones de cobertura.
 
-[](/blog/por-que-el-internet-es-lento-a-veces.html){.card}
+[](/blog/por-que-el-internet-es-lento-a-veces.html)
 
 ### Por qué el internet se pone lento
 
 Diagnóstico rápido y causas comunes.
-:::
-:::
+
 
 ------------------------------------------------------------------------
 
-::: meta-row
+
 **Última actualización:** 27 de diciembre de 2025 [Metodología](/metodologia.html)
-:::
-:::
+
+

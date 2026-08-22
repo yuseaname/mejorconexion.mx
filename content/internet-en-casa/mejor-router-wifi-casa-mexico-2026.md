@@ -33,32 +33,27 @@ Para más detalle, consulta [cómo mejorar tu Wi-Fi en casa](/internet-en-casa/c
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Mejor router WiFi
-:::
+
 
 El router que entrega tu proveedor es como el cafe de cortesía del hotel: funciona, pero no es la mejor experiencia. Un router propio puede mejorar tu velocidad Wi-Fi, cobertura y estabilidad — pero solo si sabes cuál elegir y cuándo vale la pena cambiarlo.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## ¿Necesitas cambiar tu router?
 
 | Situación | ¿Cambiar router? |
@@ -71,11 +66,11 @@ El router que entrega tu proveedor es como el cafe de cortesía del hotel: funci
 | El problema es la velocidad por cable | No (es del proveedor) |
 
 Antes de gastar, prueba mover el router, cambiar de canal y separar bandas. Lee [cómo mejorar tu Wi-Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Tabla comparativa: routers recomendados en México
 
 | Tipo | Modelo típico | Precio aprox. MXN | Ventaja clave | Desventaja |
@@ -89,14 +84,11 @@ Antes de gastar, prueba mover el router, cambiar de canal y separar bandas. Lee 
 Ver precios actuales de routers Wi-Fi para casa en [Amazon México](https://www.amazon.com.mx/s?k=router+wifi+casa&tag=litwd-20).
 
 Las marcas con mejor soporte y garantía en México son TP-Link, ASUS, D-Link y Netgear. Busca vendedores oficiales o tiendas reconocidas para no comprar réplicas.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## WiFi 5 vs WiFi 6: ¿vale la pena pagar más?
 
 | Aspecto | WiFi 5 (802.11ac) | WiFi 6 (802.11ax) |
@@ -108,9 +100,8 @@ Las marcas con mejor soporte y garantía en México son TP-Link, ASUS, D-Link y 
 | Tu celular lo soporta | Si es 2019+ | Si es 2020+ (la mayoría) |
 
 Si tienes un celular o laptop fabricado después de 2020 y más de 10 dispositivos en casa, WiFi 6 vale la pena. Si todos tus equipos son viejos o tu casa es pequeña, WiFi 5 basta.
-:::
 
-::: section
+
 ## 3 errores al comprar router en México
 
 ### Comprar el más caro sin saber por qué
@@ -124,9 +115,8 @@ Algunos proveedores (Totalplay, Telmex) necesitan configuración específica (mo
 ### Olvidar configurarlo
 
 Sacar el router de la caja y enchufarlo sin cambiar nombre de red, contraseña y canal es tirar el dinero. Dedica 30 minutos. Lee [cómo ajustar tu router](/blog/ajustes-router-mejorar-velocidad-internet.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Puedo usar router propio con Totalplay o Telmex?
@@ -140,17 +130,15 @@ Si tu casa tiene un piso y menos de 100 m², router individual. Si tiene dos pis
 ### ¿Cada cuánto cambiar de router?
 
 Cada 4-5 años si notas degradación. Los routers no se vuelven obsoletos rápido, pero las actualizaciones de firmware eventualmente paran.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para optimizar tu router actual, checa [cómo ajustar tu router para mejorar la velocidad](/blog/ajustes-router-mejorar-velocidad-internet.html).
 - Para mejorar cobertura, lee [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 - Para elegir entre repetidor, mesh o router, revisa [mejor repetidor WiFi](/internet-en-casa/mejor-repetidor-wifi-mexico-2026.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

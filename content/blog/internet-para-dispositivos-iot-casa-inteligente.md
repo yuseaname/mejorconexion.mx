@@ -25,7 +25,7 @@ image: "/images/cat-proveedores.webp"
 | Termostato inteligente | 1 | <0.1 Mbps | Mínimo |
 | Smart TV / Chromecast | 1-3 | 5-25 Mbps | Streaming no es IoT |
 
-::: section
+
 ## Configuración recomendada para casa inteligente
 
 ### 1. Crea una red de invitados para IoT
@@ -38,7 +38,7 @@ La mayoría de dispositivos IoT solo funcionan en 2.4 GHz (mayor alcance, menor 
 Un router moderno (Wi-Fi 6) maneja mejor 20+ dispositivos simultáneos. Ver [mejores routers](/blog/mejores-routers-2026-mexico-guia.html).
 
 Para más sobre smart home, lee [internet para casa inteligente](/blog/internet-casa-inteligente-mexico-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

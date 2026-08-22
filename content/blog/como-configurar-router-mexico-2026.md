@@ -32,32 +32,27 @@ Para más detalle, consulta [/blog/como-elegir-router-wifi-casa-mexico/](/blog/c
 
 {{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
 Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
 Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
 Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
 Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Configurar router
-:::
+
 
 Configurar tu router es la diferencia entre un internet que "funciona" y uno que de verdad rinde. El 80% de los problemas de velocidad y cobertura se arreglan cambiando la contraseña, el canal, las bandas y la ubicación. Aquí está cómo hacerlo en 20 minutos.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Paso 1: Entrar al panel del router
 
 1. Conecta tu computadora al router (por WiFi o cable).
@@ -70,11 +65,11 @@ Configurar tu router es la diferencia entre un internet que "funciona" y uno que
 4. Ingresa usuario y contraseña (suele ser admin/admin o admin/contraseña impresa en el router).
 
 **Cambia la contraseña de administración inmediatamente** si sigue siendo "admin". Es un riesgo de seguridad.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Paso 2: Cambiar nombre y contraseña del WiFi
 
 Busca la sección "Wireless", "WiFi" o "Red inalámbrica".
@@ -86,14 +81,11 @@ Busca la sección "Wireless", "WiFi" o "Red inalámbrica".
 Si tu router tiene banda dual (2.4 GHz y 5 GHz), pon nombres distintos a cada una para que puedas elegir cuál usar.
 
 Para entender las bandas, lee [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Paso 3: Cambiar el canal WiFi
 
 En la sección "Wireless" busca "Channel" o "Canal".
@@ -106,9 +98,8 @@ En la sección "Wireless" busca "Channel" o "Canal".
 Busca "WiFi Analyzer" en tu celular para ver qué canales usan tus vecinos. Elige el menos saturado.
 
 Si tu router tiene "Auto" en el canal, puede estar cambiando constantemente. Mejor ponlo fijo en el mejor canal.
-:::
 
-::: section
+
 ## Paso 4: Configurar QoS (priorizar tráfico)
 
 QoS (Quality of Service) le dice al router qué tráfico es más importante. Si lo configuras bien, tus videollamadas no se van a congelar cuando alguien abra Netflix.
@@ -120,9 +111,8 @@ QoS (Quality of Service) le dice al router qué tráfico es más importante. Si 
 3. Deprioriza descargas automáticas.
 
 No todos los routers del proveedor tienen QoS. Si el tuyo no lo tiene, considera comprar uno propio. Lee [cómo elegir router WiFi](/internet-en-casa/como-elegir-router-wifi-mexico.html).
-:::
 
-::: section
+
 ## Paso 5: Cambiar DNS (opcional pero útil)
 
 El DNS (Sistema de Nombres de Dominio) es lo que traduce nombres de páginas a direcciones IP. Cambiarlo puede hacer que las páginas abran un poco más rápido.
@@ -135,17 +125,15 @@ El DNS (Sistema de Nombres de Dominio) es lo que traduce nombres de páginas a d
 Busca "DNS" en el panel del router y cambia los valores. Reinicia el router después.
 
 **Nota:** cambiar DNS no aumenta tu velocidad de descarga. Solo hace que las páginas se resuelvan un poco más rápido.
-:::
 
-::: section
+
 ## Paso 6: Actualizar firmware
 
 Busca "Firmware", "Actualización" o "System Update" en el panel. Si hay una versión nueva, instálala. El firmware actualizado mejora la estabilidad y corrige vulnerabilidades de seguridad.
 
 Después de actualizar, reinicia el router y verifica que todo siga funcionando.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Puedo dañar mi router configurándolo mal?
@@ -163,17 +151,15 @@ Sí, siempre. Algunos cambios solo surten efecto después de un reinicio complet
 ### ¿Si tengo Totalplay puedo configurar el router?
 
 Sí, pero Totalplay usa un ONT (no un módem tradicional). El acceso al panel puede ser distinto. Si no encuentras la opción, llama a soporte.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para optimizar a fondo, checa [cómo ajustar tu router para mejorar la velocidad](/blog/ajustes-router-mejorar-velocidad-internet.html).
 - Para arreglar caídas, lee [por qué se cae el WiFi](/blog/por-que-se-cae-wifi-casa-mexico.html).
 - Para elegir router nuevo, revisa [mejor router WiFi para casa](/internet-en-casa/mejor-router-wifi-casa-mexico-2026.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

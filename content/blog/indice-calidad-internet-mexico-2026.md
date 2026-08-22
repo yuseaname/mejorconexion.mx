@@ -23,7 +23,7 @@ type: "research"
 - **Mejor relación precio-velocidad**: Megacable ($3.7/Mbps)
 - **Peor velocidad real vs contratada**: Megacable (62% de entrega)
 
-::: section
+
 ## Metodología
 
 Este estudio combina tres fuentes de datos:
@@ -45,9 +45,8 @@ El ICI se calcula con 5 factores ponderados:
 | Precio por Mbps | 15% | Valor económico |
 
 Puntaje final: 1-10 (10 = excelente, 1 = pésimo)
-:::
 
-::: section
+
 ## Resultados por Proveedor
 
 ### Ranking general ICI 2026
@@ -69,9 +68,8 @@ Puntaje final: 1-10 (10 = excelente, 1 = pésimo)
 5. **Starlink supera al cable**: Sorprendentemente, Starlink tiene mejor ICI que Izzi y Megacable, pero a mayor precio
 
 Para más comparativas, consulta nuestro [ranking de qué internet falla menos](/blog/que-internet-falla-menos-en-mexico-ranking-2026.html).
-:::
 
-::: section
+
 ## Resultados por Ciudad
 
 ### ICI promedio por ciudad (2026)
@@ -98,9 +96,8 @@ La diferencia de calidad entre ciudades grandes y zonas rurales es abrumadora:
 - **Latencia rural**: 55 ms promedio (3x peor)
 
 Esto explica por qué [Starlink](/blog/starlink-mexico-precio-cobertura-2026.html) es tan importante para zonas rurales.
-:::
 
-::: section
+
 ## Velocidad real vs contratada
 
 Este es el dato más revelador: ¿qué porcentaje de tu velocidad contratada recibes realmente?
@@ -115,9 +112,8 @@ Este es el dato más revelador: ¿qué porcentaje de tu velocidad contratada rec
 | Starlink | Standard | 200 | 170 | 85% |
 
 **Conclusión**: Si recibes menos del 80% de tu velocidad contratada consistentemente, tienes base para una [queja ante PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
 
-::: section
+
 ## Análisis de quejas PROFECO
 
 Top 5 motivos de queja por proveedor (2025-2026):
@@ -133,9 +129,8 @@ Top 5 motivos de queja por proveedor (2025-2026):
 **Total de quejas** (2025-2026): Telmex 2,100 | Izzi 1,400 | Megacable 900 | Totalplay 600
 
 Nota: Telmex tiene más quejas absolutas por su mayor número de usuarios, no necesariamente peor servicio proporcional.
-:::
 
-::: section
+
 ## Conclusiones y recomendaciones
 
 1. **Si vives en ciudad grande con cobertura Totalplay**: Es la mejor opción por velocidad, simetría y estabilidad
@@ -149,7 +144,7 @@ Nota: Telmex tiene más quejas absolutas por su mayor número de usuarios, no ne
 - **Antes de contratar**: Verifica qué proveedores llegan a tu código postal y compara con nuestro [ranking de proveedores](/blog/cual-es-el-mejor-internet-en-mexico-2026.html)
 - **Si tienes problemas**: Mide tu velocidad con nuestra [guía de speedtest](/blog/medidor-internet-speedtest-mexico.html) y compara con lo contratado
 - **Para reclamar**: Usa los datos de este estudio como referencia al [quejarte ante PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html)
-:::
+
 
 ## Preguntas Frecuentes
 

@@ -16,10 +16,9 @@ image: "/images/cat-velocidad.webp"
 type: "tool"
 ---
 
-::: container
-::: breadcrumbs
+
 [Inicio](/) / [Herramientas](/herramientas/) / Calculadora de Velocidad
-:::
+
 
 # Calculadora de Velocidad de Internet
 
@@ -139,7 +138,7 @@ function calculateSpeed() {
 }
 </script>
 
-::: section
+
 ## Cómo funciona esta calculadora
 
 Nuestra calculadora usa datos reales de consumo de ancho de banda por actividad:
@@ -156,9 +155,8 @@ Nuestra calculadora usa datos reales de consumo de ancho de banda por actividad:
 La calculadora suma estos valores y añade 25 Mbps base por persona para cubrir navegación general, descargas y headroom.
 
 Para más detalle, consulta nuestra guía de [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html) o el [pilar de velocidad de internet](/blog/pilar-velocidad-internet-mexico-2026.html).
-:::
 
-::: section
+
 ## ¿Por qué importa la velocidad correcta?
 
 Contratar un plan con menos velocidad de la que necesitas resulta en buffering, lag y frustración. Contratar demasiado es tirar dinero. Esta calculadora te ayuda a encontrar el punto exacto.
@@ -170,14 +168,14 @@ Los factores que más impactan tu velocidad necesaria son:
 4. **Trabajo remoto** — videollamadas requieren subida estable
 
 Lee también: [velocidad contratada no me llega](/blog/velocidad-contratada-no-me-llega-mexico.html), [test de velocidad](/guias/como-medir-velocidad-real-internet.html).
-:::
+
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Esta calculadora funciona para empresas?" >}}
 Esta versión está diseñada para hogares. Para negocios, el cálculo es diferente porque hay más dispositivos concurrentes y necesidades de subida mayores. Contacta a un proveedor business.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Incluye la velocidad de subida?" >}}
 La calculadora estima la velocidad de bajada. Para subida, necesitas al menos 1/4 de tu bajada. Si trabajas remoto o subes contenido, busca planes simétricos (misma subida que bajada) como los de Totalplay.
-{{< /faq >}}}
+{{< /faq >}}

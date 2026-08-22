@@ -155,8 +155,6 @@ Si estás listo para contratar, no te dejes llevar solo por el precio. Sigue est
 ------------------------------------------------------------------------
 
 
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -167,7 +165,6 @@ Si estás listo para contratar, no te dejes llevar solo por el precio. Sigue est
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes (FAQ)

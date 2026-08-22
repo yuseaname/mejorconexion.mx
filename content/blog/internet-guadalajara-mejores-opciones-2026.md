@@ -54,32 +54,27 @@ En Guadalajara no existe una respuesta única para elegir proveedor de internet.
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet Guadalajara
-:::
+
 
 Guadalajara es una de las ciudades con mejor cobertura de internet en México. La mayoría de las zonas tienen fibra óptica disponible, lo que da velocidades altas y estables. Pero elegir bien entre Totalplay, Telmex, Izzi y Megacable sigue requiriendo revisar qué llega a tu colonia específica.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Proveedores disponibles en Guadalajara
 
 | Proveedor | Tecnología común | Velocidades | Precio desde |
@@ -92,11 +87,11 @@ Guadalajara es una de las ciudades con mejor cobertura de internet en México. L
 Los precios y la cobertura cambian por colonia — consulta la tarifa vigente directamente en los sitios oficiales de los proveedores.
 
 La cobertura cambia por colonia. Zonas como Providencia, Chapalita y Zapopan tienen fibra de múltiples proveedores. Colonias más alejadas pueden tener menos opciones.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Cómo elegir internet en Guadalajara
 
 ### Para la zona Metropolitana (Zapopan, Tlajomulco, Tlaquepaque)
@@ -112,14 +107,11 @@ Izzi y Megacable tienen cobertura amplia en cable. Si no hay fibra, el cable pue
 Algunas zonas nuevas tienen poca infraestructura. Verifica disponibilidad antes de elegir. El internet 4G fijo puede ser una alternativa.
 
 Para una guía general, lee [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Precios reales en Guadalajara (2026)
 
 | Velocidad | Totalplay | Telmex | Izzi | Megacable |
@@ -129,9 +121,8 @@ Para una guía general, lee [mejor internet en México](/internet-en-casa/mejor-
 | ~1000 Mbps | $899 | $899 | — | — |
 
 Precios aproximados basados en sitios oficiales. Verifica disponibilidad y promociones en tu dirección. El precio después de promoción puede ser mayor.
-:::
 
-::: section
+
 ## Checklist para contratar en Guadalajara
 
 1. Verifica qué llega a tu colonia específica.
@@ -139,9 +130,8 @@ Precios aproximados basados en sitios oficiales. Verifica disponibilidad y promo
 3. Revisa el precio después de promoción.
 4. Confirma si hay plazo forzoso.
 5. Lee [cómo contratar internet paso a paso](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cuál es el mejor internet en Guadalajara?
@@ -155,18 +145,15 @@ La mayoría de la zona metropolitana tiene fibra, pero no todas las colonias. Ve
 ### ¿Megacable o Izzi en Guadalajara?
 
 Ambos ofrecen cable y fibra según la zona. Compara el precio total (incluyendo TV si la quieres) y la estabilidad en tu colonia.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para comparar todos los proveedores, checa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 - Para entender tecnologías, lee [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
 - Si vas a cambiar, revisa [cómo cambiar de proveedor](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
-:::
 
 
-::: section
 ## Preguntas frecuentes adicionales
 
 ### ¿Qué hago si necesito más información?
@@ -180,18 +167,15 @@ Sí. Los criterios son generales para México, pero la disponibilidad específic
 ### ¿Puedo compartir esta guía?
 
 Sí. Esta guía es gratuita y está diseñada para ayudar a mexicanos a tomar mejores decisiones sobre internet y conectividad. Si te sirvió, compártela con quien la necesite.
-:::
 
-::: section
+
 ## Recursos adicionales
 
 Si esta guía te ayudó, revisa también nuestras guías relacionadas en la sección "Sigue aprendiendo". Para preguntas específicas sobre tu zona o proveedor, contacta directamente al proveedor con tu código postal.
 
 Para entender nuestra metodología de comparación, lee cómo [evaluamos proveedores](/metodologia.html).
 
-:::
 
-::: meta-row
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

@@ -29,9 +29,9 @@ keywords:
 
 Para más detalle, consulta [/blog/como-mejorar-wifi-en-casa-guia-2026/](/blog/como-mejorar-wifi-en-casa-guia-2026.html).
 
-::: answer-box
+
 **Tu router puede estar robándote hasta el 60% de la velocidad que ya pagas.** Esta guía es para cualquier persona en México que tiene internet pero siente que no alcanza lo prometido --- especialmente si usas el router que te dio tu proveedor sin configurarlo. En 30 minutos aprenderás a cambiar la ubicación, el canal WiFi y las configuraciones clave para recuperar la velocidad real de tu conexión.
-:::
+
 
 ![Router WiFi moderno con luces indicadoras](/images/ajustes-router-mejorar-velocidad-internet/01-hero.webp){width="1200" height="630" loading="lazy"}
 
@@ -277,8 +277,6 @@ Todos revisan la velocidad de descarga. Pero la de subida importa para:
   Gaming competitivo   200 Mbps   30 Mbps
 
 
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -289,7 +287,6 @@ Todos revisan la velocidad de descarga. Pero la de subida importa para:
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes

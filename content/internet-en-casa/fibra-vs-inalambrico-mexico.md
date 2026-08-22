@@ -31,32 +31,27 @@ Para más detalle, consulta [Starlink vs fibra óptica en México 2026](/interne
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Fibra vs inalámbrico
-:::
+
 
 La fibra óptica manda datos por cable de vidrio. El internet inalámbrico fijo los manda por la red celular (4G/5G). Para uso residencial, la fibra casi siempre es superior — pero el inalámbrico fijo tiene casos donde conviene más.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Tabla comparativa
 
 | Aspecto | Fibra óptica | Inalámbrico fijo (4G/5G) |
@@ -72,11 +67,11 @@ La fibra óptica manda datos por cable de vidrio. El internet inalámbrico fijo 
 Si tienes fibra disponible en tu calle, casi siempre conviene. Si no hay fibra y vives en zona con buena cobertura celular, el inalámbrico fijo es una alternativa real.
 
 Para entender más sobre el inalámbrico fijo, lee [internet inalámbrico fijo en México](/internet-en-casa/internet-inalambrico-fijo-mexico.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Cuándo elegir fibra
 
 - Hay fibra disponible en tu domicilio.
@@ -92,12 +87,8 @@ Para entender más sobre el inalámbrico fijo, lee [internet inalámbrico fijo e
 - Vives en zona rural o semiurbana.
 - Quieres flexibilidad para mudar el servicio.
 - Buscas una conexión de respaldo.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
-::: section
 ## Latencia: la diferencia que más se siente
 
 Para navegación y descarga, ambos sirven. La diferencia se siente en:
@@ -107,9 +98,8 @@ Para navegación y descarga, ambos sirven. La diferencia se siente en:
 - **Trabajo remoto (VPN):** la fibra mantiene la conexión más estable.
 
 Si tu uso principal requiere baja latencia, la fibra es la única opción seria.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿El internet inalámbrico es más lento que la fibra?
@@ -125,19 +115,15 @@ Sí, y es una buena estrategia de respaldo. Usa fibra como conexión principal y
 El 5G puede acercar la velocidad del inalámbrico a la fibra, pero solo si hay antena 5G cerca de tu casa. En México, la cobertura 5G aún es limitada fuera de zonas urbanas principales.
 
 Para entender más comparativas, checa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para entender el inalámbrico fijo, checa [internet inalámbrico fijo en México](/internet-en-casa/internet-inalambrico-fijo-mexico.html).
 - Para comparar con cable coaxial, lee [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
 - Para ver todas las opciones en casa, revisa [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
-:::
 
 
-
-::: section
 ## Veredicto: ¿fibra o inalámbrico fijo?
 
 Si ambos llegan a tu casa, elige fibra. Es más rápida, más estable y con mejor latencia. Si solo llega inalámbrico fijo, es una buena alternativa — verifica la señal antes de contratar y ten expectativas claras sobre velocidad y estabilidad.
@@ -145,9 +131,8 @@ Si ambos llegan a tu casa, elige fibra. Es más rápida, más estable y con mejo
 La pregunta no es cuál tecnología es mejor en abstracto, sino cuál funciona mejor en tu dirección específica. Verifica cobertura, prueba después de instalar y compara el costo total.
 
 Para ver todas las opciones disponibles, revisa [mejor internet en México](/internet-en-casa/mejor-internet-mexico.html).
-:::
 
-::: section
+
 ## Costos comparativos: fibra vs inalámbrico fijo en México
 
 El precio no debería ser el único factor, pero sí importa. Esto es lo que puedes esperar:
@@ -164,9 +149,7 @@ El costo total a 12 meses incluye instalación prorrateada más el mensual. A ve
 **Regla:** no elijas por los primeros $100 MXN de diferencia. La estabilidad y la velocidad de subida de la fibra compensan el costo extra si tu uso lo requiere.
 
 Para comparar proveedores específicos, checa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+

@@ -28,9 +28,9 @@ keywords:
 
 Para más detalle, consulta [/blog/izzi-vs-totalplay-vs-telmex-2026/](/blog/izzi-vs-totalplay-vs-telmex-2026.html).
 
-::: breadcrumbs
+
 [Inicio](/) / [Blog](/blog/)
-:::
+
 
 # izzi vs Totalplay 2026: Comparativa Definitiva de Precios, Velocidad y Cobertura
 
@@ -40,7 +40,7 @@ Para más detalle, consulta [/blog/izzi-vs-totalplay-vs-telmex-2026/](/blog/izzi
 
 # izzi vs Totalplay 2026: Comparativa Definitiva de Precios, Velocidad y Cobertura
 
-![Hero image](images/fiber-optic-glow-vs-coaxial.webp){.hero-image loading="lazy"}
+![Hero image](images/fiber-optic-glow-vs-coaxial.webp)
 
 **izzi o Totalplay: ¿cuál elegir en 2026?** La respuesta directa: si buscas **fibra óptica pura con velocidades simétricas**, **Totalplay gana**. Si prefieres **un paquete económico con TV incluida** y no necesitas subir archivos pesados, **izzi es mejor opción**. En esta comparativa profunda desglosamos precios, velocidades reales, cobertura y opiniones verificadas.
 
@@ -143,8 +143,6 @@ La fibra óptica simétrica de Totalplay simplemente no tiene competencia en el 
 -   No necesitas subir archivos grandes
 
 
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -155,7 +153,6 @@ La fibra óptica simétrica de Totalplay simplemente no tiene competencia en el 
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes

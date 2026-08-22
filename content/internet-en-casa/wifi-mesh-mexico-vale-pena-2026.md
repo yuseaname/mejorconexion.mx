@@ -33,42 +33,37 @@ Para más detalle, consulta [cómo mejorar tu Wi-Fi en casa](/internet-en-casa/c
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / WiFi mesh
-:::
+
 
 Un sistema WiFi mesh es un conjunto de 2 o 3 dispositivos que reparten la señal de internet por toda tu casa de forma inteligente, sin la pérdida de velocidad que causan los repetidores baratos. En México puede costar desde $1,500 MXN, y para casas grandes suele ser la mejor inversión que puedes hacer en tu red.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## ¿Qué es un sistema mesh y cómo funciona?
 
 Un sistema mesh tiene un nodo principal (conectado a tu módem) y uno o más nodos satélite que se comunican entre sí. A diferencia de un repetidor, los nodos mesh crean una red unificada: tu celular se conecta automáticamente al nodo más cercano sin que tengas que cambiar de red.
 
 **La diferencia clave:** un repetidor recibe la señal y la reenvía, dividiendo la velocidad. El mesh usa tecnología de "backhaul" para mantener mejor rendimiento entre nodos.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Mesh vs repetidor vs router individual
 
 | Opción | Precio aprox. MXN | Cobertura | Velocidad | Mejor para |
@@ -80,14 +75,11 @@ Un sistema mesh tiene un nodo principal (conectado a tu módem) y uno o más nod
 | Mesh 3 nodos | $2,000-$4,000 | Muy alta | Buena | Casa de 2 pisos o 150+ m² |
 
 Ver precios actuales de sistemas Wi-Fi Mesh en [Amazon México](https://www.amazon.com.mx/s?k=sistema+wifi+mesh&tag=litwd-20).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## ¿Cuándo vale la pena un mesh?
 
 **Vale la pena si:**
@@ -106,9 +98,8 @@ Ver precios actuales de sistemas Wi-Fi Mesh en [Amazon México](https://www.amaz
 - Tu presupuesto es ajustado.
 
 Antes de comprar mesh, prueba [mejorar tu Wi-Fi gratis](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
 
-::: section
+
 ## Marcas con soporte en México
 
 | Marca | Modelos populares | Garantía | Soporte local |
@@ -119,9 +110,8 @@ Antes de comprar mesh, prueba [mejorar tu Wi-Fi gratis](/internet-en-casa/como-m
 | D-Link (COVR) | COVR-1102, 2202 | 2 años | Sí |
 
 TP-Link Deco suele tener la mejor relación precio-rendimiento en México, con soporte y garantía local confiables.
-:::
 
-::: section
+
 ## 3 errores al comprar mesh
 
 ### Comprar más nodos de los necesarios
@@ -135,9 +125,8 @@ El primer nodo debe estar conectado por cable al módem del proveedor. Si lo pon
 ### No configurar la red mesh
 
 El mesh funciona mejor si lo configuras bien: nombre de red, contraseña, separación de bandas (si tu sistema lo permite) y priorización de dispositivos.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿El mesh mejora la velocidad de internet?
@@ -155,17 +144,15 @@ Si puedes tirar cable Ethernet entre el router y otra zona de la casa, un access
 ### ¿Cada cuánto se actualiza un sistema mesh?
 
 Las actualizaciones de firmware salen automáticamente en la mayoría de los sistemas. No necesitas hacer nada manual.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para mejorar tu Wi-Fi sin gastar, checa [cómo mejorar el Wi-Fi en casa](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
 - Para comparar opciones de extensión, lee [mejor repetidor WiFi](/internet-en-casa/mejor-repetidor-wifi-mexico-2026.html).
 - Para elegir un router individual, revisa [mejor router WiFi para casa](/internet-en-casa/mejor-router-wifi-casa-mexico-2026.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

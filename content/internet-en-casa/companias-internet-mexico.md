@@ -31,32 +31,27 @@ Para más detalle, consulta [Izzi vs Totalplay 2026](/internet-en-casa/izzi-vs-t
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Compañías de internet
-:::
+
 
 Elegir compañía de internet en México por "la marca" no funciona. Lo que importa es qué llega a tu calle, qué tecnología instalan, el costo real y la calidad del soporte. Esta guía te ayuda a comparar con criterios concretos.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Los cuatro proveedores grandes
 
 | Proveedor | Tecnología común | Fortaleza principal | Debilidad |
@@ -69,11 +64,11 @@ Elegir compañía de internet en México por "la marca" no funciona. Lo que impo
 La misma compañía puede dar buen servicio en una colonia y malo en otra. Siempre verifica opiniones de usuarios en tu zona específica.
 
 Para una comparación directa, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Trampas de precios que debes evitar
 
 ### "Desde $199 MXN"
@@ -91,12 +86,8 @@ A veces la instalación es gratis pero te cobran el módem o router mensualmente
 ### "Sin plazo forzoso"
 
 Algunos proveedores dicen "sin plazo" pero incluyen cláusulas que te obligan a devolver el equipo si cancelas antes de cierto tiempo, con costo si no lo haces.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
-::: section
 ## Qué preguntar antes de contratar
 
 1. ¿Qué **tecnología** instalan en mi dirección?
@@ -106,9 +97,8 @@ Algunos proveedores dicen "sin plazo" pero incluyen cláusulas que te obligan a 
 5. ¿Cuál es la **velocidad de subida**?
 6. ¿Incluye **instalación gratis**?
 7. ¿Tienen **soporte** en mi ciudad?
-:::
 
-::: section
+
 ## Alternativas: MVNO y WISP
 
 Además de los cuatro grandes, existen alternativas en México:
@@ -118,9 +108,8 @@ Además de los cuatro grandes, existen alternativas en México:
 - **Programas de conectividad social:** algunos gobiernos estatales ofrecen internet subsidiado. Revisa requisitos.
 
 Estas opciones pueden ser más baratas o la única alternativa en ciertas zonas, pero su calidad varía.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cuál compañía de internet tiene mejor cobertura en México?
@@ -134,19 +123,15 @@ Consulta el sitio de cada proveedor con tu código postal o llama. La disponibil
 ### ¿Puedo cambiar de compañía sin penalización?
 
 Depende de tu contrato. Si no hay plazo forzoso vigente, puedes cancelar sin costo. Lee [cómo cambiar de proveedor](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para comparar los grandes, checa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 - Para opciones económicas, lee [internet barato en México](/internet-en-casa/internet-barato-mexico.html).
 - Si vas a cambiar, revisa [cómo [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html) sin sufrir](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
-:::
 
 
-
-::: section
 ## Veredicto: cómo elegir compañía de internet sin equivocarte
 
 La mejor compañía de internet para ti es la que instala la mejor tecnología disponible en tu calle, entrega estabilidad en horario pico, cobra lo que dice cobrar después de la promoción y responde cuando hay problemas. No elijas por la marca: elige por lo que llega a tu puerta.
@@ -157,9 +142,7 @@ La mejor compañía de internet para ti es la que instala la mejor tecnología d
 4. Mide después de instalar.
 
 Si tu proveedor actual no cumple, lee [cómo cambiar de proveedor sin sufrir](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+

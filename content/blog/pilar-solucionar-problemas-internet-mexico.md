@@ -18,7 +18,7 @@ type: "pillar"
 
 **El 80% de los problemas de internet se solucionan con 3 pasos: 1) Reiniciar el módem (60 segundos apagado), 2) Verificar cables y conexiones, 3) Probar con cable Ethernet en lugar de WiFi. Si después de estos pasos el problema persiste, el 60% de las veces es falla del proveedor — documenta y llama a soporte.**
 
-::: section
+
 ## Diagnóstico: identifica tu problema
 
 | Problema | Posible causa | Solución rápida |
@@ -31,9 +31,8 @@ type: "pillar"
 | Velocidad menor a contratada | Proveedor, WiFi, equipos viejos | [Velocidad contratada no llega](/blog/velocidad-contratada-no-me-llega-mexico.html) |
 | WiFi se desconecta solo | Interferencia, router saturado, firmware | [WiFi se desconecta](/blog/wifi-se-desconecta-y-reconecta-mexico.html) |
 | Módem parpadea rojo | Sin sincronía con proveedor | [Módem parpadea rojo](/blog/modem-parpadea-rojo-solucion.html) |
-:::
 
-::: section
+
 ## Cluster de guías de solución
 
 ### Velocidad y rendimiento
@@ -65,7 +64,7 @@ type: "pillar"
 - [Router vs módem: diferencia](/blog/router-vs-modem-diferencia.html)
 - [Módem parpadea en rojo](/blog/modem-parpadea-rojo-solucion.html)
 - [Powerline: red eléctrica](/blog/powerline-adaptador-red-electrica-mexico.html)
-:::
+
 
 ## Preguntas Frecuentes
 

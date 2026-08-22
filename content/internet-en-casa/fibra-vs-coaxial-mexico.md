@@ -31,32 +31,27 @@ Para más detalle, consulta [fibra vs inalámbrico en México](/internet-en-casa
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Fibra vs coaxial
-:::
+
 
 La fibra óptica transmite datos por pulsos de luz a través de un cable de vidrio. El cable coaxial los transmite por señal eléctrica a través de un cable de cobre. Para internet en casa, la fibra suele ofrecer mayor velocidad, mejor estabilidad y más velocidad de subida — pero la diferencia real depende de qué esté bien instalado en tu calle.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Diferencias clave
 
 | Aspecto | Fibra óptica | Cable coaxial |
@@ -70,11 +65,11 @@ La fibra óptica transmite datos por pulsos de luz a través de un cable de vidr
 | Interferencia electromagnética | Nula | Presente |
 
 Si tienes la opción de fibra en tu calle, casi siempre conviene. El coaxial puede ser aceptable si está bien mantenido, pero la fibra es tecnología superior para uso residencial.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Qué proveedores usan qué tecnología
 
 | Proveedor | Fibra | Cable coaxial | Notas |
@@ -85,14 +80,11 @@ Si tienes la opción de fibra en tu calle, casi siempre conviene. El coaxial pue
 | Megacable | En algunas zonas | Principal | HFC según localidad |
 
 La misma marca puede usar tecnología distinta según la zona. **Pregunta qué tecnología instalarían específicamente en tu domicilio.**
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Cuándo elegir fibra
 
 Elige fibra si:
@@ -111,9 +103,8 @@ El coaxial puede ser suficiente si:
 - Tu uso es navegación, redes sociales y streaming en HD (1080p).
 - No haces videollamadas largas ni juegas online competitivamente.
 - El precio del cable es significativamente menor.
-:::
 
-::: section
+
 ## Cómo saber qué tienes instalado
 
 Si ya tienes internet y no sabes si es fibra o coaxial:
@@ -123,11 +114,11 @@ Si ya tienes internet y no sabes si es fibra o coaxial:
 3. **Mide la velocidad de subida.** Si es casi igual a la de descarga (simétrica), es probable que sea fibra. Si es mucho menor, probablemente es coaxial.
 
 Para entender más sobre la velocidad, lee [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿La fibra es siempre mejor que el cable?
@@ -145,17 +136,15 @@ Los proveedores están migrando a fibra, pero el coaxial seguirá existiendo en 
 ### ¿La fibra necesita mantenimiento?
 
 Casi none. La fibra es más resistente a interferencias y degradación que el cobre. Pero el equipo (router, ONT) sí puede necesitar actualizaciones de firmware.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para entender otras tecnologías, checa [fibra vs inalámbrico fijo](/internet-en-casa/fibra-vs-inalambrico-mexico.html).
 - Para comparar proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 - Si quieres saber [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

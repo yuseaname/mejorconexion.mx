@@ -4,31 +4,27 @@ date: 2026-01-01
 description: ""
 draft: false
 ---
-::: container
-::: breadcrumbs
-[Inicio](/) / Guías
-:::
 
-::: {.hero-grid style="margin-top:14px"}
-::: hero-surface
-::: kicker
+
+[Inicio](/) / Guías
+
+
 Lectura editorial
-:::
+
 
 # Guías {#guías .page-title}
 
 ![Realistic photo illustrating Guías](/images/generated/mejorconexion-mx-guias-index-html-hero-fdd3f4cb.webp){slot-id="fdd3f4cbb6b361f9" decoding="async" fetchpriority="high" height="1024" loading="eager" width="1536"}
 
 Explicaciones sencillas, paso a paso, con ejemplos reales de México. La idea es que entiendas y decidas, no que memorices siglas.
-:::
+
 
 <figure class="hero-media" aria-label="Imagen editorial">
 <img src="/assets/images/homepage/home-guides-student-speedtest.webp" decoding="async" data-fetchpriority="high" loading="eager" width="1200" height="900" alt="Imagen editorial de guía práctica" />
 <figcaption>Guías para decidir sin estrés (y sin marketing).</figcaption>
 </figure>
-:::
 
-::: {.section .hub-intro hub-intro="true"}
+
 El hub de **guías** es el lugar para entender lo esencial sin tecnicismos. Aquí explicamos, paso a paso, conceptos que sí afectan tu experiencia: velocidad real, latencia/ping, Wi‑Fi en casa, consumo de datos y cobertura. Está escrito para México y para situaciones reales de casa, trabajo, escuela y viajes. Si no quieres perderte entre siglas, este es el punto de entrada.
 
 Para usar este contenido, empieza por lo que te está frenando hoy. Si dudas de tu plan, ve a [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html). Si sospechas que el problema es el Wi‑Fi, revisa [cómo medir la velocidad real](/guias/como-medir-velocidad-real-internet.html) y contrasta con [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html). Y si quieres entender la latencia, abre [qué es el ping](/blog/que-es-el-ping.html).
@@ -46,63 +42,61 @@ Estas guías funcionan como base para los hubs de internet en casa, planes móvi
 -   Confirma cobertura real en tu zona si hay cortes frecuentes.
 
 **Nota sin humo:** estas guías no reemplazan pruebas locales, pero sí te dan criterios claros para decidir.
-:::
 
-::: {.grid .two}
-[](/blog/cuanta-velocidad-internet-necesitas-2026.html){.card}
+
+[](/blog/cuanta-velocidad-internet-necesitas-2026.html)
 
 ## ¿Cuántos Mbps necesito? {#cuántos-mbps-necesito style="margin:0 0 8px"}
 
 La guía práctica para casa, trabajo y streaming.
 
-[](/blog/cuanta-velocidad-internet-necesitas-2026.html){.card}
+[](/blog/cuanta-velocidad-internet-necesitas-2026.html)
 
 ## Diferencia entre Mbps y MB {#diferencia-entre-mbps-y-mb style="margin:0 0 8px"}
 
 La confusión más común en velocidad vs tamaño de archivo, aclarada.
 
-[](/guias/como-medir-velocidad-real-internet.html){.card}
+[](/guias/como-medir-velocidad-real-internet.html)
 
 ## Cómo medir tu velocidad real {#cómo-medir-tu-velocidad-real style="margin:0 0 8px"}
 
 Pasos claros para distinguir proveedor vs Wi‑Fi dentro de casa.
 
-[](/guias/que-hacer-si-internet-lento.html){.card}
+[](/guias/que-hacer-si-internet-lento.html)
 
 ## Qué hacer si el internet está lento {#qué-hacer-si-el-internet-está-lento style="margin:0 0 8px"}
 
 Checklist práctico antes de cambiar de plan o proveedor.
-:::
 
-::: {.section style="margin-top:18px"}
+
 ## Lecturas del blog (complemento)
 
-::: {.grid .two}
-[](/blog/que-significa-la-velocidad-de-internet.html){.card}
+
+[](/blog/que-significa-la-velocidad-de-internet.html)
 
 ### Qué significa la velocidad de internet {#qué-significa-la-velocidad-de-internet style="margin:0 0 8px"}
 
 Mbps, bajada vs subida, latencia y velocidad real.
 
-[](/blog/que-es-el-ping.html){.card}
+[](/blog/que-es-el-ping.html)
 
 ### Qué es el ping {#qué-es-el-ping style="margin:0 0 8px"}
 
 Qué mide y cómo leerlo en gaming y videollamadas.
 
-[](/blog/por-que-el-internet-es-lento-a-veces.html){.card}
+[](/blog/por-que-el-internet-es-lento-a-veces.html)
 
 ### Por qué el internet es lento a veces {#por-qué-el-internet-es-lento-a-veces style="margin:0 0 8px"}
 
 Diagnóstico rápido con causas reales.
 
-[](/blog/mejor-internet-para-clases-en-linea.html){.card}
+[](/blog/mejor-internet-para-clases-en-linea.html)
 
 ### Internet para clases en línea {#internet-para-clases-en-línea style="margin:0 0 8px"}
 
 Estabilidad, subida y Wi‑Fi bien puesto.
-:::
+
 
 [Ver más en el blog](/blog/)
-:::
-:::
+
+

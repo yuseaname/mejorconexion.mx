@@ -16,7 +16,7 @@ image: "/images/cat-precios.webp"
 
 **Puedes ahorrar $1,000-$3,000 MXN al año en internet con estos trucos: 1) Negocia con retención cada 12 meses (ahorra $100-$300/mes), 2) Elimina servicios no solicitados ($50-$200/mes), 3) Compra tu propio router en lugar de rentar ($600-$1,200/año), 4) Cambia de proveedor cada 12-24 meses para aprovechar promos de bienvenida.**
 
-::: section
+
 ## Los 10 trucos para ahorrar
 
 ### 1. Llama a retención (ahorra $100-$300/mes)
@@ -50,7 +50,7 @@ Si no recibes lo contratado, el proveedor debe compensarte o reducir tu plan (y 
 Si ya tienes celular con Telcel, el internet de Telcel Hogar puede tener descuento por bundle.
 
 Para más, lee [cómo leer tu recibo de internet](/blog/como-leer-recibo-internet-mexico.html) y [internet barato](/blog/internet-barato-mexico-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

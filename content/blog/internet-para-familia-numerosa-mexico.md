@@ -23,7 +23,7 @@ image: "/images/cat-proveedores.webp"
 | 6+ personas | 500+ Mbps | Totalplay 500 Mbps | $699/mes |
 | Familia + home office | 500+ Mbps simétrico | Totalplay 500 simétrico | $699/mes |
 
-::: section
+
 ## Cuántos dispositivos soporta cada velocidad
 
 | Mbps | Dispositivos simultáneos | Actividades |
@@ -35,9 +35,8 @@ image: "/images/cat-proveedores.webp"
 | 1 Gbps | 40+ | Todo lo anterior sin límites |
 
 Para calcular exactamente, usa nuestra [calculadora de velocidad](/herramientas/calculadora-velocidad-internet.html).
-:::
 
-::: section
+
 ## Optimiza tu red para familia grande
 
 ### 1. Invierte en un buen router
@@ -54,7 +53,7 @@ Conecta bombillas inteligentes, cámaras y electrodomésticos a la [red de invit
 
 ### 5. Cable Ethernet para equipos críticos
 PCs de gaming, consolas y TV de streaming: conéctalos por cable. Ver [WiFi vs Ethernet](/blog/wifi-vs-ethernet-para-jugar.html).
-:::
+
 
 ## Preguntas Frecuentes
 

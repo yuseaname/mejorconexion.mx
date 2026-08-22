@@ -27,7 +27,7 @@ image: "/images/cat-proveedores.webp"
 
 El acceso a internet es cada vez más un derecho básico, no un lujo. Sin internet, no puedes hacer trámites gubernamentales en línea, buscar empleo, estudiar a distancia ni acceder a servicios de salud digital. El gobierno mexicano opera varios programas para reducir la brecha digital, pero la realidad es que la calidad y disponibilidad varían enormemente. Esta guía explica qué existe realmente, cómo acceder y qué limitaciones tienen estos programas.
 
-::: section
+
 ## Programas de internet subsidiado en México
 
 ### CFE Telecomunicaciones (Internet para Todos)
@@ -92,9 +92,8 @@ El programa de conectividad escolar busca que todas las escuelas públicas tenga
 - **Redes Comunitarias**: Proyectos de telecomunicación comunitaria en zonas indígenas y rurales
 - **Puntos Digitales**: Centros con computadoras e internet en zonas marginadas
 - **Programa de Inclusión Digital**: Capacitación y acceso en centros comunitarios
-:::
 
-::: section
+
 ## ¿Vale la pena el internet del gobierno?
 
 **Depende de tu situación**:
@@ -131,9 +130,8 @@ Vive en casa de sus padres, presupuesto muy ajustado. Necesita internet para cla
 
 **Caso 3: Trabajador remoto en CDMX**
 Necesita videollamadas estables y subida de archivos. El internet del gobierno no es suficiente: necesita Totalplay 200+ Mbps simétrico. El ahorro no compensa la pérdida de productividad.
-:::
 
-::: section
+
 ## Redes Comunitarias y proyectos locales
 
 Más allá de los programas federales, existen iniciativas locales y comunitarias que llevan internet a zonas marginadas:
@@ -174,9 +172,8 @@ Algunos estados tienen sus propios programas de conectividad:
 - **Jalisco**: Programa de expansión digital
 
 Estos programas varían por administración y no tienen la consistencia de los programas federales.
-:::
 
-::: section
+
 ## El futuro del internet gubernamental en México
 
 El gobierno mexicano ha anunciado varias iniciativas para expandir la conectividad:
@@ -188,7 +185,7 @@ El gobierno mexicano ha anunciado varias iniciativas para expandir la conectivid
 5. **Espectro para operadores pequeños**: Reserva de frecuencias para operadores regionales
 
 **Realidad vs promesas**: Los anuncios son ambiciosos pero la implementación es lenta. La burocracia, la falta de presupuesto y los cambios políticos ralentizan el avance. Si necesitas internet de calidad ahora mismo, no esperes a que llegue un programa gubernamental a tu zona: explora opciones comerciales.
-:::
+
 
 ## Preguntas Frecuentes
 

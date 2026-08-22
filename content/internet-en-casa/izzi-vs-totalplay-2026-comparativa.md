@@ -26,10 +26,10 @@ En 2026, **Izzi** arranca en $400 MXN/mes (100 Mbps) con mayor cobertura en zona
 - Verifica con tu **CP** en ambos sitios y compara quejas ante PROFECO antes de firmar a 12 o 18 meses.
 
 Para más detalle, consulta [Megacable vs Telmex: cómo comparar](/internet-en-casa/megacable-vs-telmex-comparativa.html).
-::: container
-::: breadcrumbs
+
+
 [Inicio](/) / [Internet en casa](/internet-en-casa/) / Izzi vs Totalplay 2026
-:::
+
 
 # Izzi vs Totalplay 2026: Comparativa Completa de Precios, Velocidad y Contratos
 
@@ -145,8 +145,6 @@ Para que tengas todo en un solo lugar y puedas tomar una decisión rápida, hemo
   **Mejor Para\...**         Budget ajustado, TV en vivo    Gaming, Home Office, Estabilidad
 
 
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -157,7 +155,6 @@ Para que tengas todo en un solo lugar y puedas tomar una decisión rápida, hemo
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
@@ -198,7 +195,7 @@ Antes de firmar, verifica la cobertura en tu código postal exacto y habla con t
 
 ------------------------------------------------------------------------
 
-::: meta-row
+
 **Última actualización:** 15 de marzo de 2026 • [Metodología](/metodologia.html) • [Ciudades](/ciudades/)
-:::
-:::
+
+

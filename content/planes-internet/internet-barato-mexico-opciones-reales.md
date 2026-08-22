@@ -39,9 +39,6 @@ Buscar internet barato no tiene por qué ser un volado. Esta guía te ayuda a pa
 11. [Estado del contenido](#status)
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -52,29 +49,27 @@ Buscar internet barato no tiene por qué ser un volado. Esta guía te ayuda a pa
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
 Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
 Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
 Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
 Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: {#significa .section}
 ## Qué significa "barato" en internet
 
 "Barato" no es solo el precio mensual. En internet también importa:
@@ -84,9 +79,8 @@ Conecta tu computadora por cable Ethernet directo al router y corre una prueba e
 -   **Contrato claro:** que el precio no cambie de golpe.
 
 Una conexión barata pero inestable sale cara en tiempo y frustración. Por eso el objetivo real es **mejor relación costo‑beneficio**.
-:::
 
-::: {#oferta-sana .section}
+
 ## Señales de una oferta sana
 
 Estas señales te ayudan a detectar ofertas que sí valen la pena:
@@ -98,9 +92,8 @@ Estas señales te ayudan a detectar ofertas que sí valen la pena:
 -   Te explican cómo queda el costo total anual.
 
 Si algo suena demasiado bueno, revisa la letra chica.
-:::
 
-::: {#costos-ocultos .section}
+
 ## Costos ocultos que debes revisar
 
 Los costos ocultos son la razón por la que "barato" termina saliendo caro. Revisa:
@@ -111,9 +104,8 @@ Los costos ocultos son la razón por la que "barato" termina saliendo caro. Revi
 -   **Reubicación:** si cambias el módem de lugar.
 
 Un costo oculto no siempre es "malo", pero debe estar claro desde el inicio.
-:::
 
-::: {#opciones .section}
+
 ## Opciones realistas según tu uso
 
 Estas categorías te ayudan a ubicarte sin caer en promesas raras.
@@ -131,9 +123,8 @@ Streaming HD, videollamadas frecuentes y varios dispositivos. Necesitas estabili
 Gaming, 4K, varios usuarios simultáneos. Aquí "barato" suele salir caro si el plan no alcanza.
 
 Si tu hogar tiene varios usuarios, revisa: [plan según personas](/planes-internet/plan-internet-casa-segun-personas-mexico.html).
-:::
 
-::: {#comparar .section}
+
 ## Cómo comparar dos planes sin perderte
 
 Haz esta comparación simple:
@@ -144,9 +135,8 @@ Haz esta comparación simple:
 4.  Calidad de instalación y soporte.
 
 Para comparar proveedores con lógica, consulta: [comparativa por uso real](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-:::
 
-::: {#negociar .section}
+
 ## Cómo ahorrar sin bajar de calidad
 
 En muchos casos puedes ahorrar sin cambiar de proveedor ni bajar a un plan insuficiente. Algunas ideas útiles:
@@ -156,9 +146,8 @@ En muchos casos puedes ahorrar sin cambiar de proveedor ni bajar a un plan insuf
 -   **Elige bien el tamaño del plan:** si tu uso es básico, no pagues por un plan intenso.
 
 Si quieres mejorar tu red interna sin gastar de más: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
 
-::: {#planes-sin-contrato .section}
+
 ## ¿Plan sin contrato o con contrato?
 
 Un plan sin contrato puede parecer ideal por flexibilidad, pero a veces es más caro en el largo plazo. En cambio, un plan con contrato suele tener mejor precio, pero implica permanencia.
@@ -166,9 +155,8 @@ Un plan sin contrato puede parecer ideal por flexibilidad, pero a veces es más 
 Si sabes que te quedarás en tu domicilio por un año, un contrato puede darte mejor relación costo‑beneficio. Si estás en transición (mudanza o renta temporal), lo flexible puede convenir más.
 
 Guía relacionada: [internet sin contrato en México](/internet-en-casa/internet-sin-contrato-mexico.html).
-:::
 
-::: {#segmentos .section}
+
 ## Internet barato por perfil de usuario
 
 ### Estudiantes
@@ -186,9 +174,8 @@ Más detalles: [red estable para home office](/blog/red-estable-home-office-mexi
 ### Familias con presupuesto ajustado
 
 En hogares con varios usuarios, un plan demasiado barato se queda corto. Lo recomendable es balancear precio con estabilidad, aunque el costo mensual sea un poco mayor.
-:::
 
-::: {#casos-reales .section}
+
 ## Casos reales (ejemplos prácticos)
 
 **Caso 1:** pareja con uso básico y streaming HD. Un plan económico y estable fue suficiente, pero mejoraron el router para evitar cortes.
@@ -196,18 +183,16 @@ En hogares con varios usuarios, un plan demasiado barato se queda corto. Lo reco
 **Caso 2:** familia con 4 personas. Eligieron un plan barato y se saturaba por la noche. Cambiaron a un plan medio y mejoró la estabilidad sin subir demasiado el costo.
 
 **Caso 3:** estudiante con presupuesto limitado. Eligió un plan pequeño y usó datos móviles como respaldo para clases importantes.
-:::
 
-::: {#negociacion-checklist .section}
+
 ## Checklist de negociación y ahorro
 
 -   Pregunta por promociones para clientes nuevos y para renovaciones.
 -   Revisa si hay descuentos por pago puntual.
 -   Solicita claridad sobre el costo total anual.
 -   Confirma si puedes cambiar de plan sin penalización.
-:::
 
-::: {#downgrade .section}
+
 ## Cómo bajar de plan sin quedarte corto
 
 Si tu plan actual es caro, puedes bajar de plan con seguridad siguiendo estos pasos:
@@ -217,9 +202,8 @@ Si tu plan actual es caro, puedes bajar de plan con seguridad siguiendo estos pa
 3.  Si todo funciona bien con un margen, entonces bajar de plan es viable.
 
 Si tienes dudas, revisa: [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
-:::
 
-::: {#servicio-cliente .section}
+
 ## Servicio al cliente: un costo oculto en el tiempo
 
 Cuando el internet falla, el soporte importa. Un plan barato con soporte lento puede costarte horas de trabajo o clases perdidas. Revisa tiempos de atención en tu zona y si hay soporte técnico local.
@@ -227,17 +211,15 @@ Cuando el internet falla, el soporte importa. Un plan barato con soporte lento p
 Si tu zona tiene fallas frecuentes, prioriza estabilidad y soporte aunque el precio suba un poco.
 
 Un buen soporte puede ahorrar más que cualquier descuento mensual. A veces la diferencia entre una semana con problemas y un día con solución está en ese detalle.
-:::
 
-::: {#compartir .section}
+
 ## Si compartes internet con vecinos o familia
 
 Compartir internet reduce costos, pero también aumenta el uso simultáneo. Si varias casas comparten el mismo plan, la estabilidad se vuelve crítica y la experiencia puede bajar en horario pico.
 
 En esos casos, conviene un plan con mejor subida y un Wi‑Fi bien configurado para evitar saturación.
-:::
 
-::: {#verificacion-previa .section}
+
 ## Verificación previa: antes de firmar
 
 Si quieres evitar sorpresas, haz esta verificación previa. No necesita herramientas complicadas, solo tiempo y claridad.
@@ -249,9 +231,8 @@ Si quieres evitar sorpresas, haz esta verificación previa. No necesita herramie
 5.  **Consulta tiempos de soporte:** pregunta cuánto tardan en visitar tu domicilio.
 
 Esta lista te protege de los costos ocultos más comunes.
-:::
 
-::: {#cambios-plan .section}
+
 ## Cómo ajustar tu plan sin perder estabilidad
 
 Si ya tienes internet y quieres pagar menos, lo mejor es ajustar con calma:
@@ -261,9 +242,8 @@ Si ya tienes internet y quieres pagar menos, lo mejor es ajustar con calma:
 -   Baja de plan solo si tu consumo está por debajo del rango recomendado.
 
 Si después de bajar de plan notas cortes, considera volver al plan anterior o reforzar el Wi‑Fi. Muchas veces el problema no es la velocidad, sino la cobertura.
-:::
 
-::: {#router-barato .section}
+
 ## El router en planes baratos: cómo no perder rendimiento
 
 En planes económicos, el router incluido suele ser básico. Eso no es malo, pero puede limitar la cobertura en casas grandes o con muchas paredes.
@@ -275,9 +255,8 @@ Si notas zonas muertas, considera estas mejoras simples:
 -   Si tu casa es grande, usa un repetidor o sistema mesh básico.
 
 Estas mejoras suelen costar menos que subir de plan y dan resultados visibles. Guía relacionada: [cómo mejorar tu Wi‑Fi](/internet-en-casa/como-mejorar-wifi-casa-mexico.html).
-:::
 
-::: {#estabilidad-real .section}
+
 ## Señales de estabilidad real
 
 Un plan barato puede funcionar bien si cumple con estabilidad básica. Estas señales te ayudan a identificarlo:
@@ -291,9 +270,8 @@ Si la conexión falla justo en horario pico o hay cortes diarios, el ahorro no v
 Cuando el servicio es estable, incluso un plan modesto se siente "rápido" para el uso diario. La estabilidad hace que las tareas pequeñas (mensajes, banca, compras) fluyan sin frustración, y eso es lo que más se nota en la vida real.
 
 Si no puedes mantener una videollamada de 20 minutos sin cortes, el plan es insuficiente para tu uso.
-:::
 
-::: {#respaldo .section}
+
 ## Alternativas de respaldo
 
 Un respaldo puede salvarte si el internet fijo falla. Opciones comunes:
@@ -302,9 +280,8 @@ Un respaldo puede salvarte si el internet fijo falla. Opciones comunes:
 -   **Segundo plan ligero:** un plan básico para respaldo.
 
 Para estimar datos, revisa: [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
-:::
 
-::: {#errores .section}
+
 ## Errores comunes al buscar lo más barato
 
 -   Elegir solo por precio sin revisar estabilidad.
@@ -313,9 +290,8 @@ Para estimar datos, revisa: [cuántos GB necesitas al mes](/blog/cuantos-gb-nece
 -   Firmar sin leer la letra chica del contrato.
 
 Si tu internet se vuelve lento, revisa causas reales: [por qué el internet es lento a veces](/blog/por-que-el-internet-es-lento-a-veces.html).
-:::
 
-::: {#checklist .section}
+
 ## Checklist para contratar sin sorpresas
 
 1.  Confirma el precio final después de promoción.
@@ -325,9 +301,8 @@ Si tu internet se vuelve lento, revisa causas reales: [por qué el internet es l
 5.  Pregunta por costos de instalación y equipo.
 
 Si quieres una guía más general para elegir, revisa: [mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html).
-:::
 
-::: {#tecnologias .section}
+
 ## Tipos de internet barato por tecnología
 
 No todo internet barato es igual. La tecnología cambia la estabilidad y el precio real.
@@ -337,21 +312,18 @@ No todo internet barato es igual. La tecnología cambia la estabilidad y el prec
 -   **Inalámbrico fijo:** útil en zonas sin cableado, pero más variable.
 
 Para entender diferencias, revisa: [fibra óptica vs cable](/blog/fibra-optica-vs-cable-mexico.html).
-:::
 
-::: {#tabla .section}
+
 ## Tabla simple de costo‑beneficio
 
-::: {style="overflow:auto"}
+
   Escenario     Qué buscar                    Qué evitar
   ------------- ----------------------------- ---------------------------------------
   Uso básico    Estabilidad y precio claro    Promos confusas
   Uso medio     Subida razonable              Planes sin subida especificada
   Uso intenso   Latencia baja y estabilidad   Planes muy baratos con baja capacidad
-:::
-:::
 
-::: {#alertas .section}
+
 ## Señales de marketing engañoso
 
 Hay frases que suenan bien pero no garantizan nada. Ojo con:
@@ -361,9 +333,8 @@ Hay frases que suenan bien pero no garantizan nada. Ojo con:
 -   Contratos con penalizaciones poco transparentes.
 
 Si algo no está claro, pregunta antes de firmar.
-:::
 
-::: {#medicion .section}
+
 ## Cómo medir si un plan barato sí te alcanza
 
 Haz pruebas reales antes de cambiar de plan:
@@ -373,9 +344,8 @@ Haz pruebas reales antes de cambiar de plan:
 3.  Verifica la subida con una videollamada larga.
 
 Guía paso a paso: [cómo [medir tu velocidad](/guias/como-medir-velocidad-real-internet.html) real](/guias/como-medir-velocidad-real-internet.html).
-:::
 
-::: {#glosario .section}
+
 ## Glosario rápido
 
 -   **Mbps:** velocidad de transferencia.
@@ -383,9 +353,8 @@ Guía paso a paso: [cómo [medir tu velocidad](/guias/como-medir-velocidad-real-
 -   **Latencia:** tiempo de respuesta.
 -   **Jitter:** variación del tiempo de respuesta.
 -   **Horario pico:** horas con mayor saturación.
-:::
 
-::: {#faq .section}
+
 ## Preguntas frecuentes
 
 ### ¿El internet más barato siempre es malo?
@@ -411,6 +380,5 @@ Sí, si tu uso real es menor de lo que creías. Primero mide tu consumo y revisa
 ### ¿Qué hago si el plan barato se siente lento?
 
 Revisa tu Wi‑Fi y la instalación antes de cambiar de proveedor.
-:::
 
-:::
+

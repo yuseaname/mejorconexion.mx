@@ -35,32 +35,27 @@ Para más detalle, consulta nuestra comparativa de [Izzi vs Totalplay](/blog/izz
 
 {{< faq "¿Totalplay es fibra óptica?" >}}
 Sí, en la mayoría de sus zonas. Totalplay instala fibra directa al hogar (FTTH), la mejor tecnología disponible en México. Esto significa mejor velocidad de subida, menor latencia y más estabilidad que el cable coaxial.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo usar mi propio router con Totalplay?" >}}
 Sí. Pon el ONT de Totalplay en modo bridge y conecta tu router. Lee [cómo elegir router WiFi](/internet-en-casa/como-elegir-router-wifi-mexico.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Totalplay o Telmex?" >}}
 Donde ambos tienen fibra, Totalplay suele tener mejor velocidad de subida y estabilidad. Pero Telmex tiene mayor cobertura. Compara en [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Totalplay sirve para gaming?" >}}
 Sí, muy bien. La fibra de Totalplay tiene baja latencia (5-20 ms), ideal para gaming. Conecta tu consola por cable Ethernet para máxima estabilidad. Lee [internet para jugar online](/internet-en-casa/internet-para-jugar-online-mexico.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet Totalplay
-:::
+
 
 Totalplay es el proveedor de internet con la mejor tecnología de fibra óptica en México. Su modelo de fibra directa al hogar (FTTH) suele dar mejor estabilidad, velocidad de subida y latencia que el cable coaxial de competidores como Izzi y Megacable. Aquí está qué ofrecen, qué cuesta y qué revisar antes de contratar.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Planes de Totalplay (2026)
 
 Los precios a continuación son aproximados y basados en información pública y reportes de usuarios. Los precios promocionales suben después de 6-12 meses.
@@ -96,11 +91,11 @@ Los precios cambian constantemente — consulta la tarifa vigente directamente c
 - **Router Wi-Fi:** Totalplay entrega un router combo (ONT + router). Suele ser marca Huawei o ZTE.
 - **Cableado:** la instalación incluye el cableado de fibra desde la calle hasta el ONT dentro de tu casa.
 - **Configuración:** el técnico configura el Wi-Fi y verifica la velocidad por cable.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Ventajas de Totalplay
 
 - **Fibra óptica directa (FTTH):** mejor tecnología disponible en México. La fibra llega directamente a tu casa sin pasar por coaxial.
@@ -121,14 +116,11 @@ Los precios cambian constantemente — consulta la tarifa vigente directamente c
 - **No llega a zonas rurales** ni semiurbanas fuera de su área de cobertura.
 
 Para comparar, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Totalplay vs otros proveedores: comparación completa
 
 | Aspecto | Totalplay | Telmex Infinitum | Izzi | Megacable |
@@ -147,9 +139,8 @@ Para comparar, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi
 **Veredicto:** Totalplay suele ganar en estabilidad, velocidad de subida y latencia donde llega. Pero su cobertura es la más limitada de los cuatro grandes. Si tienes cobertura de Totalplay y valoras la calidad de conexión, casi siempre es la mejor opción.
 
 Para entender por qué la fibra es mejor, lee [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
-:::
 
-::: section
+
 ## Checklist antes de contratar Totalplay
 
 Antes de firmar con Totalplay, verifica estos puntos:
@@ -164,9 +155,8 @@ Antes de firmar con Totalplay, verifica estos puntos:
 8. **Pregunta por la instalación**: ¿tiene costo? ¿en cuántos días?
 9. **Pide todo por escrito** (precio, plazo, servicios incluidos).
 10. Lee [cómo contratar internet paso a paso](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
-:::
 
-::: section
+
 ## Cómo quejarse de Totalplay si hay problemas
 
 Si el servicio de Totalplay no cumple lo contratado:
@@ -183,9 +173,8 @@ Si el servicio de Totalplay no cumple lo contratado:
 - App: Totalplay (iOS y Android)
 - Chat en línea: totalplay.com.mx
 - Redes sociales: @TotalplayMex en Twitter/X
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Totalplay es fibra óptica?
@@ -216,18 +205,15 @@ Depende del contrato. Si hay plazo forzoso (12-24 meses), cancelar antes genera 
 
 Algunos paquetes promocionales incluyen Netflix por unos meses (3-6 meses). Revisa las condiciones y qué pasa después de la promoción. El bundle Totalplay Max incluye Netflix y Disney+ en algunos planes.
 
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
 ## Sigue aprendiendo
 
 - Para comparar todos los proveedores, checa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 - Para entender las tecnologías, lee [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
 - Si no sabes [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html), revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Para entender tu recibo, lee [cómo leer tu recibo de internet](/blog/como-leer-recibo-internet-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: [Totalplay](https://www.totalplay.com.mx){rel="nofollow noopener" target="_blank"}
-:::
-:::
+
+

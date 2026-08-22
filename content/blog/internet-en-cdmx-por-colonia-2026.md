@@ -132,7 +132,6 @@ Antes de contratar, busca quejas de la colonia en PROFECO o redes sociales. Algu
 La mayoría de proveedores ofrece promociones de bienvenida (6-12 meses a precio reducido). Llama y negocia antes de firmar. Para más tips, lee [cómo contratar internet en México](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
 
 
-
 ## Internet en edificios y departamentos en CDMX
 
 Si vives en un edificio o condominio en CDMX, hay consideraciones especiales. Muchos edificios tienen acuerdos exclusivos con un proveedor, lo que limita tus opciones. Verifica con la administración del edificio qué proveedores están permitidos antes de contratar. En edificios nuevos, es común que tengan pre-instalación de fibra de Totalplay o Telmex. En edificios más antiguos, la opción puede limitarse a Telmex con cobre o Izzi por coaxial.

@@ -33,32 +33,27 @@ Para más detalle, consulta [comparar planes prepago vs postpago](/blog/cuanta-v
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Planes móviles](/planes-moviles.html) / Mejores planes móviles
-:::
+
 
 Elegir un plan móvil en México parece simple hasta que te das cuenta que cada proveedor suma "beneficios" que no necesitas. Aquí está cómo elegir con datos reales: cobertura en tu zona, GB que de verdad vas a usar, hotspot, roaming a EUA y Canadá, y cuándo conviene más el prepago.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Prepago vs pospago: cuál te conviene
 
 | Aspecto | Prepago | Pospago (renta) |
@@ -71,11 +66,11 @@ Elegir un plan móvil en México parece simple hasta que te das cuenta que cada 
 | Mejor para | Uso ligero o variable | Uso constante y alto |
 
 **Regla práctica:** si gastas menos de $200 MXN al mes en recargas, prepago. Si siempre te quedas sin datos antes de fin de mes, pospago.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Los tres grandes: Telcel, AT&T y Movistar
 
 ### Telcel
@@ -105,14 +100,11 @@ La tercera opción, a menudo con precios competitivos y promociones agresivas.
 Los precios y la cobertura cambian constantemente — consulta la tarifa vigente directamente con [Movistar](https://www.movistar.com.mx).
 
 Para una comparación más profunda entre los tres, checa [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Cuántos GB necesitas de verdad
 
 | Uso | GB por mes |
@@ -124,9 +116,8 @@ Para una comparación más profunda entre los tres, checa [Telcel vs AT&T vs Mov
 | Uso intensivo (4K, descargas, hotspot a otros) | 50+ |
 
 Si no sabes cuánto consumes, checa en los ajustes de tu celular "uso de datos móviles" antes de contratar.
-:::
 
-::: section
+
 ## Checklist para elegir tu plan móvil
 
 1. **Verifica cobertura** en las zonas donde pasas más tiempo (casa, trabajo, escuela).
@@ -136,11 +127,11 @@ Si no sabes cuánto consumes, checa en los ajustes de tu celular "uso de datos m
 5. **Revisa el roaming** si viajas a EUA o Canadá.
 6. **Pregunta por el plazo forzoso** y la penalización por cancelar antes de firmar.
 7. **Checa si incluye beneficios reales** (streaming, música) que de verdad vas a usar.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## 3 errores comunes al elegir plan móvil
 
 ### Contratar por los GB sin revisar cobertura
@@ -154,9 +145,8 @@ Algunos planes incluyen Netflix, Spotify o almacenamiento en la nube que ya paga
 ### No revisar el costo total del pospago
 
 El precio de promoción no es el precio real. Pregunta cuánto pagarás a partir del mes 4 o 6, e incluye el costo del equipo si vas con plan de renta.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cuál es el plan móvil más barato en México?
@@ -174,9 +164,8 @@ Sí. Marcas como Unefón, Virgin Mobile o altán usan la red de los grandes y pu
 ### ¿El 5G cambia algo en mi plan?
 
 Solo si tu celular soporta 5G y hay cobertura 5G en tu zona. Para la mayoría de los usuarios, 4G LTE es suficiente.
-:::
 
-::: section
+
 ## Veredicto: cómo elegir sin equivocarte
 
 No hay un "mejor plan" universal. El mejor plan para ti es el que:
@@ -186,20 +175,15 @@ No hay un "mejor plan" universal. El mejor plan para ti es el que:
 - cuesta lo que dice costar **después de la promoción**.
 
 Empieza por verificar cobertura y consumo, luego compara. Para la comparación completa entre Telcel, AT&T y Movistar, lee [nuestra guía detallada](/planes-moviles/telcel-vs-att-vs-movistar.html).
-:::
 
-::: {.ad-slot ad-slot="before-faq"}
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
 ## Sigue aprendiendo
 
 - Para comparar los tres grandes en detalle, checa [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar.html).
 - Si no sabes cuántos datos necesitas, revisa [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
 - Si tu internet en casa también es lento, lee [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: [sitios oficiales de Telcel](https://www.telcel.com/personas/planes-de-renta){rel="nofollow noopener" target="_blank"}, [AT&T](https://www.att.com.mx){rel="nofollow noopener" target="_blank"}, [Movistar](https://www.movistar.com.mx){rel="nofollow noopener" target="_blank"}
-:::
-:::
+
+

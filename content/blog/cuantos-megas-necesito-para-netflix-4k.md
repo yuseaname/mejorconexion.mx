@@ -31,7 +31,7 @@ Netflix es la aplicación que más ancho de banda consume en la mayoría de los 
 
 Para más sobre streaming, lee [internet para Netflix](/blog/internet-para-netflix-mexico-2026.html) y [velocidad para streaming 4K](/blog/velocidad-de-internet-necesaria-para-streaming-4k-en-méxico.html).
 
-::: section
+
 ## Requisitos oficiales de Netflix vs realidad
 
 Netflix publica requisitos mínimos, pero la realidad es que necesitas más para una experiencia sin problemas:
@@ -66,9 +66,8 @@ Si Netflix se pausa para cargar o reduce calidad automáticamente, las causas so
 5. **Mide en horas pico (8-10 PM)**: Si la velocidad cae, es saturación del proveedor
 
 **Solución rápida**: Conecta tu TV por cable Ethernet al router. El WiFi siempre pierde velocidad con distancia; el cable elimina este problema. Lee [WiFi vs Ethernet](/blog/wifi-vs-ethernet-para-jugar.html) (misma lógica aplica para streaming).
-:::
 
-::: section
+
 ## Qué plan de internet contratar para Netflix
 
 Según tu patrón de uso de Netflix:
@@ -90,9 +89,8 @@ Según tu patrón de uso de Netflix:
 | Megacable | 200 Mbps | 200/10 | $399 | Económico pero coaxial |
 
 **Nota**: El coaxial de Izzi y Megacable puede sufrir saturación en horas pico (19-23h), justo cuando más gente ve Netflix. Si notas buffering en esas horas, la fibra de Totalplay o Telmex es mejor opción.
-:::
 
-::: section
+
 ## Cuántos GB consume Netflix al mes
 
 Netflix puede consumir una cantidad enorme de datos. Esto importa especialmente si usas datos móviles (planes con límite) pero en casa con internet residencial ilimitado, no es problema.
@@ -115,9 +113,8 @@ Netflix puede consumir una cantidad enorme de datos. Esto importa especialmente 
 | Telcel Hogar | "Ilimitado" | Posible depriorización tras 250-500 GB |
 
 **Conclusión**: Para ver Netflix en casa, no te preocupes por el consumo de datos. Todos los planes residenciales principales son ilimitados. El problema es con datos móviles: ver Netflix 4K en el celular puede consumir 7 GB por hora, agotando rápidamente cualquier plan móvil.
-:::
 
-::: section
+
 ## Cómo optimizar Netflix para consumir menos datos
 
 Si necesitas reducir consumo (ej: en datos móviles o en un plan con límite):
@@ -147,9 +144,8 @@ Netflix consume principalmente velocidad de **bajada** (descarga de video). La v
 | Megacable 200 | 200 Mbps | 10 Mbps | Suficiente para Netflix |
 
 Para Netflix, cualquier velocidad de subida mayor a 5 Mbps es suficiente. La diferencia entre proveedores está en la bajada y la estabilidad.
-:::
 
-::: section
+
 ## Netflix vs otras plataformas de streaming
 
 | Plataforma | Mbps para 4K | Consumo/hora 4K | Disponibilidad 4K |
@@ -174,7 +170,7 @@ Si tu familia ve Netflix en una TV y Disney+ en otra, ambos en 4K, necesitas 50+
 | 1 stream 4K + gaming online | 50-70 Mbps |
 | 2 streams 4K + gaming + descargas | 100-200 Mbps |
 | 3+ streams 4K + smart home | 300+ Mbps |
-:::
+
 
 ## Preguntas Frecuentes
 

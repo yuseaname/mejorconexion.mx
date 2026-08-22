@@ -27,7 +27,7 @@ image: "/images/cat-moviles.webp"
 
 Telcel Hogar es una alternativa de internet fijo que no necesita fibra ni cable: usa la red móvil de Telcel (4G LTE y 5G). Esto lo hace ideal para zonas donde los proveedores tradicionales no llegan, o para personas que necesitan internet inmediato sin esperar instalación técnica. Pero tiene limitaciones importantes que debes conocer antes de contratar.
 
-::: section
+
 ## Planes de Telcel Hogar (2026)
 
 | Plan | Velocidad estimada | Precio/mes | Tecnología | Datos |
@@ -61,9 +61,8 @@ Telcel Hogar es una alternativa de internet fijo que no necesita fibra ni cable:
 | Izzi | 100 Mbps | $349 | Coaxial | Más velocidad, incluye TV |
 
 **Conclusión**: Telcel Hogar es más caro por Mbps que los proveedores tradicionales, pero ofrece algo que ninguno ofrece: instalación instantánea sin cable. Para comparar con fibra, lee [internet inalámbrico fijo](/internet-en-casa/internet-inalambrico-fijo-mexico.html).
-:::
 
-::: section
+
 ## ¿Cuándo conviene Telcel Hogar?
 
 | Situación | ¿Conviene? | Alternativa |
@@ -98,9 +97,8 @@ La subida del 4G/5G es variable y puede causar cortes en el stream. Para streami
 
 **Caso 3: Hogar con uso intensivo (familia grande)**
 Si tienes 5+ personas viendo Netflix 4K, gaming y descargas simultáneas, Telcel Hogar puede no dar suficiente velocidad o puede entrar en depriorización tras el límite de datos.
-:::
 
-::: section
+
 ## Cobertura y velocidad real de Telcel Hogar
 
 La calidad de Telcel Hogar depende completamente de la cobertura de la red Telcel en tu ubicación. Telcel tiene la red móvil más amplia de México, pero la calidad varía:
@@ -142,9 +140,8 @@ Basado en Speedtest y reseñas de usuarios (2024-2026):
 | Hogar Ilimitado | Hasta 150 Mbps | 70-120 Mbps | 47-80% |
 
 **Conclusión**: La velocidad real de Telcel Hogar típicamente está en el rango bajo del prometido. Esto es normal en internet inalámbrico: la velocidad "hasta X" significa el máximo teórico, no lo que recibirás consistentemente.
-:::
 
-::: section
+
 ## Ventajas y desventajas de Telcel Hogar
 
 ### Ventajas
@@ -175,9 +172,8 @@ Basado en Speedtest y reseñas de usuarios (2024-2026):
 | Instalación | Instantánea | 3-7 días (requiere técnico) |
 | Portabilidad | Sí (dentro de México) | No (fija) |
 | Límite de datos | Depriorización tras límite | Ilimitado real |
-:::
 
-::: section
+
 ## Datos clave del mercado de internet en México 2026
 
 El mercado de internet en México ha cambiado significativamente en los últimos años. La fibra óptica se ha expandido a más ciudades, Totalplay ha consolidado su posición como líder en velocidad, y la competencia ha bajado los precios de entrada. Telcel Hogar sigue siendo una opción de nicho: ideal para zonas sin fibra o para casos específicos, pero no la mejor opción general cuando hay fibra disponible.
@@ -192,7 +188,7 @@ Sin embargo, todavía existen problemas comunes en el mercado:
 Para evitar caer en estas trampas, siempre verifica: disponibilidad en tu código postal, precio real post-promoción, tecnología (fibra vs coaxial vs inalámbrico), y condiciones de cancelación antes de firmar cualquier contrato.
 
 Si experimentas problemas con tu proveedor, recuerda que tienes derechos como consumidor. PROFECO y el IFT pueden ayudarte a resolver disputas. Lee nuestra guía de [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

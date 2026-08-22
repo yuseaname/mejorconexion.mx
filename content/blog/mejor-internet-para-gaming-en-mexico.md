@@ -181,9 +181,6 @@ Antes de contratar, usa nuestra herramienta de comparación en MejorConexión.mx
 Al final del día, el mejor internet no es el que tiene más megas en el anuncio, sino el que te da la estabilidad y el ping bajo para que tu habilidad sea la única variable en tu próxima partida. ¡Nos vemos en el lobby!
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -194,7 +191,6 @@ Al final del día, el mejor internet no es el que tiene más megas en el anuncio
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes

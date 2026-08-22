@@ -142,7 +142,6 @@ El cable de fibra es más frágil que el cobre. Si se dobla demasiado o se corta
 Para más detalles, lee [planes de Totalplay](/blog/internet-totalplay-planes-precios-2026.html) y [planes de Telmex](/blog/internet-telmex-infinitum-planes-precios-2026.html).
 
 
-
 ## Futuro de la fibra óptica en México
 
 La fibra óptica seguirá expandiéndose en México. El IFT (Instituto Federal de Telecomunicaciones) tiene objetivos de cobertura que impulsan a los proveedores a llevar fibra a más zonas cada año. Se espera que para 2027-2028, la cobertura de fibra FTTH alcance al 60-70% de los hogares mexicanos, frente al 40-50% actual.

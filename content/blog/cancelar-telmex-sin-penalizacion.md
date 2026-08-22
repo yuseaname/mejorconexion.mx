@@ -170,7 +170,6 @@ Antes de cancelar, verifica cobertura de otros proveedores:
 Para más información, lee [cómo cambiar de proveedor sin cortes](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html).
 
 
-
 ## Cronograma del proceso de cancelación con Telmex
 
 El proceso de cancelación de Telmex tiene tiempos específicos que debes conocer:
@@ -197,12 +196,11 @@ Si Telmex te cobra después de cancelar, estos comprobantes son tu evidencia ant
 ## Preguntas Frecuentes
 
 
-::: section
 ## Sigue leyendo
 
 - [Cómo cancelar Izzi sin pena patrimonial ni cargos ocultos (2026)](/blog/cancelar-izzi-sin-cargos.html)
 - [Cómo cancelar Totalplay sin cargos ni penalizaciones (2026)](/blog/cancelar-totalplay-sin-cargos.html)
-:::
+
 
 {{< faq "¿Cómo cancelo Telmex sin penalización?" >}}
 Telmex generalmente NO cobra penalización por cancelación (no usa plazo forzado como Izzi o Totalplay). Para cancelar: 1) paga facturas pendientes, 2) ve a sucursal Telmex con identificación oficial, 3) llena el formato de cancelación, 4) devuelve el modem y accesorios. Guarda el recibo de devolución para evitar cargos por equipo no devuelto.

@@ -31,31 +31,29 @@ Para más detalle, consulta [fibra vs coaxial en México](/internet-en-casa/fibr
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Internet en casa](/internet-en-casa.html) / Internet para streaming
-:::
+
 
 Para ver Netflix, Disney+ o YouTube sin buffering no necesitas el plan más caro. Necesitas la combinación correcta de velocidad estable, tipo de conexión (fibra vs cable) y un Wi-Fi que realmente llegue a tu TV. Aquí están los números reales para México, sin inflar ni vender.
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Mbps que necesitas según la calidad de video
 
 | Plataforma | Calidad | Mbps mínimo | Mbps recomendado |
@@ -69,11 +67,10 @@ Para ver Netflix, Disney+ o YouTube sin buffering no necesitas el plan más caro
 
 Esos números son por dispositivo. Si dos personas ven streaming a la vez, necesitas el doble. Si alguien más descarga un juego o sube un video, la red se reparte.
 
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Fibra vs cable: lo que de verdad cambia el streaming
 
 La fibra óptica manda los datos por luz. El cable coaxial los manda por señal eléctrica. Para streaming, la diferencia se siente así:
@@ -88,14 +85,11 @@ La fibra óptica manda los datos por luz. El cable coaxial los manda por señal 
 Si tienes Totalplay o Telmex con fibra instalada en tu calle, el streaming suele sentirse mejor que con izzi o Megacable en cable coaxial. Pero si la fibra llega mal instalada o saturada, el cable bien configurado puede ganar.
 
 Para saber qué tienes instalado, consulta [fibra óptica vs cable en México](/blog/fibra-optica-vs-cable-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Proveedores y planes para streaming en México (2026)
 
 Estos son rangos generales basados en sitios oficiales. La disponibilidad cambia por zona. Verifica en tu dirección antes de contratar.
@@ -110,9 +104,8 @@ Estos son rangos generales basados en sitios oficiales. La disponibilidad cambia
 Los precios cambian constantemente — consulta la tarifa vigente directamente en los sitios oficiales de los proveedores.
 
 El punto clave: cualquier plan de 100 Mbps o más basta para streaming en una pantalla. El problema casi nunca es el plan — es el Wi-Fi o la estabilidad en horario pico.
-:::
 
-::: section
+
 ## Checklist para eliminar el buffering
 
 1. Conecta tu TV o consola por cable Ethernet si puedes. Un cable de $80 MXN elimina el 90% de los problemas de Wi-Fi.
@@ -121,11 +114,11 @@ El punto clave: cualquier plan de 100 Mbps o más basta para streaming en una pa
 4. Revisa que nadie esté descargando algo pesado mientras ves Netflix.
 5. Haz la prueba en horario pico (8-10 PM). Si ahí funciona bien, el resto del día también.
 6. Reinicia el router una vez por semana si notas degradación.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## 3 errores comunes que arruinan tu streaming
 
 ### Contratar más megas en lugar de arreglar el Wi-Fi
@@ -139,9 +132,8 @@ Un repetidor de $150 MXN suele empeorar la conexión porque duplica el tráfico 
 ### Dejar el router donde lo instaló el técnico
 
 Los técnicos instalan donde llega el cable, no donde da mejor cobertura. Mover el router 3 metros puede cambiar todo.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cuántos Mbps necesito para Netflix 4K?
@@ -159,28 +151,22 @@ Es congestión del proveedor o de tu Wi-Fi (más vecinos conectados). Si pasa to
 ### ¿Sirve un repetidor Wi-Fi para la TV?
 
 Si la TV está lejos del router, mejor usa un adaptador Powerline o cable Ethernet. Los repetidores añaden latencia y empeoran la experiencia.
-:::
 
-::: section
+
 ## Veredicto: ¿cuál es el mejor internet para streaming?
 
 No hay ganador universal. El mejor internet para streaming es el que instala fibra óptica en tu domicilio, entrega estabilidad en horario pico, incluye un router decente o te deja usar el propio, y tiene un precio total razonable después de la promoción.
 
 Compara opciones reales en [nuestra guía de mejor internet en casa](/blog/mejor-internet-casa-mexico-2026.html) y verifica cobertura antes de contratar.
-:::
 
-::: {.ad-slot ad-slot="before-faq"}
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
 ## Sigue aprendiendo
 
 - Si quieres entender las unidades de velocidad, checa [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
 - Si tu internet está lento, revisa [cómo ajustar tu router para mejorar la velocidad](/blog/ajustes-router-mejorar-velocidad-internet.html).
 - Para comparar proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: sitios oficiales de proveedores, [IFT](https://www.ift.org.mx){rel="nofollow noopener" target="_blank"}
-:::
-:::
+
+

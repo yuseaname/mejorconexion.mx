@@ -31,32 +31,27 @@ Para más detalle, consulta [qué es una eSIM](/blog/que-es-una-esim.html).
 
 {{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
 Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
 Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
 Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
 Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [eSIM](/esim.html) / Mejor eSIM México
-:::
+
 
 No hay una "mejor eSIM" universal para México. La mejor depende de para qué la quieres: línea principal, segunda línea, datos para viaje o respaldo. Esta guía te ayuda a decidir qué tipo de eSIM te conviene y qué revisar antes de pagar.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Tipos de eSIM
 
 | Tipo | Para qué sirve | Incluye |
@@ -66,11 +61,11 @@ No hay una "mejor eSIM" universal para México. La mejor depende de para qué la
 | Datos extra | GB adicionales cuando tu plan se acaba | Solo datos |
 
 No confundas una eSIM de datos para viaje con una línea local completa. La primera solo da internet; la segunda incluye teléfono y mensajes.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Operadores en México que soportan eSIM
 
 | Operador | eSIM para línea nueva | eSIM para migrar | Notas |
@@ -82,12 +77,8 @@ No confundas una eSIM de datos para viaje con una línea local completa. La prim
 Antes de contratar, confirma que tu operador soporta eSIM para tu tipo de plan (prepago, pospago, portabilidad).
 
 Para verificar compatibilidad de tu celular, lee [celulares compatibles con eSIM](/internet-en-casa/celulares-compatibles-con-esim-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
-::: section
 ## Qué revisar antes de contratar eSIM
 
 1. **Compatibilidad:** tu celular debe soportar eSIM (verifica en especificaciones oficiales).
@@ -98,9 +89,8 @@ Para verificar compatibilidad de tu celular, lee [celulares compatibles con eSIM
 6. **Wi-Fi:** necesitas conexión Wi-Fi para descargar el perfil en la mayoría de los casos.
 
 Para entender qué es una eSIM, lee [qué es una eSIM](/blog/que-es-una-esim.html).
-:::
 
-::: section
+
 ## Errores comunes con eSIM
 
 ### Comprar eSIM sin verificar compatibilidad
@@ -114,9 +104,8 @@ Si estás migrando, no elimines tu SIM física o perfil anterior hasta que confi
 ### Pensar que la eSIM mejora la señal
 
 La eSIM cambia cómo se almacena el perfil de tu línea, no la antena de tu teléfono. La señal depende de la red y la zona, no del formato SIM.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿La eSIM cuesta más que la SIM física?
@@ -130,19 +119,15 @@ Muchos teléfonos lo permiten (doble SIM). Pero la combinación exacta varía po
 ### ¿Cómo activo una eSIM?
 
 Depende del operador. Puede ser por código QR, por la app del operador o por notificación push. Lee [cómo activar una eSIM en México](/internet-en-casa/como-activar-esim-en-mexico.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para entender el concepto desde cero, checa [qué es una eSIM](/blog/que-es-una-esim.html).
 - Para verificar tu teléfono, lee [celulares compatibles con eSIM](/internet-en-casa/celulares-compatibles-con-esim-mexico.html).
 - Para activar tu línea, revisa [cómo activar una eSIM en México](/internet-en-casa/como-activar-esim-en-mexico.html).
-:::
 
 
-
-::: section
 ## Veredicto: ¿te conviene la eSIM?
 
 La eSIM no es automáticamente mejor que una SIM física — es otra forma de almacenar tu perfil de línea. Te conviene si quieres una segunda línea sin chip extra, si viajas y necesitas datos temporales, o si tu teléfono nuevo ya no tiene ranura para SIM física.
@@ -150,9 +135,7 @@ La eSIM no es automáticamente mejor que una SIM física — es otra forma de al
 Elige por tu caso de uso, no por la moda. Verifica compatibilidad, confirma cobertura del operador y compara planes antes de decidir.
 
 Para empezar desde lo básico, lee [qué es una eSIM](/blog/que-es-una-esim.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: [Telcel eSIM](https://www.telcel.com/esim){rel="nofollow noopener" target="_blank"}, [Apple Support México](https://support.apple.com/es-mx/118669){rel="nofollow noopener" target="_blank"}
-:::
-:::
+

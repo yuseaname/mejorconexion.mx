@@ -30,7 +30,7 @@ image: "/images/cat-proveedores.webp"
 
 Llamar a soporte técnico de internet en México puede ser frustrante: menús interminables, tiempos de espera de 30+ minutos y agentes que no resuelven el problema. Pero hay formas de navegar el sistema más rápido y obtener resultados. Esta guía te da los números, los trucos para llegar a un humano, y qué decir para que te tomen en serio.
 
-::: section
+
 ## Directorio completo de atención al cliente
 
 ### Telmex (Infinitum)
@@ -80,9 +80,8 @@ Llamar a soporte técnico de internet en México puede ser frustrante: menús in
 | Desde otro teléfono | 55 2581 3700 | 24/7 |
 | Twitter/X | @Telcel | Respuesta en 1-4h |
 | App | Mi Telcel | 24/7 |
-:::
 
-::: section
+
 ## Trucos para llegar a un agente rápido
 
 Los menús automáticos (IVR) de los proveedores están diseñados para desviar la mayor cantidad de llamadas posible a respuestas automatizadas. Estos trucos te ayudan a llegar a un humano más rápido:
@@ -134,9 +133,8 @@ Sin número de reporte, no hay seguimiento. Si el agente no te lo da automática
 Si después de 3 intentos y 72 horas no hay solución, tienes derecho a [quejarte ante PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html). PROFECO obliga al proveedor a responder y puede resultar en compensación o cancelación sin penalización.
 
 Para problemas específicos, consulta nuestras guías de [cómo cancelar](/blog/cancelar-servicio-internet-mexico.html) y [cómo cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html).
-:::
 
-::: section
+
 ## Canales alternativos de soporte
 
 Además del teléfono, los proveedores ofrecen otros canales:
@@ -157,9 +155,8 @@ Además del teléfono, los proveedores ofrecen otros canales:
 - **Queja pública o sin respuesta**: Twitter/X
 - **Cancelación**: Teléfono (exige confirmación por escrito)
 - **Disputa sin resolver**: PROFECO
-:::
 
-::: section
+
 ## Qué decir para que te tomen en serio
 
 Los agentes de soporte manejan cientos de llamadas al día. Para que te tomen en serio y resuelvan tu problema:
@@ -195,7 +192,7 @@ El mercado de internet en México ha cambiado significativamente en los últimos
 Para evitar caer en estas trampas, siempre verifica: disponibilidad en tu código postal, precio real post-promoción, tecnología (fibra vs coaxial), y condiciones de cancelación antes de firmar cualquier contrato.
 
 Si experimentas problemas con tu proveedor, recuerda que tienes derechos como consumidor. PROFECO y el IFT pueden ayudarte a resolver disputas. Lee nuestra guía de [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html) para conocer el proceso.
-:::
+
 
 ## Preguntas Frecuentes
 

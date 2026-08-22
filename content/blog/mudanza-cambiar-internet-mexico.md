@@ -27,7 +27,7 @@ image: "/images/cat-proveedores.webp"
 
 Mudarte de casa ya es suficientemente estresante sin quedarte sin internet durante semanas. En México, el proceso de reubicación de servicio varía drásticamente entre proveedores: mientras Telmex puede reubicar fibra en 3 días si ya hay infraestructura, Megacable puede tardar hasta 2 semanas en zonas nuevas. Esta guía te dice exactamente qué hacer, cuándo llamar y cuánto pagar para no quedarte desconectado.
 
-::: section
+
 ## Paso a paso para reubicar tu internet
 
 ### 1. Verifica cobertura en tu nueva dirección (antes de mudarte)
@@ -76,9 +76,8 @@ Tienes derecho a cancelar sin penalización por falta de cobertura. Este es un d
 5. Solicita el reembolso del depósito en garantía
 
 Para más sobre cancelación, lee [cómo cancelar servicio de internet](/blog/cancelar-servicio-internet-mexico.html).
-:::
 
-::: section
+
 ## Costos de reubicación por proveedor
 
 Los costos varían según el proveedor, la tecnología (fibra vs cobre) y si ya hay infraestructura previa en la nueva dirección.
@@ -100,9 +99,8 @@ Los costos varían según el proveedor, la tecnología (fibra vs cobre) y si ya 
 - **Nuevo depósito en garantía**: Algunos proveedores exigen nuevo depósito ($500-$1,000) al reubicar
 - **Cambio de plan**: Tu nueva zona puede no tener el mismo plan (ej: tenías 500 Mbps fibra, nueva zona solo tiene 100 Mbps cobre)
 - **Instalación de nueva toma**: Si la casa no tiene toma de cable/fibra, puede costar $200-$600 extra
-:::
 
-::: section
+
 ## Qué hacer mientras esperas la instalación
 
 Mudarse sin internet es cada vez más difícil en 2026. Trabajo remoto, clases en línea, trámites gubernamentales y hasta pedir comida requieren conexión. Aquí las mejores opciones temporales:
@@ -128,9 +126,8 @@ Si necesitas más datos de los que tu plan móvil incluye, considera:
 
 ### 4. Acuerda con el inquilino anterior
 Si el inquilino anterior tenía internet y aún no ha cancelado, puedes pedirle que lo deje activo unos días más mientras se instala el tuyo. Muchos están dispuestos a negociar.
-:::
 
-::: section
+
 ## Cambiar de proveedor al mudarse: ¿conviene?
 
 Una mudanza es la mejor oportunidad para cambiar de proveedor sin penalización. Si tu proveedor actual no llega o su plan en la nueva zona es peor, evalúa estas alternativas:
@@ -157,7 +154,7 @@ Una mudanza es la mejor oportunidad para cambiar de proveedor sin penalización.
 - [ ] Verifiqué que haya toma de corriente para el módem
 - [ ] Si cancelo: tengo carta de no cobertura
 - [ ] Si cambio de proveedor: comparé precios post-promoción
-:::
+
 
 ## Preguntas Frecuentes
 

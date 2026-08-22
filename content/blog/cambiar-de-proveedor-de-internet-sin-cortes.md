@@ -35,12 +35,12 @@ Para más detalle, consulta [/blog/cambiar-proveedor-internet-sin-perder-número
 
 En esta guía aprenderás cómo planificar tu **cambio de proveedor internet sin interrupción**, qué documentos necesitas, cómo negotiar con tu proveedor actual para evitar penalizaciones, y cómo coordinar la instalación del nuevo servicio para que tu conexión no se caiga ni un segundo.
 
-::: quick-answer
+
 -   Con la nueva regulación de la IFT, puedes cambiar de proveedor sin penales por rescisión contractual si llevas menos de 12 meses con tu actual proveedor.
 -   El proceso de portabilidad (cambio sin cortes) toma entre 3 y 7 días hábiles y no requiere que cortes tu servicio actual hasta que el nuevo esté activo.
 -   Infinitum y Megacable suelen tener penalizaciones más altas si cancelas antes de 12 meses; Totalplay e Izzi ofrecen opciones más flexibles con planes mensuales.
 -   Para **pasar de Infinitum a Totalplay sin cortes**, solicita primero tu portabilidad a Totalplay y usa una línea temporal: activa el nuevo servicio con una conexión temporal (módem 4G o hotspot) mientras se configura el nuevo cableado.
-:::
+
 
 ## ¿Por qué cambiar de proveedor de internet en 2026 es más fácil (y necesario)?
 
@@ -160,11 +160,9 @@ Si quieres profundizar en cómo funciona la portabilidad de internet en México,
 -   Guía paso a paso para cambiar de Infinitum a Totalplay sin cortes
 -   Portabilidad de internet: derechos del usuario en 2026
 
-::: {.author-bio style="margin-top: 48px; padding: 24px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #0066cc;"}
-::: {style="display: flex; align-items: flex-start; gap: 16px;"}
-::: {style="width: 64px; height: 64px; border-radius: 50%; background: #0066cc; display: flex; align-items: center; justify-content: center; color: white; font-size: 24px; font-weight: bold; flex-shrink: 0;"}
+
 MC
-:::
+
 
 <div>
 
@@ -177,21 +175,15 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 [✓ Datos verificados 2026]{style="margin-right: 12px;"} [✓ Actualizado: 2026-05-29]{style="margin-right: 12px;"} ✓ Transparencia editorial
 
 </div>
-:::
-:::
 
-::: {.related-articles style="margin-top: 32px;"}
+
 ## Artículos relacionados {#artículos-relacionados style="font-size: 20px; margin-bottom: 16px;"}
 
 -   [→ Mejor internet para casa 2026](/blog/mejor-internet-casa-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ Izzi vs Totalplay 2026](/blog/izzi-vs-totalplay-telmex-megacable-2026.html){style="color: #0066cc; text-decoration: none;"}
 -   [→ ¿Cuál es el mejor internet en México 2026?](/blog/cual-es-el-mejor-internet-en-mexico-2026.html){style="color: #0066cc; text-decoration: none;"}
-:::
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -202,24 +194,23 @@ Especialista en telecomunicaciones con más de 5 años analizando proveedores de
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 

@@ -24,7 +24,7 @@ image: "/images/cat-instalacion.webp"
 | Megacable | 5-10 días | 2-3 días | 1-3 semanas |
 | Starlink | Inmediato | Auto-instalación | Auto-instalación |
 
-::: section
+
 ## Cómo acelerar la instalación
 
 1. **Contrata online**: Las solicitudes web suelen procesarse más rápido
@@ -34,7 +34,7 @@ image: "/images/cat-instalacion.webp"
 5. **Verifica con el administrador**: Si vives en edificio, coordina con administración para acceso al cuarto de telecomunicaciones
 
 Para más sobre el proceso, lee [instalación de internet en casa](/internet-en-casa/instalacion-internet-en-casa-mexico.html).
-:::
+
 
 ## Preguntas Frecuentes
 

@@ -26,7 +26,7 @@ image: "/images/cat-velocidad.webp"
 
 Si tienes Telmex Infinitum y sientes que tu internet es más lento de lo que pagas, no estás solo. Telmex es el proveedor con mayor cobertura en México (más de 22 millones de hogares), pero también el que más quejas recibe por velocidad insuficiente. El problema rara vez es un solo factor: suele ser una combinación de tecnología obsoleta (cobre en lugar de fibra), saturación de red, y configuración del router. Esta guía te ayuda a diagnosticar la causa exacta y aplicar la solución correcta.
 
-::: section
+
 ## Diagnóstico: por qué tu Telmex es lento
 
 ### ¿Tienes fibra o cobre?
@@ -80,9 +80,8 @@ Mucha gente culpa al proveedor cuando el problema es su WiFi. Para descartar:
 | Escenario A | 90 Mbps | 30 Mbps | WiFi débil (no es culpa de Telmex) |
 | Escenario B | 40 Mbps | 40 Mbps | Problema de Telmex (cobre o saturación) |
 | Escenario C | 90 Mbps | 85 Mbps | Todo bien |
-:::
 
-::: section
+
 ## 7 trucos para acelerar tu internet Telmex
 
 ### 1. Cambia los DNS (efecto inmediato)
@@ -168,7 +167,7 @@ Si después de todo sigues con velocidad insuficiente, puede ser momento de camb
 | Megacable | 200 Mbps | $399 | Precio similar |
 
 Lee nuestra [comparativa Totalplay vs Izzi vs Telmex](/blog/comparativa-totalplay-vs-izzi-vs-telmex-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

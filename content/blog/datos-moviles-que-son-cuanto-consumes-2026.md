@@ -32,32 +32,27 @@ Para más detalle, consulta [/blog/internet-telcel-hogar-mexico-2026/](/blog/int
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Datos móviles
-:::
+
 
 Los datos móviles son el internet que usa tu celular cuando no estás conectado a WiFi. Cada vez que abres Instagram, ves un video o mandas un mensaje con foto sin WiFi, estás consumiendo datos. Entender cuánto consume cada app te ayuda a elegir el plan correcto y a no quedarte sin GB a mitad de mes.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Cuánto consume cada app (datos móviles)
 
 | App | Consumo por hora | Notas |
@@ -73,11 +68,11 @@ Los datos móviles son el internet que usa tu celular cuando no estás conectado
 | Navegador web | 50-100 MB | Depende de las páginas |
 
 Una hora de TikTok consume lo mismo que **50 horas de WhatsApp** en texto. Si tu plan tiene 5 GB al mes, una hora diaria de TikTok lo agota en una semana.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Cómo ahorrar datos móviles
 
 1. **Activa "Ahorro de datos"** en los ajustes de tu celular.
@@ -89,14 +84,11 @@ Una hora de TikTok consume lo mismo que **50 horas de WhatsApp** en texto. Si tu
 7. **Revisa el consumo** en Ajustes → Datos móviles para ver qué apps consumen más.
 
 Para calcular cuántos GB necesitas, lee [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## 4G vs 5G: ¿qué cambia en datos?
 
 El 4G y el 5G son generaciones de red móvil. La diferencia principal para ti:
@@ -111,9 +103,8 @@ El 4G y el 5G son generaciones de red móvil. La diferencia principal para ti:
 **El consumo de datos es el mismo** sin importar si usas 4G o 5G. La diferencia es la velocidad: con 5G, las páginas y videos cargan más rápido, pero los GB se consumen igual.
 
 Para entender la diferencia entre 4G y 5G fijo en casa, lee [internet inalámbrico fijo en México](/internet-en-casa/internet-inalambrico-fijo-mexico.html).
-:::
 
-::: section
+
 ## Cuántos GB necesitas según tu uso
 
 | Perfil de uso | GB por mes recomendados |
@@ -125,9 +116,8 @@ Para entender la diferencia entre 4G y 5G fijo en casa, lee [internet inalámbri
 | Uso intensivo (4K, descargas, hotspot a otros) | 50+ |
 
 Si no sabes cuánto consumes, revisa en los ajustes de tu celular el uso de los últimos 3 meses. El promedio te dice qué plan necesitas.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Qué pasa si se me acaban los datos?
@@ -147,17 +137,15 @@ Algunos planes ofrecen "ilimitados" que en realidad reducen la velocidad despué
 No tanto. Una hora de navegación consume unos 5-20 MB. Pero si descargas mapas para usar sin conexión, no consumes datos después.
 
 Para elegir el plan correcto, lee [mejores planes móviles en México](/planes-moviles/mejores-planes-mexico.html).
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para ver cuántos GB necesitas, checa [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
 - Para comparar planes móviles, lee [mejores planes móviles](/planes-moviles/mejores-planes-mexico.html).
 - Para entender las velocidades, revisa [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

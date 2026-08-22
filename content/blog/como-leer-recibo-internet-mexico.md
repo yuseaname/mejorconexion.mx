@@ -34,32 +34,27 @@ Para más detalle sobre cómo cancelar servicios, consulta [cómo cancelar inter
 
 {{< faq "¿Por qué mi recibo de internet subió sin aviso?" >}}
 Lo más probable es que terminó la promoción. Las promociones suelen durar 3-6 meses y después el precio sube al "tarifa regular". También puede ser que se activaron servicios "gratis" que ya cobran. Llama y pregunta.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo quitar el teléfono si solo quiero internet?" >}}
 En la mayoría de los casos sí. Pero algunos paquetes son más baratos con teléfono incluido que sin él (bundles). Compara el precio de solo internet vs el bundle antes de decidir.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿La renta del módem se puede quitar?" >}}
 Algunos proveedores la perdonan si llevas cierto tiempo o si negocias. Otros te permiten usar tu propio equipo (en coaxial, no en fibra). Pregunta directamente: "¿Puedo usar mi propio módem para ahorrar la renta?"
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo reclamo un cobro injustificado?" >}}
 Llama a soporte con el detalle del cobro. Si no resuelven en 30 días, presenta una queja ante PROFECO con el número de folio. Lee [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Leer recibo de internet
-:::
+
 
 Tu recibo de internet en México tiene más de lo que crees. Cargo base, renta de equipo, servicios no solicitados, impuestos y cargos por pagos tardíos. Entender cada línea te puede ahorrar cientos de pesos al mes y evitar que te cobren cosas que no pediste. En promedio, los usuarios mexicanos pagan $100-$200 MXN extra al mes por cargos que podrían eliminar.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Las líneas típicas de un recibo de internet en México
 
 Un recibo de internet en México tiene entre 5 y 15 líneas de conceptos. Aquí están los más comunes y qué significan:
@@ -105,11 +100,11 @@ En este ejemplo, el "Servicio digital Izzi" ($49) probablemente no fue solicitad
 | **Total** | **$462.84** |
 
 Telmex suele incluir el módem sin costo adicional, pero los bundles con streaming pueden sumar cargos después de la promo.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Cargos que debes revisar y posiblemente cancelar
 
 ### Renta de equipo ($50-$150 MXN/mes)
@@ -149,14 +144,11 @@ El precio promocional termina y sube sin que te enteres. Compara tu recibo actua
 **Ahorro potencial:** $100-$300 MXN/mes (renegociando).
 
 Para comparar precios de planes, lee [internet barato en México](/internet-en-casa/internet-barato-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Cómo reducir tu recibo de internet: paso a paso
 
 Si quieres bajar tu recibo de internet, sigue estos pasos:
@@ -177,9 +169,8 @@ Si quieres bajar tu recibo de internet, sigue estos pasos:
 > "Hola, quiero revisar mi recibo. Tengo cargos por [servicio] que no solicité y quiero cancelarlos. También quiero saber si pueden ofrecerme un mejor precio, porque estoy considerando cambiarme a [otro proveedor]."
 
 Si tu proveedor no coopera y tu contrato ya no tiene plazo forzoso, lee [cómo cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html) sin sufrir.
-:::
 
-::: section
+
 ## Recibo por proveedor: qué revisar
 
 ### Telmex Infinitum
@@ -205,9 +196,8 @@ Si tu proveedor no coopera y tu contrato ya no tiene plazo forzoso, lee [cómo c
 - **Cargo común a eliminar:** Canales premium no solicitados, protección de equipo.
 - **Módem:** Cobran renta ($50-$100/mes).
 - **TV:** Megacable TV suele incluir canales que suben de precio cada año.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Por qué mi recibo subió sin que me avisaran?
@@ -234,18 +224,15 @@ Sí. Llama a tu proveedor y pregunta por planes más económicos. Si tu uso es b
 
 Documenta el cobro (captura de pantalla del recibo), llama a soporte, pide la cancelación y el reembolso. Si no resuelven, presenta queja en PROFECO. La PROFECO sanciona a empresas que cobran servicios no solicitados.
 
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
 ## Sigue aprendiendo
 
 - Para comparar precios, checa [internet barato en México](/internet-en-casa/internet-barato-mexico.html).
 - Para cambiar de proveedor, lee [cómo cambiar sin sufrir](/internet-en-casa/como-cambiar-proveedor-internet-mexico.html).
 - Para entender qué plan necesitas, revisa [cuánta velocidad necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 - Para quejarte de tu proveedor, lee [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+
+

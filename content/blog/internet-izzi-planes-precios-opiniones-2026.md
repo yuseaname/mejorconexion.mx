@@ -34,32 +34,27 @@ Para más detalle, consulta nuestra comparativa de [Izzi vs Totalplay](/blog/izz
 
 {{< faq "¿Izzi tiene fibra óptica en 2026?" >}}
 En algunas zonas sí, especialmente en CDMX, Monterrey, Guadalajara y ciudades medianas. Pregunta específicamente por tu dirección. En zonas donde solo tienen HFC, la experiencia es de cable coaxial con velocidad de subida limitada.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Izzi o Totalplay es mejor?" >}}
 Depende de la zona. Donde Totalplay tiene fibra directa, suele ser más estable y con mejor velocidad de subida. Donde Izzi tiene fibra, la diferencia se reduce. Compara en nuestra guía de [Izzi vs Totalplay](/blog/izzi-vs-totalplay-telmex-megacable-2026.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales de Izzi duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo usar mi propio router con Izzi?" >}}
 Puede ser más complicado que con Totalplay o Telmex. Algunos modelos de módem de Izzi no permiten modo bridge fácilmente. Verifica compatibilidad antes de comprar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Internet Izzi
-:::
+
 
 Izzi es uno de los proveedores de internet más grandes de México, con cobertura amplia en ciudades principales como CDMX, Monterrey, Guadalajara, Puebla, León y Tijuana. Es subsidiaria de Televisa y ofrece planes de 50 a 1000 Mbps usando cable coaxial (HFC) y fibra óptica según la zona. Aquí está qué ofrecen, qué cuesta de verdad y qué revisar antes de firmar.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Planes de Izzi (2026)
 
 Los precios a continuación son aproximados y basados en información pública y reportes de usuarios. Los precios promocionales suben después de 3-6 meses.
@@ -91,11 +86,11 @@ Los precios cambian constantemente — consulta la tarifa vigente directamente c
 | Izzi Ve+ 300 | 300 Mbps + TV + HBO Max | $799/mes | $1,099/mes |
 | Izzi Ve+ 500 | 500 Mbps + TV + Netflix | $999/mes | $1,299/mes |
 | Izzi Total | 1000 Mbps + TV + streaming | $1,299/mes | $1,599/mes |
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Fibra vs cable en Izzi: qué tecnología te van a instalar
 
 Izzi usa principalmente HFC (Híbrido Fibra-Coaxial) en muchas zonas. Esto significa que la fibra llega a un nodo del vecindario y de ahí al cliente por cable coaxial. En zonas más recientes, Izzi está migrando a fibra directa al hogar (FTTH).
@@ -116,14 +111,11 @@ Izzi usa principalmente HFC (Híbrido Fibra-Coaxial) en muchas zonas. Esto signi
 4. Verifica con el técnico que llega a instalar: si trae un cable delgado blanco (fibra) o un cable coaxial grueso.
 
 Si Izzi tiene fibra directa en tu zona, la experiencia suele ser mucho mejor que con HFC. Para entender las diferencias entre tecnologías, lee [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Ventajas y desventajas de Izzi
 
 ### Ventajas
@@ -145,9 +137,8 @@ Si Izzi tiene fibra directa en tu zona, la experiencia suele ser mucho mejor que
 - **Cobertura limitada** a zonas urbanas (aproximadamente 35% del país).
 
 Para comparar con otros proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html) o [Infinitum vs Izzi](/blog/infinitum-vs-izzi-opiniones-2026.html).
-:::
 
-::: section
+
 ## Izzi vs otros proveedores: comparación
 
 | Aspecto | Izzi | Totalplay | Telmex | Megacable |
@@ -163,9 +154,8 @@ Para comparar con otros proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-i
 | Soporte | App + teléfono + sucursales | App + chat | App + sucursales + teléfono | Sucursales + teléfono |
 
 **Veredicto:** Izzi es una buena opción si valoras los bundles con TV y vives en una zona urbana donde tienen fibra directa. Si priorizas velocidad de subida, estabilidad o cobertura, Totalplay o Telmex suelen ser mejores.
-:::
 
-::: section
+
 ## Checklist antes de contratar Izzi
 
 Antes de firmar con Izzi, verifica estos puntos para evitar sorpresas:
@@ -181,9 +171,7 @@ Antes de firmar con Izzi, verifica estos puntos para evitar sorpresas:
 9. **Pide todo por escrito** (precio, plazo, servicios incluidos).
 10. Lee [cómo contratar internet paso a paso](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
 
-:::
 
-::: section
 ## Cómo quejarse de Izzi si hay problemas
 
 Si el servicio de Izzi no cumple lo contratado:
@@ -200,9 +188,7 @@ Si el servicio de Izzi no cumple lo contratado:
 - Sucursales: consulta en izzi.mx
 - Redes sociales: @izzimx en Twitter/X
 
-:::
 
-::: section
 ## Preguntas frecuentes
 
 ### ¿Izzi tiene fibra óptica?
@@ -229,18 +215,15 @@ Depende de la promoción. A menudo la instalación es gratis en promo (primeros 
 
 Depende del contrato. Si hay plazo forzoso (12-24 meses), cancelar antes genera penalización de hasta $2,000-$3,000 MXN. Si no hay plazo, puedes cancelar con 30 días de aviso.
 
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
 ## Sigue aprendiendo
 
 - Para comparar con Totalplay, checa [Izzi vs Totalplay](/blog/izzi-vs-totalplay-telmex-megacable-2026.html).
 - Para ver todos los proveedores, lee [compañías de internet en México](/internet-en-casa/companias-internet-mexico.html).
 - Para entender tecnologías, revisa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
 - Para entender tu recibo, lee [cómo leer tu recibo de internet](/blog/como-leer-recibo-internet-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: [Izzi](https://www.izzi.mx){rel="nofollow noopener" target="_blank"}
-:::
-:::
+
+

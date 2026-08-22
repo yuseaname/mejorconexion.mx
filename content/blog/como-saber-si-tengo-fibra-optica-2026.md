@@ -32,32 +32,27 @@ Para más detalle, consulta [/blog/fibra-optica-vs-cable-mexico/](/blog/fibra-op
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Cómo saber si tengo fibra
-:::
+
 
 Saber si tienes fibra óptica o cable coaxial en tu casa es la diferencia entre entender por qué tu internet funciona bien o mal. La fibra entrega mejor velocidad, estabilidad y latencia. Aquí te mostramos cómo verificarlo en menos de 5 minutos.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Método 1: Mira el cable que entra a tu casa
 
 | Tipo de cable | Tecnología |
@@ -67,11 +62,11 @@ Saber si tienes fibra óptica o cable coaxial en tu casa es la diferencia entre 
 | Cable de cobre (par telefónico) | ADSL/VDSL (cobre antiguo) |
 
 Si el cable que entra por la pared o ventana es delgado y parece plástico transparente o blanco, probablemente es fibra. Si es un cable coaxial negro y grueso, es cable.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Método 2: Mira el equipo (módem/ONT)
 
 Si tienes fibra, el equipo que te instalaron se llama **ONT** (Optical Network Terminal). Suele ser un aparato pequeño, blanco, con luces verdes y una conexión de fibra fina.
@@ -85,14 +80,11 @@ Si tienes cable coaxial, el equipo es un **módem de cable** conectado con un ca
 | Router con cable de teléfono | ADSL/VDSL |
 
 Para entender las diferencias técnicas, lee [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Método 3: Mide la velocidad de subida
 
 Esta es la prueba más confiable si no puedes ver el cable físico.
@@ -110,9 +102,8 @@ Esta es la prueba más confiable si no puedes ver el cable físico.
 La fibra suele ser simétrica o casi simétrica. El cable coaxial casi siempre es asimétrico (baja subida).
 
 Para medir bien, lee [cómo hacer un test de velocidad](/guias/como-medir-velocidad-real-internet.html).
-:::
 
-::: section
+
 ## Método 4: Pregunta a tu proveedor
 
 Llama a tu proveedor y pregunta directamente: "¿Qué tecnología tienen instalada en mi domicilio?" Ellos tienen el registro y pueden confirmarte.
@@ -125,9 +116,8 @@ Llama a tu proveedor y pregunta directamente: "¿Qué tecnología tienen instala
 | Megacable | "¿Tengo fibra o coaxial?" |
 
 Si tienes cobre o coaxial y hay fibra disponible, pide el cambio. Suele ser gratis o de bajo costo.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Si tengo fibra, mi internet siempre va a ser rápido?
@@ -145,18 +135,15 @@ No necesariamente. Algunos planes de fibra cuestan lo mismo o menos que planes d
 ### ¿Si tengo Totalplay, tengo fibra?
 
 Casi siempre sí. Totalplay instala principalmente fibra. Pero en zonas muy específicas puede usar otra tecnología. Confirma llamando.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para entender las diferencias, checa [fibra vs coaxial](/internet-en-casa/fibra-vs-coaxial-mexico.html).
 - Para comparar proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 - Para medir tu velocidad actual, revisa [cómo medir la velocidad real](/guias/como-medir-velocidad-real-internet.html).
-:::
 
 
-::: section
 ## Preguntas frecuentes adicionales
 
 ### ¿Qué hago si necesito más información?
@@ -170,9 +157,7 @@ Sí. Los criterios son generales para México, pero la disponibilidad específic
 ### ¿Puedo compartir esta guía?
 
 Sí. Esta guía es gratuita y está diseñada para ayudar a mexicanos a tomar mejores decisiones sobre internet y conectividad. Si te sirvió, compártela con quien la necesite.
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html)
-:::
-:::
+

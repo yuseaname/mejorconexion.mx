@@ -16,7 +16,7 @@ image: "/images/cat-proveedores.webp"
 
 **El internet en México es caro por 3 razones: 1) Mercado dominado por 4 proveedores (oligopolio), 2) Costos de infraestructura en un país grande y montañoso, 3) Falta de competencia real en muchas zonas. Sin embargo, los precios han bajado 20-30% desde 2020 gracias a Totalplay y CFE. El mexicano promedio paga $399-$599/mes por 100-300 Mbps.**
 
-::: section
+
 ## Por qué México paga más que otros países
 
 | País | Precio promedio 100 Mbps | Razón |
@@ -28,9 +28,8 @@ image: "/images/cat-proveedores.webp"
 | Brasil | R$80 ($16 USD) | Competencia agresiva |
 
 México está en el medio: no es el más caro pero tampoco barato. El problema es que el precio es alto RELATIVO al ingreso promedio del mexicano.
-:::
 
-::: section
+
 ## Qué puedes hacer para pagar menos
 
 1. **Negocia con retención**: Llama y amenaza con cambiar — te ofrecen descuento
@@ -39,7 +38,7 @@ México está en el medio: no es el más caro pero tampoco barato. El problema e
 4. **Verifica CFE**: Si estás en zona elegible, el internet subsidiado es muy barato
 
 Para más trucos, lee [internet barato en México](/blog/internet-barato-mexico-2026.html) y [cómo negociar precio de internet](/blog/como-leer-recibo-internet-mexico.html).
-:::
+
 
 ## Preguntas Frecuentes
 

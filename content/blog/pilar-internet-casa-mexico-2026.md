@@ -274,28 +274,28 @@ Esta guía pilar es el centro de un cluster. Estos son los artículos que profun
 
 {{< faq "¿Cuál es el mejor internet para casa en México en 2026?" >}}
 Depende de tu ciudad, pero en zonas urbanas con cobertura, **Totalplay en fibra óptica** suele ganar por velocidad simétrica y estabilidad. Si no llega Totalplay, Telmex Infinitum en fibra es la alternativa más confiable. Para zonas rurales, Starlink. Para un desglose completo lee [mejor internet en México 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cuánto debo pagar por internet en México?" >}}
 El rango saludable para una familia promedio (200–300 Mbps de fibra) es de **$399 a $599 MXN al mes**. Menos de $300 MXN suele implicar coaxial o cobre lento; más de $900 MXN solo se justifica en planes simétricos de 1 Gbps. Revisa [cuánto cuesta el internet](/blog/cuanto-cuesta-internet-en-mexico-2026.html) para el detalle de extras ocultos.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué hago si no me llega la velocidad contratada?" >}}
 Primero mide la velocidad conectado por **cable Ethernet** (no Wi-Fi). Si por cable tampoco llegas al 80 % de lo contratado, es problema del proveedor: levanta un reporte. Si por cable sí llegas pero por Wi-Fi no, el problema es tu router/cobertura. Guía detallada: [velocidad contratada no me llega](/blog/velocidad-contratada-no-me-llega-mexico.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Vale la pena comprar un router propio en lugar del del proveedor?" >}}
 Sí, si tienes más de 10 dispositivos, una casa de más de 80 m² o un plan superior a 200 Mbps. Un router Wi-Fi 6 propio ($1,200–$3,500 MXN) mejora cobertura, velocidad y estabilidad. Para casos avanzados, revisa [mejores routers 2026](/blog/mejores-routers-2026-mexico-guia.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin quedarme sin internet?" >}}
 Sí. La portabilidad de internet residencial permite que el nuevo proveedor coordine el cambio con el anterior para minimizar el corte (usualmente menos de 24 horas). Lee [cambiar de proveedor sin cortes](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html) para el proceso paso a paso.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué tecnología es mejor: fibra, cable o cobre?" >}}
 Fibra óptica es ampliamente superior en velocidad, latencia y estabilidad. El cable coaxial (HFC) es aceptable para uso medio. El cobre/ADSL es tecnología en retiro: evítalo si hay alternativa. Detalle en [fibra óptica vs cable](/blog/fibra-optica-vs-cable-mexico.html) y [cómo saber si tienes fibra](/blog/como-saber-si-tengo-fibra-optica-2026.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo me quejo si el proveedor no cumple?" >}}
 Primero levanta el reporte interno del proveedor. Si en 15 días no hay solución, acude a **PROFECO** con tu contrato, recibos y mediciones de velocidad. El **IFT** también publica reportes de calidad que respaldan tu caso. Guía: [cómo quejarse con PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-{{< /faq >}}}
+{{< /faq >}}

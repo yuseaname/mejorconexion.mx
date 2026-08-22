@@ -31,27 +31,24 @@ Para una comparativa completa entre los tres grandes operadores (pospago y prepa
 
 {{< faq "¿Cuál es el mejor plan prepago en México en 2026?" >}}
 Depende de tu cobertura y presupuesto: Telcel Amigo ($300 MXN = 4 GB/30 días) tiene la mejor cobertura nacional; AT&T Prepago ($200 MXN = 2 GB/15 días) tiene buena relación precio-GB en zonas urbanas; Movistar tiene paquetes agresivos en precio, pero valida cobertura si sales de las ciudades.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿El prepago tiene contrato o permanencia?" >}}
 No. El prepago es pago anticipado: pagas antes de usar, sin contrato y sin compromiso. Puedes cambiar de paquete o de operador cuando quieras sin penalización.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cuánto cuesta empezar con prepago?" >}}
 Desde $50 MXN (Telcel Amigo, 400 MB con vigencia de 7 días). Los paquetes útiles de datos rondan los $200-500 MXN según los GB y la vigencia que elijas.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Qué debo comparar entre paquetes prepago?" >}}
 Tres cosas: los GB reales por peso, la vigencia del paquete (7, 15 o 30 días) y la cobertura del operador en tu zona. Un paquete barato con cobertura débil sale caro si no puedes usar tus datos.
-{{< /faq >}}}
+{{< /faq >}}
 
 
 El prepago en México te da control total: pagas antes de usar, sin contrato y sin compromiso. Pero elegir bien requiere comparar más que el precio del paquete — la cobertura, los GB reales, la vigencia y el roaming importan tanto como el costo.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Prepago vs pospago: cuándo conviene cada uno
 
 | Criterio | Prepago | Pospago |
@@ -63,11 +60,11 @@ El prepago en México te da control total: pagas antes de usar, sin contrato y s
 | Mejor para | Uso ligero, variable o temporal | Uso constante y alto |
 
 Si gastas menos de **$200 MXN** al mes en recargas, prepago casi siempre conviene. Si siempre te quedas sin datos antes de fin de mes, un plan pospago sale mejor.
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Qué comparar en planes prepago
 
 1. **GB incluidos:** cuántos datos trae el paquete y si son "ilimitados" (a veces reducen velocidad).
@@ -76,12 +73,8 @@ Si gastas menos de **$200 MXN** al mes en recargas, prepago casi siempre convien
 4. **Hotspot:** si puedes compartir datos con otros dispositivos.
 5. **Cobertura:** qué tanta señal tiene el operador en tu zona.
 6. **Roaming:** si incluye uso en EUA y Canadá.
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
-::: section
 ## Operadores prepago en México
 
 ### Telcel Amigo
@@ -101,9 +94,8 @@ Precios competitivos, promociones agresivas. Cobertura la más limitada de los t
 Marcas como Unefón, Virgin Mobile o altán usan la red de los grandes y pueden ser más baratas. Pero la prioridad de tráfico puede ser menor en horario pico.
 
 Para una comparación completa entre los tres grandes, lee [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar.html).
-:::
 
-::: section
+
 ## Errores comunes en prepago
 
 ### Comprar la recarga más barata sin revisar GB
@@ -117,9 +109,8 @@ Algunos paquetes incluyen WhatsApp o Facebook sin consumir datos, pero hay que a
 ### Cambiar de operador sin verificar cobertura
 
 50 GB no sirven sin señal. Antes de cambiar, pide un SIM de prueba o pregunta a vecinos qué cobertura tienen.
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Cuál es el prepago más barato en México?
@@ -137,17 +128,15 @@ Algunos paquetes de Telcel y AT&T incluyen roaming en EUA y Canadá. Otros no. V
 ### ¿Conviene recargar cada mes o comprar paquete anual?
 
 Algunos operadores ofrecen descuentos si compras varios meses por adelantado. Si tu consumo es constante, puede ahorrar **$20-$50 MXN** al mes.
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
+
 ## Sigue aprendiendo
 
 - Para comparar los tres grandes en detalle, checa [Telcel vs AT&T vs Movistar](/planes-moviles/telcel-vs-att-vs-movistar.html).
 - Para elegir entre prepago y pospago, lee [mejores planes móviles en México](/planes-moviles/mejores-planes-mexico.html).
 - Para entender cuántos datos necesitas, revisa [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: [Telcel Amigo](https://www.telcel.com/personas/amigo){rel="nofollow noopener" target="_blank"}
-:::
-:::
+
+

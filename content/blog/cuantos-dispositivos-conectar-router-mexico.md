@@ -23,7 +23,7 @@ image: "/images/cat-wifi-router.webp"
 | Router Wi-Fi 6 propio | 30-50 | $1,500-$3,500 MXN |
 | Sistema mesh (3 nodos) | 40-75 | $3,000-$6,000 MXN |
 
-::: section
+
 ## Señales de que tu router está saturado
 
 1. El internet se pone lento cuando conectan más dispositivos
@@ -32,7 +32,7 @@ image: "/images/cat-wifi-router.webp"
 4. Streaming o videollamadas se cortan aleatoriamente
 
 Si experimentas estos síntomas con 15+ dispositivos, necesitas un mejor router. Ver [mejores routers 2026](/blog/mejores-routers-2026-mexico-guia.html).
-:::
+
 
 ## Preguntas Frecuentes
 

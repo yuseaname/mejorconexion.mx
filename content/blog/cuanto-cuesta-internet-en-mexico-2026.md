@@ -255,10 +255,10 @@ Megacable ofrece algunos planes sin permanencia obligatoria. CFE Internet tambi�
 
 Para la mayoría de los usuarios, sí. La fibra óptica (disponible en Telmex y Totalplay principalmente) ofrece menor latencia, mayor estabilidad y velocidades simétricas (subida similar a bajada). Si pagas $50–$100 más por mes por fibra en lugar de coaxial para la misma velocidad nominal, normalmente vale la diferencia en calidad de conexión.
 
-::: section
+
 ## Sigue leyendo
 
 - [Internet en Guadalajara: mejores opciones (2026)](/blog/internet-guadalajara-mejores-opciones-2026.html)
 - [Internet en Querétaro: mejor proveedor por zona (2026)](/blog/internet-queretaro-mejores-opciones-2026.html)
 - [Internet en Veracruz: mejor proveedor y cobertura (2026)](/blog/internet-veracruz-puerto-2026.html)
-:::
+

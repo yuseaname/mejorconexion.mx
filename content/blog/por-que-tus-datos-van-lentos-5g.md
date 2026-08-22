@@ -26,18 +26,14 @@ keywords:
 - **Desactiva 5G automático en Ajustes > Red; si con LTE la velocidad sube, tu zona no tiene 5G real todavía.**
 
 Para más detalle, consulta [elegir mejor plan de datos](/planes-moviles/mejores-planes-mexico.html).
-::: {#idea-clave .section}
+
 ## La idea clave
 
 Ver "5G" en la barra del celular no garantiza velocidad. La experiencia depende de cobertura real, saturación, tu equipo y tu plan.
 
 El 5G puede ser muy rápido, pero también puede sentirse igual que 4G si la red está ocupada o si estás en una zona con poca capacidad.
-:::
 
 
-
-
-::: section
 ## Comparativa rápida de proveedores
 
 | Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
@@ -48,29 +44,27 @@ El 5G puede ser muy rápido, pero también puede sentirse igual que 4G si la red
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
-:::
 
 
 ## Preguntas Frecuentes
 
 {{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
 Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
 Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Los precios promocionales duran para siempre?" >}}
 No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
 Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: {#senales .section}
 ## Señales de un 5G lento
 
 -   Las páginas tardan en abrir aunque tengas buena señal.
@@ -79,9 +73,8 @@ Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Alguno
 -   Los tests muestran buena descarga, pero mala latencia.
 
 Si te pasa esto, el problema casi siempre es cobertura real o congestión.
-:::
 
-::: {#cobertura .section}
+
 ## Cobertura 5G real vs señal
 
 La señal 5G indica que tu celular detecta la red, pero no siempre significa que estás conectado al "mejor" 5G disponible.
@@ -89,9 +82,8 @@ La señal 5G indica que tu celular detecta la red, pero no siempre significa que
 En México 2026 hay zonas con 5G sólido y otras donde solo hay 5G "ligero" que funciona parecido a 4G. Por eso la velocidad varía mucho por colonia.
 
 Si quieres entender mejor tu cobertura, revisa la sección de [cobertura](/cobertura/).
-:::
 
-::: {#tipo-5g .section}
+
 ## Tipos de 5G (NSA vs SA)
 
 No todo el 5G es igual. Muchas redes funcionan en modo NSA (Non-Standalone), que usa infraestructura 4G como soporte.
@@ -99,9 +91,8 @@ No todo el 5G es igual. Muchas redes funcionan en modo NSA (Non-Standalone), que
 El 5G SA (Standalone) es más avanzado y puede dar menor latencia, pero no siempre está disponible en todas las zonas.
 
 Por eso puedes ver "5G" y aun así tener velocidades similares a 4G en ciertas áreas.
-:::
 
-::: {#bandas .section}
+
 ## Bandas y agregación de portadoras
 
 La velocidad de 5G depende de las bandas disponibles en tu zona y de si tu equipo las soporta.
@@ -109,9 +100,8 @@ La velocidad de 5G depende de las bandas disponibles en tu zona y de si tu equip
 Cuando el operador agrega varias bandas (carrier aggregation), la velocidad sube. Si tu celular solo soporta una parte, el rendimiento baja.
 
 Esto explica por qué un teléfono puede ir mucho más rápido que otro en la misma ubicación.
-:::
 
-::: {#congestion .section}
+
 ## Congestión de red
 
 Cuando muchas personas usan la misma antena al mismo tiempo, la red se congestiona. Esto pasa en horas pico, eventos masivos o zonas con mucha gente.
@@ -119,9 +109,8 @@ Cuando muchas personas usan la misma antena al mismo tiempo, la red se congestio
 En esos momentos, el 5G sigue apareciendo, pero la velocidad baja. Es normal y no siempre se arregla con reiniciar el celular.
 
 Si notas que la lentitud siempre ocurre en el mismo horario, es casi seguro que se trata de congestión local.
-:::
 
-::: {#equipo .section}
+
 ## Equipo y compatibilidad
 
 No todos los celulares 5G son iguales. Algunos modelos tienen menos bandas compatibles o antenas menos eficientes.
@@ -129,9 +118,8 @@ No todos los celulares 5G son iguales. Algunos modelos tienen menos bandas compa
 Si tu equipo es de gama media o antigua, es posible que no aproveche la velocidad total del 5G. Eso no significa que esté mal, solo que tiene límites reales.
 
 También influye el modo en que el equipo administra la señal. Dos teléfonos del mismo operador pueden rendir distinto.
-:::
 
-::: {#config .section}
+
 ## Configuraciones del celular
 
 Algunas configuraciones afectan la velocidad:
@@ -141,9 +129,8 @@ Algunas configuraciones afectan la velocidad:
 -   VPN activada (puede reducir velocidad).
 
 Revisar estos ajustes suele dar mejoras rápidas.
-:::
 
-::: {#sim .section}
+
 ## SIM, eSIM y provisión de red
 
 Para usar 5G, tu línea debe estar habilitada en la red del operador. Si tu SIM es muy antigua, puede limitar el acceso.
@@ -151,57 +138,50 @@ Para usar 5G, tu línea debe estar habilitada en la red del operador. Si tu SIM 
 En algunos casos, cambiar a eSIM o pedir una SIM nueva mejora la compatibilidad con bandas 5G.
 
 Si tienes dudas, revisa con tu operador o considera opciones de [eSIM en México](/esim/).
-:::
 
-::: {#actualizaciones .section}
+
 ## Actualizaciones del sistema
 
 El sistema operativo y el firmware del módem del celular influyen en el rendimiento de datos.
 
 Si tu equipo no está actualizado, puede tener fallas de compatibilidad con la red 5G. Mantenerlo al día ayuda más de lo que parece.
-:::
 
-::: {#prioridad .section}
+
 ## Prioridad y saturación local
 
 En algunas redes, ciertos planes tienen prioridad en congestión. Eso significa que, en horas pico, los planes básicos pueden ir más lento.
 
 Esto no siempre se publicita de forma clara. Si notas lentitud solo en horas pico, la congestión local es la causa más probable.
-:::
 
-::: {#plan .section}
+
 ## Limitaciones del plan
 
 Muchos planes tienen políticas de uso justo. Si ya consumiste cierto número de GB, la velocidad baja aunque tengas "datos ilimitados".
 
 Por eso es importante conocer tu consumo real. Guía útil: [cuántos GB necesitas al mes](/blog/cuantos-gb-necesitas-al-mes.html).
-:::
 
-::: {#interiores .section}
+
 ## Interiores y edificios
 
 El 5G es más sensible a paredes y materiales que el 4G. En interiores, la señal puede perder fuerza y velocidad.
 
 Si en la calle va rápido pero en casa va lento, el problema es la barrera física. En ese caso, la solución es usar Wi‑Fi en casa.
-:::
 
-::: {#ubicacion .section}
+
 ## Ubicación dentro de casa
 
 En interiores, la ubicación importa. Cerca de ventanas suele haber mejor señal que en el centro de la casa.
 
 Si necesitas datos móviles en casa, prueba moverte a zonas con mejor señal o usa Wi‑Fi para consumo pesado.
-:::
 
-::: {#apps .section}
+
 ## Apps que saturan la red
 
 Algunas apps se actualizan en segundo plano o hacen respaldos automáticos. Eso puede saturar tu conexión móvil sin que lo notes.
 
 Si notas lentitud constante, revisa qué app está consumiendo más datos. Ajustar eso suele mejorar la experiencia de inmediato.
-:::
 
-::: {#pruebas .section}
+
 ## Pruebas de velocidad útiles
 
 Un solo test no dice todo. Lo ideal es hacer varias pruebas en distintos horarios y lugares.
@@ -211,17 +191,15 @@ Revisa velocidad de descarga, subida y latencia. Si la latencia es muy alta, la 
 Haz al menos tres pruebas en el mismo lugar y toma el promedio. Un test aislado puede engañar.
 
 Si puedes, prueba con el mismo test en otro celular. Así sabrás si el problema es tu equipo o la red.
-:::
 
-::: {#reset .section}
+
 ## Restablecer red con cuidado
 
 Si todo falla, puedes restablecer ajustes de red en el celular. Esto borra redes Wi‑Fi guardadas y ajustes de datos.
 
 No es el primer paso, pero puede ayudar si hubo cambios de SIM, eSIM o configuración rara.
-:::
 
-::: {#latencia .section}
+
 ## Latencia y sensación de lentitud
 
 A veces la descarga parece buena, pero la navegación se siente lenta. Eso suele ser latencia alta.
@@ -229,17 +207,15 @@ A veces la descarga parece buena, pero la navegación se siente lenta. Eso suele
 Si el ping está alto, abrir páginas o usar apps se siente pesado aunque tengas 5G. Por eso conviene revisar latencia en las pruebas.
 
 Una latencia estable es más importante que un pico de velocidad que solo dura segundos.
-:::
 
-::: {#comparar .section}
+
 ## Comparar con 4G
 
 Si el 5G va lento en tu zona, prueba forzar 4G por unos minutos y compara. En algunos casos 4G es más estable en interiores.
 
 No es retroceso, es elegir la señal más consistente. Lo importante es la experiencia real, no el ícono en pantalla.
-:::
 
-::: {#reportar .section}
+
 ## Cuándo reportar al operador
 
 Si la lentitud es constante y no depende de horarios, conviene reportarlo. Ten a la mano:
@@ -253,9 +229,8 @@ Con datos claros, el soporte tiene más oportunidad de ayudarte.
 Si el problema es la zona, el operador puede confirmar si hay mantenimiento o saturación temporal.
 
 Un reporte bien documentado suele resolverse más rápido.
-:::
 
-::: {#diagnostico .section}
+
 ## Diagnóstico paso a paso
 
 1.  Haz una prueba en la calle y otra dentro de casa.
@@ -267,9 +242,8 @@ Un reporte bien documentado suele resolverse más rápido.
 Con estos pasos puedes aislar si el problema es red, equipo o plan.
 
 Si el problema ocurre en varias zonas, apunta a equipo o plan. Si solo ocurre en una zona, es cobertura o congestión.
-:::
 
-::: {#soluciones .section}
+
 ## Soluciones prácticas
 
 ### Usa 5G solo cuando realmente mejora
@@ -295,22 +269,19 @@ Activar y desactivar modo avión durante 10 segundos puede forzar una mejor cone
 ### Actualiza y limpia apps
 
 Si una app está consumiendo demasiado en segundo plano, limita su uso de datos o actualízala.
-:::
 
-::: {#tabla .section}
+
 ## Tabla de causas y acciones
 
-::: {.table-wrap role="region" aria-label="Causas de datos lentos en 5G"}
+
   Señal                       Causa probable              Acción rápida
   --------------------------- --------------------------- ------------------------
   Va lento en horarios pico   Congestión                  Probar en otro horario
   Solo lento en interiores    Paredes/barreras            Usar Wi‑Fi
   Siempre lento               Plan limitado o cobertura   Revisar plan y zona
   Otro celular va mejor       Equipo                      Revisar compatibilidad
-:::
-:::
 
-::: {#casos .section}
+
 ## Casos reales
 
 ### "En mi casa el 5G es lento, pero en la calle va bien"
@@ -328,9 +299,8 @@ Tu equipo quizá no soporta las mismas bandas. En ese caso, cambiar equipo puede
 Estos casos se repiten mucho. Identificar cuál te pasa a ti ahorra tiempo y evita cambios de operador innecesarios.
 
 Una buena prueba en otra zona también ayuda a confirmar.
-:::
 
-::: {#mitos .section}
+
 ## Mitos comunes
 
 ### "Si veo 5G, siempre será rápido"
@@ -348,9 +318,8 @@ El consumo depende del uso, no de la red.
 Antes de tomar decisiones, confirma con pruebas reales en tu zona.
 
 Muchos problemas se resuelven con ajustes simples, no con cambios drásticos.
-:::
 
-::: {#checklist .section}
+
 ## Checklist rápido
 
 -   Probar en exterior e interior.
@@ -364,9 +333,8 @@ Con esto detectas la causa principal en minutos.
 Lo importante es aislar variables, no adivinar.
 
 Así avanzas más rápido.
-:::
 
-::: {#mejora .section}
+
 ## Señales de mejora
 
 Después de ajustar, estas son señales de que vas por buen camino:
@@ -381,9 +349,8 @@ Si no ves mejoras después de estos pasos, considera reportar al operador o eval
 Una mejora estable vale más que picos aislados de velocidad.
 
 Si necesitas datos para trabajo, la estabilidad es prioridad.
-:::
 
-::: {#preguntas-frecuentes .section}
+
 ## Preguntas frecuentes
 
 ### ¿5G siempre es más rápido que 4G?
@@ -401,36 +368,33 @@ Es horario pico. Más personas usan la misma antena.
 ### ¿Es mi celular el problema?
 
 Puede ser. Revisa compatibilidad de bandas y prueba con otro equipo si puedes.
-:::
 
-::: {#relacionados .section .callout related-block="" style="margin-top:18px"}
+
 ## Lecturas relacionadas
 
-::: {.grid .two}
-[](/blog/que-son-los-datos-moviles.html){.card}
+
+[](/blog/que-son-los-datos-moviles.html)
 
 ### Qué son los datos móviles
 
 Entender el consumo real.
 
-[](/blog/cuantos-gb-necesitas-al-mes.html){.card}
+[](/blog/cuantos-gb-necesitas-al-mes.html)
 
 ### Cuántos GB necesitas
 
 Elegir plan con datos reales.
 
-[](/planes-moviles/){.card}
+[](/planes-moviles/)
 
 ### Planes móviles
 
 Comparar opciones en México.
 
-[](/esim/){.card}
+[](/esim/)
 
 ### eSIM en México
 
 Conectividad móvil flexible.
-:::
-:::
 
-:::
+

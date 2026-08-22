@@ -26,7 +26,7 @@ image: "/images/cat-proveedores.webp"
 
 Si tu internet funciona bien de día pero se vuelve insoportablemente lento en la noche, no es tu imaginación: es la saturación del nodo. Es uno de los problemas más comunes en México y afecta especialmente a usuarios de cable coaxial (Izzi, Megacable). Esta guía explica exactamente por qué ocurre, cómo diagnosticarlo y qué soluciones reales existen.
 
-::: section
+
 ## Por qué se satura el internet en México
 
 Los proveedores de internet usan un modelo de **nodo compartido**: varias casas se conectan al mismo nodo que luego va a la central. Cuando todos navegan al mismo tiempo (tarde-noche), el nodo se satura.
@@ -63,9 +63,8 @@ Lee más sobre [por qué tu internet es lento en la noche](/blog/internet-lento-
 ### ¿Por qué los proveedores no solucionan esto?
 
 Porque es caro y el modelo de negocio no lo incentiva. Repartir ancho de banda entre muchos usuarios (overselling) es rentable: la mayoría no usa internet al máximo simultáneamente. Solo cuando TODOS usan al mismo tiempo (horas pico), se nota. Solucionarlo requiere dividir nodos grandes en pequeños, lo que cuesta millones en infraestructura.
-:::
 
-::: section
+
 ## Cómo diagnosticar la saturación
 
 ### Prueba de saturación en 3 pasos
@@ -157,9 +156,8 @@ Corre [speedtest](/guias/como-medir-velocidad-real-internet.html) 3 noches segui
 | 100 Mbps | 80 Mbps | Documenta y reclama |
 | 200 Mbps | 160 Mbps | Documenta y reclama |
 | 500 Mbps | 400 Mbps | Documenta y reclama |
-:::
 
-::: section
+
 ## Saturación por proveedor: qué esperar
 
 ### Izzi y Megacable (coaxial)
@@ -185,9 +183,8 @@ La saturación es baja. La fibra GPON reparte entre menos usuarios y tiene más 
 La saturación es variable: depende de la torre celular. En zonas densamente pobladas, la torre puede saturarse en horas pico.
 
 **Qué hacer**: Si la torre de tu zona se satura, poco puedes hacer excepto cambiar de tecnología. Verifica si hay fibra disponible.
-:::
 
-::: section
+
 ## Datos clave del mercado de internet en México 2026
 
 El mercado de internet en México ha cambiado significativamente en los últimos años. La fibra óptica se ha expandido a más ciudades, Totalplay ha consolidado su posición como líder en velocidad, y la competencia ha bajado los precios de entrada. Esto significa que cada vez más zonas tienen alternativa a la saturación del coaxial.
@@ -202,7 +199,7 @@ Sin embargo, todavía existen problemas comunes:
 Para evitar caer en estas trampas, siempre verifica: disponibilidad en tu código postal, precio real post-promoción, tecnología (fibra vs coaxial), y condiciones de cancelación antes de firmar cualquier contrato.
 
 Si experimentas problemas con tu proveedor, recuerda que tienes derechos como consumidor. PROFECO y el IFT pueden ayudarte a resolver disputas. Lee nuestra guía de [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

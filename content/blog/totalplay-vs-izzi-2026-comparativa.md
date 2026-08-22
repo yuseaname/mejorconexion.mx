@@ -26,7 +26,7 @@ image: "/images/cat-proveedores.webp"
 | Bundle con TV | No incluido | Incluido básico | **Izzi** |
 | Cobertura | 60+ ciudades | Amplia urbana | **Izzi** |
 
-::: section
+
 ## ¿Cuándo elegir Totalplay?
 
 Totalplay es la mejor opción cuando:
@@ -37,9 +37,8 @@ Totalplay es la mejor opción cuando:
 - Quieres fibra óptica pura
 
 Ver [Totalplay todo lo que necesitas saber](/blog/totalplay-todo-lo-que-necesitas-saber.html).
-:::
 
-::: section
+
 ## ¿Cuándo elegir Izzi?
 
 Izzi es la mejor opción cuando:
@@ -51,7 +50,7 @@ Izzi es la mejor opción cuando:
 Ver [Izzi todo lo que necesitas saber](/blog/izzi-todo-lo-que-necesitas-saber.html).
 
 Para más comparativas, lee [Izzi vs Totalplay](/blog/izzi-vs-totalplay-2026.html) y [comparativa de 4 proveedores](/blog/comparativa-totalplay-vs-izzi-vs-telmex-2026.html).
-:::
+
 
 ## Preguntas Frecuentes
 

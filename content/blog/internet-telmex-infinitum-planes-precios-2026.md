@@ -35,32 +35,27 @@ Para más detalle, consulta nuestra comparativa de [Infinitum vs Izzi](/blog/inf
 
 {{< faq "¿Telmex Infinitum es fibra o cobre?" >}}
 Depende de tu zona. En la mayoría de ciudades ya tienen fibra, pero en zonas rurales o periféricas puede seguir siendo cobre. Pregunta específicamente qué tecnología van a instalar en tu domicilio.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Puedo usar mi propio router con Telmex?" >}}
 Sí. Puedes poner el módem de Telmex en modo bridge y conectar tu router. Lee [cómo elegir router WiFi](/internet-en-casa/como-elegir-router-wifi-mexico.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Telmex incluye Netflix?" >}}
 Algunos paquetes promocionales incluyen Netflix por unos meses (3-6 meses). Revisa las condiciones y qué pasa después de la promoción.
-{{< /faq >}}}
+{{< /faq >}}
 
 {{< faq "¿Cómo me quejo si el internet es lento?" >}}
 Documenta las mediciones por cable y llama a soporte al 800 123 1012. Si no resuelven, presenta una queja ante PROFECO. Lee [cómo quejarse en PROFECO](/blog/como-quejarse-profeco-internet-lento-2026.html).
-{{< /faq >}}}
+{{< /faq >}}
 
 
-::: container
-::: breadcrumbs
 [Inicio](/) / [Blog](/blog.html) / Telmex Infinitum
-:::
+
 
 Telmex Infinitum es el servicio de internet de Telmex, con la mayor cobertura de México. En 2026 ofrece fibra óptica en la mayoría de zonas urbanas y medias, con velocidades de 60 Mbps a 1 Gbps. Aquí está qué ofrecen, qué cuesta y qué revisar antes de contratar.
 
-::: {.ad-slot ad-slot="after-intro"}
-:::
 
-::: section
 ## Planes de Telmex Infinitum (2026)
 
 Los precios a continuación son aproximados y basados en información pública. Cambian por zona y promoción.
@@ -90,11 +85,11 @@ Los precios cambian constantemente — consulta la tarifa vigente directamente c
 | Infinitum 200 + TV | 200 Mbps + Infinitum TV | $799/mes | $999/mes |
 | Infinitum 400 + TV + streaming | 400 Mbps + TV + Netflix | $999/mes | $1,299/mes |
 | Infinitum 1 Gbps + todo | 1 Gbps + TV + Netflix + Prime | $1,399/mes | $1,699/mes |
-:::
+
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Fibra vs cobre en Telmex: una diferencia enorme
 
 Telmex está migrando de cobre (ADSL/VDSL) a fibra óptica. La diferencia entre ambas tecnologías es enorme:
@@ -119,14 +114,11 @@ Telmex está migrando de cobre (ADSL/VDSL) a fibra óptica. La diferencia entre 
 Si Telmex te ofrece fibra en tu calle, casi siempre conviene. Si solo tienen cobre, la velocidad será mucho menor y la latencia mayor.
 
 Para verificar qué tienes, lee [cómo saber si tengo fibra óptica](/blog/como-saber-si-tengo-fibra-optica-2026.html).
-:::
 
-::: {.ad-slot ad-slot="mid-content"}
-:::
 
 <!-- ADSENSE_BREAK -->
 
-::: section
+
 ## Ventajas y desventajas de Telmex Infinitum
 
 ### Ventajas
@@ -148,9 +140,8 @@ Para verificar qué tienes, lee [cómo saber si tengo fibra óptica](/blog/como-
 - **Problemas de facturación** reportados por usuarios (revisa tu recibo).
 
 Para comparar con otros proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
-:::
 
-::: section
+
 ## Telmex vs otros proveedores: comparación
 
 | Aspecto | Telmex Infinitum | Totalplay | Izzi | Megacable |
@@ -165,9 +156,8 @@ Para comparar con otros proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-i
 | Sucursales físicas | Muchas | Pocas | Algunas | Algunas |
 
 **Veredicto:** Telmex es la mejor opción si vives en una zona donde otros no llegan, o si valoras tener línea fija incluida. Si tienes cobertura de Totalplay y priorizas estabilidad y velocidad de subida, Totalplay suele ser mejor.
-:::
 
-::: section
+
 ## Cómo contratar Telmex Infinitum
 
 1. Verifica disponibilidad en [telmex.com](https://telmex.com/web/hogar/paquetes-de-internet){rel="nofollow noopener" target="_blank"} con tu código postal.
@@ -182,9 +172,8 @@ Para comparar con otros proveedores, lee [Telmex vs Izzi vs Totalplay](/planes-i
 10. **Prueba la velocidad antes de firmar el acta de instalación.**
 
 Para la guía completa de contratación, lee [cómo contratar internet paso a paso](/blog/c%C3%B3mo-contratar-internet-en-m%C3%A9xico-2026.html).
-:::
 
-::: section
+
 ## Cómo quejarse de Telmex si hay problemas
 
 Si el servicio de Telmex no cumple lo contratado:
@@ -202,9 +191,8 @@ Si el servicio de Telmex no cumple lo contratado:
 - App: Telmex Infinitum (iOS y Android)
 - Sucursales: consulta en telmex.com
 - Redes sociales: @Telmex en Twitter/X
-:::
 
-::: section
+
 ## Preguntas frecuentes
 
 ### ¿Telmex Infinitum es fibra o cobre?
@@ -235,18 +223,15 @@ Depende del contrato. Si hay plazo forzoso (12-24 meses), cancelar antes genera 
 
 Llama al 800 123 1012 y pregunta si la fibra ya está disponible en tu calle. Si sí, solicita la migración. Suele ser gratuita, pero puede tardar de 1 a 4 semanas.
 
-:::
 
-::: {.section related-block="" style="margin-top:18px"}
 ## Sigue aprendiendo
 
 - Para comparar proveedores, checa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html).
 - Para saber qué tecnología tienes, lee [cómo saber si tengo fibra](/blog/como-saber-si-tengo-fibra-optica-2026.html).
 - Si tu internet está lento, revisa [qué hacer si tu internet está lento](/guias/que-hacer-si-internet-lento.html).
 - Para entender tu recibo, lee [cómo leer tu recibo de internet](/blog/como-leer-recibo-internet-mexico.html).
-:::
 
-::: meta-row
+
 **Última actualización:** agosto de 2026 • [Metodología](/metodologia.html) • Fuentes: [Telmex](https://telmex.com){rel="nofollow noopener" target="_blank"}
-:::
-:::
+
+

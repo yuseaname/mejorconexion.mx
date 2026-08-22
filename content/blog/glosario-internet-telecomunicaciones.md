@@ -14,10 +14,9 @@ image: "/images/cat-proveedores.webp"
 type: "glossary"
 ---
 
-::: container
-::: breadcrumbs
+
 [Inicio](/) / Glosario
-:::
+
 
 # Glosario de términos de internet y telecomunicaciones
 
