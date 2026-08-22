@@ -29,20 +29,20 @@ Para más detalle, consulta [cómo elegir compañía de internet](/internet-en-c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Puedo conservar mi número de teléfono al cambiar de proveedor?" >}}
+Sí, existe la portabilidad numérica. Al contratar el nuevo servicio, pide portar tu número. El proceso tarda de 24 a 72 horas. Si aún estás dentro de un plazo forzoso, algunos proveedores perdonan la penalización si portas tu número o cambias dentro del mismo grupo empresarial.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cuánto tarda la instalación del nuevo servicio?" >}}
+Depende del proveedor y la zona: de 3 a 15 días en promedio. Si requiere obra civil, como tirar cable de fibra, puede tardar más. Por eso nunca canceles el servicio actual antes de tener el nuevo funcionando y probado, o podrías quedarte semanas sin internet.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Me pueden cobrar por cancelar mi servicio de internet?" >}}
+Solo si tienes un plazo forzoso vigente. Revisa tu contrato: si ya cumpliste el plazo, la cancelación es gratis. Si no terminó, pregunta por la penalización, que suele ser de $1,500-$3,000 MXN en los planes actuales de $299-$899 MXN al mes.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué hago si el nuevo servicio es peor que el anterior?" >}}
+Dentro de los primeros días, algunos proveedores ofrecen garantía de devolución. Si no, puedes volver a cambiar, pero coordina bien las fechas para no quedarte sin servicio. Recuerda devolver el equipo del proveedor anterior con acuse para evitar cobros por equipo no devuelto.
 {{< /faq >}}
 
 

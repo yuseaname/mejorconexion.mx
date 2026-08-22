@@ -30,20 +30,20 @@ Para más detalle, consulta [/blog/como-mejorar-wifi-en-casa-guia-2026/](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Qué truco me devuelve más velocidad sin gastar?" >}}
+Conectar tu computadora por cable Ethernet Cat 6 en lugar de Wi-Fi. Es el cambio que más impacto tiene: elimina la pérdida de señal inalámbrica y estabiliza el ping para trabajo y streaming.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Cuándo conviene usar la banda de 5 GHz?" >}}
+Cuando el televisor, la consola o la computadora están cerca del router y necesitas máxima velocidad para streaming o videollamadas. La banda de 5 GHz es más rápida, aunque atraviesa menos paredes que la de 2.4 GHz.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Qué hace la configuración QoS del router?" >}}
+Prioriza el tráfico importante: le dice al router que las videollamadas o el trabajo pasan primero y las descargas grandes esperan. Se activa desde el panel de administración y mejora la experiencia sin contratar más velocidad.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Cuánta velocidad puedo recuperar con estos ajustes?" >}}
+Según la guía, entre 30 y 80 por ciento de la velocidad que estás perdiendo por Wi-Fi mal optimizado, router mal ubicado o canal saturado. Ningún truco supera la velocidad que contrataste: si el plan es el límite, toca cambiar de plan.
 {{< /faq >}}
 
 

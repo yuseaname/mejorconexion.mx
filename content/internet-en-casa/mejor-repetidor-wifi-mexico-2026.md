@@ -31,20 +31,20 @@ Para más detalle, consulta [WiFi mesh en México: ¿vale la pena?](/internet-en
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Un repetidor WiFi reduce la velocidad?" >}}
+Sí. La mayoría de los repetidores reducen la velocidad a la mitad porque usan la misma antena para recibir y enviar. Los repetidores más caros con banda dedicada reducen menos. Por eso conviene probar mover el router antes de comprar.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Sirve un repetidor para gaming?" >}}
+No recomendado. El repetidor añade latencia, lo que arruina partidas competitivas. Mejor cable Ethernet o mesh. Si tu casa tiene más de 80 m² o dos pisos, un sistema mesh rinde mejor que cualquier repetidor.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Puedo usar dos repetidores?" >}}
+Sí, pero cada repetidor en cadena reduce más la velocidad. Si necesitas dos, probablemente necesitas mesh o access points cableados. El repetidor debe colocarse a mitad de camino entre el router y la zona muerta.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cuál repetidor sirve para una TV lejana del router?" >}}
+Si la TV tiene puerto Ethernet, mejor usa un adaptador Powerline o tira un cable. Si solo puedes repetidor, busca uno con puerto Ethernet para conectar la TV por cable al repetidor y evitar más pérdida de señal.
 {{< /faq >}}
 
 

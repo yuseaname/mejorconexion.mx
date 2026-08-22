@@ -29,20 +29,20 @@ Para más detalle, consulta [compañías de internet en México](/internet-en-ca
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuál es el proveedor con mejor cobertura en México?" >}}
+Telmex tiene la mayor cobertura nacional. En zonas urbanas, Totalplay e Izzi también tienen presencia amplia. Pero la disponibilidad real depende de tu calle, no de tu ciudad, así que verifica en tu dirección antes de elegir.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Totalplay o Telmex es mejor?" >}}
+Depende de la zona. Donde ambos tienen fibra, Totalplay suele tener mejor velocidad de subida y estabilidad. Pero la experiencia varía por dirección, así que compara la tecnología que pueden instalar en tu domicilio.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Vale la pena pagar por más Mbps?" >}}
+Solo si tu uso lo requiere. Si eres una persona que navega y ve YouTube, 50 Mbps bastan. Para una familia con varios dispositivos y streaming en 4K, conviene 200 Mbps o más. Antes de subir, mide tu consumo real.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cómo elijo según mi tipo de uso?" >}}
+Para streaming y video necesitas estabilidad y al menos 25 Mbps. Para home office, buena subida y baja latencia. Para gaming, la latencia importa más que los megas. Define qué haces a diario antes de comparar proveedores.
 {{< /faq >}}
 
 

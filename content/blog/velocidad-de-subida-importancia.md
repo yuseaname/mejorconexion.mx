@@ -161,19 +161,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Qué es exactamente la velocidad de subida?" >}}
+Es la mitad olvidada de tu conexión: los megas que usas cuando envías algo, ya sea tu video en una llamada, un archivo a la nube o una foto por mensajería. De ella depende que te vean y te oigan bien.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Por qué mi videollamada se traba si tengo muchos megas?" >}}
+Porque los planes suelen presumir solo la bajada y descuidan la subida. Si tu subida es baja, tu video sale pixelado o congelado aunque la descarga sea enorme: es el motor invisible de la conexión.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Cómo improves la subida sin contratar un plan más caro?" >}}
+Con cable Ethernet en lugar de Wi-Fi, router bien ubicado y evitando saturar la red con respaldos o descargas en horario de llamadas. Y al renovar contrato, comparar planes con mejor subida, no solo bajada.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿La fibra óptica ayuda con la velocidad de subida?" >}}
+Sí: la fibra moderna permite velocidades simétricas o casi simétricas entre bajada y subida, algo que el cobre y el coaxial no logran. Si tu vida depende de la subida, la fibra es el camino.
 {{< /faq >}}
 

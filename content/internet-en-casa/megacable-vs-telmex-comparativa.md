@@ -120,19 +120,19 @@ No siempre. El plan debe responder al número de usuarios, actividades simultán
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Megacable o Telmex tiene mejor cobertura?" >}}
+No se puede responder de forma confiable sin una dirección. Dos vecinos pueden recibir tecnologías o condiciones diferentes. Confirma cobertura y tecnología con ambos proveedores en tu domicilio exacto antes de contratar.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cuál tiene mejor fibra óptica?" >}}
+La pregunta útil es qué tecnología concreta pueden instalar en tu domicilio y bajo qué condiciones. Ambos publican servicios de fibra, pero la disponibilidad varía por zona. Valida el servicio después de instalarlo.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Debo elegir el plan con más Mbps?" >}}
+No siempre. El plan debe responder al número de usuarios, actividades simultáneas, subida necesaria y calidad de tu Wi-Fi. Más Mbps no corrigen por sí solos una mala cobertura inalámbrica dentro de casa.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cómo valido mi decisión después de instalar?" >}}
+Haz pruebas por cable y por Wi-Fi en la zona donde más usas internet. Si por cable funciona bien y por Wi-Fi no, revisa router, ubicación e interferencia antes de concluir que debes cambiar de proveedor.
 {{< /faq >}}
 

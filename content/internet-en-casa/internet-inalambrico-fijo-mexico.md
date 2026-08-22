@@ -29,20 +29,20 @@ Para más detalle, consulta [internet satelital y opciones rurales en México](/
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cómo verifico si el internet inalámbrico fijo funcionará en mi casa?" >}}
+Revisa cuántas barras de señal tiene tu celular con el proveedor elegido. Si tienes una o dos barras, el internet será lento e inestable. También confirma la cobertura 4G/5G en tu domicilio exacto con la app del operador.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Dónde debo colocar el módem 4G/5G?" >}}
+Ponlo cerca de una ventana exterior para que reciba bien la señal de la antena celular. Si lo metes en un cuarto interior sin ventanas, la señal se debilita y el servicio se vuelve lento e inestable.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿El 5G siempre es más rápido que el 4G?" >}}
+No. El 5G solo funciona si hay una antena 5G cerca de tu casa. Si solo hay 4G LTE, el módem usará esa red sin importar lo que diga el empaque. Verifica la tecnología disponible en tu zona antes de contratar.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Puedo usar el internet inalámbrico fijo como respaldo?" >}}
+Sí, de hecho es uno de los mejores usos. Si tu fibra o cable se cae, un módem 4G de respaldo te mantiene conectado. Solo confirma cuántas barras de señal tienes y que el plan cubra tu uso.
 {{< /faq >}}
 
 

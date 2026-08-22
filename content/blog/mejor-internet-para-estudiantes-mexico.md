@@ -247,19 +247,19 @@ En resumen: **contrata Izzi si buscas lo más barato, Totalplay si buscas lo má
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Qué velocidad necesito si soy estudiante y vivo solo?" >}}
+Con 40 a 60 Mbps de bajada te alcanza para una persona que toma clases por Zoom, navega y ve Netflix. Si compartes departamento con roomies o descargas material pesado, apunta a 100 Mbps o más. Lo clave es que la conexión sea estable, no solo los megas.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Hay planes de internet baratos para estudiantes con descuento?" >}}
+En México no existen tarifas exclusivas por presentar credencial, pero sí promociones agresivas en temporada de regreso a clases. La opción más barata del mercado es Izzi desde $349 al mes con 40 Mbps, y Virgin Mobile sin instalación ni contrato por unos $350-$450.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué hago si soy foráneo y me mudo cada semestre?" >}}
+Evita los contratos largos de 12 o 24 meses. Usa Virgin Mobile con su Internet en Casa 4G/5G, que no necesita instalación ni comprobante de domicilio fijo, o busca los planes de Izzi sin contrato aunque cuesten un poco más. Así te mudas sin multas.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Infinitum de Telmex sigue siendo buena opción para estudiar en 2026?" >}}
+Sí, pero solo si te toca fibra óptica. Si todavía usas la línea de cobre tradicional, la velocidad y estabilidad se quedan cortas para lo que exige la universidad hoy: clases en línea y subida de archivos. Pregunta siempre si te ofrecen Infinitum Fibra Óptica.
 {{< /faq >}}
 

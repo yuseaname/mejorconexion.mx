@@ -7,7 +7,7 @@ author: "Mtro. Daniel Cruz"
 author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."
 author_slug: "daniel-cruz"
 draft: false
-image: "/images/hero-telcel-att-movistar.webp"
+image: "/images/generated/m6-telcel-att-movistar-hero.webp"
 keywords:
   - "telcel vs att vs movistar"
   - "mejor compania movil mexico 2026"
@@ -35,6 +35,8 @@ Para más detalle, consulta [Telmex vs Izzi vs Totalplay](/planes-internet/telme
 | AT&T | 69.1% | Ármalo 17 GB | $699 | Roaming en 77 países |
 | Movistar | 69.5% | Plan Pro 18 (18 GB) | $299 | Mejor precio por GB |
 
+
+![La trampa del precio promocional: la tarifa sube cuando termina el periodo inicial](/images/generated/m4-promo-staircase.webp)
 Cobertura: informe "Quién es quién en cobertura móvil en México" (CRT, 4Q25). Precios de pospago con IVA, abril 2026.
 
 
@@ -80,21 +82,21 @@ La **Comisión Reguladora de Telecomunicaciones (CRT)** publica trimestralmente 
 ### Cobertura 4G garantizada
 
 Cobertura donde el operador compromete velocidad y confiabilidad mínimas:
-[Telcel]{.label style="color:#e6001c"}
+<span class="label" style="color:#e6001c">Telcel</span>
 86.7%
-[AT&T]{.label style="color:#009fdb"}
+<span class="label" style="color:#009fdb">AT&T</span>
 69.1%
-[Movistar]{.label style="color:#00a84f"}
+<span class="label" style="color:#00a84f">Movistar</span>
 69.5%
 
 ### Cobertura 4G diferenciada
 
 Cobertura con mejor esfuerzo (no garantizada, pero disponible):
-[Telcel]{.label style="color:#e6001c"}
+<span class="label" style="color:#e6001c">Telcel</span>
 94.4%
-[AT&T]{.label style="color:#009fdb"}
+<span class="label" style="color:#009fdb">AT&T</span>
 91.3%
-[Movistar]{.label style="color:#00a84f"}
+<span class="label" style="color:#00a84f">Movistar</span>
 83.4%
 
 <figure class="section-image">
@@ -109,14 +111,14 @@ Cobertura con mejor esfuerzo (no garantizada, pero disponible):
 Planes de renta mensual con equipo propio (BYOD). Precios con IVA incluido, abril 2026.
   Operador                      Plan                   Datos                     Precio/mes        Destacado
   ----------------------------- ---------------------- ------------------------- ----------------- -----------------------------------------
-  [Telcel]{.badge-telcel}       Max Sin Límite 1000    1 GB                      \$229             Entrada, sin permanencia
+  <span class="badge-telcel">Telcel</span>       Max Sin Límite 1000    1 GB                      \$229             Entrada, sin permanencia
                                 Max Sin Límite 2000    2 GB                      \$329             Llamadas ilimitadas, 4G+
                                 Max Sin Límite 3000+   3-15 GB                   \$499--\$1,299    Claro Video incluido desde \$749
-  [AT&T]{.badge-att}            Lite 1                 15 GB                     \~\$300 + cargo   WhatsApp ilimitado
+  <span class="badge-att">AT&T</span>            Lite 1                 15 GB                     \~\$300 + cargo   WhatsApp ilimitado
                                 Ármalo 5 GB            5 GB                      \$349             Compartible con 9 líneas
                                 Ármalo 17 GB           17 GB                     \$699             Buen balance datos/precio
                                 Lite Ilimitado         Ilimitado (200 GB)        \~\$1,400         Roaming en 77 países
-  [Movistar]{.badge-movistar}   Plan Pro 18            18 GB                     \$299             Promo: \$150 x 2 meses
+  <span class="badge-movistar">Movistar</span>   Plan Pro 18            18 GB                     \$299             Promo: \$150 x 2 meses
                                 Plan Pro 25            25 GB                     \$349             Promo: \$175 x 2 meses
                                 Plan Pro Ilimitado     Ilimitado + 25 GB extra   \$579             Promo: \$290 x 2 meses, apps ilimitadas
                                 Plan 10 (anual)        10 GB/mes                 \$1,990/año       Paga 10 meses, usa 12
@@ -225,22 +227,22 @@ Movistar
 -   **❌ Menor cobertura** **83.4%** 4G diferenciada vs **94.4%** Telcel
 -   **❌ Incertidumbre** Transición a OMV puede afectar servicio a mediano plazo
 ## 7. ¿Para quién conviene cada operador?
-[🏔️ Viajero frecuente]{.badge .badge-green}
+<span class="badge badge-green">🏔️ Viajero frecuente</span>
 
 ### Telcel
 
 Si sales a carretera, visitas pueblos o te mueves entre estados, la cobertura de Telcel es la más consistente. Hasta en Oaxaca mantiene 57.8% de 4G garantizado cuando los demás bajan al 26%.
-[🏙️ Urbano profesional]{.badge .badge-blue}
+<span class="badge badge-blue">🏙️ Urbano profesional</span>
 
 ### AT&T
 
 Si tu vida es en la ciudad, quieres roaming en muchos países y planes con buena cantidad de GB, AT&T ofrece el mejor paquete urbano. Verifica cobertura dentro de tu edificio.
-[💰 Ahorro inteligente]{.badge .badge-orange}
+<span class="badge badge-orange">💰 Ahorro inteligente</span>
 
 ### Movistar
 
 Si tu zona tiene buena señal Movistar (valídao), sus planes Pro dan más GB por menos dinero. El Plan 10 anual (\~\$166/mes) es una de las mejores ofertas del mercado.
-[🔄 Sin ataduras]{.badge .badge-blue}
+<span class="badge badge-blue">🔄 Sin ataduras</span>
 
 ### Prepago cualquier operador
 

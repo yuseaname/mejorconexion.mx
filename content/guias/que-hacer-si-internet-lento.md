@@ -29,20 +29,21 @@ Para más detalle, consulta [saber si te llega la velocidad](/blog/velocidad-con
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Por qué mi internet es lento en la noche?" >}}
+Es congestión: tu proveedor reparte el ancho de banda entre muchos usuarios y cuando todos se conectan a la vez, entre 7 y 11 PM, la velocidad baja para todos. Es más común en cable coaxial que en fibra. No se arregla con más megas ni con un router nuevo.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Debo contratar más megas si mi internet va lento?" >}}
+Solo si confirmaste que la velocidad que llega por cable es menor a la que pagas. Si el problema es Wi-Fi o congestión en horario pico, más megas no ayudan. Primero prueba por cable Ethernet para diferenciar "proveedor malo" de "Wi-Fi malo".
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Sirve llamar a mi proveedor de internet?" >}}
+Sí, te llevas datos claros: velocidad real medida por cable, velocidad contratada y el horario del problema. Sin esos datos, el soporte técnico te va a pedir que reinicies el router y corten la llamada. Con evidencia, tienes más posibilidades de que te tomen en serio.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cómo sé si el problema es de un solo dispositivo?" >}}
+Prueba en 2-3 dispositivos distintos. Si solo uno va lento, el problema es ese equipo, no tu conexión. A veces un celular viejo o una TV con Wi-Fi deficiente se sienten lentos aunque el internet en general funcione bien en el resto de la casa.
+
 {{< /faq >}}
 
 

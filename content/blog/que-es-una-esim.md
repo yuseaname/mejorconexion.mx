@@ -183,18 +183,18 @@ Sí, con roaming internacional (verifica costos con tu operador) o comprando una
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Una eSIM me da mejor cobertura que un chip físico?" >}}
+No: la cobertura depende del operador y la red, no del formato del chip. Una eSIM usa las mismas antenas; su valor está en la comodidad de activarla y cambiar de operador sin chip físico.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Cómo sé si mi celular es compatible con eSIM?" >}}
+Revisa la lista de equipos compatibles en México antes de anything: los fabricantes lo especifican en las especificaciones del teléfono, y tu operador también publica qué modelos soporta.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Puedo cambiar de operador sin cambiar de chip con eSIM?" >}}
+Sí, ese es uno de sus beneficios prácticos: la activación es digital y puedes pasar tu línea a otro operador compatible sin ir por un chip físico, aunque siempre respetando portabilidad y requisitos del operador.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Qué debo revisar antes de activar una eSIM en México?" >}}
+Que tu equipo sea compatible, que el operador la soporte, y qué pasa con tu plan actual: si conservas línea y datos. Evita activarla de viaje sin revisar precios y cobertura del destino.
 {{< /faq >}}

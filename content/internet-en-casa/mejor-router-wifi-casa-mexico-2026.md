@@ -31,20 +31,20 @@ Para más detalle, consulta [cómo mejorar tu Wi-Fi en casa](/internet-en-casa/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Puedo usar router propio con Totalplay o Telmex?" >}}
+Sí. Pon el módem del proveedor en modo bridge y conecta tu router. El proceso varía: llama a soporte si no lo encuentras. Algunos proveedores necesitan configuración específica para usar equipo propio.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Mesh o router individual?" >}}
+Si tu casa tiene un piso y menos de 100 m², router individual. Si tiene dos pisos o más de 150 m², mesh. Un router propio con WiFi 6 mejora la red interna, pero no arregla un internet lento del proveedor.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cada cuánto cambiar de router?" >}}
+Cada 4-5 años si notas degradación. Los routers no se vuelven obsoletos rápido, pero las actualizaciones de firmware eventualmente paran. Si tu router del proveedor tiene más de 3 años, considera cambiarlo.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cambiar el router mejora mi velocidad de internet?" >}}
+Mejora el Wi-Fi interno, no la velocidad que llega por cable del proveedor. Un router de $3,000 MXN no arregla un internet de 20 Mbps. Si el problema es la velocidad por cable, es del proveedor, no del router.
 {{< /faq >}}
 
 

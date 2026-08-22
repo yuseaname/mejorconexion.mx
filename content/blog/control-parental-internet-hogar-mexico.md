@@ -42,20 +42,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Es mejor el control parental desde el router o desde una app?" >}}
+El router filtra todos los dispositivos de la casa de una vez, pero es más rudo; las apps como Google Family Link dan control por hijo, horarios y reportes más finos. Muchas familias usan ambos a la vez.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Existen opciones gratuitas de control parental serias?" >}}
+Sí. Google Family Link es gratis y cubre lo esencial en dispositivos Android: tiempo de uso, horarios y aprobación de apps. Para filtro de red completo, el propio router y DNS con filtro tampoco cuestan extra.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Qué hacer si mi hijo adolescente burla los filtros?" >}}
+Primero, los acuerdos familiares: la técnica sola no educa, y un adolescente motivado encuentra vuelta. Combina reglas claras con filtros en router, DNS seguro y revisión periódica del mapa de dispositivos de tu red.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿A qué edad conviene empezar con estos controles?" >}}
+Desde que el niño usa dispositivos con conexión. Lo que cambia es la intensidad: bloqueo total para pequeños, filtros de contenido y horarios en primaria, y supervisión ligera con diálogo en la adolescencia.
 {{< /faq >}}
 
 
@@ -81,27 +81,27 @@ El control parental funciona cuando se combina tecnologia con acuerdos familiare
 
 ## Tabla de contenidos
 
-1.  [Por que el control parental es necesario](#por-que)
-2.  [Acuerdos familiares antes de configurar](#acuerdos)
-3.  [Mapa de dispositivos y cuentas](#mapa-dispositivos)
-4.  [Control parental desde el router](#router)
-5.  [Bloqueo por horarios y rutinas](#horarios)
-6.  [Filtros de contenido con DNS](#filtros)
-7.  [Control por aplicaciones y servicios](#apps)
-8.  [Android: controles recomendados](#android)
-9.  [iOS y iPadOS: tiempos y permisos](#ios)
-10. [Windows: perfiles y limites](#windows)
-11. [macOS: tiempo en pantalla](#macos)
-12. [Consolas y plataformas de juego](#consolas)
-13. [Smart TV y streaming](#smart-tv)
-14. [Estudio, tareas y clases en linea](#educacion)
-15. [Privacidad y datos personales](#privacidad)
-16. [Como hablar de seguridad con ninos](#comunicacion)
-17. [Ejemplo de configuracion paso a paso](#ejemplo)
-18. [Errores comunes y como evitarlos](#errores)
-19. [Checklist final de control parental](#checklist)
-20. [Preguntas frecuentes](#faq)
-21. [Lecturas relacionadas](#relacionados)
+1.  [Por que el control parental es necesario](#por-que-el-control-parental-es-necesario)
+2.  [Acuerdos familiares antes de configurar](#acuerdos-familiares-antes-de-configurar)
+3.  [Mapa de dispositivos y cuentas](#mapa-de-dispositivos-y-cuentas)
+4.  [Control parental desde el router](#control-parental-desde-el-router)
+5.  [Bloqueo por horarios y rutinas](#bloqueo-por-horarios-y-rutinas)
+6.  [Filtros de contenido con DNS](#filtros-de-contenido-con-dns)
+7.  [Control por aplicaciones y servicios](#control-por-aplicaciones-y-servicios)
+8.  [Android: controles recomendados](#android-controles-recomendados)
+9.  [iOS y iPadOS: tiempos y permisos](#ios-y-ipados-tiempos-y-permisos)
+10. [Windows: perfiles y limites](#windows-perfiles-y-limites)
+11. [macOS: tiempo en pantalla](#macos-tiempo-en-pantalla)
+12. [Consolas y plataformas de juego](#consolas-y-plataformas-de-juego)
+13. [Smart TV y streaming](#smart-tv-y-streaming)
+14. [Estudio, tareas y clases en linea](#estudio-tareas-y-clases-en-linea)
+15. [Privacidad y datos personales](#privacidad-y-datos-personales)
+16. [Como hablar de seguridad con ninos](#como-hablar-de-seguridad-con-ninos)
+17. [Ejemplo de configuracion paso a paso](#ejemplo-de-configuracion-paso-a-paso)
+18. [Errores comunes y como evitarlos](#errores-comunes-y-como-evitarlos)
+19. [Checklist final de control parental](#checklist-final-de-control-parental)
+20. [Preguntas frecuentes](#preguntas-frecuentes)
+21. [Lecturas relacionadas](#lecturas-relacionadas)
 
 
 ## Por que el control parental es necesario

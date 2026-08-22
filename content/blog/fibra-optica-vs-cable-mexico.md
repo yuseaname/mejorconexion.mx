@@ -7,7 +7,7 @@ author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
 author_slug: "roberto-mendoza"
 draft: false
-image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
+image: "/images/generated/m3-fibra-vs-coaxial-vs-inalambrico.webp"
 keywords:
   - "internet lento mexico"
   - "internet mexico 2026"
@@ -39,15 +39,15 @@ La comparación útil entre fibra óptica y cable no es "qué se ve más rápido
 ## Tabla de contenidos
 
 1.  [Qué es fibra óptica y qué es cable](#basico)
-2.  [Diferencias reales: estabilidad, subida y latencia](#diferencias)
+2.  [Diferencias reales: estabilidad, subida y latencia](#diferencias-reales-estabilidad-subida-y-latencia)
 3.  [Horario pico: por qué cambia la experiencia](#horario)
 4.  [Qué conviene según tu uso](#uso)
 5.  [Cómo evaluar tu zona antes de contratar](#zona)
-6.  [Costo real y contrato: lo que casi nadie revisa](#costo)
-7.  [Wi‑Fi interno: la mitad de la experiencia](#wifi)
+6.  [Costo real y contrato: lo que casi nadie revisa](#costo-real-y-contrato-lo-que-casi-nadie-revisa)
+7.  [Wi‑Fi interno: la mitad de la experiencia](#wifi-interno-la-mitad-de-la-experiencia)
 8.  [Tabla comparativa rápida](#tabla)
 9.  [Errores comunes al elegir tecnología](#errores)
-10. [Preguntas frecuentes](#faq)
+10. [Preguntas frecuentes](#preguntas-frecuentes)
 11. [Estado del contenido](#status)
 
 
@@ -65,20 +65,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿La fibra siempre es mejor que el cable en México?" >}}
+En general sí, pero depende de tu zona y la instalación. En algunas colonias el cable puede funcionar mejor si la fibra es nueva o inestable. Lo importante es medir tu experiencia real en horario pico antes de decidir.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cuál es la diferencia que más se nota entre fibra y cable?" >}}
+La estabilidad y la subida. La fibra suele ofrecer subida más alta y constante, y menor latencia, útil para juegos y videollamadas. El cable funciona bien pero es más sensible a la saturación cuando muchos se conectan a la vez.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Pagar más por fibra vale la pena para home office?" >}}
+Sí, porque la subida es clave para videollamadas y subir archivos a la nube. Si compartes pantalla o envías archivos pesados, la fibra suele dar mejor subida y estabilidad, lo que evita que tu imagen se congele.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué hago si mi internet se cae en la noche con cable?" >}}
+Es probable que sea saturación local en horario pico, que en México suele ser de 7 a 11 pm. Haz pruebas de velocidad por cable en ese horario y evalúa migrar a fibra si está disponible en tu calle.
 {{< /faq >}}
 
 

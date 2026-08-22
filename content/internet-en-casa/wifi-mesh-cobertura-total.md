@@ -45,20 +45,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Qué es un sistema Wi-Fi Mesh y en qué se diferencia de un repetidor?" >}}
+Es una red de nodos que trabajan como un solo Wi-Fi coordinado, a diferencia del repetidor que solo retransmite lo que alcanza a oír. El resultado: te mueves por la casa sin cambiarte de red ni perder señal.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Cuándo conviene instalar una malla en casa?" >}}
+Cuando hay zonas muertas, pisos con mala señal o la casa es grande y el router central no llega. Si tu casa es chica y el Wi-Fi llega bien, un mesh es comprar de más.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Cómo diseño bien mi malla: dónde pongo los nodos?" >}}
+Distribuye los nodos para que cada uno alcance al siguiente con señal fuerte, prefiriendo el backhaul por cable entre nodos si es posible. La ubicación importa más que la cantidad de equipos.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Qué presupuesto debo considerar para un mesh?" >}}
+La guía maneja rangos que van desde equipos de entrada hasta sistemas de tres nodos de gama alta, y la inversión depende del tamaño de tu casa. Compra por cobertura necesaria, no por número de nodos.
 {{< /faq >}}
 
 
@@ -70,14 +70,14 @@ Conecta tu computadora por cable Ethernet directo al router y corre una prueba e
 En casa de Luis, la sala vuela y el cuarto del fondo apenas carga WhatsApp. El plan no es malo: el problema es la cobertura. Una malla Wi-Fi bien diseniada elimina esas zonas muertas sin cambiar de proveedor. Aqui tienes la guia completa para hacerlo bien, sin gastar de mas y sin caer en mitos.
 
 
--   [Que es Wi-Fi Mesh y en que se diferencia](#que-es-mesh)
--   [Cuando conviene instalar una malla](#cuando-conviene)
--   [Como diseniar la malla: nodos, backhaul y ubicacion](#diseno-malla)
--   [Como elegir un sistema Mesh](#elegir-mesh)
--   [Instalacion paso a paso y pruebas reales](#instalacion-pruebas)
--   [Errores comunes que bajan el rendimiento](#errores-comunes)
--   [Seguridad, control parental y mantenimiento](#seguridad-mantenimiento)
--   [Casos de uso reales y recomendaciones](#casos-uso)
+-   [Que es Wi-Fi Mesh y en que se diferencia](#que-es-wi-fi-mesh-y-en-que-se-diferencia)
+-   [Cuando conviene instalar una malla](#cuando-conviene-instalar-una-malla)
+-   [Como diseniar la malla: nodos, backhaul y ubicacion](#como-diseniar-la-malla-nodos-backhaul-y-ubicacion)
+-   [Como elegir un sistema Mesh](#como-elegir-un-sistema-mesh)
+-   [Instalacion paso a paso y pruebas reales](#instalacion-paso-a-paso-y-pruebas-reales)
+-   [Errores comunes que bajan el rendimiento](#errores-comunes-que-bajan-el-rendimiento)
+-   [Seguridad, control parental y mantenimiento](#seguridad-control-parental-y-mantenimiento)
+-   [Casos de uso reales y recomendaciones](#casos-de-uso-reales-y-recomendaciones)
 -   [Preguntas frecuentes](#preguntas-frecuentes)
 
 

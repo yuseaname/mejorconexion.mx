@@ -30,20 +30,20 @@ Para más detalle, consulta [/blog/como-elegir-router-wifi-casa-mexico/](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Cómo entro al panel de mi router si nunca lo he hecho?" >}}
+Conéctate a tu red y abre un navegador en 192.168.1.1 o tplinkwifi.net, según la marca. La mayoría de los routers en México vienen con usuario y contraseña admin/admin: cámbialos en tu primera sesión.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Qué es lo primero que debo configurar en un router nuevo?" >}}
+Cambiar el nombre de la red y la contraseña del Wi-Fi, y de paso la contraseña del panel. Después conviene ajustar el canal y activar QoS, pero lo urgente es que nadie más pueda entrar.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Cambiar el canal del Wi-Fi de verdad ayuda?" >}}
+Sí, en edificios con muchas redes vecinas. Si tu canal está saturado por los routers de los vecinos, la velocidad cae aunque el plan sea bueno. Probar canales poco ocupados suele estabilizar la conexión al instante.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Pierdo internet si configuro algo mal?" >}}
+Casi nunca: los routers traen botón de reset que devuelve todo a fábrica, y puedes volver a empezar. Actualizar el firmware es el paso donde conviene no interrumpir la corriente, pero el resto es reversible.
 {{< /faq >}}
 
 

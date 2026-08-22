@@ -159,19 +159,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Qué velocidad es suficiente para las videollamadas de mi papá o abuelo?" >}}
+Con 25 Mbps ya tienes para videollamadas familiares fluidas por WhatsApp, Zoom o Facebook. El plan recomendado es Telmex Infinitum 100 Mbps a $399/mes, que da margen para que nadie más en la casa consuma internet sin que se congele la imagen del nieto.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué la fibra óptica es mejor que el satelital para adultos mayores?" >}}
+La fibra óptica da máxima estabilidad, que es lo que evita que la imagen se congele o el audio se entrecorte en videollamadas. El satelital tiene latencia alta y es sensible al clima, así que solo conviene en zonas rurales donde no llega fibra ni otra infraestructura.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cómo evito que las paredes gruesas dejen sin señal la recámara de mi familiar?" >}}
+Un sistema Wi-Fi Mesh usa varios nodos que se comunican entre sí para crear una sola red en toda la casa, así el adulto mayor no tiene que perseguir la señal. Los repetidores baratos son más económicos pero menos eficientes y crean micro-cortes en las llamadas.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué tengo que configurar para que no lo engañen con fraudes?" >}}
+La guía recomienda usar servicios de DNS que bloqueen sitios maliciosos, instalar antivirus silencioso y crear una cuenta de usuario estándar para evitar que instale programas no deseados. También configurar el router con funciones de seguridad para filtrar publicidad engañosa. Y enseñarle que ningún banco pide claves por WhatsApp.
 {{< /faq >}}
 

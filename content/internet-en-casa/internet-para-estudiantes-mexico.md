@@ -29,20 +29,20 @@ Para más detalle, consulta [internet para home office en México](/internet-en-
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos Mbps necesito para clases en línea?" >}}
+Mínimo 10 Mbps de descarga y 5 Mbps de subida para una videollamada estable. Si otras personas usan la misma red en tu casa, necesitas más. Revisa siempre la velocidad de subida antes de contratar.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Sirve el internet del celular para clases?" >}}
+Para emergencias sí, pero no es recomendable para uso regular. El hotspot consume muchos datos y la conexión es menos estable. Mejor prioriza un plan fijo con buena subida si tus clases dependen de Zoom o Meet.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Vale la pena compartir el plan con compañeros de piso?" >}}
+Sí, casi siempre. Un plan de 200 Mbps compartido entre 4 personas sale mejor que 4 planes individuales de 20 Mbps. Solo asegúrense de poner reglas claras de uso y de coordinar a nombre de quién queda el contrato.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué hago si me voy a mudar pronto?" >}}
+Verifica la cobertura del proveedor en la nueva dirección antes de mudarte, no asumas que llega igual que en tu colonia actual. Si vas a cambiar en menos de 6 meses, revisa si el plan tiene plazo forzoso.
 {{< /faq >}}
 
 

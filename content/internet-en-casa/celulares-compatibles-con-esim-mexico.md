@@ -126,19 +126,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cómo mejoro la señal del Wi-Fi en mi casa?" >}}
-Mueve el router al centro de la casa a 1.5 metros de altura, separa las redes 2.4 GHz y 5 GHz, y cambia a un canal menos saturado. Si la casa tiene más de 80 m² o muros gruesos, considera un sistema mesh.
+{{< faq "¿Todos los teléfonos nuevos tienen eSIM?" >}}
+No. La función depende del modelo, la variante regional y, en algunos casos, del software. Confirma en la documentación oficial del equipo específico, no en listas genéricas de modelos que pueden inducir a error por región.
 {{< /faq >}}
 
-{{< faq "¿Vale la pena comprar un router propio en lugar del del proveedor?" >}}
-Sí, especialmente si tienes más de 10 dispositivos o un plan de más de 200 Mbps. Un router Wi-Fi 6 propio ($1,200-$3,500 MXN) ofrece mejor cobertura, más estabilidad y funciones que el router básico del proveedor no tiene.
+{{< faq "¿El EID confirma que mi operador me dará eSIM?" >}}
+El EID identifica el componente eSIM del dispositivo, pero no reemplaza la confirmación del operador sobre su soporte para tu línea y plan. Pregunta específicamente si admite eSIM para migración, reposición o línea nueva.
 {{< /faq >}}
 
-{{< faq "¿Mesh o repetidor Wi-Fi?" >}}
-Mesh es mejor para casas grandes (>120 m²) o de dos pisos porque crea una sola red sin cortes. Los repetidores son más baratos ($300-$600 MXN) pero crean una red separada y reducen la velocidad a la mitad.
+{{< faq "¿Puedo usar eSIM con un celular comprado fuera de México?" >}}
+Puede ser posible, pero debes confirmar variante regional, desbloqueo, bandas, soporte del operador y requisitos de activación. No compres un plan basándote solo en que el teléfono sea de la misma familia comercial que el tuyo.
 {{< /faq >}}
 
-{{< faq "¿Wi-Fi 5 o Wi-Fi 6?" >}}
-Wi-Fi 6 ofrece hasta 40% más rendimiento real con muchos dispositivos conectados. Si tienes más de 10 dispositivos o un plan de 300+ Mbps, el cambio a Wi-Fi 6 vale la pena.
+{{< faq "¿Qué necesito para activar la eSIM?" >}}
+Ten una conexión Wi-Fi estable o una conexión alternativa, y pregunta si el proceso usa QR, aplicación, notificación del operador o datos manuales. Guarda las instrucciones del proveedor y evita compartir el código de activación.
 {{< /faq >}}
 

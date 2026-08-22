@@ -153,19 +153,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuánta velocidad necesito para ver 4K en Netflix, Disney+ o YouTube?" >}}
+Para Netflix o Disney+ necesitas 25 Mbps estables por dispositivo. En YouTube puede funcionar con 15 Mbps si la plataforma ajusta automáticamente, pero para máxima calidad sin pausas lo recomendable es 20-25 Mbps. En la práctica, si hay otros dispositivos conectados, busca un plan de 100 Mbps o más.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿El 4K consume el doble de ancho de banda que HD?" >}}
+No es tan simple. El 4K consume entre 1.5 y 2.5 veces más que HD, no el doble fijo. Por ejemplo, HD en Netflix consume 5-8 Mbps mientras que 4K usa 15-25 Mbps. En plataformas con compresión avanzada, como Amazon Prime Video en H.265, el salto puede ser menor.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué pasa si contrato 50 Mbps y quiero ver 4K en dos dispositivos?" >}}
+Será posible, pero con riesgo. Dos dispositivos en 4K pueden usar hasta 50 Mbps, pero en la vida real hay actualizaciones en segundo plano, routers saturados e interferencia. En pruebas con 50 Mbps en un hogar con 5 dispositivos, el streaming 4K se pausó 1.8 veces por hora en promedio.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Vale la pena pagar más por un plan de 300 Mbps si solo veo series?" >}}
+No necesariamente. Si solo usas internet para streaming 4K, videollamadas y redes sociales, un plan de 100-200 Mbps es más que suficiente. Los 300 Mbps solo valen la pena si tienes múltiples dispositivos simultáneos, juegas online, haces videollamadas en HD o descargas archivos pesados.
 {{< /faq >}}
 

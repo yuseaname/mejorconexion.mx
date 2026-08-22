@@ -52,20 +52,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Qué importa más para jugar en línea: megas o estabilidad?" >}}
+Estabilidad, por mucho. Un ping bajo y constante gana partidas; los megas de bajada casi nunca son el cuello de botella del gaming. La idea clave de la guía es priorizar latencia y jitter sobre velocidad bruta.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Qué es el jitter y por qué me afecta en el juego?" >}}
+Es la variación del ping: si tu latencia salta de estable a picos, el juego se siente entrecortado aunque el promedio parezca bueno. El jitter bajo es lo que hace que tu conexión se sienta sólida en partida.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué es el bufferbloat y cómo me perjudica?" >}}
+Es cuando tu subida saturada arrastra el ping de todo lo demás: alguien sube un archivo y tu juego se congela. Se mitiga con QoS en el router para priorizar el tráfico del juego.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cuántos Mbps de subida necesita un gamer?" >}}
+Más de lo que crees: la subida sostiene tu posición y acciones en el juego. La guía dedica una sección completa a la subida y el bufferbloat porque son los factores que más quejas de lag explican.
 {{< /faq >}}
 
 

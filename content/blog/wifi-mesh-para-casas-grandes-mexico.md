@@ -38,12 +38,12 @@ Si tu casa tiene zonas muertas, un Wi‑Fi mesh puede ser la mejor solución. Aq
 
 1.  [Qué es Wi‑Fi mesh](#que-es)
 2.  [Cuándo conviene usar mesh](#cuando)
-3.  [Mesh vs repetidores: diferencias reales](#diferencias)
+3.  [Mesh vs repetidores: diferencias reales](#mesh-vs-repetidores-diferencias-reales)
 4.  [Cómo colocar los nodos correctamente](#colocacion)
 5.  [Backhaul: por qué importa](#backhaul)
-6.  [Mesh no arregla un plan insuficiente](#plan)
-7.  [Errores comunes al instalar mesh](#errores)
-8.  [Preguntas frecuentes](#faq)
+6.  [Mesh no arregla un plan insuficiente](#mesh-no-arregla-un-plan-insuficiente)
+7.  [Errores comunes al instalar mesh](#errores-comunes-al-instalar-mesh)
+8.  [Preguntas frecuentes](#preguntas-frecuentes)
 9.  [Estado del contenido](#status)
 
 
@@ -66,20 +66,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos nodos mesh necesito para mi casa?" >}}
+Depende del tamaño y las paredes. Un departamento mediano suele bastar con 1 o 2 nodos, una casa de dos pisos con 2 o 3, y una casa grande con muros gruesos requiere 3 o más. Si hay muchas paredes de concreto, necesitarás más nodos o backhaul por cable.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿El mesh reduce la velocidad de mi internet?" >}}
+Si el backhaul es inalámbrico, puede reducir un poco porque comparte ancho de banda con tus dispositivos. Con backhaul por cable, la pérdida es mínima y la conexión entre nodos es más estable. Si puedes cablear los nodos, hazlo.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Vale la pena el mesh en un departamento?" >}}
+Solo si hay zonas muertas. Si el router actual cubre bien todo el espacio, no es necesario. El mesh es ideal para casas grandes o de dos pisos, o cuando hay paredes gruesas o muchas divisiones que bloquean la señal.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Por qué un repetidor no basta para una casa grande?" >}}
+Los repetidores suelen crear una red separada y pueden cortar la velocidad a la mitad en cada salto. En cambio, el mesh crea una sola red continua y reduce los cambios de señal al moverte, por lo que es más estable a largo plazo para cubrir toda la casa.
 {{< /faq >}}
 
 

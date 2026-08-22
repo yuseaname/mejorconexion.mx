@@ -31,20 +31,20 @@ Para más detalle, consulta [cómo [mejorar tu Wi-Fi](/blog/como-mejorar-wifi-en
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Cómo sé que ya necesito cambiar de router?" >}}
+Señales claras: Wi-Fi que se cae con varios dispositivos, esquinas de casa sin señal, o velocidades muy por debajo del plan incluso cerca del router. Un router que no aguanta tu casa actual te está cobrando la diferencia en frustración.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Cuánto conviene gastar en un router en México?" >}}
+Depende del tamaño de tu casa y tu plan: la guía maneja rangos de presupuesto desde equipos básicos hasta sistemas completos, y lo importante es empatar la inversión con los megas que realmente pagas.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Mejor un router potente o un sistema mesh?" >}}
+Casa chica o planta única: un buen router basta. Casa grande o de varios pisos con zonas muertas: mesh, porque varios nodos coordinados cubren mejor que un solo equipo por potente que sea.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Qué errores cometen los compradores de routers?" >}}
+Comprar por marca y no por necesidad, ignorar el estándar Wi-Fi del equipo, y poner el router donde estorba menos y no donde cubre mejor. La ubicación vale tanto como el hardware.
 {{< /faq >}}
 
 

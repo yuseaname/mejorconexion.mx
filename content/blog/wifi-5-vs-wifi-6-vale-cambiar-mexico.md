@@ -30,20 +30,20 @@ Para más detalle, consulta [comparar routers Wi-Fi 6](/blog/mejores-routers-wif
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cómo sé si mis dispositivos soportan WiFi 6?" >}}
+Revisa las especificaciones oficiales de tu dispositivo. Si dice "802.11ax" o "WiFi 6", lo soporta. En general, el iPhone 11 o posterior y el Samsung Galaxy S10+ o posterior lo incluyen, mientras que las laptops anteriores a 2019 y las Smart TV anteriores a 2020 probablemente no.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿WiFi 6 es más rápido que WiFi 5?" >}}
+En condiciones ideales sí, pero para la mayoría de usos como streaming y navegación la diferencia no es perceptible. La mejora real se ve cuando hay muchos dispositivos conectados, porque WiFi 6 gestiona mejor 15-30 dispositivos simultáneos sin degradación.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿WiFi 6 mejora la cobertura de mi casa?" >}}
+No exactamente. El alcance es similar al de WiFi 5. La ventaja es que WiFi 6 mantiene mejor la velocidad en los bordes de la cobertura, donde WiFi 5 degrada más la señal, así que en zonas límite notarás menos pérdida de rendimiento.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cuándo NO me conviene cambiar a WiFi 6?" >}}
+No cambies si tu casa es pequeña de 1-2 recámaras y el WiFi llega bien, si todos tus dispositivos son viejos y no lo soportan, si tu internet es de 50 Mbps o menos (WiFi 5 basta) o si tu router funciona bien y tiene menos de 3 años.
 {{< /faq >}}
 
 

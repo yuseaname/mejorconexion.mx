@@ -489,19 +489,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cómo decido cuántos Mbps necesito en mi casa sin pagar de más?" >}}
+Define primero tu perfil de consumo. Para 1-2 personas con redes y videos HD, 80-150 Mbps; familia de 3-6 con streaming diario, 200-350 Mbps; y si hay home office pesado o gaming, 350-600+ Mbps con foco en estabilidad. No contrates por miedo a quedarte corto.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué la cobertura por colonia es el filtro más importante?" >}}
+Porque un proveedor puede funcionar excelente en una zona y mediocre en otra. No decidas por campañas nacionales: valida disponibilidad por calle y número, tipo de tecnología instalada, tiempo de instalación y desempeño local. Si no hay buena cobertura, todo lo demás deja de importar.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cómo calculo el costo real mensual sin caer en promos engañosas?" >}}
+Suma los meses con precio promocional, los meses sin promo, instalación o activación, equipo/módem/router y penalización por cancelación anticipada. Divide todo entre el número de meses del periodo. Así comparas proveedores sobre el mismo terreno y evitas sorpresas.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué pesa más para mi decisión: velocidad o latencia?" >}}
+Depende de tu uso. Para streaming casual pesa más la velocidad; para videollamadas y gaming pesan más la latencia y estabilidad. En el scorecard puedes ponderar según tu perfil: home office duplica estabilidad y soporte, familia pesa velocidad y cobertura, presupuesto el precio final.
 {{< /faq >}}
 

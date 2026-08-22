@@ -30,20 +30,20 @@ Para más detalle, consulta [/blog/internet-para-netflix-mexico-2026/](/blog/int
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos Mbps necesito para que Roku o Fire TV no hagan buffering?" >}}
+Con 25-50 Mbps estables tienes para 4K; para HD bastan 10-25 Mbps. El plan casi nunca es el problema real: la guía avisa que el WiFi débil entre el router y la TV sí lo es. Infinitum 100 Mbps ($399/mes) o Izzi 200 Mbps ($449/mes) cubren de sobra.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué mi Roku se ve borroso y luego se aclara solo?" >}}
+Porque Netflix y otras plataformas ajustan la calidad según el ancho de banda disponible. Si tu conexión fluctúa por WiFi débil o congestión, la imagen cambia de resolución en plena película. Mejora la estabilidad o conecta por cable para detener ese baile.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Vale la pena comprar un adaptador Ethernet para el Fire TV Stick?" >}}
+Mucho. Un cable Ethernet de $80-$150 MXN elimina el 90% de los problemas de buffering, según la guía. Un adaptador para Fire TV cuesta $150-$250 MXN en Mercado Libre. Es la solución más barata y efectiva si tu TV está lejos del router o la casa es grande.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Puedo usar Roku con el hotspot de mi celular?" >}}
+Puedes, pero consume datos rapidísimo. Una hora de Netflix en 1080p gasta unos 3 GB, y una película en 4K consume 7+ GB. Si tu plan de datos tiene límite, mejor usa el internet de la casa y deja el hotspot solo para emergencias.
 {{< /faq >}}
 
 

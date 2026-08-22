@@ -29,20 +29,20 @@ Para más detalle, consulta [fibra vs coaxial en México](/internet-en-casa/fibr
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos Mbps necesito para home office?" >}}
+Mínimo 25 Mbps de descarga y 5 Mbps de subida. Para videollamadas HD simultáneas con otros usuarios en casa, 50+ Mbps de descarga y 10+ de subida. La subida es lo más crítico para trabajo remoto.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Sirve el cable coaxial para trabajo remoto?" >}}
+Puede funcionar, pero la subida limitada y la inestabilidad en horario pico pueden causar problemas en videollamadas. Si haces muchas reuniones, prioriza fibra con mejor velocidad de subida.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Debo conectar mi computadora por cable Ethernet?" >}}
+Sí, siempre que sea posible. El cable elimina latencia, jitter y pérdida de paquetes que el Wi-Fi añade. Para trabajo remoto es la diferencia entre una reunión fluida y una frustrante.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cómo evito que el streaming de mi familia corte mis videollamadas?" >}}
+Activa QoS (Calidad de Servicio) en tu router para priorizar el tráfico de videollamadas. También considera un plan de respaldo como hotspot móvil o 4G fijo para emergencias si tu trabajo depende del internet.
 {{< /faq >}}
 
 

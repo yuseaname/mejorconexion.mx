@@ -466,19 +466,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cómo valido la cobertura real antes de cotizar con Izzi, Totalplay o Telmex?" >}}
+No confíes en campañas nacionales: confirma disponibilidad por código postal, calle y número en el sitio de cada uno. Pregunta si la instalación será por fibra óptica, cuánto tarda y si el módem/router va incluido. La prueba por domicilio manda más que la marca.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué Totalplay suele ser mejor para gaming que Izzi?" >}}
+Por la latencia: Totalplay fibra va de 5-12 ms, mientras Izzi en cable ronda 25-35 ms. La guía dice que para gaming online priorizas latencia estable y menor jitter, no megas. Un plan con latencia variable te arruina partidas aunque tengas alta velocidad.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cómo calculo el costo real de 12 meses y no solo la promo?" >}}
+Suma los meses con precio promocional, los meses a precio de lista, instalación o activación, renta de equipo y penalización por cancelación anticipada. Divide el total entre 12. Así comparas proveedores en el mismo terreno y evitas que una promo barata salga cara.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué hago si el servicio no cumple la velocidad contratada?" >}}
+Documenta mediciones con la herramienta oficial del IFT, abre folio con el proveedor y guarda el número de reporte. Da oportunidad de corrección y, si no se resuelve, escala por el canal de conciliación de PROFECO en Concilianet. Tener evidencia te da respaldo para reclamar.
 {{< /faq >}}
 

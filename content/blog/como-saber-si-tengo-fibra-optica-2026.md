@@ -30,20 +30,20 @@ Para más detalle, consulta [/blog/fibra-optica-vs-cable-mexico/](/blog/fibra-op
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cómo distingo el cable de fibra del coaxial con solo mirarlo?" >}}
+Si el cable que entra a tu casa es delgado, blanco o amarillo y parece hilo de pescar, es fibra óptica. Si es un cable negro y grueso con conector metálico tipo TV por cable, es cable coaxial.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Qué hago si mi velocidad de subida es muy baja?" >}}
+Si la subida es casi igual a la descarga, como 200/200, tienes fibra simétrica. Si es mucho menor, como 50/2, es cable coaxial o cobre. Conecta por cable Ethernet al router y haz la prueba para confirmar.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Puedo pedir que cambien mi cable por fibra?" >}}
+Sí, si tu proveedor tiene fibra en tu zona. Llama y pide la migración, que puede requerir una visita técnica. Si tienes cobre o coaxial y hay fibra disponible, el cambio suele ser gratis o de bajo costo.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Si tengo Totalplay, siempre es fibra?" >}}
+Casi siempre sí, porque Totalplay instala principalmente fibra óptica. Pero en zonas muy específicas puede usar otra tecnología. Confirma llamando a tu proveedor y preguntando qué tecnología tienen en tu domicilio.
 {{< /faq >}}
 
 

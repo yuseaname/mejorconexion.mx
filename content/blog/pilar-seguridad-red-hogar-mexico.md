@@ -48,20 +48,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cómo mejoro la señal del Wi-Fi en mi casa?" >}}
-Mueve el router al centro de la casa a 1.5 metros de altura, separa las redes 2.4 GHz y 5 GHz, y cambia a un canal menos saturado. Si la casa tiene más de 80 m² o muros gruesos, considera un sistema mesh.
+{{< faq "¿Necesito comprar un router caro para estar seguro?" >}}
+No. Un router decente y bien configurado es suficiente para la mayoría de hogares. Cambiar la contraseña del Wi-Fi, apagar WPS y separar el IoT en una red de invitados son pasos con mayor impacto que gastar en equipo caro.
 {{< /faq >}}
 
-{{< faq "¿Vale la pena comprar un router propio en lugar del del proveedor?" >}}
-Sí, especialmente si tienes más de 10 dispositivos o un plan de más de 200 Mbps. Un router Wi-Fi 6 propio ($1,200-$3,500 MXN) ofrece mejor cobertura, más estabilidad y funciones que el router básico del proveedor no tiene.
+{{< faq "¿El DNS seguro reemplaza antivirus?" >}}
+No. Ayuda a bloquear sitios peligrosos y a filtrar contenido, pero no reemplaza la protección en tus dispositivos. El DNS es una capa adicional, no el único escudo. Combínalo con dispositivos actualizados y buenos hábitos.
 {{< /faq >}}
 
-{{< faq "¿Mesh o repetidor Wi-Fi?" >}}
-Mesh es mejor para casas grandes (>120 m²) o de dos pisos porque crea una sola red sin cortes. Los repetidores son más baratos ($300-$600 MXN) pero crean una red separada y reducen la velocidad a la mitad.
+{{< faq "¿Cada cuánto debo cambiar la contraseña?" >}}
+No es necesario cambiarla cada semana, pero sí cuando compartiste demasiado o detectaste intrusos. Una contraseña larga y única del Wi-Fi aguanta bien en el tiempo. Cambia también el usuario del administrador del router.
 {{< /faq >}}
 
-{{< faq "¿Wi-Fi 5 o Wi-Fi 6?" >}}
-Wi-Fi 6 ofrece hasta 40% más rendimiento real con muchos dispositivos conectados. Si tienes más de 10 dispositivos o un plan de 300+ Mbps, el cambio a Wi-Fi 6 vale la pena.
+{{< faq "¿La red de invitados reduce velocidad?" >}}
+No necesariamente. De hecho puede mejorar la estabilidad porque separa el tráfico. Al aislar el IoT y las visitas en una red de invitados, evitas que dispositivos vulnerables consuman recursos o abran puertas a tus equipos importantes.
 {{< /faq >}}
 
 

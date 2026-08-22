@@ -32,11 +32,11 @@ Si tu internet "se pone lento" de repente, no siempre es culpa del plan. Puede s
 3.  [Horario pico y saturación local](#horario)
 4.  [Wi‑Fi: el cuello de botella más frecuente](#wifi)
 5.  [El router y la instalación importan más de lo que crees](#router)
-6.  [Demasiados dispositivos al mismo tiempo](#dispositivos)
+6.  [Demasiados dispositivos al mismo tiempo](#demasiados-dispositivos-al-mismo-tiempo)
 7.  [Diagnóstico rápido paso a paso](#diagnostico)
 8.  [Soluciones reales según el problema](#soluciones)
 9.  [Cuándo cambiar de plan o proveedor](#cambiar)
-10. [Preguntas frecuentes](#faq)
+10. [Preguntas frecuentes](#preguntas-frecuentes)
 11. [Estado del contenido](#status)
 
 
@@ -63,20 +63,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Por qué mi internet se pone lento por la noche?" >}}
+Por el horario pico: cuando todo el vecindario se conecta a la vez, la infraestructura compartida se satura y tu velocidad baja aunque tu red interna esté perfecta. Es la causa más común de lentitud nocturna.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Cómo sé si el problema es mi Wi-Fi y no mi plan?" >}}
+Haz una prueba de velocidad conectado por cable directamente al módem y otra por Wi-Fi. Si el cable llega cerca de lo contratado y el Wi-Fi no, el culpable es tu red inalámbrica: canal, distancia o router viejo.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Un router antiguo puede frenar un plan moderno?" >}}
+Sí, y es más común de lo que crees: un router de hace años no maneja las velocidades de los planes actuales de fibra. La instalación y el equipo importan tanto como el plan que pagas.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Cuándo la lentitud sí es culpa del proveedor?" >}}
+Cuando las pruebas por cable, en diferentes horarios, siguen por debajo de lo contratado y los reportes no se resuelven. Ahí toca documentar evidencia y escalar la queja.
 {{< /faq >}}
 
 

@@ -164,19 +164,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos Mbps necesito si soy estudiante y vivo solo?" >}}
+Si en tu casa solo hay un estudiante, con 50 Mbps puedes cubrir clases virtuales, tareas y streaming. Si además alguien más usa la conexión al mismo tiempo, lo ideal es un plan que supere los 100 Mbps para que el tráfico de clases no se vea afectado.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Existen descuentos especiales para estudiantes universitarios?" >}}
+La neta es que en México no hay planes con descuento exclusivo por presentar credencial como en otros países. Pero en temporada de regreso a clases (agosto-enero) suelen haber promociones agresivas, y algunas universidades tienen convenios corporativos con Telmex o Totalplay. Pregunta en tu escuela.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Puedo contratar internet si rento un cuarto y no está a mi nombre?" >}}
+Sí, pero depende del proveedor. Izzi y Totalplay suelen pedir comprobante de domicilio y una identificación oficial; si tu contrato de renta está a tu nombre no hay problema. Si no, pídele a tu casero que lo contrate o usa Virgin Mobile, que no necesita instalación ni comprobante fijo.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Totalplay o Izzi es mejor para gaming?" >}}
+Si tienes fibra óptica disponible, Totalplay gana por goleada: su latencia es menor y la conexión es más estable. Izzi funciona para gaming casual, pero en horas pico el cable compartido puede generar picos de lag. Para clases en línea, ambos sirven si la subida alcanza.
 {{< /faq >}}
 

@@ -127,19 +127,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Qué necesito reunir antes de activar mi eSIM?" >}}
+Reúne el modelo exacto del equipo con confirmación de compatibilidad, la línea o plan que vas a activar, las instrucciones oficiales del operador, Wi-Fi estable o una conexión de respaldo, y acceso a tu correo o app del operador. Si estás migrando, conserva la línea anterior hasta terminar las pruebas.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Qué hago si no me aparece la opción de eSIM?" >}}
+Revisa modelo, región, versión de software y compatibilidad oficial. No asumas que todos los equipos de una misma familia tienen la misma configuración. Si todavía no confirmas el teléfono, revisa la guía de celulares compatibles con eSIM en México antes de continuar.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué hago si el código QR no se puede escanear o ya no funciona?" >}}
+No pruebes códigos ajenos ni reutilices uno de otra persona. Confirma con el operador si el código sigue vigente o si debe emitir otro. Ten Wi-Fi activo si el proceso lo requiere, ya que algunos perfiles se descargan por esa vía.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué reviso si la eSIM se instaló pero no hay datos?" >}}
+Comprueba que esa línea esté seleccionada para datos, que el plan esté activo y que el teléfono tenga señal. Si el proveedor indica ajustes adicionales, usa sus instrucciones oficiales. No inventes valores de red; solicita instrucciones nuevas al operador.
 {{< /faq >}}
 

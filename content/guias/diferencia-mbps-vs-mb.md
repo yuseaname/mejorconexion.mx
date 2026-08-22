@@ -29,20 +29,20 @@ Para más detalle, consulta [calcular Mbps necesarios](/blog/cuanta-velocidad-in
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Por qué mi proveedor anuncia en Mbps y no en MB/s?" >}}
+Porque el número se ve más grande: 100 Mbps suena más impresionante que 12.5 MB/s. Es una práctica estándar en todo el mundo, no exclusiva de México. Mbps mide velocidad de internet y MB mide tamaño de archivo, son unidades distintas para lo mismo.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cómo sé si recibo la velocidad que pago?" >}}
+Mide por cable Ethernet, con todo cerrado. Si el resultado se acerca al 80% o más de tu plan, está bien. Si tu plan dice 100 Mbps y la descarga muestra 12 MB/s, todo está funcionando bien: no te están dando menos, solo ves la misma velocidad en unidades distintas.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿1 Gbps es lo mismo que 1000 Mbps?" >}}
+Sí. Gbps significa gigabits por segundo y equivale a 1000 Mbps. Es la misma conversión que ya conoces: si divides entre 8, un plan de 1 Gbps te da 125 MB/s de descarga real aproximada.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Los MB de mi plan de celular son lo mismo?" >}}
+No. Los gigabytes de tu plan móvil son de almacenamiento o consumo de datos, no de velocidad. Si tu plan tiene 10 GB, significa que puedes descargar o subir 10 gigabytes de datos en el mes, no que navegas a esa velocidad.
 {{< /faq >}}
 
 

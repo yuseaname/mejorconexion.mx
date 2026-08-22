@@ -45,20 +45,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuánto consume una hora de video en datos móviles?" >}}
+Depende de la calidad: un video en calidad baja gasta 300-500 MB por hora, mientras que en HD consume 1-3 GB por hora. Es lo que más se lleva de tu plan, así que conviene bajar la calidad cuando estás en datos móviles.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué se gastan mis datos aunque no use el teléfono?" >}}
+Porque muchas apps consumen en segundo plano: actualizaciones, respaldos y sincronizaciones gastan MB sin que lo notes. En la configuración del celular puedes limitar los datos en segundo plano o activar el modo ahorro para reducir ese gasto.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué significa la política de uso justo en planes ilimitados?" >}}
+En México muchos planes se anuncian como ilimitados, pero incluyen una política de uso justo: después de cierto consumo la velocidad baja. No es un engaño, pero siempre revisa cuántos GB reales tienes a velocidad completa antes de confiar en el anuncio.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cómo ahorro datos móviles sin sufrir?" >}}
+Desactiva el autoplay de videos en redes sociales, baja la calidad de video cuando estés en datos, descarga música o mapas en Wi-Fi y activa el modo ahorro de datos. Esos ajustes suelen reducir el consumo sin cambiar de forma drástica tus hábitos.
 {{< /faq >}}
 
 

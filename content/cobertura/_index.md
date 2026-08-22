@@ -1,6 +1,7 @@
 ---
 title: "Cobertura por ciudad"
 date: 2026-01-01
+image: "/images/generated/m5-mapa-cobertura.webp"
 description: ""
 draft: false
 ---

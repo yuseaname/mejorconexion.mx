@@ -6,7 +6,7 @@ author: "Ing. Roberto Mendoza"
 author_bio: "Ingeniero en telecomunicaciones (ESME-IPN) con 15 años en redes FTTH y optimización Wi-Fi."
 author_slug: "roberto-mendoza"
 draft: false
-image: "/images/generated/mejorconexion-mx-internet-en-casa-fibra-vs-coaxial-mexico-index-html-hero-575bb60a.webp"
+image: "/images/generated/m3-fibra-vs-coaxial-vs-inalambrico.webp"
 keywords:
   - "internet lento mexico"
   - "internet mexico 2026"
@@ -29,20 +29,20 @@ Para más detalle, consulta [Starlink vs fibra óptica en México 2026](/interne
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿El internet inalámbrico es más lento que la fibra?" >}}
+Generalmente sí. El 4G entrega 10-50 Mbps reales en condiciones normales, mientras que la fibra entrega 100-1000 Mbps con mejor estabilidad y menor latencia. Para videollamadas y gaming, la latencia de 30-80 ms del 4G se nota frente a los 5-20 ms de la fibra.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Puedo tener fibra e inalámbrico fijo a la vez?" >}}
+Sí, y es una buena estrategia de respaldo. Usa la fibra como conexión principal y un módem 4G como respaldo para emergencias. Es especialmente útil si trabajas desde casa y no puedes permitirte quedarte sin servicio cuando el proveedor falla.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿El 5G cambia la comparación entre fibra e inalámbrico?" >}}
+El 5G puede acercar la velocidad del inalámbrico a la de la fibra, pero solo si hay una antena 5G cerca de tu casa. En México, la cobertura 5G aún es limitada fuera de las zonas urbanas principales, así que la fibra sigue siendo la opción más confiable.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cuál elijo si ambos llegan a mi casa?" >}}
+Si ambos llegan a tu domicilio, elige fibra: es más rápida, más estable y con mejor latencia. El inalámbrico fijo conviene cuando no hay fibra ni cable, necesitas internet en días sin esperar instalación, o quieres flexibilidad para mudar el servicio.
 {{< /faq >}}
 
 

@@ -48,20 +48,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Por qué mi celular marca 5G pero los datos van lentos?" >}}
+Porque la señal 5G indica que tu celular detecta la red, pero no garantiza que estés en el 5G de mayor capacidad. En México 2026 hay zonas con 5G "ligero" que funciona parecido a 4G y redes NSA que reutilizan torres 4G.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Mi plan puede limitar la velocidad de mis datos 5G?" >}}
+Sí. Muchos planes tienen políticas de uso justo: si ya consumiste cierto número de GB, la velocidad baja aunque tengas "datos ilimitados". Por eso es importante conocer tu consumo real antes de culpar a la cobertura o a tu equipo.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Por qué mi 5G va lento en casa pero bien en la calle?" >}}
+El 5G es más sensible a paredes y materiales que el 4G. En interiores la señal pierde fuerza y velocidad. Si en casa va lento, la solución práctica es usar Wi-Fi para consumo pesado y reservar los datos móviles para cuando estés fuera.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué información le doy al operador cuando reporto datos 5G lentos?" >}}
+Lleva ubicación aproximada, horarios, resultados de pruebas de velocidad y el modelo de tu celular. Con datos claros el soporte tiene más oportunidad de ayudarte y puede confirmar si hay mantenimiento o congestión temporal en tu zona.
 {{< /faq >}}
 
 

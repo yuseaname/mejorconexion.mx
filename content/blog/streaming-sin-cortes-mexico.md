@@ -28,14 +28,14 @@ El streaming se corta por tres razones principales: velocidad real insuficiente,
 ## Tabla de contenidos
 
 1.  [Por qué se corta el streaming](#basico)
-2.  [Velocidad real vs velocidad contratada](#velocidad)
+2.  [Velocidad real vs velocidad contratada](#velocidad-real-vs-velocidad-contratada)
 3.  [HD vs 4K: qué cambia en consumo](#hd-4k)
 4.  [Wi‑Fi y ubicación del router](#wifi)
 5.  [Horario pico y saturación local](#horario)
 6.  [Dispositivos simultáneos](#dispositivos)
-7.  [Ajustes simples que mejoran el streaming](#config)
+7.  [Ajustes simples que mejoran el streaming](#ajustes-simples-que-mejoran-el-streaming)
 8.  [Cuándo cambiar de plan o proveedor](#proveedor)
-9.  [Preguntas frecuentes](#faq)
+9.  [Preguntas frecuentes](#preguntas-frecuentes)
 10. [Estado del contenido](#status)
 
 
@@ -53,20 +53,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Por qué el streaming se ve borroso aunque tengo buen plan?" >}}
+El sistema baja la calidad cuando detecta inestabilidad. No siempre es falta de velocidad, puede ser Wi-Fi. Si el video se pausa o baja de calidad, prueba medir la velocidad por cable y luego por Wi-Fi para identificar si el problema es tu red local.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cuántos Mbps necesito para ver streaming?" >}}
+Depende de cuántas pantallas y si es HD o 4K. Una sola pantalla en HD suele funcionar con un plan medio si es estable, mientras que 4K o varias pantallas necesitan más capacidad y buen Wi-Fi. Más pantallas requieren más estabilidad y mejor red interna.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Por qué el streaming se corta solo por la noche?" >}}
+Es típico de saturación local en horario pico, de 7 a 11 pm, cuando la red de tu zona se satura. Para confirmarlo, haz una prueba por cable a las 9 pm y otra a las 10 am. Si hay mucha diferencia, el problema es externo.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Un repetidor WiFi me quita los cortes al transmitir?" >}}
+Ayuda a la cobertura, pero no aumenta la velocidad real. Para casas grandes, un mesh suele funcionar mejor, ya que distribuye la señal y evita zonas muertas, lo que mejora el streaming más que subir de plan. Si el problema es cobertura, el mesh es la solución.
 {{< /faq >}}
 
 

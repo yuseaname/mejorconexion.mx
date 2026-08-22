@@ -29,20 +29,20 @@ Para más detalle, consulta [fibra vs coaxial en México](/internet-en-casa/fibr
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos Mbps necesito para Netflix 4K?" >}}
+Mínimo 15 Mbps, pero se recomiendan 25 Mbps por dispositivo para que no baje la calidad si alguien más usa la red. En HD basta con 5 a 10 Mbps. Estos números son por cada pantalla activa.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿La fibra evita el buffering nocturno?" >}}
+Sí. La fibra óptica sufre menos el buffering de 8 a 11 PM que el cable coaxial, que se satura por la congestión del nodo en horario pico. Por eso la fibra se siente más estable en la noche.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cómo elimino el buffering si mi plan ya tiene suficientes megas?" >}}
+Conecta tu TV o consola por cable Ethernet, usa la banda de 5 GHz y revisa que nadie esté descargando algo pesado mientras ves streaming. Si por cable va perfecto pero por Wi-Fi se traba, el problema es la señal inalámbrica.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Por qué se ve bien de día y mal en la noche?" >}}
+Es congestión del proveedor o de tu Wi-Fi, porque por la noche hay más vecinos conectados. Si pasa todas las noches, considera cambiar de proveedor o revisar que tu plan aguante el horario pico de 8 a 10 PM.
 {{< /faq >}}
 
 

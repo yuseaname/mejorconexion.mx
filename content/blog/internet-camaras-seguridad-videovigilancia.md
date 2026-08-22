@@ -30,20 +30,20 @@ Para más detalle, consulta [/blog/internet-casa-inteligente-mexico-2026/](/blog
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuánto consume de internet una cámara de seguridad?" >}}
+Una cámara 1080p consume 2-4 Mbps constante mientras graba en la nube, y puede gastar 50-100 GB al mes. Con 4 cámaras grabando 24/7, ya se van 8-16 Mbps solo en cámaras de tu plan.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cómo evito que las cámaras saturen mi red?" >}}
+Usa detección de movimiento en lugar de grabación 24/7 en la nube, conecta las cámaras en 2.4 GHz y usa un NVR o DVR local para grabar sin consumir internet. Un router con QoS también ayuda a priorizar otros dispositivos.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué plan de internet necesito para mis cámaras?" >}}
+Para 3-4 cámaras 1080p grabando en la nube necesitas 100+ Mbps, y para 5-8 cámaras unos 200+ Mbps. Si usas almacenamiento local con detección de movimiento, con un plan de 50+ Mbps es suficiente.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Las cámaras funcionan si se cae el internet?" >}}
+Depende. Si graban en la nube, pierden la capacidad de grabar remotamente cuando falla la conexión. Si tienen almacenamiento local, como tarjeta SD o NVR, siguen grabando localmente sin depender del internet.
 {{< /faq >}}
 
 

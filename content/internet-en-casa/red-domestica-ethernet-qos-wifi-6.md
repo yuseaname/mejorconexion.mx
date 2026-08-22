@@ -41,20 +41,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Necesito cableado en toda la casa?" >}}
+No. Cablear solo donde más lo necesitas ya mejora mucho. Prioriza la PC de home office, la consola y la TV principal por cable Ethernet. Deja solo celulares y tablets en Wi-Fi para reducir la saturación.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cat6 vale la pena sobre Cat5e?" >}}
+Si estás cableando desde cero, Cat6 es buena inversión por mejor blindaje y menor interferencia. Si ya tienes Cat5e en buen estado, puedes mantenerlo porque soporta hasta 1 Gbps en distancias normales.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿QoS realmente ayuda?" >}}
+Si hay varias personas conectadas al mismo tiempo, sí. Prioriza tráfico sensible como videollamadas y gaming sobre descargas y actualizaciones de fondo. Muchos routers permiten asignar prioridad por dispositivo o por tipo de tráfico.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Necesito un switch gestionable?" >}}
+Si solo quieres más puertos, un switch simple basta. Si quieres VLAN o control avanzado, un switch gestionable es mejor. Para separar dispositivos IoT de tu red principal, las VLAN ayudan a mejorar seguridad.
 {{< /faq >}}
 
 
@@ -66,14 +66,14 @@ Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Alguno
 Cuando todos en casa estan en videollamada, streaming y juegos, la red colapsa. La solucion no siempre es contratar mas Mbps. Muchas veces es ordenar la red con cableado correcto, buen router y QoS. Esta guia te lleva paso a paso con lenguaje claro.
 
 
--   [Por que el cable sigue mandando](#por-que-cable)
--   [Tipos de cable y distancias](#tipos-cable)
--   [Arquitectura basica de red en casa](#arquitectura-red)
--   [Switches, VLAN y QoS](#switches-qos)
--   [Combinar cable y Wi-Fi sin conflictos](#combinar-cable-wifi)
--   [Pruebas, monitoreo y diagnostico](#pruebas-monitoreo)
--   [Diseno pro con pasos practicos](#diseno-pro)
--   [Checklist final de mejoras](#checklist-final)
+-   [Por que el cable sigue mandando](#por-que-el-cable-sigue-mandando)
+-   [Tipos de cable y distancias](#tipos-de-cable-y-distancias)
+-   [Arquitectura basica de red en casa](#arquitectura-basica-de-red-en-casa)
+-   [Switches, VLAN y QoS](#switches-vlan-y-qos)
+-   [Combinar cable y Wi-Fi sin conflictos](#combinar-cable-y-wi-fi-sin-conflictos)
+-   [Pruebas, monitoreo y diagnostico](#pruebas-monitoreo-y-diagnostico)
+-   [Diseno pro con pasos practicos](#diseno-pro-con-pasos-practicos)
+-   [Checklist final de mejoras](#checklist-final-de-mejoras)
 -   [Preguntas frecuentes](#preguntas-frecuentes)
 
 

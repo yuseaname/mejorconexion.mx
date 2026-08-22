@@ -42,20 +42,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos Mbps son suficientes en una casa?" >}}
+Depende de cuántas personas y qué hacen. Para una casa con streaming y videollamadas, normalmente conviene priorizar estabilidad y buen Wi-Fi en lugar de una cifra enorme de megas. El número de dispositivos activos pesa más que el plan.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Qué me conviene más: fibra o coaxial?" >}}
+Si hay fibra disponible en tu zona con buen servicio, suele ser la opción más consistente. Si no, el coaxial puede funcionar bien, pero revisa cómo se comporta en horario pico en tu colonia antes de firmar.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cómo sé si en mi colonia llega buen internet?" >}}
+Haz dos cosas: pregunta en tu edificio o a vecinos y prueba con un speedtest en tu casa por la noche. En ciudades grandes esto es clave porque la cobertura y la calidad cambian por colonia y hasta por edificio.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Vale la pena usar mi propio router en lugar del del proveedor?" >}}
+Muchas veces sí. Si el router que entregan es básico, usar el tuyo con Wi-Fi 5 o 6 evita que se convierta en el cuello de botella. Haz pruebas en horario pico para confirmar que el problema no es tu red interna.
 {{< /faq >}}
 
 

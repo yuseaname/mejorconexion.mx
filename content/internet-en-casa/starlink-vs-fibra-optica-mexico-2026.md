@@ -67,7 +67,7 @@ Es importante mencionar que, aunque 25ms es excelente para un servicio satelital
 
 \[IMAGEN 1: Foto de alta calidad del kit Starlink instalado en un techo residencial en México (con vista a campo o ciudad).\]
 
-[Alt Text: Kit Starlink instalado en México 2026 comparativa fibra optica]{.small}
+<span class="small">Alt Text: Kit Starlink instalado en México 2026 comparativa fibra optica</span>
 
 
 ## Fibra Óptica en México: Precios y Proveedores 2026
@@ -89,7 +89,7 @@ Es común confundir la fibra con la tecnología coaxial (cable). Aunque Izzi y M
 
 \[IMAGEN 2: Gráfico visual comparando los rangos de precio y latencia entre Starlink y Fibra.\]
 
-[Alt Text: Comparativa precio y velocidad Starlink vs Fibra Optica Mexico 2026]{.small}
+<span class="small">Alt Text: Comparativa precio y velocidad Starlink vs Fibra Optica Mexico 2026</span>
 
 
 ## Comparativa Directa: ¿Qué gana en cada categoría? {#comparativa-directa}
@@ -131,7 +131,7 @@ Aquí no hay debate. Si vives en una zona rural donde no llega la fibra óptica,
 
 \[IMAGEN 3: Mapa de México estilizado mostrando zonas urbanas (azul para fibra) y zonas rurales (verde para Starlink).\]
 
-[Alt Text: Mapa de cobertura internet Starlink y Fibra Optica en Mexico 2026]{.small}
+<span class="small">Alt Text: Mapa de cobertura internet Starlink y Fibra Optica en Mexico 2026</span>
 
 
 ## Comparativa rápida de proveedores
@@ -153,30 +153,30 @@ Antes de tomar la decisión final, es probable que tengas dudas específicas. Aq
 
 \[IMAGEN 4: Icono vectorial simple de interrogación o chat.\]
 
-[Alt Text: Preguntas frecuentes Starlink vs Fibra Optica]{.small}
+<span class="small">Alt Text: Preguntas frecuentes Starlink vs Fibra Optica</span>
 
 
-[1. ¿Starlink tiene contrato de fidelidad en México 2026?]{.faq-question}
+<span class="faq-question">1. ¿Starlink tiene contrato de fidelidad en México 2026?</span>
 
 No. Una de las mayores ventajas de Starlink es que no te obliga a firmar contratos de 12 o 24 meses. Puedes cancelar el servicio en cualquier momento desde tu cuenta en línea, sin multas ni llamadas a un centro de atención al cliente.
 
 
-[2. ¿Cuánto cuesta la instalación de Starlink?]{.faq-question}
+<span class="faq-question">2. ¿Cuánto cuesta la instalación de Starlink?</span>
 
 La instalación del kit estándar es \"Hazlo tú mismo\" (DIY). No hay costo de instalación técnica. Solo necesitas montar el soporte, conectarlo a la corriente y configurarlo con la app. Sin embargo, si vives en un edificio y necesitas una instalación profesional en el azotea, Starlink ofrece un servicio de instalación a domicilio por un costo adicional (aprox. \$1,500 - \$2,500 MXN).
 
 
-[3. ¿Funciona Starlink con lluvia en México?]{.faq-question}
+<span class="faq-question">3. ¿Funciona Starlink con lluvia en México?</span>
 
 Sí, funciona. La tecnología es resistente a la lluvia y el viento. Sin embargo, en casos de tormentas muy fuertes o lluvias extremas, es posible que la velocidad disminuya temporalmente o la señal se pierda por unos minutos. No es tan afectada como el internet satelital antiguo, pero el clima extremo siempre es un factor.
 
 
-[4. ¿Qué internet es mejor para videollamadas?]{.faq-question}
+<span class="faq-question">4. ¿Qué internet es mejor para videollamadas?</span>
 
 La Fibra Óptica es técnicamente superior por su menor latencia y mayor estabilidad. Sin embargo, Starlink es perfectamente capaz de manejar videollamadas en Zoom, Google Meet o Teams sin problemas, siempre y cuando tengas una buena línea de visión hacia el cielo.
 
 
-[5. ¿CFE ofrece fibra óptica en mi zona?]{.faq-question}
+<span class="faq-question">5. ¿CFE ofrece fibra óptica en mi zona?</span>
 
 CFE ha expandido su red de fibra óptica significativamente en 2025 y 2026, enfocándose en zonas que los privados ignoraban. Para saber si llega a tu domicilio, debes verificar tu código postal en la página oficial de CFE Fibra o llamar a su servicio al cliente.
 
@@ -194,7 +194,7 @@ No dejes que la falta de opciones te limite. En 2026, el internet de calidad es 
 
 ¿Aún no estás seguro? Usa nuestra **herramienta de comparación** para ver qué planes están disponibles en tu zona ahora mismo.
 
-Ver Planes Disponibles en mi Zona{.cta-button}
+<span class="cta-button">Ver Planes Disponibles en mi Zona</span>
 
 
 *Nota: Los precios mencionados en este artículo (\$1,000 MXN para Starlink y \$389-\$999 MXN para Fibra) son estimados basados en las tarifas vigentes a marzo de 2026. Los costos pueden variar según la zona geográfica, promociones temporales y cambios en la política de los proveedores. Siempre verifica el precio final con el proveedor antes de contratar.*

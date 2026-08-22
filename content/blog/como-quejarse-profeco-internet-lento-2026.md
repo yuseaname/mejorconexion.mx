@@ -30,20 +30,20 @@ Para más detalle, consulta [/blog/cancelar-servicio-internet-mexico/](/blog/can
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Cuándo vale la pena ir a PROFECO y no solo llamar al proveedor?" >}}
+Cuando ya reportaste la falla al proveedor, tienes evidencia de que la velocidad real no es la contratada y la respuesta sigue siendo evasiva. PROFECO es el escalón formal: la queja se presenta en Concilianet sin ir a una oficina.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Qué evidencia necesitas antes de quejarte?" >}}
+Capturas de pruebas de velocidad con fecha y hora, tus recibos, el contrato con la velocidad prometida y los folios de tus reportes al proveedor. Sin ese expediente, la queja pierde fuerza desde el inicio.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Cuánto tiempo toma el proceso de conciliación?" >}}
+La guía indica que el proceso tiene etapas y plazos definidos: tras presentar la queja en Concilianet, el proveedor es citado y debes estar atento a las respuestas dentro de los plazos que la plataforma te marca.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Qué resultado real puedes obtener con la queja?" >}}
+Desde una disculpa con ajustes técnicos hasta compensaciones por el servicio no recibido o la liberación del contrato sin penalización. El resultado depende de qué tan ordenada esté tu evidencia.
 {{< /faq >}}
 
 

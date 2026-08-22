@@ -42,20 +42,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cómo mejoro la señal del Wi-Fi en mi casa?" >}}
-Mueve el router al centro de la casa a 1.5 metros de altura, separa las redes 2.4 GHz y 5 GHz, y cambia a un canal menos saturado. Si la casa tiene más de 80 m² o muros gruesos, considera un sistema mesh.
+{{< faq "¿Por qué mi WiFi se cae solo en la noche?" >}}
+Lo más probable es interferencia de vecinos, porque por la noche más routers están activos, o congestión del proveedor en horario pico. Cambia el canal de tu WiFi a uno menos congestionado para reducir las colisiones de señal.
 {{< /faq >}}
 
-{{< faq "¿Vale la pena comprar un router propio en lugar del del proveedor?" >}}
-Sí, especialmente si tienes más de 10 dispositivos o un plan de más de 200 Mbps. Un router Wi-Fi 6 propio ($1,200-$3,500 MXN) ofrece mejor cobertura, más estabilidad y funciones que el router básico del proveedor no tiene.
+{{< faq "¿Reiniciar el router arregla el problema?" >}}
+Temporalmente sí. Reiniciar limpia la memoria del router. Si el problema regresa en horas o días, hay algo más profundo: saturación de dispositivos, firmware viejo o interferencia. Reinicia apagando 30 segundos, no solo reiniciar.
 {{< /faq >}}
 
-{{< faq "¿Mesh o repetidor Wi-Fi?" >}}
-Mesh es mejor para casas grandes (>120 m²) o de dos pisos porque crea una sola red sin cortes. Los repetidores son más baratos ($300-$600 MXN) pero crean una red separada y reducen la velocidad a la mitad.
+{{< faq "¿Un router nuevo arregla las desconexiones?" >}}
+Si el problema es el router, como saturación o firmware viejo, sí. Si el problema es del proveedor, no. Para distinguirlos, revisa las luces del módem y prueba por cable Ethernet. Si por cable tampoco hay internet, no es tu WiFi.
 {{< /faq >}}
 
-{{< faq "¿Wi-Fi 5 o Wi-Fi 6?" >}}
-Wi-Fi 6 ofrece hasta 40% más rendimiento real con muchos dispositivos conectados. Si tienes más de 10 dispositivos o un plan de 300+ Mbps, el cambio a Wi-Fi 6 vale la pena.
+{{< faq "¿Debo comprar mesh o repetidor?" >}}
+Depende de tu casa. Para una zona muerta puntual, un repetidor basta. Para cobertura total en casa grande, mesh. Un repetidor barato reduce la velocidad a la mitad y añade latencia, así que evalúa el tamaño de tu vivienda antes.
 {{< /faq >}}
 
 

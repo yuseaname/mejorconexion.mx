@@ -42,13 +42,13 @@ El ping es el tiempo de respuesta de tu conexión. Aunque tengas muchos Mbps, un
 2.  [Rangos de ping: qué es bueno y qué es malo](#rangos)
 3.  [Qué es el jitter y por qué lo sientes](#jitter)
 4.  [Pérdida de paquetes: el problema silencioso](#perdida)
-5.  [Causas comunes de ping alto](#causas)
+5.  [Causas comunes de ping alto](#causas-comunes-de-ping-alto)
 6.  [Cómo medir ping correctamente](#medir)
-7.  [Ping en gaming: lo que realmente importa](#gaming)
-8.  [Ping en videollamadas y trabajo remoto](#video)
-9.  [Wi‑Fi vs cable: impacto real en latencia](#wifi)
+7.  [Ping en gaming: lo que realmente importa](#ping-en-gaming-lo-que-realmente-importa)
+8.  [Ping en videollamadas y trabajo remoto](#ping-en-videollamadas-y-trabajo-remoto)
+9.  [Wi‑Fi vs cable: impacto real en latencia](#wifi-vs-cable-impacto-real-en-latencia)
 10. [Cómo mejorar el ping en casa](#mejorar)
-11. [Preguntas frecuentes](#faq)
+11. [Preguntas frecuentes](#preguntas-frecuentes)
 12. [Estado del contenido](#status)
 
 
@@ -66,20 +66,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Qué es un buen ping para jugar?" >}}
+Idealmente menos de 50 ms. Entre 50 y 80 ms aún se puede jugar, pero puede sentirse delay. Recuerda que un ping estable de 60 ms suele ser mejor que uno que sube y baja, porque el jitter alto provoca cortes y saltos en la comunicación.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué mi ping sube por la noche?" >}}
+Por saturación en horario pico: hay más usuarios conectados al mismo tiempo en tu zona. Para confirmarlo, haz pruebas de ping en la mañana y en la noche por cable y por Wi-Fi, y compara los resultados con la misma herramienta.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Un plan más caro baja mi ping?" >}}
+No necesariamente. El ping depende más de la ruta y la estabilidad que de la velocidad contratada. Puedes tener 300 Mbps y un ping alto si la ruta a los servidores es larga o si tu red local está saturada.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cómo reduzco el jitter en mi conexión?" >}}
+Con conexión por cable, mejorando tu Wi-Fi interno y evitando saturar la red con descargas pesadas mientras juegas o haces videollamadas. También puedes elegir servidores cercanos, que es la forma más sencilla de bajar el ping sin cambiar de plan.
 {{< /faq >}}
 
 

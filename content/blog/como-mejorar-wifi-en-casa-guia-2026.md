@@ -168,19 +168,19 @@ No necesitas pagar más por internet si el problema es tu Wi-Fi. Empieza con las
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Por qué mi WiFi es rápido cerca del router y lento en el cuarto?" >}}
+Las paredes de block y concreto son el peor enemigo del WiFi: una sola pared de block puede reducir la señal entre 50% y 80%. Si el router está mal posicionado, la experiencia se degrada mucho en cuartos alejados.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Qué solución gratis funciona mejor primero?" >}}
+Mover el router al centro de la casa, a la altura de un metro del suelo y lejos de aparatos electrónicos, resuelve el 70% de los problemas. Es la mejora más barata que existe, antes de gastar en cualquier equipo.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cuándo conviene un repetidor y cuándo un sistema mesh?" >}}
+Un repetidor de doble banda cuesta $400-$1,200 MXN y sirve para departamentos con 1-2 paredes problemáticas. Para casas de dos pisos con muros de block, el mesh de $3,000-$5,000 MXN mantiene la velocidad en toda la casa.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Un cable Ethernet resuelve el WiFi lento?" >}}
+Sí, para dispositivos fijos como la Smart TV, consola o PC de escritorio. Un cable Cat 6 de 5 metros cuesta $80-150 MXN y te da la velocidad máxima sin pérdida, sin depender de la señal inalámbrica.
 {{< /faq >}}
 

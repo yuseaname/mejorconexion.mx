@@ -30,20 +30,20 @@ Para más detalle, consulta [diagnosticar internet lento](/guias/que-hacer-si-in
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Es normal recibir menos de lo que contrato?" >}}
+Recibir el 80% o más de tu plan es normal por pérdidas técnicas. Si por cable recibes menos del 60%, hay un problema real del proveedor. Recibir el 50% o menos constantemente no es normal y puedes reclamar.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿El proveedor me puede bajar la velocidad sin avisar?" >}}
+No deliberadamente. Pero la congestión de la red puede hacer que la velocidad efectiva baje en horario pico, especialmente en cable coaxial. De 7 a 11 pm tu proveedor reparte el ancho de banda entre miles de usuarios.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cambiar a un plan mayor arregla el problema?" >}}
+Solo si el problema es de capacidad, es decir, necesitas más Mbps. Si el problema es WiFi, congestión en horario pico o tecnología vieja como cobre, más megas no ayudan. Primero diagnostica por cable antes de pagar más.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Puedo cancelar sin pena si no me dan la velocidad?" >}}
+Depende del contrato. Algunos contratos permiten cancelación si el servicio no cumple. Antes de intentarlo, documenta 5-10 mediciones por cable en distintos horarios durante una semana y guarda los datos con fechas, horas y velocidades.
 {{< /faq >}}
 
 

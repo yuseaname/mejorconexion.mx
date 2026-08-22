@@ -141,19 +141,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Qué significa que un internet sea simétrico?" >}}
+Que la velocidad de subida es igual a la de bajada: si contratas 200 Mbps, tienes 200 para bajar y 200 para subir. La mayoría de los planes tradicionales son asimétricos, con una subida mucho menor.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Para qué sirve tener subida igual a la bajada?" >}}
+Para videollamadas fluidas, respaldos en la nube, subir videos y trabajar en remoto: todas esas actividades viven de la subida, que es el motor invisible que se satura primero en un hogar conectado.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Cómo contratar internet simétrico en México?" >}}
+Pregunta por planes de fibra óptica con velocidad igual en ambos sentidos antes de firmar. La fibra es la tecnología que lo permite de forma natural; el cobre y el cable coaxial casi siempre son asimétricos.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿El internet simétrico cuesta más?" >}}
+No necesariamente: varios planes de fibra ya incluyen simetría en su precio. Lo importante es comparar el costo total después de la promoción y verificar que la velocidad de subida prometida esté por escrito.
 {{< /faq >}}
 

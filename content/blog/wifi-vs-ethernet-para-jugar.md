@@ -43,20 +43,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Ethernet siempre es mejor que Wi-Fi para jugar?" >}}
+Para gaming competitivo sí, es la opción más estable y con menor latencia. En uso casual, un Wi-Fi bien configurado puede ser suficiente. Si juegas cerca del router y no hay muchas paredes ni saturación, un buen Wi-Fi moderno te da una experiencia bastante buena.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿El Wi-Fi 6 o 6E cambia la historia frente al cable?" >}}
+Mejora bastante, pero sigue siendo inalámbrico y más sensible a interferencias. La latencia del cable sigue siendo menor. No es lo mismo que Ethernet: el cable reduce variaciones y hace que los disparos y movimientos se sientan más consistentes en la partida.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cuánto mejora el ping al pasar de Wi-Fi a cable?" >}}
+Depende del caso, pero muchas veces baja varios ms y elimina los picos. En Wi-Fi el ping puede saltar de 25 ms a 80 ms sin avisar, mientras que con Ethernet lo normal es que se mantenga estable. Ese salto no siempre se ve en un test rápido.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué hago si no puedo tirar cable Ethernet?" >}}
+Acércate al router, usa 5 GHz y evita saturar la red con demasiados dispositivos al mismo tiempo. Si la casa es grande, un sistema mesh ayuda a distribuir señal estable en cada habitación. También puedes considerar un adaptador Powerline, pero depende del cableado eléctrico.
 {{< /faq >}}
 
 

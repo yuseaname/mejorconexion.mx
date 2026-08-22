@@ -30,20 +30,20 @@ Para más detalle, consulta [/blog/internet-para-casas-inteligentes-en-m%C3%A9xi
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Por qué se satura mi red con una casa inteligente?" >}}
+No es la velocidad del plan, es cuántos dispositivos se conectan a la vez. Un hogar con bombillas, cámaras, asistentes y celulares puede llegar a 20+ conexiones simultáneas, y el router básico del proveedor puede no dar abasto.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cuántos Mbps necesito para casa inteligente?" >}}
+Para streaming 4K, 2 cámaras, dispositivos IoT y celulares conviene 100 Mbps o más de descarga. Pero más importante que los Mbps es tener un router que maneje bien 20+ dispositivos, como uno WiFi 6 o un sistema mesh.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Debo separar la red IoT de la principal?" >}}
+Sí. Los dispositivos IoT como bombillas y sensores funcionan bien en 2.4 GHz, y si los separas del streaming en 5 GHz evitas que compitan por el ancho de banda. También puedes usar una red de invitados para separar dispositivos inteligentes.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿El mesh ayuda con una casa inteligente?" >}}
+Sí. El sistema mesh distribuye la carga entre varios nodos y maneja mejor muchos dispositivos que un router individual, manteniendo la velocidad en toda la casa aunque tengas más de 20 conexiones simultáneas.
 {{< /faq >}}
 
 

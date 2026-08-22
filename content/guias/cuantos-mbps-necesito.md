@@ -41,20 +41,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos Mbps necesito si vivo solo y uso poco internet?" >}}
+Para una persona sola con uso ligero, como WhatsApp, correo y YouTube ocasional, un plan básico o medio suele alcanzar si la conexión es estable. Antes de pagar por más megas, asegúrate de que el Wi-Fi no sea el problema dentro de tu casa.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué se traba Netflix si tengo muchos Mbps?" >}}
+Porque puede ser Wi-Fi con señal débil, saturación del router o congestión del proveedor en horario pico. Prueba con cable o pegado al router para separar "proveedor" de "Wi-Fi". Si el router está escondido o es muy básico, el problema no es el plan.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué es más importante: la descarga o la subida?" >}}
+Para ver contenido pesa la descarga. Para videollamadas y mandar archivos pesa la subida. Para home office, muchas veces la subida es el "dolor" que nadie te dice, así que si trabajas desde casa, la subida y la latencia importan más que puros Mbps.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cuánto necesito para gaming o streaming pesado?" >}}
+Gaming en línea necesita 50 Mbps pero con ping menor a 30 ms. Más que "megas", necesitas baja latencia, estabilidad y una red interna bien armada con Wi-Fi bien puesto. La estabilidad importa más que subir a un plan con puros Mbps.
 {{< /faq >}}
 
 

@@ -151,19 +151,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cómo sé si mi router modem integrado me está limitando?" >}}
+Hay señales claras: el efecto "habitación lejana" donde el internet vuela en la sala pero no llega a tu recámara, saturación en horas pico, desconexiones aleatorias, ping alto en juegos e incluso tus dispositivos IoT apareciendo como "fuera de línea". Si te pasa varias, tu equipo es el cuello de botella.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Puedo mejorar la señal sin comprar equipo nuevo?" >}}
+Sí. Primero ubica el router en un lugar elevado y central, lejos de objetos metálicos y espejos que bloquean la señal. Aléjalo de microondas y teléfonos inalámbricos que ensucian la frecuencia de 2.4 GHz y, si es dual band, conecta tus dispositivos rápidos a la red de 5 GHz.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cuándo me conviene pasar a un sistema separado de módem y router?" >}}
+Si vives en una casa de varias plantas, trabajas desde casa sin poder permitirte intermitencias o eres un entusiasta con muchos dispositivos inteligentes, conviene un router independiente conectado al módem de tu proveedor en "modo puente". Un sistema Mesh también cubre los puntos muertos sin cables.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Por qué la señal no llega bien a las habitaciones lejanas?" >}}
+En hogares mexicanos típicos las paredes suelen ser de concreto sólido o ladrillo denso, y la señal del equipo integrado tiene dificultades para atravesar muros. Sus antenas no tienen la potencia para cubrir casas grandes o de dos pisos, creando esas famosas zonas muertas donde el Wi-Fi desaparece.
 {{< /faq >}}
 

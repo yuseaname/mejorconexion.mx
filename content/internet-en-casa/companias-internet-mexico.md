@@ -29,20 +29,20 @@ Para más detalle, consulta [Izzi vs Totalplay 2026](/internet-en-casa/izzi-vs-t
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuál compaña de internet tiene mejor cobertura en México?" >}}
+Telmex tiene la mayor cobertura nacional. En ciudades grandes, Totalplay e Izzi también tienen presencia amplia. La misma compañía puede dar buen servicio en una colonia y malo en otra, así que siempre verifica opiniones de usuarios en tu zona específica antes de contratar.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cómo sé qué compañía llega a mi casa?" >}}
+Consulta el sitio de cada proveedor con tu código postal o llama. La disponibilidad cambia por cuadra, no por la marca nacional. La mejor opción para ti es la que instala la mejor tecnología disponible en tu calle, no la que tiene más fama en todo el país.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué trampas de precio debo evitar al contratar?" >}}
+Cuidado con el precio "desde" que es de promoción y puede duplicarse del mes 4 en adelante, con el "hasta 500 Mbps" que depende de la tecnología instalada, con la instalación gratis que cobra el módem aparte, y con el "sin plazo" que te obliga a devolver el equipo con costo.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Debo considerar alternativas fuera de los cuatro grandes?" >}}
+Sí. Existen WISP locales por radioenlace que llegan a zonas sin cobertura, internet móvil de Telcel, AT&T o Movistar como respaldo o para zonas sin cable, y programas de conectividad social de algunos gobiernos. Su calidad varía, pero a veces son la única opción o más baratas.
 {{< /faq >}}
 
 

@@ -42,20 +42,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Debo elegir mi internet por colonia o por edificio?" >}}
+Siempre valida por edificio, no solo por alcaldía o colonia. En la CDMX la variación por colonia es de las más altas del país: dos colonias vecinas pueden tener resultados muy distintos por el cableado interno. Pregunta a vecinos del mismo piso y revisa si hay cableado actualizado.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué el cable coaxial es sensible al horario pico?" >}}
+Porque su velocidad se comparte con los vecinos del mismo nodo. En la CDMX el horario pico suele ser el mayor problema: de 7pm a 11pm la velocidad puede bajar. Si en la noche el servicio se cae, es saturación local y cambiar de plan no lo resuelve.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué pruebas debo hacer en mi edificio antes de contratar?" >}}
+Haz cuatro pruebas rápidas: un speedtest por la mañana y por la noche para detectar saturación, una videollamada de 10 minutos con cámara activa para revisar la subida, 20 minutos de streaming HD y una prueba de ping estable. Si algo falla, investiga antes de firmar.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Me sirve un respaldo móvil en la CDMX?" >}}
+Sí, si trabajas remoto y necesitas continuidad. Un respaldo 4G/5G no sustituye la fibra, pero evita que te quedes incomunicado. Eso sí, verifica la señal dentro de tu departamento, no solo en la calle, porque en edificios altos la señal interior puede bajar significativamente.
 {{< /faq >}}
 ## Panorama local en CDMX
 
@@ -72,27 +72,27 @@ Para una comparativa detallada de los tres proveedores principales, consulta [Te
 ## Tecnologías comunes
 
 En la CDMX encontrarás tres tipos principales de conexión. Cada una tiene ventajas y limitaciones dependiendo de tu zona:
-[⚡]{.tech-icon}
+<span class="tech-icon">⚡</span>
 
 #### Fibra óptica
 
 La opción más estable y rápida cuando está bien instalada. Ideal para streaming, gaming y videollamadas.
 
-[⭐ Mejor opción]{.tech-badge .best}
-[📡]{.tech-icon}
+<span class="tech-badge best">⭐ Mejor opción</span>
+<span class="tech-icon">📡</span>
 
 #### Coaxial / Cable
 
 Buen desempeño general, pero sensible a saturación en horario pico. Velocidad compartida con vecinos.
 
-[⚡ Buen desempeño]{.tech-badge .ok}
-[📶]{.tech-icon}
+<span class="tech-badge ok">⚡ Buen desempeño</span>
+<span class="tech-icon">📶</span>
 
 #### Inalámbrico fijo
 
 Opción en zonas con menos cableado. Latencia variable, pero puede servir si no hay alternativas.
 
-[🔄 Alternativa]{.tech-badge .alt}
+<span class="tech-badge alt">🔄 Alternativa</span>
 **💡 Consejo** Guía útil: [fibra vs cable](/blog/fibra-optica-vs-cable-mexico.html) --- compara las tecnologías en detalle para saber cuál te conviene.
 ## Por qué cambia tanto por colonia
 
@@ -119,31 +119,31 @@ En edificios, el cableado interno es clave. Un proveedor con buena señal puede 
 
 Antes de firmar cualquier contrato, verifica estos 5 puntos:
 
-1.  [1]{.check-num} **Confirma tecnología disponible** en tu calle y edificio específico (no solo la colonia).
-2.  [2]{.check-num} **Prueba velocidad en horario pico** (7pm--11pm) --- es cuando más importa.
-3.  [3]{.check-num} **Pregunta a vecinos** del mismo edificio sobre estabilidad real.
-4.  [4]{.check-num} **Revisa el router incluido** --- un router básico limita el alcance en departamentos grandes.
-5.  [5]{.check-num} **Pregunta por tiempos de instalación y soporte** en tu zona específica.
+1.  <span class="check-num">1</span> **Confirma tecnología disponible** en tu calle y edificio específico (no solo la colonia).
+2.  <span class="check-num">2</span> **Prueba velocidad en horario pico** (7pm--11pm) --- es cuando más importa.
+3.  <span class="check-num">3</span> **Pregunta a vecinos** del mismo edificio sobre estabilidad real.
+4.  <span class="check-num">4</span> **Revisa el router incluido** --- un router básico limita el alcance en departamentos grandes.
+5.  <span class="check-num">5</span> **Pregunta por tiempos de instalación y soporte** en tu zona específica.
 **💡 Con este checklist reduces sorpresas** La mayoría de quejas en CDMX vienen de saltarse estos pasos. 10 minutos de verificación pueden ahorrarte meses de frustración.
 ## 🧪 Pruebas rápidas en tu edificio
 
 Haz estas 4 pruebas para validar la cobertura real. No necesitas ser experto:
-[📊]{.tech-icon}
+<span class="tech-icon">📊</span>
 
 #### Speedtest
 
 Mañana y noche. Compara resultados. Si la diferencia es grande, hay saturación.
-[📹]{.tech-icon}
+<span class="tech-icon">📹</span>
 
 #### Videollamada 10 min
 
 Con cámara activa. Si se congela o corta, la subida no es suficiente.
-[🎬]{.tech-icon}
+<span class="tech-icon">🎬</span>
 
 #### Streaming HD
 
 20 minutos sin que baje la calidad. Si hay cortes, la estabilidad falla.
-[🎮]{.tech-icon}
+<span class="tech-icon">🎮</span>
 
 #### Ping estable
 
@@ -158,31 +158,31 @@ Si todo es estable, la cobertura es buena. Si falla alguna, investiga antes de c
 ## Escenarios por uso
 
 Tu uso ideal define qué buscar. No necesitas el plan más caro --- necesitas el que coincida con lo que haces. Si tu prioridad es entender [cuántos Mbps necesitas](/blog/cuanta-velocidad-internet-necesitas-2026.html) según tu caso, consulta [cuántos Mbps necesito](/blog/cuanta-velocidad-internet-necesitas-2026.html).
-[💼]{.scenario-icon}
+<span class="scenario-icon">💼</span>
 
 #### Home office
 
-[Prioridad: subida estable]{.priority-tag style="background:#dbeafe;color:#1e40af"}
+<span class="priority-tag" style="background:#dbeafe;color:#1e40af">Prioridad: subida estable</span>
 
 Videollamadas sin cortes, subida de archivos fluida. En CDMX la congestión nocturna es común --- prioriza estabilidad sobre velocidad.
 
 ![Videollamada con una conexión estable de internet](/images/generated/hero-videollamadas.webp){decoding="async" loading="lazy" style="width:100%;border-radius:8px;margin-top:10px" width="1024" height="768"}
 
 [Guía: red para home office →](/blog/red-estable-home-office-mexico.html)
-[🎬]{.scenario-icon}
+<span class="scenario-icon">🎬</span>
 
 #### Streaming familiar
 
-[Prioridad: estabilidad]{.priority-tag style="background:#fef3c7;color:#92400e"}
+<span class="priority-tag" style="background:#fef3c7;color:#92400e">Prioridad: estabilidad</span>
 
 Netflix, Disney+, YouTube sin cortes en horario pico. Ajusta tu Wi‑Fi antes de subir de plan --- el problema suele ser interno.
 
 [Guía: streaming sin cortes →](/blog/streaming-sin-cortes-mexico.html)
-[🎮]{.scenario-icon}
+<span class="scenario-icon">🎮</span>
 
 #### Gaming
 
-[Prioridad: ping bajo]{.priority-tag style="background:#ede9fe;color:#5b21b6"}
+<span class="priority-tag" style="background:#ede9fe;color:#5b21b6">Prioridad: ping bajo</span>
 
 La latencia estable importa más que los Mbps. Usa cable Ethernet cuando sea posible. Prueba ping en horario pico.
 
@@ -224,12 +224,12 @@ Día 6--7
 
 Compara opciones y decide por estabilidad, no solo precio.
 ## Consejos por presupuesto
-[💵]{.scenario-icon}
+<span class="scenario-icon">💵</span>
 
 #### Presupuesto limitado
 
 Prioriza estabilidad y evita pagar por Mbps que no usarás. Un plan estable de velocidad media es mejor que uno inestable de alta velocidad.
-[💰]{.scenario-icon}
+<span class="scenario-icon">💰</span>
 
 #### Presupuesto flexible
 
@@ -238,21 +238,21 @@ Invierte en router o sistema mesh. En departamentos grandes, un mesh mejora más
 
 Antes de [cambiar de proveedor](/blog/cambiar-de-proveedor-de-internet-sin-cortes.html), haz este diagnóstico rápido:
 
-1.  [→]{.arrow} **Prueba por cable directo** al router (elimina Wi‑Fi como variable)
-2.  [→]{.arrow} **Compara horario pico vs valle** (si la diferencia es enorme, es saturación)
-3.  [→]{.arrow} **Revisa dispositivos conectados** (¿hay algo consumiendo ancho de banda?)
-4.  [→]{.arrow} **Confirma ubicación del router** (¿está escondido o detrás de paredes?)
+1.  <span class="arrow">→</span> **Prueba por cable directo** al router (elimina Wi‑Fi como variable)
+2.  <span class="arrow">→</span> **Compara horario pico vs valle** (si la diferencia es enorme, es saturación)
+3.  <span class="arrow">→</span> **Revisa dispositivos conectados** (¿hay algo consumiendo ancho de banda?)
+4.  <span class="arrow">→</span> **Confirma ubicación del router** (¿está escondido o detrás de paredes?)
 **Interpretación:** Si por cable funciona bien → el problema es Wi‑Fi. Si por cable falla → es proveedor o saturación local.
 ## Qué plan considerar según cuántas personas son
 
 En CDMX la saturación puede aparecer en horario pico. Para evitar pagar de más, piensa en estabilidad:
-[👥]{.people-count} **1--2 personas**
+<span class="people-count">👥</span> **1--2 personas**
 
 Plan medio con buena estabilidad suele ser suficiente.
-[👨‍👩‍👧]{.people-count} **3--4 personas**
+<span class="people-count">👨‍👩‍👧</span> **3--4 personas**
 
 Busca buena subida y router sólido. Más dispositivos = más demanda.
-[👨‍👩‍👧‍👦]{.people-count} **5+ personas**
+<span class="people-count">👨‍👩‍👧‍👦</span> **5+ personas**
 
 Combina buen plan con mesh o cableado parcial. La red interna es clave.
 **💡 Recuerda** Si hay gamers o home office intensivo, la latencia estable importa más que los Mbps.
@@ -267,22 +267,22 @@ Responder estas preguntas te ayuda a elegir con calma y sin presión.
 ## ❌ Errores comunes
 
 Evita estos errores que cuestan dinero y tiempo:
-[💸]{.tech-icon}
+<span class="tech-icon">💸</span>
 
 #### Elegir solo por precio
 
 Sin validar estabilidad, el plan más barato puede ser el más frustrante.
-[🌙]{.tech-icon}
+<span class="tech-icon">🌙</span>
 
 #### No probar en horario pico
 
 Las pruebas de día no reflejan la realidad nocturna cuando todos están conectados.
-[🏗]{.tech-icon}
+<span class="tech-icon">🏗</span>
 
 #### Ignorar cableado interno
 
 El edificio puede ser el cuello de botella, no el proveedor.
-[📈]{.tech-icon}
+<span class="tech-icon">📈</span>
 
 #### Pensar que más Mbps = mejor
 
@@ -310,10 +310,10 @@ Decide: ¿cambiar de plan, de proveedor, o mejorar red interna?
 
 En la ciudad, un edificio puede tener buena cobertura y el de enfrente no. Antes de firmar renta:
 
-1.  [1]{.check-num} Pregunta qué **tecnologías llegan al edificio**, no solo a la colonia.
-2.  [2]{.check-num} Consulta a un vecino del **mismo piso** sobre estabilidad nocturna.
-3.  [3]{.check-num} Verifica que haya **ductos limpios** para instalación.
-4.  [4]{.check-num} Si trabajas remoto, **prueba una videollamada** en horario pico.
+1.  <span class="check-num">1</span> Pregunta qué **tecnologías llegan al edificio**, no solo a la colonia.
+2.  <span class="check-num">2</span> Consulta a un vecino del **mismo piso** sobre estabilidad nocturna.
+3.  <span class="check-num">3</span> Verifica que haya **ductos limpios** para instalación.
+4.  <span class="check-num">4</span> Si trabajas remoto, **prueba una videollamada** en horario pico.
 **Si no puedes probar:** Pregunta tiempos de instalación y soporte en esa zona. Una llamada rápida al proveedor local ayuda a medir tiempos reales. Si ya hay instalación previa, pregunta si pueden reutilizarla.
 ## Respaldo móvil en CDMX
 
@@ -323,10 +323,10 @@ Un respaldo móvil (4G/5G) es útil si trabajas remoto y necesitas continuidad. 
 
 Cuando hay fallas repetidas, documenta el caso con datos claros:
 
-1.  [1]{.check-num} Guarda **pruebas de velocidad** en horario pico y valle.
-2.  [2]{.check-num} Anota **fecha, hora y tipo de falla**.
-3.  [3]{.check-num} Reporta con **número de folio** y solicita visita técnica.
-4.  [4]{.check-num} Si no hay respuesta, pide **escalación con evidencia**.
+1.  <span class="check-num">1</span> Guarda **pruebas de velocidad** en horario pico y valle.
+2.  <span class="check-num">2</span> Anota **fecha, hora y tipo de falla**.
+3.  <span class="check-num">3</span> Reporta con **número de folio** y solicita visita técnica.
+4.  <span class="check-num">4</span> Si no hay respuesta, pide **escalación con evidencia**.
 
 Con evidencia clara, el soporte suele responder más rápido.
 ## Glosario rápido

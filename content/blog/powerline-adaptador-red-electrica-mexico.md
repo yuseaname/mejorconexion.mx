@@ -32,20 +32,20 @@ Para más detalle, consulta [decidir entre mesh y Powerline](/blog/wifi-mesh-par
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿El Powerline funciona en cualquier casa?" >}}
+Funciona en la mayoría, pero depende del cableado eléctrico. Las casas con cableado muy viejo o ruido eléctrico pueden tener peor rendimiento. Además, si los dos cuartos están en circuitos eléctricos distintos, los adaptadores pueden no comunicarse entre sí.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cuánta velocidad real obtengo con un Powerline?" >}}
+La velocidad real suele ser 40-60% de la teórica por interferencia eléctrica y distancia al panel. En la práctica rinde entre 100-300 Mbps reales. Si piensas usarlo para streaming 4K o gaming, compra un kit AV2000 con puerto Gigabit.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Puedo conectar varios dispositivos al adaptador Powerline?" >}}
+Sí. Algunos modelos tienen de 2 a 4 puertos Ethernet. También puedes conectar un switch o un router en modo access point al adaptador para repartir la conexión a varios equipos en la misma habitación.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Powerline o mesh: cuál me conviene?" >}}
+Si solo necesitas internet en un punto lejano, como la TV, el Powerline es más barato y más estable que un repetidor. Si necesitas cobertura en toda la casa, un sistema mesh es mejor opción, aunque cuesta más.
 {{< /faq >}}
 
 

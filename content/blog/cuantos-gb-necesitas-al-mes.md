@@ -49,20 +49,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el internet más barato en México?" >}}
-El internet más barato arranca desde $199-$299/mes para 30-50 Mbps con CFE Telecomunicaciones (rural), Totalplay promo o Megacable. En zonas urbanas, lo más accesible es Megacable 80 Mbps ($299) o Izzi 100 Mbps ($349).
+{{< faq "¿Cuántos GB usa una persona promedio?" >}}
+Depende del uso. En México, un usuario medio suele estar entre 8 y 15 GB al mes. Revisa el historial de datos en tu celular y la app de tu operador para ver tu consumo real en vez de adivinar con tablas generales.
 {{< /faq >}}
 
-{{< faq "¿Cómo evito que suba el precio de mi internet?" >}}
-Exige precio fijo por escrito antes de firmar. Las promociones de bienvenida suben 30-50% después de 6-12 meses. Negocia con tu proveedor: amenaza con cambiar y pide retención, muchas veces ofrecen descuentos.
+{{< faq "¿Qué pasa si me paso de mis GB?" >}}
+Depende del operador: puede bajar la velocidad o cobrar extra. Muchos planes tienen política de uso justo, así que revisa cuántos GB son a velocidad completa y cuándo se aplica la reducción antes de elegir tu plan.
 {{< /faq >}}
 
-{{< faq "¿Conviene contratar internet por 12 o 24 meses?" >}}
-Depende. Los contratos largos suelen tener mejor precio mensual pero te atan. Si planeas mudarte o el proveedor tiene mala cobertura en tu zona, prefiere planes sin contrato o de 12 meses máximo.
+{{< faq "¿El hotspot gasta mucho?" >}}
+Sí, porque otros dispositivos consumen como si fueran Wi-Fi normal. Un par de videollamadas en laptop pueden gastar varios GB. Si haces hotspot seguido, considera un plan con más GB o controla el uso con límites de calidad.
 {{< /faq >}}
 
-{{< faq "¿Qué cargos extra debo revisar en mi recibo de internet?" >}}
-Revisa: renta de equipo (modem/router), instalación, servicios no solicitados (telefonía, TV), cargos por pago tardío y IVA. Si ves cargos que no reconoces, el proveedor está obligado a eliminarlos.
+{{< faq "¿Cómo elijo mi plan con margen?" >}}
+Una vez que tengas tu consumo promedio, añade un margen de 20 a 30% para meses más pesados. Si consumes 8 GB, un plan de 10 a 12 GB es ideal. Compara también la velocidad después del uso justo y la cobertura en tu zona.
 {{< /faq >}}
 
 

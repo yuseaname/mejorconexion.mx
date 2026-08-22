@@ -154,19 +154,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Me conviene usar solo datos móviles para ahorrar en casa?" >}}
+No, casi siempre sale más caro. Una familia consume 200-500 GB al mes, y datos móviles costarían entre $2,000 y $5,000 mensuales. El residencial con planes ilimitados de $299-$899/mes por 50-500 Mbps es mucho más barato por GB.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cuándo sí tiene sentido contratar un plan móvil de respaldo?" >}}
+Como respaldo, sí. La guía recomienda un plan híbrido: residencial como principal y un plan móvil de 5-10 GB por unos $199/mes para emergencias y traslados. Ese plan de soporte no sustituye la fibra, pero te salva cuando hay una avería en la calle.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Por qué el internet residencial es mejor para gaming que los datos móviles?" >}}
+Por la menor latencia. El residencial tiene ping bajo, lo que hace que tus acciones en el juego se reflejen al instante; con datos móviles eso es casi imposible de forma constante. Además, los juegos modernos pesan más de 50GB, inviables de bajar con una bolsa de datos.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Puedo usar mi celular como hotspot si se cae el internet de la casa?" >}}
+Sí, funciona como plan de emergencia, pero con moderación: evita ver videos en alta resolución, porque podrías agotar tu bolsa mensual en minutos. Si trabajas o estudias desde casa, el residencial es obligatorio; el hotspot solo sirve de parche.
 {{< /faq >}}
 

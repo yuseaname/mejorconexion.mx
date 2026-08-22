@@ -148,19 +148,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Qué documentos necesito para contratar internet en México?" >}}
+Necesitas tu INE vigente y un comprobante de domicilio, además de un anticipo de 1 mes. Totalplay, Izzi y Megacable ofrecen instalación gratis al contratar en línea, así que aprovecha esa opción para ahorrarte el costo.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cómo verifico si mi colonia tiene fibra óptica de verdad?" >}}
+No confíes en los mapas generales: llama al proveedor y pide confirmación escrita por WhatsApp o correo sobre tu dirección exacta. Algunos anuncian cobertura pero solo ofrecen DSL por línea telefónica, no fibra óptica.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué pasa con el precio al terminar la promoción?" >}}
+Las promociones de bienvenida duran entre 6 y 12 meses, y después el precio puede subir entre 30% y 50%. Pide el desglose por escrito antes de firmar, incluyendo el precio real después del mes 6 o 13.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Puedo mudarme a otra ciudad y llevar mi internet?" >}}
+No. Cada proveedor tiene cobertura local, así que si te mudas tendrás que cancelar y contratar un plan nuevo en el lugar de destino. Verifica la cobertura con tu nueva dirección antes de mudarte para evitar quedarte sin servicio.
 {{< /faq >}}
 

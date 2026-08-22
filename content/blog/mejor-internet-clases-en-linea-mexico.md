@@ -30,20 +30,20 @@ Para más detalle, consulta [calcular Mbps necesarios](/blog/cuanta-velocidad-in
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos Mbps necesito para tomar clases por Zoom sin que se congele?" >}}
+Zoom en HD pide mínimo 3 Mbps de descarga y 3 de subida; con 5+ Mbps recomendados va bien. La guía sugiere un plan de 25-50 Mbps de bajada y 5-10 de subida, preferentemente fibra. La estabilidad importa más que los megas en clases en línea.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué mi video se ve bien pero el del profesor se congela?" >}}
+Ese es un problema de subida, no de bajada. El profesor te ve mal porque tu video no sale bien: tu velocidad de subida es baja. Si tu plan tiene solo 2 Mbps de subida, una videollamada lo consume todo y la imagen se congela. Revisa que tu plan suba por lo menos 3 Mbps.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Sirve el internet del celular (hotspot) para clases diarias?" >}}
+Solo para emergencias. El hotspot consume datos rapidísimo y la latencia puede causar cortes, así que no es ideal para uso diario. Si es tu única opción, conecta la laptop por cable Ethernet (un adaptador cuesta $100-$200 MXN) y cierra todo lo demás que use internet.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué plan económico me conviene si soy estudiante?" >}}
+La guía lista opciones: un plan fibra básico compartido de $300-$400 MXN/mes con 100-200 Mbps es ideal si vives con roomies; internet sin contrato 4G fijo de $200-$350 MXN/mes para uso temporal; y hasta WiFi de la escuela en $0 si estudias en campus. Elige según tu vivienda.
 {{< /faq >}}
 
 

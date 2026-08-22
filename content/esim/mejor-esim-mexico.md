@@ -6,7 +6,7 @@ author: "Mtro. Daniel Cruz"
 author_bio: "Maestro en TI (Tec de Monterrey). Analista del mercado móvil mexicano: planes de datos, 5G y eSIM."
 author_slug: "daniel-cruz"
 draft: false
-image: "/images/generated/mejorconexion-mx-esim-index-html-hero-d8a4b5e8.webp"
+image: "/images/generated/m7-esim-flujo-activacion.webp"
 keywords:
   - "internet lento mexico"
   - "internet barato mexico"
@@ -29,20 +29,20 @@ Para más detalle, consulta [qué es una eSIM](/blog/que-es-una-esim.html).
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Cuánto cuesta una eSIM en México?" >}}
+Los planes de datos por eSIM que lista la guía rondan entre 179 y 249 pesos mexicanos según los gigabytes incluidos, con variantes de 10 a 15 GB y más. Comparar precio por gigabyte es lo que importa.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Qué operadores en México soportan eSIM?" >}}
+La guía detalla los operadores que activan eSIM en el país: verifica la lista actualizada antes de comprar equipo, porque el soporte cambia y no todos los planes de cada operador la incluyen.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Una eSIM me sirve para tener dos líneas en un teléfono?" >}}
+Sí: es uno de sus usos más prácticos, mantener tu línea física y agregar una eSIM de datos o de otro operador. Revisa que tu equipo soporte línea dual con eSIM activa.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Cuáles son los errores comunes al contratar una eSIM?" >}}
+Comprar sin confirmar compatibilidad del equipo, no leer qué red usa el proveedor, y asumir que eSIM significa datos ilimitados. La eSIM es un formato, no un plan mágico.
 {{< /faq >}}
 
 

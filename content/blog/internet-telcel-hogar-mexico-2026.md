@@ -30,20 +30,20 @@ Para más detalle, consulta [/blog/internet-residencial-vs-datos-m%C3%B3viles/](
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Telcel Hogar es fibra óptica o inalámbrico?" >}}
+Es inalámbrico. Usa la red celular 4G/5G fijo de Telcel, no fibra óptica. Por eso su velocidad real va de 20 a 80 Mbps según tu cobertura, con latencia de 25-80 ms frente a los 5-15 ms de una fibra. No compite con fibra en estabilidad.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Sirve Telcel Hogar para ver streaming o jugar en línea?" >}}
+Para streaming sí, si la señal es buena: en 1080p necesitas 5-10 Mbps estables y en 4K de 15-25 Mbps. Para gaming no es ideal, porque la latencia del 4G (30-80 ms) puede causar retrasos. El mero internet de fibra es mejor para uso intensivo.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Puedo usar mi SIM de celular en el módem de Telcel Hogar?" >}}
+No exactamente. Telcel Hogar usa un módem específico con una SIM dedicada para internet fijo, no es el hotspot de tu celular. Antes de contratar, verifica cuántas barras de señal tiene tu celular con Telcel en tu domicilio, porque de eso depende la velocidad real.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué plan me conviene si solo quiero respaldo cuando se cae la fibra?" >}}
+Para respaldo sirve bien el plan de entrada: la guía sugiere que desde $399/mes por 30 GB ya tienes cobertura de emergencia, y el mejor plan de 100 GB a $599/mes incluye router Huawei 4G. Instalación inmediata, sin obra civil, ideal como plan temporal o para zonas sin cable ni fibra.
 {{< /faq >}}
 
 

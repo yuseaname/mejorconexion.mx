@@ -27,15 +27,15 @@ El número de personas en casa cambia todo: cuántos dispositivos se conectan, c
 ## Tabla de contenidos
 
 1.  [Cómo se reparte la velocidad en casa](#reparto)
-2.  [Personas vs dispositivos: no siempre son lo mismo](#dispositivos)
+2.  [Personas vs dispositivos: no siempre son lo mismo](#personas-vs-dispositivos-no-siempre-son-lo-mismo)
 3.  [Guía por número de personas](#personas)
-4.  [Casos especiales que suben el requisito](#casos)
-5.  [Tabla de rangos por uso](#tabla)
+4.  [Casos especiales que suben el requisito](#casos-especiales-que-suben-el-requisito)
+5.  [Tabla de rangos por uso](#tabla-de-rangos-por-uso)
 6.  [Cómo calcular tu plan en 3 pasos](#calculo)
-7.  [Tu Wi‑Fi puede ser el cuello de botella](#wifi)
+7.  [Tu Wi‑Fi puede ser el cuello de botella](#tu-wifi-puede-ser-el-cuello-de-botella)
 8.  [Cómo evitar pagar de más](#pagar-mas)
 9.  [Mitos comunes sobre "más megas"](#mitos)
-10. [Preguntas frecuentes](#faq)
+10. [Preguntas frecuentes](#preguntas-frecuentes)
 11. [Estado del contenido](#status)
 
 
@@ -53,20 +53,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos Mbps necesita una familia de 4?" >}}
+Depende del uso. Si hay streaming y videollamadas, se requiere un plan medio con buena subida. El número de dispositivos activos pesa más que el número de personas, porque cada uno toma parte de la velocidad.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Qué es más importante: descarga o subida?" >}}
+La descarga sirve para ver y bajar contenido. La subida es clave para videollamadas y nube. Si trabajas o estudias desde casa, prioriza un plan con buena velocidad de subida aunque la descarga no sea la más alta.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Por qué se siente lento si tengo un plan alto?" >}}
+Puede ser Wi-Fi, saturación o instalación. Muchas quejas de "internet lento" son problemas de Wi-Fi, no del plan. Mide por cable y por Wi-Fi en horario pico para separar si el problema es interno o de la zona.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cuándo subir de plan y cuándo no?" >}}
+Sube si hay más personas permanentes, empezaron actividades exigentes o ya mejoraste el Wi-Fi y sigue corto. No subas si el problema es mala señal o instalación: un plan más alto se sentirá igual en esos casos.
 {{< /faq >}}
 
 

@@ -159,19 +159,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cómo mejoro la señal del Wi-Fi en mi casa?" >}}
-Mueve el router al centro de la casa a 1.5 metros de altura, separa las redes 2.4 GHz y 5 GHz, y cambia a un canal menos saturado. Si la casa tiene más de 80 m² o muros gruesos, considera un sistema mesh.
+{{< faq "¿Puedo portar mi número sin cancelar primero mi servicio actual?" >}}
+Sí, y así debe hacerse. El proceso de portabilidad lo inicia la compañía a la que te quieres unir, no la anterior. Si cancelas tu servicio actual antes de tiempo, el número puede quedar huérfano y perderse en días.
 {{< /faq >}}
 
-{{< faq "¿Vale la pena comprar un router propio en lugar del del proveedor?" >}}
-Sí, especialmente si tienes más de 10 dispositivos o un plan de más de 200 Mbps. Un router Wi-Fi 6 propio ($1,200-$3,500 MXN) ofrece mejor cobertura, más estabilidad y funciones que el router básico del proveedor no tiene.
+{{< faq "¿Qué pasa con el módem y los decodificadores al cambiar?" >}}
+El equipo suele ser propiedad de la compañía anterior. Programa la devolución del módem y decodificadores, o te seguirán facturando cargos por "no devolución de equipo" durante meses. Revisa el plan de devolución antes de iniciar.
 {{< /faq >}}
 
-{{< faq "¿Mesh o repetidor Wi-Fi?" >}}
-Mesh es mejor para casas grandes (>120 m²) o de dos pisos porque crea una sola red sin cortes. Los repetidores son más baratos ($300-$600 MXN) pero crean una red separada y reducen la velocidad a la mitad.
+{{< faq "¿La portabilidad de número fijo tiene costo?" >}}
+No. La portabilidad del número telefónico fijo se realiza sin costo y los operadores están obligados por ley a respetarla. Ninguna compañía debe cobrarte por portar tu número, y conservarlo no afecta el precio del paquete de internet.
 {{< /faq >}}
 
-{{< faq "¿Wi-Fi 5 o Wi-Fi 6?" >}}
-Wi-Fi 6 ofrece hasta 40% más rendimiento real con muchos dispositivos conectados. Si tienes más de 10 dispositivos o un plan de 300+ Mbps, el cambio a Wi-Fi 6 vale la pena.
+{{< faq "¿Qué pasa si tengo una deuda con mi proveedor actual?" >}}
+La portabilidad de número no borra tus deudas. Si tienes un adeudo con tu proveedor anterior, es muy probable que la solicitud sea rechazada. Asegúrate de estar al corriente con tus facturas antes de iniciar el trámite de portabilidad.
 {{< /faq >}}
 

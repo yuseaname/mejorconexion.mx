@@ -30,20 +30,20 @@ Para más detalle, consulta [/blog/internet-roku-fire-tv-stick-mexico/](/blog/in
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos Mbps necesito si dos personas ven Netflix a la vez?" >}}
+Los números de la tabla son por dispositivo. Si dos ven en 1080p necesitas el doble: 10-16 Mbps solo para Netflix, más lo que usen otros aparatos en la casa. Para un hogar con 2 TVs en 4K, un plan de 50-100 Mbps te deja margen.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué Netflix se ve mal aunque mi plan sea de 200 Mbps?" >}}
+Casi siempre el problema no son los megas, sino el Wi-Fi o la congestión. Si la TV está lejos del router, la señal se debilita; de 7 a 11 PM el proveedor reparte ancho de banda, sobre todo en cable coaxial. Solución: cable Ethernet, banda de 5 GHz y fibra óptica.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cuánto consume Netflix de mi bolsa de datos?" >}}
+En 4K, una hora consume unos 7 GB por pantalla; en SD son 1 GB/h y en HD 3 GB/h. Si tu plan tiene límite de datos, revisa tu consumo, porque una película en 4K te puede terminar la bolsa del mes en horas.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué plan de Internet me conviene si solo veo Netflix?" >}}
+Con un plan de fibra de 100 Mbps ya tienes de sobra para streaming. En la guía, Totalplay 100 Mbps cuesta $449/mes, Izzi 200 Mbps $449/mes y Megacable 100 Mbps $349/mes. Si prefieres Izzi, su paquete con Netflix incluido suma +$199/mes al servicio.
 {{< /faq >}}
 
 

@@ -32,20 +32,20 @@ Para más detalle, consulta [comparar Telmex](/blog/megacable-vs-telmex-comparat
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Por qué la fibra de Totalplay se siente más estable que Megacable?" >}}
+Porque Totalplay instala fibra óptica que manda datos por luz a través de cable de vidrio, lo que da mejor velocidad, estabilidad y latencia baja (5-20 ms). Megacable en cable coaxial HFC comparte ancho de banda con el vecindario y en horario pico tiende a saturarse.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cuándo me conviene Megacable sobre Totalplay?" >}}
+Cuando Totalplay no llega a tu zona, Megacable tiene fibra instalada en tu domicilio, tu presupuesto es ajustado o quieres TV por cable incluida. Megacable suele ser más barato en precio mensual, desde ~$349 MXN/mes contra ~$389 de Totalplay.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué significa que la velocidad de subida sea baja en Megacable?" >}}
+Que en cable coaxial la subida es asimétrica y baja, lo que afecta videollamadas y subir archivos. Si trabajas desde casa o subes contenido, la subida alta (a menudo simétrica) de Totalplay justifica la diferencia de precio. Para uso básico, el cable de Megacable basta.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cómo evito los 3 errores comunes al elegir entre estos dos?" >}}
+No elijas solo por precio sin verificar qué instalarán en tu domicilio: un Megacable a $300 MXN/mes en coaxial no es lo mismo que en fibra. No asumas que Totalplay siempre es mejor si llega mal instalado en tu zona, y revisa el plazo forzoso antes de firmar.
 {{< /faq >}}
 
 

@@ -31,20 +31,20 @@ Para más detalle, consulta [cómo mejorar tu Wi-Fi en casa](/internet-en-casa/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿El mesh mejora la velocidad de internet?" >}}
+No directamente. El mesh mejora la distribución del Wi-Fi dentro de tu casa, eliminando zonas muertas. La velocidad máxima sigue siendo lo que llega por cable del proveedor. Si el problema es el plan, el mesh no lo arregla.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Puedo usar mesh con cualquier proveedor?" >}}
+Sí. El nodo principal se conecta al módem del proveedor por cable Ethernet. Funciona con Totalplay, Telmex, Izzi y Megacable. Solo asegúrate de poner el nodo principal junto al módem para que todo el sistema funcione.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Mesh o access point cableado?" >}}
+Si puedes tirar cable Ethernet entre el router y otra zona, un access point siempre será mejor y más barato. Si no puedes tirar cable, mesh es la mejor opción inalámbrica. Un repetidor reduce la velocidad a la mitad.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cuándo vale la pena un sistema mesh?" >}}
+Vale la pena si tu casa tiene 2 pisos o más de 150 m², tienes varias zonas muertas o quieres una sola red sin cambiar de nombre al moverte. En departamentos pequeños, un buen router WiFi 6 rinde igual sin necesidad de mesh.
 {{< /faq >}}
 
 

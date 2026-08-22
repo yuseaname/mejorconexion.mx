@@ -30,20 +30,20 @@ Para más detalle, consulta [/blog/internet-telcel-hogar-mexico-2026/](/blog/int
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuánto gasta una videollamada de WhatsApp?" >}}
+Una hora de videollamada consume 200-400 MB, bastante más que los mensajes de texto que usan 1-5 MB. Si tu plan es reducido, prefiere WhatsApp por texto o conéctate a WiFi para las videollamadas largas.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Consumo más datos con 5G que con 4G?" >}}
+No. El consumo de datos es el mismo sin importar si usas 4G o 5G: la diferencia es la velocidad de carga. Con 5G las páginas y videos cargan más rápido, pero los GB se consumen igual que en 4G LTE.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cómo sé cuántos GB necesito al mes?" >}}
+Revisa en los ajustes de tu celular el consumo de los últimos 3 meses. Para solo WhatsApp, correo y redes sociales bastan 3-5 GB; si agregas algo de YouTube, calcula entre 8 y 15 GB al mes.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué pasa cuando se me acaban los datos?" >}}
+Depende del plan. En prepago dejas de tener datos hasta la próxima recarga. En pospago, algunos planes reducen la velocidad a 128 Kbps, muy lento, y otros te cobran por GB extra.
 {{< /faq >}}
 
 

@@ -261,19 +261,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Cuándo sí conviene presentar la queja en PROFECO?" >}}
+Cuando el internet falla de forma recurrente, ya escalaste al proveedor con folios y la falla persiste. Una queja bien fundamentada no es pelear: es procesar un derecho con evidencia.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Qué evidencia debo reunir antes de quejarme?" >}}
+Pruebas de velocidad fechadas, registro de las fallas con día y hora, folios de reportes al proveedor, contrato y recibos. La secuencia recomendada es agotar primero la vía directa con el proveedor y documentar todo.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Cómo redactar una queja que no se debilite sola?" >}}
+Con hechos, fechas y cifras concretas en orden cronológico, sin insultos ni adjetivos. Señala exactamente qué prometió el contrato, qué recibiste y qué compensación esperas.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Qué errores debilitan más una queja?" >}}
+Quejarse sin evidencia, mezclar reclamos emocionales con datos, no haber reportado antes al proveedor y perder los plazos que Concilianet te marca tras presentar el caso.
 {{< /faq >}}
 

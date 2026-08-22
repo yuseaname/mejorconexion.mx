@@ -42,20 +42,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cómo sé si el router del proveedor me alcanza o necesito uno propio?" >}}
+El router del proveedor suele bastar en un departamento pequeño con pocas paredes. Pero en casas grandes o con muchas paredes se queda corto, y ahí conviene comprar un router independiente o un sistema mesh para mejor cobertura.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿WiFi 6 vale la pena para mi casa?" >}}
+WiFi 6 mejora el rendimiento cuando hay muchos dispositivos conectados a la vez, como celulares, tablets y smart TVs. Si solo son pocos dispositivos, WiFi 5 sigue siendo suficiente y no necesitas gastar de más.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué banda debo usar, 2.4 GHz o 5 GHz?" >}}
+La banda de 2.4 GHz tiene más alcance y atraviesa mejor las paredes, pero es más lenta y sufre más interferencia. La de 5 GHz es más rápida pero pierde fuerza con las paredes, ideal para dispositivos cercanos al router.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Mi proveedor me deja usar un router propio?" >}}
+La mayoría lo permite, aunque a veces hay configuraciones especiales. Si tienes fibra óptica, puedes poner el router del proveedor en modo puente y usar tu equipo principal para el WiFi, o apagar el WiFi del módem original.
 {{< /faq >}}
 
 
@@ -81,15 +81,15 @@ El router define la experiencia diaria: velocidad real, alcance y estabilidad. E
 
 ## Tabla de contenidos
 
-1.  [Por que el router es el centro de tu internet](#por-que-importa-router)
-2.  [Tipos de router y cuando convienen](#tipos-router)
-3.  [Bandas, canales y velocidad real](#bandas-canales)
-4.  [Estandares WiFi y que significan](#estandares-wifi)
-5.  [Cobertura, ubicacion y materiales de la casa](#cobertura-ubicacion)
-6.  [Seguridad y configuracion basica](#seguridad-config)
-7.  [Compatibilidad con tu proveedor](#compatibilidad-proveedor)
-8.  [Checklist de compra inteligente](#checklist-compra)
-9.  [Lecturas relacionadas](#relacionados)
+1.  [Por que el router es el centro de tu internet](#por-que-el-router-es-el-centro-de-tu-internet)
+2.  [Tipos de router y cuando convienen](#tipos-de-router-y-cuando-convienen)
+3.  [Bandas, canales y velocidad real](#bandas-canales-y-velocidad-real)
+4.  [Estandares WiFi y que significan](#estandares-wifi-y-que-significan)
+5.  [Cobertura, ubicacion y materiales de la casa](#cobertura-ubicacion-y-materiales-de-la-casa)
+6.  [Seguridad y configuracion basica](#seguridad-y-configuracion-basica)
+7.  [Compatibilidad con tu proveedor](#compatibilidad-con-tu-proveedor)
+8.  [Checklist de compra inteligente](#checklist-de-compra-inteligente)
+9.  [Lecturas relacionadas](#lecturas-relacionadas)
 
 
 ## Por que el router es el centro de tu internet

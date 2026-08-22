@@ -151,19 +151,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cómo sé si el plan que me ofrecen es fibra óptica de verdad y no cable coaxial?" >}}
+Pregunta directo si la conexión es fibra hasta tu casa y cuánto da la velocidad de subida. En el cable coaxial la subida suele ser mucho menor que la descarga; en fibra óptica es simétrica, igual que la bajada.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿La fibra óptica de Totalplay o Izzi cuesta más que el cable coaxial?" >}}
+No siempre. La fibra de Totalplay e Izzi va de $599 a $899 al mes por velocidades simétricas de hasta 1000 Mbps, mientras el cable coaxial arranca desde $399/mes. Compara el precio mensual contra lo que pagas hoy.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué tecnología me conviene si solo uso redes sociales y correo?" >}}
+Si vives donde solo llega cable coaxial y tu uso es básico, no te compliques: el cable coaxial es más que suficiente para revisar redes sociales, WhatsApp y correo, y suele ser más económico que la fibra.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Tengo que cambiar a fibra si hago videollamadas o trabajo desde casa?" >}}
+Para home office y videollamadas necesitas buena velocidad de subida, y ahí el cable coaxial se queda corto: tu imagen puede congelarse. La fibra óptica te garantiza una comunicación fluida y profesional por su velocidad simétrica.
 {{< /faq >}}
 

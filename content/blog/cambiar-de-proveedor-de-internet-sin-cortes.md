@@ -198,19 +198,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Qué es la portabilidad simultánea y por qué evita quedarme sin internet?" >}}
+Es activar el nuevo servicio primero y cancelar el viejo después, en lugar de dar de baja antes. Así el proveedor nuevo te instala y activa la conexión, y solo entonces llamas a tu actual para cancelar, sin días de desconexión.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cuánto tarda el trámite de portabilidad con la IFT?" >}}
+El proceso toma entre 3 y 7 días hábiles, y no requiere que cortes tu servicio actual hasta que el nuevo esté activo. Si usas un proveedor como Totalplay que gestiona la portabilidad por ti, la instalación se agenda en 24-48 horas.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué hago si mi nuevo proveedor se tarda y pierdo conexión?" >}}
+Pide un hotspot 4G o 5G temporal, que Totalplay, Virgin Mobile y Dish dan gratis por 15 días en promociones de bienvenida. También usa una línea temporal como un módem 4G o hotspot mientras se configura el nuevo cableado.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cómo evito la penalización por cancelar antes de tiempo?" >}}
+Negocia con tu proveedor actual pidiendo un plan mensual sin contrato o una oferta de retención. También verifica si tu nuevo proveedor cubre la penalización, como Totalplay, que la cancela hasta $999 en promociones de bienvenida.
 {{< /faq >}}
 

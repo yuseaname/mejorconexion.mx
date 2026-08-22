@@ -169,19 +169,19 @@ Para la mayoría de hogares mexicanos, un **TP-Link Archer AX50 ($1,200-1,400 MX
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Por qué comprar mi propio router en lugar del del proveedor?" >}}
+Por control y calidad: el equipo incluido suele ser básico, mientras un router propio te da mejor Wi-Fi, más configuración y vida útil más larga. La guía ordena opciones por presupuesto para decidir sin sobrepagar.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Qué router conviene si mi presupuesto es limitado?" >}}
+La guía arranca con routers económicos de hasta $1,000 MXN que ya mejoran claramente al equipo de renta del proveedor. Para la mayoría de casas medianas, ese rango resuelve.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cuándo vale un router de rango medio o premium?" >}}
+El rango medio de $1,500 a $3,500 MXN cubre casas grandes y planes de fibra alta; los premium de más de $3,500 MXN tienen sentido para gamers exigentes u hogares muy conectados. Empata la inversión con el plan que pagas.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Los routers comprados funcionan con proveedores mexicanos?" >}}
+Casi todos, pero hay que verificar compatibilidad por proveedor: la guía dedica una sección a qué exige cada compañía mexicana para usar equipo propio sin perder soporte.
 {{< /faq >}}
 

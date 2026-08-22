@@ -21,7 +21,7 @@ uglyURLs = true
   tagline = 'Tu internet, sin complicaciones.'
   author = 'Mejor Conexión'
   favicon = '/assets/images/logo.png'
-  og_image = '/assets/images/logo.png'
+  og_image = '/images/generated/m1-og-mark.webp'
   google_site_verification = ''
   amazon_tag = 'litwd-20'
 

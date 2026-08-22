@@ -30,20 +30,20 @@ Para más detalle, consulta [elegir internet para home office](/blog/mejor-inter
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Cuántos Mbps necesito para Zoom, Meet o Teams?" >}}
+La guía recomienda entre 10 y 25 Mbps de bajada y de 5 a 10 de subida para videollamadas cómodas en México. Con eso cubres la llamada más navegación simultánea sin congelamientos.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Por qué se congela mi video en las llamadas?" >}}
+Casi siempre por la subida o el Wi-Fi: señal inalámbrica débil, canal saturado o varios dispositivos compitiendo. El checklist de la guía pasa por cable, cerrar apps que consumen y probar en otro horario.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Importa el ping para videollamadas?" >}}
+Sí: un ping alto se siente como conversación con retardo, aunque la velocidad sea suficiente. La latencia estable es lo que hace que una llamada se sienta natural y no walkie-talkie.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Y si en casa hay varias personas en llamadas a la vez?" >}}
+Suma los requerimientos de cada una y agrega margen: varias videollamadas simultáneas exigen más subida total. Un plan de 100 Mbps o superior con buena subida aguanta el hogar completo.
 {{< /faq >}}
 
 

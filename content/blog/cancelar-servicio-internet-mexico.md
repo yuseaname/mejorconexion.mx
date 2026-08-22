@@ -185,19 +185,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuánto me cobran si cancelo antes de terminar mi contrato?" >}}
+Si firmaste contrato de 12 o 24 meses, la penalización va de 20-80% del plan mensual, lo que en la práctica son $599-$3,500. La guía recomienda llamar a atención al cliente y preguntar exactamente: "¿Tengo permanencia vigente y cuánto es la penalización si cancelo hoy?"
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Qué pasa si no devuelvo el módem o los decodificadores?" >}}
+Ese es el error más común. El módem, cables y decodificadores son propiedad de la empresa en comodato; si no los devuelves, te cargan entre $500 y $2,500 en la última factura. Haz inventario de todo el equipo antes de cancelar y pide comprobante de entrega.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Me pueden obligar a quedarme si ya cumplí el plazo forzoso?" >}}
+No. En México el derecho a cancelar un servicio es absoluto si ya cumpliste tus obligaciones contractuales. Si el proveedor pone trabas (que "el sistema no funciona" o cobra multas que no reconoces), recurre a PROFECO por la plataforma Concilianet con tu documentación y folios.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cómo le digo que no a las ofertas de retención sin enredarme?" >}}
+Los agentes están entrenados para retenerte con descuentos y doble de megas. Si tu decisión es firme, usa un guion corto: "Agradezco la oferta, pero mi decisión es definitiva por motivos personales. No me interesa ningún descuento, solo el folio de mi trámite". No entres en regateo.
 {{< /faq >}}
 

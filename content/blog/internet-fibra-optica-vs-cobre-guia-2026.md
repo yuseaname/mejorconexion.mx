@@ -130,19 +130,19 @@ Antes de contratar, pregunta específicamente: "¿Este servicio es fibra hasta m
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cómo sé si mi conexión es fibra hasta mi casa o solo hasta la calle?" >}}
+Pregunta directamente al proveedor si el servicio es fibra hasta tu casa, es decir FTTH, o fibra hasta la calle con cobre hasta tu módem, que es FTTC. Algunos ISPs anuncian fibra cuando en realidad es una red híbrida.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué mi cobre no alcanza la velocidad que pago?" >}}
+Un estudio de la FTC (2025) mostró que los usuarios de cobre en México reciben en promedio solo el 65% de la velocidad contratada, mientras los de fibra reciben el 93%. En horarios de alta demanda puede bajar aún más.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué me conviene si tengo presupuesto limitado?" >}}
+Si tu uso es básico, vives solo y tu presupuesto es limitado, el cobre puede ser suficiente y sus planes son más baratos, desde $399/mes. Solo asegúrate de que no haya fibra disponible en tu colonia antes de decidir.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cuánto tarda la fibra en valer la pena el costo extra?" >}}
+La fibra cuesta desde $599/mes frente a los $399 del cobre, pero entrega hasta 1000 Mbps simétricos y latencia de 5-15 ms. Si trabajas desde casa, juegas online o subes archivos pesados, la diferencia se nota a diario.
 {{< /faq >}}
 

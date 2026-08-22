@@ -66,20 +66,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Por qué tengo lag si mi plan es de 200 Mbps?" >}}
+Porque el problema casi nunca son los Mbps: es latencia, jitter o saturación. El gaming depende más de una latencia estable que de la velocidad alta. Prueba por cable y revisa si el ping sube cuando alguien descarga o hace streaming en casa.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿El lag por la noche es culpa de mi proveedor?" >}}
+Si solo falla de noche y por cable sigue, suele ser saturación del proveedor o de la zona. Haz pruebas en mañana y noche para comparar. En ese caso, cambiar de plan no siempre ayuda; conviene reportar con horarios exactos y resultados.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué es el bufferbloat y cómo lo arreglo?" >}}
+Ocurre cuando el router crea colas enormes al estar saturado y sube la latencia aunque tengas buen plan. Pasa con respaldos automáticos, cámaras o alguien subiendo archivos grandes. La solución práctica es activar QoS/SQM en tu router.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cómo sé si el lag viene de mi WiFi o del proveedor?" >}}
+Haz una prueba A/B: conecta por cable Ethernet y juega. Si el cable mejora, el problema es tu WiFi, distancia o interferencias; cambia a 5 GHz o mueve el router. Si no mejora, revisa saturación del proveedor o la ruta hacia el servidor.
 {{< /faq >}}
 
 

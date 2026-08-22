@@ -29,20 +29,22 @@ Para más detalle, consulta [el mejor router WiFi para casa en México](/interne
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Un repetidor Wi-Fi mejora mi internet?" >}}
+Sí, pero solo si la señal base es buena. Si el router ya recibe mala señal del proveedor, el repetidor solo repite basura. Además, un repetidor barato añade latencia y reduce la velocidad a la mitad, así que un access point por cable siempre será mejor.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cambia algo cambiar mi DNS?" >}}
+Para navegación general, cambiar el DNS, por ejemplo a 1.1.1.1 de Cloudflare o 8.8.8.8 de Google, puede abrir páginas un poco más rápido. Pero no aumenta la velocidad de descarga ni corrige un Wi-Fi mal configurado, así que no esperes que resuelva una señal débil.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Sirve reiniciar el router para mejorar la señal?" >}}
+Sí. Reiniciar el router, apagándolo 30 segundos y volviendo a encenderlo, resuelve muchos problemas temporales de memoria y conexión. Es recomendable hacerlo una vez por semana para mantener el equipo funcionando de forma estable.
+
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Debo comprar un router propio para mejorar mi Wi-Fi?" >}}
+Si el de tu proveedor es viejo o básico, un router propio puede mejorar bastante el Wi-Fi. Pero primero verifica que el problema no sea la velocidad que llega por el cable. Si por cable va lento en horario pico, el problema es del proveedor, no del router.
+
 {{< /faq >}}
 
 

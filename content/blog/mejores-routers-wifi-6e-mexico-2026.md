@@ -161,19 +161,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Qué puerto necesito para aprovechar un plan de 1 Gbps con WiFi 6E?" >}}
+Necesitas un router con puerto 2.5 Gbps y no solo Gigabit, porque los routers convencionales limitan la velocidad a ~940 Mbps teóricos por el cuello de botella del puerto Gigabit. El Netgear Nighthawk R9000P y el ASUS ROG GT-AXE11000 lo incluyen.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cómo conecto mi router WiFi 6E al módem de Totalplay o Izzi?" >}}
+Debes desactivar el router integrado del módem y configurar el nuevo router en modo puente o AP. En la app de Totalplay o Izzi, activa el modo puente; en Megacable llamas al 800-MEGACABLE para solicitarlo.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Vale la pena el WiFi 6E si mi plan es de 300 Mbps?" >}}
+No necesariamente. Si tienes un plan bajo, un router WiFi 6 o WiFi 5 actualizado es suficiente. El WiFi 6E brilla con planes de 500 Mbps o más, o en hogares con 10+ dispositivos conectados simultáneamente, donde sí notas la diferencia en estabilidad y latencia.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Por qué el WiFi 6E reduce las interferencias en mi casa?" >}}
+Añade la banda de 6 GHz, una vía exclusiva y sin interferencias: nada de microondas, Bluetooth ni vecinos con redes WiFi saturadas. Eso permite velocidades reales cercanas a las contratadas y latencias bajo 10 ms para gaming y streaming 8K.
 {{< /faq >}}
 

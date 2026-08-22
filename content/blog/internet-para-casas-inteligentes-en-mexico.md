@@ -220,19 +220,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos dispositivos necesito para que valga la pena subir de 100 a 200-300 Mbps?" >}}
+Con más de 10 dispositivos IoT o cámaras 4K, lo ideal es 100 Mbps o más. Si llegas a 15-30 dispositivos en casa, un plan simétrico de 200-500 Mbps como Totalplay 300 Mbps o Izzi 500 Mbps evita que la red se sature cuando todos responden a la vez.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Vale la pena un sistema Mesh o alcanza con un repetidor para mi casa inteligente?" >}}
+Para casas con 15-30 dispositivos, el Mesh es lo recomendado: un pack de 2 nodos cubre 150-250 m² con una sola red. Un repetidor barato parte la velocidad y puede meter microcortes. Los routers TP-Link Deco M5 ($3,499) o Google Nest WiFi ($2,899) son los que usa la guía.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Por qué me piden separar la red IoT en 2.4 GHz y mis equipos en 5 GHz?" >}}
+Porque luces, cámaras y asistentes no necesitan velocidad, sí estabilidad, y no deben pelear con tu teléfono o streaming. Al separar la red IoT en 2.4 GHz y usar 5 GHz para tus equipos, cada dispositivo usa su banda y el Wi-Fi 6 (802.11ax) duplica la capacidad para más de 10 dispositivos.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿La latencia de 12 a 14 ms en fibra se nota en alarmas y cerraduras?" >}}
+Sí, mucho. La guía advierte que una cerradura con 40 ms de latencia puede tardar 2 segundos en abrirse al escuchar el comando. Por eso recomienda latencia de 20 ms o menos para críticos y planes con QoS. Totalplay mantiene 12 ms y Izzi 14 ms en promedio.
 {{< /faq >}}
 

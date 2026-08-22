@@ -42,20 +42,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cómo mejoro la señal del Wi-Fi en mi casa?" >}}
-Mueve el router al centro de la casa a 1.5 metros de altura, separa las redes 2.4 GHz y 5 GHz, y cambia a un canal menos saturado. Si la casa tiene más de 80 m² o muros gruesos, considera un sistema mesh.
+{{< faq "¿Qué tan seguido debo cambiar la contraseña del WiFi?" >}}
+No necesitas cambiarla cada mes. Hazlo si la compartiste con muchas personas, si te mudaste o si detectas dispositivos extraños. Una contraseña fuerte y única aguanta bien en el tiempo, siempre que el cifrado sea WPA2 o WPA3.
 {{< /faq >}}
 
-{{< faq "¿Vale la pena comprar un router propio en lugar del del proveedor?" >}}
-Sí, especialmente si tienes más de 10 dispositivos o un plan de más de 200 Mbps. Un router Wi-Fi 6 propio ($1,200-$3,500 MXN) ofrece mejor cobertura, más estabilidad y funciones que el router básico del proveedor no tiene.
+{{< faq "¿WPA3 es obligatorio para estar seguro?" >}}
+No es obligatorio, pero es mejor. Si tu router y tus dispositivos lo soportan, actívalo. Si no, WPA2 con una clave larga sigue siendo seguro para la mayoría de hogares. Evita WPA o WEP, que son estándares antiguos y vulnerables.
 {{< /faq >}}
 
-{{< faq "¿Mesh o repetidor Wi-Fi?" >}}
-Mesh es mejor para casas grandes (>120 m²) o de dos pisos porque crea una sola red sin cortes. Los repetidores son más baratos ($300-$600 MXN) pero crean una red separada y reducen la velocidad a la mitad.
+{{< faq "¿Ocultar el nombre de la red ayuda?" >}}
+Ayuda poco. El verdadero escudo es la contraseña y el cifrado. Ocultar el SSID puede evitar conexiones automáticas de dispositivos de paso, pero no reemplaza buenas prácticas como una clave fuerte y desactivar WPS.
 {{< /faq >}}
 
-{{< faq "¿Wi-Fi 5 o Wi-Fi 6?" >}}
-Wi-Fi 6 ofrece hasta 40% más rendimiento real con muchos dispositivos conectados. Si tienes más de 10 dispositivos o un plan de 300+ Mbps, el cambio a Wi-Fi 6 vale la pena.
+{{< faq "¿Una red de invitados realmente protege?" >}}
+Si está bien separada, sí. Reduce el riesgo de que un dispositivo externo vea tu red principal. Es un paso muy recomendado cuando recibes visitas y para aislar dispositivos inteligentes que suelen tener software menos seguro.
 {{< /faq >}}
 
 
@@ -81,26 +81,26 @@ Un WiFi rapido no sirve si tu red es facil de entrar. Esta guia te explica, sin 
 
 ## Tabla de contenidos
 
-1.  [Por que la seguridad WiFi importa en casa](#por-que-importa)
-2.  [Riesgos comunes en hogares de Mexico](#riesgos-comunes)
-3.  [Inventario rapido del equipo y la red](#inventario)
-4.  [Cambia usuario y contrasena del router](#cambia-credenciales)
-5.  [WPA2 y WPA3: como configurarlos](#wpa)
-6.  [Desactiva WPS y servicios innecesarios](#wps)
-7.  [Nombre de red y privacidad basica](#ssid)
-8.  [Crea una red de invitados](#invitados)
-9.  [Separa dispositivos inteligentes](#iot)
-10. [Actualizaciones y soporte del fabricante](#firmware)
-11. [Admin remota, UPnP y riesgos](#admin-remota)
-12. [Firewall y puertos abiertos](#firewall)
-13. [DNS seguro y bloqueo de malware](#dns)
-14. [Monitoreo de dispositivos conectados](#monitoreo)
-15. [Seguridad fisica del equipo](#seguridad-fisica)
-16. [Buenas practicas en cada dispositivo](#dispositivos)
-17. [Que hacer si sospechas intrusos](#intrusion)
-18. [Checklist final de seguridad WiFi](#checklist)
-19. [Preguntas frecuentes](#faq)
-20. [Lecturas relacionadas](#relacionados)
+1.  [Por que la seguridad WiFi importa en casa](#por-que-la-seguridad-wifi-importa-en-casa)
+2.  [Riesgos comunes en hogares de Mexico](#riesgos-comunes-en-hogares-de-mexico)
+3.  [Inventario rapido del equipo y la red](#inventario-rapido-del-equipo-y-la-red)
+4.  [Cambia usuario y contrasena del router](#cambia-usuario-y-contrasena-del-router)
+5.  [WPA2 y WPA3: como configurarlos](#wpa2-y-wpa3-como-configurarlos)
+6.  [Desactiva WPS y servicios innecesarios](#desactiva-wps-y-servicios-innecesarios)
+7.  [Nombre de red y privacidad basica](#nombre-de-red-y-privacidad-basica)
+8.  [Crea una red de invitados](#crea-una-red-de-invitados)
+9.  [Separa dispositivos inteligentes](#separa-dispositivos-inteligentes)
+10. [Actualizaciones y soporte del fabricante](#actualizaciones-y-soporte-del-fabricante)
+11. [Admin remota, UPnP y riesgos](#admin-remota-upnp-y-riesgos)
+12. [Firewall y puertos abiertos](#firewall-y-puertos-abiertos)
+13. [DNS seguro y bloqueo de malware](#dns-seguro-y-bloqueo-de-malware)
+14. [Monitoreo de dispositivos conectados](#monitoreo-de-dispositivos-conectados)
+15. [Seguridad fisica del equipo](#seguridad-fisica-del-equipo)
+16. [Buenas practicas en cada dispositivo](#buenas-practicas-en-cada-dispositivo)
+17. [Que hacer si sospechas intrusos](#que-hacer-si-sospechas-intrusos)
+18. [Checklist final de seguridad WiFi](#checklist-final-de-seguridad-wifi)
+19. [Preguntas frecuentes](#preguntas-frecuentes)
+20. [Lecturas relacionadas](#lecturas-relacionadas)
 
 
 ## Por que la seguridad WiFi importa en casa

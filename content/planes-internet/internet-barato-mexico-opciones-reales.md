@@ -28,14 +28,14 @@ Buscar internet barato no tiene por qué ser un volado. Esta guía te ayuda a pa
 
 1.  [Qué significa "barato" en internet](#significa)
 2.  [Señales de una oferta sana](#oferta-sana)
-3.  [Costos ocultos que debes revisar](#costos-ocultos)
+3.  [Costos ocultos que debes revisar](#costos-ocultos-que-debes-revisar)
 4.  [Opciones realistas según tu uso](#opciones)
 5.  [Cómo comparar dos planes sin perderte](#comparar)
 6.  [Cómo ahorrar sin bajar de calidad](#negociar)
-7.  [Alternativas de respaldo](#respaldo)
+7.  [Alternativas de respaldo](#alternativas-de-respaldo)
 8.  [Errores comunes al buscar lo más barato](#errores)
-9.  [Checklist para contratar sin sorpresas](#checklist)
-10. [Preguntas frecuentes](#faq)
+9.  [Checklist para contratar sin sorpresas](#checklist-para-contratar-sin-sorpresas)
+10. [Preguntas frecuentes](#preguntas-frecuentes)
 11. [Estado del contenido](#status)
 
 
@@ -53,20 +53,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Qué significa que un internet sea realmente barato?" >}}
+Que su costo total mensual, ya con equipo, instalación y sin sorpresas promocionales, es bajo para la velocidad y calidad que entrega. Barato de verdad se mide en el recibo del mes doce, no en el anuncio del mes uno.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Cómo detecto una oferta sana frente a una trampa?" >}}
+Señales de oferta sana: precio claro después de la promoción, velocidad verificable, contrato legible y sin cargos que aparecen después. Si algo solo se aclara llamando, desconfía.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Cómo comparo dos planes sin perderme?" >}}
+Normaliza todo a costo mensual total con equipos incluidos y divídelo entre la velocidad real esperada. Compara también la subida y la tecnología: dos planes de same precio pueden ser cosas muy distintas.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Qué opciones reales hay por tipo de uso?" >}}
+La guía ordena alternativas según tu consumo: desde planes básicos para navegación y mensajería hasta opciones de mayor velocidad para streaming y trabajo. El barato correcto es el que cubre tu uso sin excedentes.
 {{< /faq >}}
 
 

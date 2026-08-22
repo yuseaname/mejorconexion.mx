@@ -42,20 +42,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿El satelital sirve para videollamadas?" >}}
+Depende de la tecnología. En LEO suele ser viable; en GEO la latencia es alta. Si hay 4G/5G fijo estable, suele ser mejor para videollamadas porque la latencia es menor que en satelital GEO.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Qué es mejor para un rancho: WISP o satelital?" >}}
+Si el WISP es confiable, suele dar menor latencia y mejor estabilidad. El satelital es más universal cuando no hay otra opción. La clave es pedir referencias locales y probar en horario pico.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cuántos Mbps necesito en zona rural?" >}}
+Para una familia promedio, 30 a 50 Mbps estables suelen bastar. El objetivo es estabilidad real, no picos teóricos. Mide la señal en varios horarios para ver si el servicio aguanta el uso diario.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Vale la pena firmar contrato largo en zona rural?" >}}
+Solo si el proveedor tiene historial estable y si el descuento lo justifica. En zonas rurales es mejor tener salida rápida si el servicio no cumple. Pregunta siempre por cláusulas de permanencia y penalizaciones.
 {{< /faq >}}
 
 
@@ -65,17 +65,17 @@ Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Alguno
 Ana vive a 25 minutos del pueblo. El streaming se corta, las clases en linea se caen y el WhatsApp llega con retraso. Le dijeron que solo hay satelital, pero tambien escucho de 4G fijo, WISP y hasta 5G. Esta guia pone orden: que opciones existen, como compararlas y como decidir con datos reales.
 
 
--   [Panorama del internet rural en Mexico](#panorama-rural)
--   [Opciones disponibles: satelital, 4G/5G fijo y WISP](#opciones-disponibles)
--   [Comparativa rapida por uso real](#comparativa-uso)
--   [Latencia, jitter y estabilidad: lo que realmente importa](#latencia-jitter)
--   [Mitos y realidades del internet rural](#mitos-realidades)
--   [Como evaluar viabilidad en tu ubicacion](#viabilidad-ubicacion)
--   [Equipo y costos ocultos](#equipamiento)
--   [Costos reales y contratos](#costos-contratos)
--   [Plan de pruebas de 7 dias antes de decidir](#plan-pruebas)
--   [Checklist de eleccion paso a paso](#checklist-eleccion)
--   [Como optimizar la red en zona rural](#optimizar-red)
+-   [Panorama del internet rural en Mexico](#panorama-del-internet-rural-en-mexico)
+-   [Opciones disponibles: satelital, 4G/5G fijo y WISP](#opciones-disponibles-satelital-4g5g-fijo-y-wisp)
+-   [Comparativa rapida por uso real](#comparativa-rapida-por-uso-real)
+-   [Latencia, jitter y estabilidad: lo que realmente importa](#latencia-jitter-y-estabilidad-lo-que-realmente-importa)
+-   [Mitos y realidades del internet rural](#mitos-y-realidades-del-internet-rural)
+-   [Como evaluar viabilidad en tu ubicacion](#como-evaluar-viabilidad-en-tu-ubicacion)
+-   [Equipo y costos ocultos](#equipo-y-costos-ocultos)
+-   [Costos reales y contratos](#costos-reales-y-contratos)
+-   [Plan de pruebas de 7 dias antes de decidir](#plan-de-pruebas-de-7-dias-antes-de-decidir)
+-   [Checklist de eleccion paso a paso](#checklist-de-eleccion-paso-a-paso)
+-   [Como optimizar la red en zona rural](#como-optimizar-la-red-en-zona-rural)
 -   [Preguntas frecuentes](#preguntas-frecuentes)
 
 

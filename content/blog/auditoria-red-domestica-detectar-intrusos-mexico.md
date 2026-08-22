@@ -49,20 +49,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cómo mejoro la señal del Wi-Fi en mi casa?" >}}
-Mueve el router al centro de la casa a 1.5 metros de altura, separa las redes 2.4 GHz y 5 GHz, y cambia a un canal menos saturado. Si la casa tiene más de 80 m² o muros gruesos, considera un sistema mesh.
+{{< faq "¿Cada cuánto debo hacer una auditoría?" >}}
+Una vez al mes suele ser suficiente en hogares normales. Si compartes la red con muchas personas o tienes muchos dispositivos, hazla cada dos semanas. También haz una cuando compartiste la contraseña, se fue alguien de casa o instalaste un dispositivo inteligente nuevo.
 {{< /faq >}}
 
-{{< faq "¿Vale la pena comprar un router propio en lugar del del proveedor?" >}}
-Sí, especialmente si tienes más de 10 dispositivos o un plan de más de 200 Mbps. Un router Wi-Fi 6 propio ($1,200-$3,500 MXN) ofrece mejor cobertura, más estabilidad y funciones que el router básico del proveedor no tiene.
+{{< faq "¿Necesito apps especiales?" >}}
+No. El panel del router y la app oficial suelen ser suficientes para revisar la lista de dispositivos conectados. Renombrar tus dispositivos dentro del router hace más fácil detectar intrusos porque puedes comparar los nombres de lo que conoces.
 {{< /faq >}}
 
-{{< faq "¿Mesh o repetidor Wi-Fi?" >}}
-Mesh es mejor para casas grandes (>120 m²) o de dos pisos porque crea una sola red sin cortes. Los repetidores son más baratos ($300-$600 MXN) pero crean una red separada y reducen la velocidad a la mitad.
+{{< faq "¿Es normal ver dispositivos desconocidos?" >}}
+No debería pasar. Si no reconoces algo, bórralo y cambia la clave. Si no puedes identificarlo, bloquéalo temporalmente y verifica con tu familia si alguien conectó algo nuevo. Si nadie lo nota, era un intruso o un equipo olvidado.
 {{< /faq >}}
 
-{{< faq "¿Wi-Fi 5 o Wi-Fi 6?" >}}
-Wi-Fi 6 ofrece hasta 40% más rendimiento real con muchos dispositivos conectados. Si tienes más de 10 dispositivos o un plan de 300+ Mbps, el cambio a Wi-Fi 6 vale la pena.
+{{< faq "¿La auditoría mejora la velocidad?" >}}
+Puede ayudar, porque elimina conexiones no autorizadas y reduce saturación. Un dispositivo desconocido consume ancho de banda sin que lo notes. Revisar la lista y bloquear lo ajeno suele resolver muchos problemas de red doméstica.
 {{< /faq >}}
 
 

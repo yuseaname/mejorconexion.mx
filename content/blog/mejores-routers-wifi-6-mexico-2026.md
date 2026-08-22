@@ -167,19 +167,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Por qué importa Wi-Fi 6 en 2026?" >}}
+Porque los hogares tienen más dispositivos que nunca y Wi-Fi 6 administra mejor muchas conexiones simultáneas que un router antiguo. No es velocidad de anuncio: es que la red no se ahogue cuando todo está conectado.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cuáles son los mejores routers Wi-Fi 6 disponibles en México?" >}}
+La guía compara modelos con precios reales en el mercado mexicano, desde equipos accesibles en torno a los $1,200 MXN hasta opciones de gama alta por encima de los $4,199 MXN según cobertura y funciones.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Es difícil instalar un router Wi-Fi 6 propio?" >}}
+No: la guía incluye el paso a paso desde sacarlo de la caja hasta configurar red y contraseña. El proceso típico es conectar, entrar al panel y seguir el asistente.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Wi-Fi 6 hace más rápida mi conexión de internet?" >}}
+Hasta el límite de tu plan: mejora la red interna de tu casa, no los megas que contrataste. Si tu plan es de 100 megas, Wi-Fi 6 te asegura llegar a ellos con todos los dispositivos, no te dará 300.
 {{< /faq >}}
 

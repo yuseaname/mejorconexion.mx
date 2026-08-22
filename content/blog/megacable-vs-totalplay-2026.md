@@ -162,19 +162,19 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuál conviene más si solo busco internet básico con teléfono?" >}}
+Megacable gana en precio en ese caso: su plan básico arranca en $399 MXN/mes con hasta 100 Mbps, contra los $399 de Totalplay con hasta 200 Mbps. Pero Totalplay da más velocidad por el mismo precio, así que revisa si tu uso justifica la diferencia.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué Totalplay es mejor para streaming y gaming?" >}}
+Totalplay usa fibra óptica real FTTH con ping bajo y 95%+ de velocidad en horas valle, ideal para juegos online. Megacable con cable HFC baja a 60% en horario pico y comparte el nodo con tus vecinos, lo que afecta partidas y video en 4K.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cuál tiene mejor cobertura en 2026?" >}}
+Totalplay opera en 22 estados y Megacable en 15. Si vives en una colonia reciente o fraccionamiento privado, Totalplay suele ser más amplia; en zonas rurales o colonias antiguas de Guadalajara o Culiacán, Megacable puede ser el único con fibra de alta velocidad.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué promociones hay en noviembre 2026 y cómo aprovecharlas?" >}}
+Totalplay ofrece 3 meses gratis de Netflix en planes premium y paga hasta $500 de tu cambio de proveedor; Megacable regala 6 meses de Amazon Prime Video y 20% en el primer mes. Siempre pregunta si la promo se aplica al primer mes o a todo el contrato.
 {{< /faq >}}
 

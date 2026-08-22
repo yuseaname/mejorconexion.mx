@@ -29,20 +29,20 @@ Para más detalle, consulta [cómo mejorar tu Wi-Fi en casa](/internet-en-casa/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Es normal que cada prueba me dé un resultado diferente?" >}}
+La velocidad varía por congestión, dispositivos conectados y el servidor de prueba. Por eso conviene hacer varias pruebas y sacar promedio. Mide en distintos horarios para detectar si el problema aparece solo en la noche.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿El test desde mi celular sirve?" >}}
+Sirve como referencia rápida, pero no es preciso. El celular mide por Wi-Fi, que añade variables. Para una queja formal ante tu proveedor, mide por cable Ethernet con la computadora conectada directo al router.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "Si la velocidad medida queda por debajo del plan, qué sigue?" >}}
+Documenta con mediciones por cable en distintos horarios, llama a soporte con los datos y si no resuelven en 30 días presenta una queja ante PROFECO. La velocidad esperada por cable es al menos el 80% de tu plan contratado.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Conviene apagar y encender el módem justo antes de hacer la prueba?" >}}
+Sí. Un reinicio limpia la memoria del router y parte de una conexión limpia. Mide con y sin reinicio para ver la diferencia. Cierra también Netflix, YouTube y descargas para que el resultado refleje la velocidad real disponible.
 {{< /faq >}}
 
 

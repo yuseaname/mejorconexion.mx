@@ -52,11 +52,14 @@
 {{- end -}}
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-{{- with .Params.image -}}
-<meta property="og:image" content="{{ . }}">
+{{- $ogImage := .Params.image | default .Site.Params.og_image -}}
+{{- with $ogImage -}}
+<meta property="og:image" content="{{ . | absURL }}">
 {{- end -}}
-{{- with .Params.image_alt -}}
+{{- with $.Params.image_alt -}}
 <meta property="og:image:alt" content="{{ . }}">
+{{- else -}}
+<meta property="og:image:alt" content="{{ $.Site.Title }}">
 {{- end -}}
 {{- with .Site.LanguageCode -}}
 <meta property="og:locale" content="{{ . }}">

@@ -42,20 +42,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuántos Mbps necesito para dos clases simultáneas con Netflix de fondo?" >}}
+La tabla sugiere para 2 clases simultáneas más Netflix un plan medio de 30 Mbps de bajada y 5 de subida, como Totalplay 100 o Izzi 150. Si son 3+ personas con clases, streaming y trabajo, sube a 50+ Mbps con 10+ de subida y un plan alto.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Por qué se corta el audio aunque el speed test salga bien?" >}}
+Suele ser WiFi (señal débil o interferencia) o subida saturada, no la bajada. Si tu router tiene QoS, prioriza videollamadas; si el WiFi está lejos, acércate a menos de 3 metros o conecta por cable Ethernet. Prueba por cable para aislar el problema.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Fibra o coaxial para clases en línea?" >}}
+En general la fibra suele ser más estable, pero depende de tu zona e instalación. La subida es lo que sostiene tu cámara y micrófono; si tu coaxial tiene subida baja o se satura, el video se congela. Revisa la comparativa fibra vs coaxial según tu domicilio.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Me conviene un sistema mesh si estudio en casa?" >}}
+Si hay zonas muertas o muchas paredes entre el router y tu escritorio, sí. Un mesh cubre toda la casa con una sola red, mientras un repetidor reduce velocidad y añade latencia. Coloca el router en un punto central, elevado y sin encierro antes de invertir.
 {{< /faq >}}
 
 
@@ -83,11 +83,11 @@ Para clases en línea lo que manda es la estabilidad: videollamadas sin cortes, 
 
 1.  [Qué importa para clases en línea (de verdad)](#que-importa)
 2.  [Cuántos Mbps necesitas](#mbps)
-3.  [La subida: el detalle que suele fallar](#subida)
+3.  [La subida: el detalle que suele fallar](#la-subida-el-detalle-que-suele-fallar)
 4.  [Cómo evitar cortes por Wi‑Fi](#wifi)
-5.  [Checklist antes de contratar o ajustar](#checklist)
+5.  [Checklist antes de contratar o ajustar](#checklist-antes-de-contratar-o-ajustar)
 6.  [Preguntas frecuentes](#preguntas-frecuentes)
-7.  [Lecturas relacionadas](#relacionados)
+7.  [Lecturas relacionadas](#lecturas-relacionadas)
 
 
 ## Qué importa para clases en línea (de verdad)

@@ -1,5 +1,6 @@
 ---
 title: "Herramientas"
+image: "/images/generated/m8-herramientas-panel.webp"
 description: "Herramientas interactivas para tu internet: calculadora de velocidad, test de cobertura y más."
 ---
 

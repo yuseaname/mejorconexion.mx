@@ -29,20 +29,20 @@ Para más detalle, consulta [internet sin contrato en México](/internet-en-casa
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Cuándo un internet barato es en realidad una trampa?" >}}
+Cuando el precio bajo dura solo la promoción, la velocidad real no corresponde a la anunciada o los costos ocultos aparecen en el primer recibo. Barato sano existe: trampa es barato sin condiciones claras.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Qué costos ocultos debo revisar antes de contratar?" >}}
+Instalación, renta del equipo, cargos por pago en ventanilla y la penalización por cancelación. La suma de estos extras puede voltear por completo la comparación entre dos planes aparentemente iguales.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Me conviene un internet sin contrato?" >}}
+Si tu situación puede cambiar pronto o quieres libertad para probar, sí: pagas un poco más al mes a cambio de cero permanencia. Si vas a quedarte años, un contrato con buen precio fijo suele salir más barato.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Qué revisar en el checklist antes de firmar?" >}}
+Precio después de la promoción, velocidad de subida, tecnología disponible en tu dirección y los costos ocultos de siempre. Diez minutos de lectura valen un año de arrepentimiento evitado.
 {{< /faq >}}
 
 

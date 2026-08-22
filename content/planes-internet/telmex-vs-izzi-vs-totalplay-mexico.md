@@ -82,18 +82,18 @@ Si estás entre Telmex, Izzi y Totalplay, la comparación que sí sirve no es "q
 
 ## Tabla de contenidos
 
-1.  [Comparar por uso real (no por publicidad)](#enfoque-uso)
+1.  [Comparar por uso real (no por publicidad)](#comparar-por-uso-real-no-por-publicidad)
 2.  [Tecnologías y por qué cambian la experiencia](#tecnologias)
 3.  [Cómo leer una oferta sin perderte](#ofertas)
 4.  [Perfiles de uso: qué conviene en cada caso](#perfiles)
 5.  [Tabla de criterios de decisión](#tabla-criterios)
 6.  [Cómo evaluar tu zona antes de contratar](#zona)
 7.  [Instalación y Wi‑Fi interno](#instalacion)
-8.  [Costo total real y promociones](#costos)
+8.  [Costo total real y promociones](#costo-total-real-y-promociones)
 9.  [Señales de alerta al contratar](#alertas)
-10. [Proceso simple en 7 pasos](#proceso)
-11. [Mitos comunes al elegir proveedor](#mitos)
-12. [Preguntas frecuentes](#faq)
+10. [Proceso simple en 7 pasos](#proceso-simple-en-7-pasos)
+11. [Mitos comunes al elegir proveedor](#mitos-comunes-al-elegir-proveedor)
+12. [Preguntas frecuentes](#preguntas-frecuentes)
 13. [Estado del contenido](#status)
 
 
@@ -120,25 +120,27 @@ Si necesitas conceptos base: [qué significa la velocidad de internet](/blog/que
 | Izzi | 100-1000 Mbps | $349-$999 | Coaxial | Bundle con TV |
 | Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
 
+
+![La trampa del precio promocional: la tarifa sube cuando termina el periodo inicial](/images/generated/m4-promo-staircase.webp)
 Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
 
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Qué proveedor conviene si vivo en zona rural sin cableado?" >}}
+Si no hay cableado en tu zona, considera internet satelital u opciones rurales. Telmex tiene la cobertura más amplia del país, pero debes confirmar qué tecnología pueden instalar en tu domicilio exacto antes de decidir.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Cómo comparo las ofertas según mi uso real?" >}}
+Define cuántas personas se conectan a la vez y qué actividades haces. Prioriza estabilidad, subida y latencia sobre el número de megas. Luego calcula el costo total anual, no solo el primer mes con promoción.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cuál tiene la mejor velocidad de subida?" >}}
+Totalplay suele ganar en zonas con fibra nueva por su velocidad simétrica, donde la subida iguala a la bajada. La subida es clave para videollamadas y home office. Verifica la subida que ofrece cada uno en tu dirección.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué pasa con el precio después del periodo promocional?" >}}
+Muchos planes suben entre 30% y 50% después de la promoción. Calcula el costo total de 12 meses y exige precio fijo por escrito antes de firmar. Ese es el dato que de verdad define si la oferta conviene.
 {{< /faq >}}
 
 

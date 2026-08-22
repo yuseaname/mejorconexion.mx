@@ -41,20 +41,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Cuánto tarda una instalación estándar de internet en casa?" >}}
+Una instalación estándar tarda entre 2 y 4 horas en fibra óptica. El cable coaxial suele ir de 1 a 3 horas y el inalámbrico 4G/5G fijo apenas 15 a 30 minutos, porque solo se enchufa el módem.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿La instalación de fibra requiere obra civil?" >}}
+Puede requerir perforar una pared o pasar el cable por una ventana para llegar al punto del módem. Si hay que tirar cable desde muy lejos, la visita puede tardar más o necesitar dos visitas.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Qué debo revisar antes de firmar el acta de instalación?" >}}
+Pide ver la velocidad por cable Ethernet, verifica que el Wi-Fi llegue a las habitaciones principales y confirma que tienes la contraseña del Wi-Fi y del panel del módem. No firmes hasta probar que funciona.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Qué hago si la velocidad no llega a la contratada?" >}}
+Mide por cable Ethernet y si resulta significativamente menor a lo que pagas, llama a soporte. Tienes derecho a que funcione lo que contrataste y a agendar una revisión con el proveedor.
 {{< /faq >}}
 
 

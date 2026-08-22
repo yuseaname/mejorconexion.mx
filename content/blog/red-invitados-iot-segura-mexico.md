@@ -42,20 +42,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿La red de invitados baja la velocidad de mi internet?" >}}
+No, salvo que limites el ancho de banda. Lo que cambia es el aislamiento, no la velocidad. Si quieres evitar que descargas de visitas afecten tu trabajo, algunos routers permiten asignar un límite de velocidad a esa red o usar QoS para priorizar tu WiFi principal.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Necesito un router nuevo para separar mis dispositivos IoT?" >}}
+Depende del modelo. Muchos routers modernos ya traen red de invitados, que puedes usar para aislar el IoT. Si el tuyo no la tiene, considera un router propio. Lo importante es que los equipos sensibles no compartan red con dispositivos baratos o sin soporte.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Por qué mi dispositivo IoT no se conecta a la red de invitados?" >}}
+El problema más común es que muchos dispositivos inteligentes no soportan 5 GHz y requieren la banda 2.4 GHz, que a veces está apagada. También revisa si el router tiene activada la opción de acceso a internet en la red de invitados, ya que algunos traen un switch separado.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Es mejor usar la red de invitados para visitas o para IoT?" >}}
+Si solo puedes elegir una red, úsala para invitados y mantén el IoT separado en una red adicional si es posible. Si no, prioriza aislar el IoT, porque los dispositivos inteligentes baratos suelen dejar de recibir actualizaciones y son un punto de entrada para ataques.
 {{< /faq >}}
 
 
@@ -81,25 +81,25 @@ Separar tu WiFi principal de invitados y dispositivos inteligentes es la forma m
 
 ## Tabla de contenidos
 
-1.  [Que es una red de invitados y por que importa](#que-es)
-2.  [Diferencia entre WiFi principal e invitados](#diferencia)
-3.  [Inventario de dispositivos inteligentes en casa](#inventario)
-4.  [Riesgos reales del IoT barato](#riesgos-iot)
-5.  [Como activar red de invitados en el router](#activar)
-6.  [SSID y contrasena: buenas practicas](#ssid)
-7.  [Crear red dedicada para IoT](#dedicada)
-8.  [VLANs y perfiles simples para hogares](#vlan)
-9.  [Control por horarios y reglas basicas](#horarios)
-10. [Limites de ancho de banda por red](#ancho)
-11. [Compatibilidad con asistentes y hubs](#compatibilidad)
-12. [Actualizaciones y apps del fabricante](#firmware)
-13. [Ubicacion del router y cobertura](#cobertura)
-14. [Cuando conviene usar cable Ethernet](#cable)
-15. [Como probar que la segmentacion funciona](#probar)
-16. [Problemas comunes y como resolverlos](#problemas)
-17. [Checklist final de red segura](#checklist)
-18. [Preguntas frecuentes](#faq)
-19. [Lecturas relacionadas](#relacionados)
+1.  [Que es una red de invitados y por que importa](#que-es-una-red-de-invitados-y-por-que-importa)
+2.  [Diferencia entre WiFi principal e invitados](#diferencia-entre-wifi-principal-e-invitados)
+3.  [Inventario de dispositivos inteligentes en casa](#inventario-de-dispositivos-inteligentes-en-casa)
+4.  [Riesgos reales del IoT barato](#riesgos-reales-del-iot-barato)
+5.  [Como activar red de invitados en el router](#como-activar-red-de-invitados-en-el-router)
+6.  [SSID y contrasena: buenas practicas](#ssid-y-contrasena-buenas-practicas)
+7.  [Crear red dedicada para IoT](#crear-red-dedicada-para-iot)
+8.  [VLANs y perfiles simples para hogares](#vlans-y-perfiles-simples-para-hogares)
+9.  [Control por horarios y reglas basicas](#control-por-horarios-y-reglas-basicas)
+10. [Limites de ancho de banda por red](#limites-de-ancho-de-banda-por-red)
+11. [Compatibilidad con asistentes y hubs](#compatibilidad-con-asistentes-y-hubs)
+12. [Actualizaciones y apps del fabricante](#actualizaciones-y-apps-del-fabricante)
+13. [Ubicacion del router y cobertura](#ubicacion-del-router-y-cobertura)
+14. [Cuando conviene usar cable Ethernet](#cuando-conviene-usar-cable-ethernet)
+15. [Como probar que la segmentacion funciona](#como-probar-que-la-segmentacion-funciona)
+16. [Problemas comunes y como resolverlos](#problemas-comunes-y-como-resolverlos)
+17. [Checklist final de red segura](#checklist-final-de-red-segura)
+18. [Preguntas frecuentes](#preguntas-frecuentes)
+19. [Lecturas relacionadas](#lecturas-relacionadas)
 
 
 ## Que es una red de invitados y por que importa

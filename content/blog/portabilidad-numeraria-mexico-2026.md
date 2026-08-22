@@ -30,20 +30,20 @@ Para más detalle, consulta [elegir nuevo plan móvil](/planes-moviles/mejores-p
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el internet más barato en México?" >}}
-El internet más barato arranca desde $199-$299/mes para 30-50 Mbps con CFE Telecomunicaciones (rural), Totalplay promo o Megacable. En zonas urbanas, lo más accesible es Megacable 80 Mbps ($299) o Izzi 100 Mbps ($349).
+{{< faq "¿La portabilidad tiene costo?" >}}
+No. La portabilidad numérica es gratuita y es un derecho regulado por el IFT en México. Ninguna compañía te puede cobrar por portar. Si intentan cobrarte o ponen trabas, puedes presentar una queja ante el IFT.
 {{< /faq >}}
 
-{{< faq "¿Cómo evito que suba el precio de mi internet?" >}}
-Exige precio fijo por escrito antes de firmar. Las promociones de bienvenida suben 30-50% después de 6-12 meses. Negocia con tu proveedor: amenaza con cambiar y pide retención, muchas veces ofrecen descuentos.
+{{< faq "¿Cuánto tarda la portabilidad?" >}}
+De 24 a 72 horas en promedio. Durante el proceso, puedes experimentar un breve período donde no puedes recibir llamadas. Para números fijos puede tardar más, hasta 7 días según la guía.
 {{< /faq >}}
 
-{{< faq "¿Conviene contratar internet por 12 o 24 meses?" >}}
-Depende. Los contratos largos suelen tener mejor precio mensual pero te atan. Si planeas mudarte o el proveedor tiene mala cobertura en tu zona, prefiere planes sin contrato o de 12 meses máximo.
+{{< faq "¿Puedo portar mi número fijo (Telmex)?" >}}
+Sí, existe la portabilidad para números fijos también. El proceso es similar pero puede tardar más. Consulta la guía sobre cambiar de proveedor sin perder tu número fijo para el procedimiento específico.
 {{< /faq >}}
 
-{{< faq "¿Qué cargos extra debo revisar en mi recibo de internet?" >}}
-Revisa: renta de equipo (modem/router), instalación, servicios no solicitados (telefonía, TV), cargos por pago tardío y IVA. Si ves cargos que no reconoces, el proveedor está obligado a eliminarlos.
+{{< faq "¿Qué pasa si mi compañía actual no quiere liberar mi número?" >}}
+No pueden negarse si cumples los requisitos. Si lo hacen, presenta una queja ante el IFT. Revisa primero que no estés en plazo forzoso y que estés al corriente con tu plan de renta para que la portabilidad no se bloquee.
 {{< /faq >}}
 
 

@@ -30,20 +30,20 @@ Para más detalle, consulta [comparar internet rural en México](/blog/mejor-int
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Starlink funciona en todo México?" >}}
+Sí, Starlink tiene cobertura en todo el territorio mexicano. Pero la calidad de la señal depende de la cantidad de satélites visibles desde tu ubicación y de la congestión regional. Antes de comprar, verifica en starlink.com si tu dirección tiene cobertura.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿Starlink necesita instalación profesional?" >}}
+No. La instalación es autoinstalable: la antena se orienta sola. Solo necesitas un punto con vista despejada al cielo. El costo inicial incluye la antena y el router, y luego pagas la mensualidad del plan residencial.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Puedo usar Starlink para gaming?" >}}
+Funciona para la mayoría de juegos, pero la latencia de 25-50 ms puede ser un problema para juegos competitivos que requieren menos de 20 ms. Para uso casual, sí sirve. Para streaming y navegación, es más que suficiente.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Cuándo conviene Starlink en lugar de fibra o cable?" >}}
+Solo conviene donde no hay otra opción viable: zonas rurales sin fibra ni cable, con señal celular débil o inexistente y sin WISP. Si tienes fibra o cable disponible, será mejor y más barato. En ciudades, la fibra urbana es más económica y rinde más.
 {{< /faq >}}
 
 

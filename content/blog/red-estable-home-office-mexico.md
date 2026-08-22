@@ -37,15 +37,15 @@ Para trabajar desde casa no basta con "muchos megas". Lo que importa es estabili
 ## Tabla de contenidos
 
 1.  [Lo que más importa en home office](#principios)
-2.  [Subida y latencia: la base real](#subida)
+2.  [Subida y latencia: la base real](#subida-y-latencia-la-base-real)
 3.  [Wi‑Fi interno: cómo evitar cortes](#wifi)
 4.  [Cuándo usar cable Ethernet](#cable)
-5.  [Equipo y router recomendables](#equipo)
+5.  [Equipo y router recomendables](#equipo-y-router-recomendables)
 6.  [Respaldo de conexión](#backup)
 7.  [Horario pico y hábitos de uso](#horario)
 8.  [Diagnóstico rápido si se corta](#diagnostico)
 9.  [Cómo elegir el plan correcto](#plan)
-10. [Preguntas frecuentes](#faq)
+10. [Preguntas frecuentes](#preguntas-frecuentes)
 11. [Estado del contenido](#status)
 
 
@@ -63,20 +63,20 @@ Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/c
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuántos Mbps necesito para mi casa?" >}}
-Una familia de 3-4 personas necesita entre 100 y 200 Mbps. Si haces streaming 4K o gaming competitivo, necesitas 50 Mbps adicionales por dispositivo. La regla práctica: 25 Mbps por persona + 50 Mbps para 4K.
+{{< faq "¿Qué importa más para home office: velocidad o estabilidad?" >}}
+Estabilidad. Para trabajar desde casa vale más una conexión sin cortes y con buena subida que un número grande de megas que se cae en plena videollamada. La continuidad es productividad.
 {{< /faq >}}
 
-{{< faq "¿Por qué no me llega la velocidad que contraté?" >}}
-Las causas más comunes son: Wi-Fi en lugar de cable Ethernet, distancia del router, saturación del nodo (especialmente en la noche), equipos antiguos, o el proveedor entregando menos de lo contratado. Mide con cable directo para descartar problemas del Wi-Fi.
+{{< faq "¿Por qué la velocidad de subida es crítica al trabajar en remoto?" >}}
+Porque en una videollamada tú también transmites video: si tu subida es pobre, te ven congelado aunque tu bajada sea enorme. La subida y la latencia son la base real del home office.
 {{< /faq >}}
 
-{{< faq "¿Qué es más importante, velocidad de bajada o de subida?" >}}
-Para uso normal, la bajada es más importante. Pero si haces videollamadas, subes archivos o trabajas remoto, la subida es crítica. Busca planes simétricos (misma velocidad de subida y bajada) para home office.
+{{< faq "¿Cable o Wi-Fi para la computadora de trabajo?" >}}
+Cable Ethernet siempre que sea posible. Elimina variaciones de señal, reduce la latencia y aísla tu equipo de la congestión del Wi-Fi doméstico cuando toda la familia está conectada.
 {{< /faq >}}
 
-{{< faq "¿Cómo mido si realmente me están dando la velocidad que pago?" >}}
-Conecta tu computadora por cable Ethernet directo al router y corre una prueba en speedtest.net. Si recibes menos del 80% de la velocidad contratada tres veces en una semana, tienes base para una queja ante PROFECO.
+{{< faq "¿Cómo evito cortes si mi red doméstica es el problema?" >}}
+Revisa ubicación del router, canal Wi-Fi saturado y equipos viejos antes de culpar al proveedor. Una red interna bien ordenada resuelve la mayoría de los cortes que parecen culpa del servicio.
 {{< /faq >}}
 
 

@@ -20,20 +20,20 @@ keywords:
 
 ## Preguntas Frecuentes
 
-{{< faq "¿Cuál es el mejor proveedor de internet en México en 2026?" >}}
-Totalplay lidera en velocidad y estabilidad con fibra óptica, seguido de Telmex Infinitum en cobertura nacional. La elección depende de tu zona: verifica cobertura con tu código postal antes de contratar.
+{{< faq "¿Por qué mi velocidad cambia entre una prueba y otra?" >}}
+La velocidad varía por congestión de la red, dispositivos conectados, interferencia Wi-Fi y el servidor de prueba. Por eso conviene hacer varias pruebas y tomar el promedio. Haz 3 pruebas en distintos horarios y anota descarga, subida y latencia.
 {{< /faq >}}
 
-{{< faq "¿Cómo decido entre Telmex, Izzi, Totalplay y Megacable?" >}}
-Compara tres factores: 1) Disponibilidad en tu zona (verifica con tu código postal), 2) Tecnología (fibra óptica > coaxial), 3) Precio real después de la promoción. Totalplay suele ganar en fibra, Izzi en zonas urbanas, Telmex en cobertura rural.
+{{< faq "¿La prueba desde mi celular sirve?" >}}
+Sirve como referencia, pero no es precisa. El celular mide por Wi-Fi, que añade variables como señal, distancia e interferencia. Para una queja formal, mide por cable Ethernet en una computadora, que es la forma más limpia de medir.
 {{< /faq >}}
 
-{{< faq "¿Los precios promocionales duran para siempre?" >}}
-No. Las promociones de bienvenida típicamente duran 6-12 meses y luego suben 30-50%. Exige precio fijo por escrito antes de firmar el contrato.
+{{< faq "¿Cuándo debo reclamar porque la velocidad no llega a mi plan?" >}}
+Primero registra con 5-10 mediciones por cable en distintos horarios. Luego llama a soporte con los datos. Si no resuelven en 30 días, presenta una queja ante PROFECO. Si recibes menos del 60% de tu plan de forma constante, el proveedor tiene un problema.
 {{< /faq >}}
 
-{{< faq "¿Puedo cambiar de proveedor sin penalización?" >}}
-Sí, la mayoría de contratos permite cancelación con 30 días de aviso. Algunos cobran penalización si cancelas antes de los 12 meses. Revisa la cláusula de permanencia antes de firmar.
+{{< faq "¿Reiniciar el router mejora el resultado de la medición?" >}}
+Sí. Un reinicio de 30 segundos apagado limpia la memoria del router y te da la mejor medición posible. Pero también haz pruebas sin reiniciar para ver el rendimiento real del día a día, porque eso es lo que experimentas normalmente.
 {{< /faq >}}
 
 
