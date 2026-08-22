@@ -104,16 +104,17 @@ Los precios varían según promociones y zona, pero estos son los rangos promedi
 -   **Plan premium (500+ Mbps):** \$899-\$1,499 MXN/mes
 
 
-## Comparativa rápida de proveedores
+## Rango de velocidades según el tipo de uso en casa
 
-| Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
-|-----------|-----------|------------|------------|------------|
-| Totalplay | 200-1000 Mbps | $399-$1,499 | Fibra óptica | Velocidad y simetría |
-| Telmex Infinitum | 20-1000 Mbps | $299-$1,099 | Fibra/Cobre | Cobertura nacional |
-| Izzi | 100-1000 Mbps | $349-$999 | Coaxial | Bundle con TV |
-| Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
+Antes de comparar precios, conviene ubicar tu hogar en uno de los tres rangos de uso: básico, moderado o intensivo, porque cada uno demanda un piso distinto de Mbps y, sobre todo, de estabilidad en horario pico.
 
-Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
+| Tipo de uso            | Mbps de descarga recomendadas | Escenario típico                            |
+|------------------------|-------------------------------|--------------------------------------------|
+| Básico                 | 50-100 Mbps                   | Redes sociales, streaming HD, 1-2 personas |
+| Moderado               | 200-300 Mbps                  | Trabajo remoto, videollamadas, streaming 4K |
+| Intensivo              | 500 Mbps o más                | Gaming, streaming 4K, casa inteligente     |
+
+Para decidir el plan exacto según tu caso, revisa nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
 
 
 ## Preguntas Frecuentes

@@ -72,24 +72,6 @@ Municipios conurbados con cobertura creciente. Infinitum tiene la cobertura más
 
 **Recomendación:** Infinitum fibra 200 Mbps ($499/mes) por cobertura. Para opciones rurales, lee [internet rural en México](/blog/mejor-internet-rural-mexico-2026.html).
 
-## Precios reales en Cancún (2026)
-
-| Proveedor | Plan | Velocidad bajada/subida | Precio mensual |
-|---|---|---|---|
-| Totalplay | Básico fibra | 200/200 Mbps | $399 MXN |
-| Totalplay | Medio fibra | 500/500 Mbps | $549 MXN |
-| Totalplay | Premium fibra | 1 Gbps simétrico | $899 MXN |
-| Izzi | Básico | 300/10 Mbps | $449 MXN |
-| Izzi | Medio | 500/20 Mbps | $549 MXN |
-| Izzi | Premium | 1 Gbps simétrico | $899 MXN |
-| Infinitum | Básico fibra | 100/50 Mbps | $389 MXN |
-| Infinitum | Medio fibra | 200/100 Mbps | $499 MXN |
-| Infinitum | Premium fibra | 1 Gbps simétrico | $899 MXN |
-| Megacable | Básico | 100/10 Mbps | $349 MXN |
-| Megacable | Medio | 300/20 Mbps | $449 MXN |
-
-Precios con promociones de 6-12 meses. Pregunta el precio regular.
-
 ## Qué proveedor elegir según tu caso
 
 ### Mejor para sector turismo y hospedaje

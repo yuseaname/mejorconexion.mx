@@ -120,18 +120,9 @@ El 6G es la sexta generación de tecnología de comunicaciones móviles. Está e
 **¿Deberías esperar al 6G?** No. Para el 99% de los usuarios, el 5G actual y la fibra óptica de 1 Gbps son más que suficientes para cualquier uso imaginable en los próximos 5 años. El 6G resolverá problemas que los hogares no tienen todavía.
 
 
-## Comparativa rápida de proveedores en 2026
+## Proveedores y precios: qué esperar
 
-| Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
-|-----------|-----------|------------|------------|------------|
-| Totalplay | 200-1000 Mbps | $399-$1,499 | Fibra óptica FTTH | Velocidad y simetría |
-| Telmex Infinitum | 20-1000 Mbps | $299-$1,099 | Fibra/Cobre | Cobertura nacional |
-| Izzi | 100-1000 Mbps | $349-$999 | Coaxial DOCSIS | Bundle con TV |
-| Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
-| Telcel Hogar | 20-150 Mbps | $399-$799 | 4G/5G fijo | Zonas sin cable/fibra |
-| Starlink | 100-350 Mbps | ~$2,400 | Satelital LEO | Zonas rurales |
-
-Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
+Cuando la IA en la red y las nuevas generaciones móviles se vuelvan rutina, la diferencia entre operadores estará cada vez más en cómo gestionan esa inteligencia y no solo en los Mbps del anuncio; para ver quién va adelante hoy, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
 
 ### Precios esperados para 2026-2027
 

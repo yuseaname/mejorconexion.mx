@@ -229,16 +229,18 @@ Con estas acciones, asegurarás una conexión que no solo funcione, sino que te 
 - PROFECO Concilianet: [https://concilianet.profeco.gob.mx/Concilianet/comoconciliar.jsp](https://concilianet.profeco.gob.mx/Concilianet/comoconciliar.jsp)
 
 
-## Comparativa rápida de proveedores
+## Métricas de red para trabajar desde casa sin interrupciones
 
-| Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
-|-----------|-----------|------------|------------|------------|
-| Totalplay | 200-1000 Mbps | $399-$1,499 | Fibra óptica | Velocidad y simetría |
-| Telmex Infinitum | 20-1000 Mbps | $299-$1,099 | Fibra/Cobre | Cobertura nacional |
-| Izzi | 100-1000 Mbps | $349-$999 | Coaxial | Bundle con TV |
-| Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
+Para home office, las métricas que importan no son los Mbps sino la estabilidad: ping menor a 50 ms, jitter bajo y una subida consistente que sostenga videollamadas largas sin congelar tu cámara.
 
-Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
+| Métrica           | Rango ideal para home office | Qué pasa si se sale del rango    |
+|-------------------|------------------------------|---------------------------------|
+| Ping              | Menos de 50 ms               | Retraso audible en videollamadas |
+| Jitter            | Menos de 10 ms               | Audio entrecortado y "saltos"    |
+| Subida            | Al menos 20 Mbps             | Cámara pixelada y archivos lentos |
+| Pérdida de paquetes | 0%                         | Cortes en llamadas y transferencias |
+
+Para revisar el rendimiento de tu conexión en tu domicilio, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
 
 
 ## Preguntas Frecuentes

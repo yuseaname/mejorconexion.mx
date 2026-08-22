@@ -131,16 +131,17 @@ Aunque no es una opción \"oficial\", muchas personas comparten el costo del int
 -   **Costo por GB más alto:** Si consumes muchos datos, sale más caro que un plan fijo
 
 
-## Comparativa rápida de proveedores
+## Opciones sin contrato comparadas
 
-| Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
-|-----------|-----------|------------|------------|------------|
-| Totalplay | 200-1000 Mbps | $399-$1,499 | Fibra óptica | Velocidad y simetría |
-| Telmex Infinitum | 20-1000 Mbps | $299-$1,099 | Fibra/Cobre | Cobertura nacional |
-| Izzi | 100-1000 Mbps | $349-$999 | Coaxial | Bundle con TV |
-| Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
+| Opción | Costo inicial | Costo mensual | Velocidad |
+|---|---|---|---|
+| AT&T Prepago + módem | $1,200-$1,500 | $299 | 10-50 Mbps |
+| Movistar Prepago + módem | $1,200-$1,500 | $349 | 10-50 Mbps |
+| Virgin Mobile + módem | $1,200-$1,500 | $249 | 10-30 Mbps |
+| Starlink | $2,300 | $1,100 | 50-250 Mbps |
+| Infinitum Básico | $0 | $389 | 20 Mbps |
 
-Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
+Si tu prioridad es flexibilidad total, revisa qué otras alternativas hay en nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
 
 
 ## Preguntas Frecuentes

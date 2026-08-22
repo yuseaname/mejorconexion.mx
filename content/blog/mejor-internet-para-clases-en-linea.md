@@ -28,16 +28,18 @@ keywords:
 Para más detalle, consulta [elegir velocidad según número de usuarios](/blog/cuanta-velocidad-internet-necesitas-2026.html).
 
 
-## Comparativa rápida de proveedores
+## Escenarios y Mbps mínimos para clases en línea estables
 
-| Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
-|-----------|-----------|------------|------------|------------|
-| Totalplay | 200-1000 Mbps | $399-$1,499 | Fibra óptica | Velocidad y simetría |
-| Telmex Infinitum | 20-1000 Mbps | $299-$1,099 | Fibra/Cobre | Cobertura nacional |
-| Izzi | 100-1000 Mbps | $349-$999 | Coaxial | Bundle con TV |
-| Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
+Para clases en línea lo que manda es la estabilidad: la cámara y el micrófono dependen de la subida, y el audio se corta cuando el Wi-Fi está lejos del router. Aquí van los escenarios mínimos para que una clase fluya sin sobresaltos.
 
-Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
+| Escenario                                | Descarga mínima | Subida mínima | Plan recomendado              |
+|------------------------------------------|-----------------|---------------|-------------------------------|
+| 1 persona, 1 clase                       | 10 Mbps         | 3 Mbps        | Plan básico (Izzi 50, Telmex 20+) |
+| 2 clases simultáneas + Netflix           | 30 Mbps         | 5 Mbps        | Plan medio (Totalplay 100, Izzi 150) |
+| 3+ personas, clases + streaming + trabajo | 50+ Mbps        | 10+ Mbps      | Plan alto (Totalplay 200+, Megacable fibra) |
+| Escuela + gaming + descargas             | 100+ Mbps       | 15+ Mbps      | Fibra dedicada (Totalplay 500, Izzi 300) |
+
+Para afinar el plan según tu número de dispositivos, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
 
 
 ## Preguntas Frecuentes

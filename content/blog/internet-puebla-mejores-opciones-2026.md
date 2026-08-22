@@ -72,26 +72,6 @@ San Pedro Cholula y San Andrés Cholula (zona universitaria de la UDLAP) tienen 
 
 **Recomendación:** En Cholula, Totalplay 300 Mbps ($449/mes). En Amozoc, verifica si llegó Telcel Hogar o quédate con Infinitum.
 
-## Precios reales en Puebla (2026)
-
-Estos son los precios típicos de los planes más contratados en Puebla este año:
-
-| Proveedor | Plan | Velocidad bajada/subida | Precio mensual |
-|---|---|---|---|
-| Totalplay | Básico fibra | 200/200 Mbps | $399 MXN |
-| Totalplay | Medio fibra | 500/500 Mbps | $549 MXN |
-| Totalplay | Premium fibra | 1 Gbps simétrico | $899 MXN |
-| Izzi | Básico | 300/10 Mbps | $449 MXN |
-| Izzi | Medio | 500/20 Mbps | $549 MXN |
-| Izzi | Premium | 1 Gbps simétrico | $899 MXN |
-| Infinitum | Básico fibra | 100/50 Mbps | $389 MXN |
-| Infinitum | Medio fibra | 200/100 Mbps | $499 MXN |
-| Infinitum | Premium fibra | 1 Gbps simétrico | $899 MXN |
-| Megacable | Básico | 100/10 Mbps | $349 MXN |
-| Megacable | Medio | 300/20 Mbps | $449 MXN |
-
-Los precios incluyen promociones comunes de 6-12 meses. Pregunta siempre el precio regular que pagarás después.
-
 Para entender por qué la subida importa, lee nuestra guía sobre [internet simétrico](/blog/fibra-optica-que-es-y-como-saber-si-tienes.html).
 
 ## Comparativa: qué proveedor elegir en Puebla

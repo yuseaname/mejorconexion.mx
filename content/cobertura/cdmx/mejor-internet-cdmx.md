@@ -28,16 +28,18 @@ source_card: "agosto 2026"
 - **Prueba en horario pico (7pm–11pm)**: ahí verás la saturación real; si falla, cambiar de plan no lo resuelve
 
 Para entender qué significan los Mbps que anuncia cada plan, consulta [qué significa la velocidad de internet](/blog/que-significa-la-velocidad-de-internet.html). Si quieres comparar las opciones reales de proveedores, revisa [Telmex vs Izzi vs Totalplay](/planes-internet/telmex-vs-izzi-vs-totalplay-mexico.html). Y para entender la latencia que afecta tus videollamadas y gaming, consulta [qué es el ping](/blog/que-es-el-ping.html).
-## Comparativa rápida de proveedores
+## Criterios prácticos para elegir internet en CDMX por colonia
 
-| Proveedor | Velocidad | Precio/mes | Tecnología | Mejor para |
-|-----------|-----------|------------|------------|------------|
-| Totalplay | 200-1000 Mbps | $399-$1,499 | Fibra óptica | Velocidad y simetría |
-| Telmex Infinitum | 20-1000 Mbps | $299-$1,099 | Fibra/Cobre | Cobertura nacional |
-| Izzi | 100-1000 Mbps | $349-$999 | Coaxial | Bundle con TV |
-| Megacable | 80-600 Mbps | $299-$799 | Coaxial | Precio económico |
+En la CDMX la cobertura cambia por colonia y hasta por edificio, así que más allá del plan conviene revisar tres frentes: qué tecnología llega a tu dirección, cómo se comporta en horario pico y qué tan estable es la red interna de tu casa.
 
-Para comparar en detalle, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
+| Criterio                | Qué revisar                              | Por qué importa                          |
+|-------------------------|------------------------------------------|------------------------------------------|
+| Fibra óptica disponible | Confirmar por edificio, no por alcaldía   | Mejor estabilidad y mejor subida          |
+| Horario pico (7pm-11pm) | Probar speedtest mañana y noche          | Detecta saturación local del nodo        |
+| Cableado interno        | Cableado del edificio y router incluido  | Puede ser el cuello de botella real      |
+| Soporte en tu zona      | Tiempos de visita técnica reportados     | Define cómo resuelves una falla          |
+
+Para aterrizar tu decisión por proveedor y zona, consulta nuestro [ranking de proveedores 2026](/blog/cual-es-el-mejor-internet-en-mexico-2026.html).
 
 
 ## Preguntas Frecuentes
