@@ -712,7 +712,10 @@ details.deep-dive > summary:focus-visible { outline: 2px solid var(--brand-brigh
 .ad-slot-end_article { margin-top: var(--space-10); }
 @media (max-width: 640px) {
   .ad-slot .adsbygoogle { min-height: var(--ad-min-height-mobile); }
-  .ad-slot-below_title { display: none; }
+  /* S2 (SQ-014): below_title unhidden on mobile — it was display:none, meaning the
+     mobile cohort (89.8% bounce) saw zero ads above fold. Position (after header:
+     H1 + verdict card + source + hero) keeps it safely after content, labeled,
+     height-reserved. */
 }
 
 /* ── Hero Image ── */

@@ -22,7 +22,10 @@
     {{ end }}
   </header>
 
-  {{ .Content }}
+  {{/* S2a (SQ-014): deterministic FAQPage derivation also fires on section pages —
+       cobertura/ city hubs carry manual "## Preguntas frecuentes" sections that
+       previously never emitted schema (partial was single.html-only). */}}
+  {{ .Content }}{{ partial "faq-schema-render.html" . }}
 
   {{/* Ad: below hero on section pages */}}
   {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "below_title" "ctx" .) }}{{ end }}

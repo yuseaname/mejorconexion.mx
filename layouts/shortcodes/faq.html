@@ -1,9 +1,12 @@
-{{- /* faq.html — FAQ item shortcode (collects into page Scratch for faq-schema) */ -}}
-{{- /* Usage: faq "What is X?" — Answer — /faq */ -}}
+{{- /* faq.html — FAQ item shortcode.
+     S2c (SQ-014): native <details>/<summary> accordion — zero JS, keyboard- and
+     screen-reader-accessible by default. The old div-based accordion had
+     aria-expanded styling but no JS to drive it (rendered always-open).
+     Schema no longer flows through shortcode .Store (R8 race) — the
+     faq-schema-render partial now derives FAQPage from .RawContent directly. */ -}}
 {{- $question := .Get 0 | default (.Get "question") -}}
 {{- $answer := .Inner | strings.TrimSpace | markdownify -}}
-<div class="faq-item">
-  <div class="faq-question" role="heading" aria-level="3">{{ $question }}</div>
+<details class="faq-item">
+  <summary class="faq-question">{{ $question }}</summary>
   <div class="faq-answer">{{ $answer | safeHTML }}</div>
-</div>
-{{- .Page.Store.Add "faqs" (slice (dict "q" $question "a" ($answer | plainify))) -}}
+</details>

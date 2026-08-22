@@ -1,6 +1,76 @@
-{{- /* faq-schema-render.html — Outputs FAQPage JSON-LD collected by faq shortcode */ -}}
-{{- $faqs := .Page.Store.Get "faqs" -}}
-{{- if and $faqs (gt (len $faqs) 0) -}}
+{{- /* faq-schema-render.html — DETERMINISTIC FAQPage derivation (SQ-014 S2a).
+     R8 root cause: the old shortcode .Store handoff is render-order-dependent —
+     when .Content renders from Hugo's content cache (search-index generation,
+     related-posts contexts), shortcodes do not re-execute, the Store stays
+     empty, and FAQPage JSON-LD silently vanishes from a build-order-dependent
+     page subset (observed: 96 vs 215 pages across builds of near-identical
+     source). This override derives FAQs from .RawContent instead: same input →
+     same output, every build, no Store, no shortcode execution dependency.
+
+     Supported forms:
+       1. Shortcode:  {{< faq "Question" >}} Answer {{< /faq >}}
+          (the stray trailing brace some closers carry is tolerated)
+       2. Manual:     "## Preguntas frecuentes" section with "### Question"
+          subheadings + answer paragraphs (used by telmex-class pages and
+          cobertura city hubs that never adopted the shortcode).
+
+     NOTE: values are emitted with `jsonify | safeJS` — inside <script>,
+     Hugo's contextual escaper would otherwise re-escape the JSON quotes
+     (\"...\"), corrupting every rich-result payload. The old theme partial
+     lacked safeJS: every FAQPage this site ever emitted was quote-mangled.
+
+     Sanitization (Twin Q S2 review): pandoc ::: container tokens and stray
+     headings are stripped from captured answers — city-hub manual sections
+     are wrapped in ::: containers whose closers trail the last answer. */ -}}
+{{- $faqs := slice -}}
+{{- $raw := .RawContent -}}
+
+{{- /* Form 1: shortcode Q/A pairs */ -}}
+{{- $matches := findRESubmatch `(?s)\{\{<\s*faq\s+"([^"]+)"\s*>\}\}(.*?)\{\{<\s*/faq` $raw -}}
+{{- range $matches -}}
+  {{- $q := index . 1 | strings.TrimSpace -}}
+  {{- $aLines := split (index . 2) "\n" -}}
+  {{- $keep := slice -}}
+  {{- range $aLines -}}
+    {{- $l := . | strings.TrimSpace -}}
+    {{- if and (ne $l "") (not (hasPrefix $l ":::")) (not (hasPrefix $l "#")) -}}
+      {{- $keep = $keep | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $a := delimit $keep "\n" | strings.TrimSpace | markdownify | plainify | strings.TrimSpace -}}
+  {{- if and $q $a -}}
+    {{- $faqs = $faqs | append (dict "q" $q "a" $a) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Form 2: manual "## Preguntas frecuentes" section with "### Question" items.
+     Only consulted when no shortcode FAQs exist (avoids double-counting). */ -}}
+{{- if not $faqs -}}
+  {{- $section := findRE `(?s)##\s+Preguntas frecuentes.*` $raw 1 -}}
+  {{- with $section -}}
+    {{- $sec := index . 0 -}}
+    {{- /* truncate at the next H2 inside the captured tail */ -}}
+    {{- $body := index (split $sec "\n## ") 0 -}}
+    {{- range $item := after 1 (split $body "\n### ") -}}
+      {{- $lines := split $item "\n" -}}
+      {{- $q := index $lines 0 | strings.TrimSpace -}}
+      {{- $aLines := after 1 $lines -}}
+      {{- $keep := slice -}}
+      {{- range $aLines -}}
+        {{- $l := . | strings.TrimSpace -}}
+        {{- if and (ne $l "") (not (hasPrefix $l ":::")) (not (hasPrefix $l "#")) -}}
+          {{- $keep = $keep | append . -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $a := delimit $keep "\n" | strings.TrimSpace | markdownify | plainify | strings.TrimSpace -}}
+      {{- if and (ne $q "") $a -}}
+        {{- $faqs = $faqs | append (dict "q" $q "a" $a) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if gt (len $faqs) 0 -}}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -10,10 +80,10 @@
     {{- range $i, $faq := $faqs -}}
     {
       "@type": "Question",
-      "name": {{ $faq.q | jsonify }},
+      "name": {{ $faq.q | jsonify | safeJS }},
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": {{ $faq.a | jsonify }}
+        "text": {{ $faq.a | jsonify | safeJS }}
       }
     }{{- if lt $i $last }},{{ end -}}
     {{- end -}}
