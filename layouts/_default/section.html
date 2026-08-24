@@ -27,9 +27,6 @@
        previously never emitted schema (partial was single.html-only). */}}
   {{ .Content }}{{ partial "faq-schema-render.html" . }}
 
-  {{/* Ad: below hero on section pages */}}
-  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "below_title" "ctx" .) }}{{ end }}
-
   {{/* Featured articles (pinned via .Params.featured = true) */}}
   {{ $featured := where .RegularPages ".Params.featured" true }}
   {{ with $featured }}

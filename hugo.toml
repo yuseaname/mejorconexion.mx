@@ -25,16 +25,8 @@ uglyURLs = true
   google_site_verification = ''
   amazon_tag = 'litwd-20'
 
-  # Trust/legal pages excluded from all ad slots (blueprint S1, mission SQ-014):
-  # AdSense policy exposure on thin-content policy pages + trust corrosion.
+  # Trust/legal pages (historically ad-free; AdSense removed 2026-08-23, ADR-006 — kept for reference):
   ad_free_pages = ['about.md', 'contact.md', 'contacto.md', 'corrections.md', 'editorial-policy.md', 'metodologia.md', 'privacy.md', 'transparencia.md', 'buscar.md']
-
-  [params.adsense]
-    client_id = 'ca-pub-5566942094411042'
-    [params.adsense.slots]
-      below_title = { id = '9770352885', format = 'auto', responsive = 'true' }
-      mid_article = { id = '7429084400', format = 'auto', responsive = 'true' }
-      end_article = { id = '3364726638', format = 'auto', responsive = 'true' }
 
   [params.rybbit]
     instance_url = 'https://app.rybbit.io'

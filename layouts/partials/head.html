@@ -101,13 +101,6 @@
 {{/* Schema.org structured data */}}
 {{- partial "head.schema.html" . -}}
 
-{{/* Google AdSense — S1 (SQ-014): loader also skipped on trust/legal pages
-     (params.ad_free_pages) so policy pages carry zero ad code at all. */}}
-{{- $noAds := and .File (in .Site.Params.ad_free_pages .File.LogicalName) -}}
-{{- if and .Site.Params.adsense.client_id (not $noAds) -}}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsense.client_id }}" crossorigin="anonymous"></script>
-{{- end -}}
-
 {{/* Google Search Console verification */}}
 {{- with .Site.Params.google_site_verification -}}
 <meta name="google-site-verification" content="{{ . }}">

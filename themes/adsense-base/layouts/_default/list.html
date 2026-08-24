@@ -12,9 +12,6 @@
   {{/* Page body content */}}
   {{ .Content }}
 
-  {{/* Ad: top of list */}}
-  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "below_title" "ctx" .) }}{{ end }}
-
   <!-- Articles Grid -->
   <div class="section-grid">
     {{ range .RegularPages }}

@@ -101,11 +101,6 @@
 {{/* Schema.org structured data */}}
 {{- partial "head.schema.html" . -}}
 
-{{/* Google AdSense */}}
-{{- with .Site.Params.adsense.client_id -}}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
-{{- end -}}
-
 {{/* Google Search Console verification */}}
 {{- with .Site.Params.google_site_verification -}}
 <meta name="google-site-verification" content="{{ . }}">

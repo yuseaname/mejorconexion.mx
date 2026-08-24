@@ -1,9 +1,5 @@
 {{ define "main" }}
-{{/* S1 policy fix (SQ-014 blueprint): trust/legal pages carry zero ad slots —
-     AdSense "little original content" exposure + trust corrosion. List lives in
-     hugo.toml params.ad_free_pages so it stays self-documenting. */}}
-{{ $noAds := and .File (in .Site.Params.ad_free_pages .File.LogicalName) }}
-{{ $showAds := and .Site.Params.adsense.client_id (not $noAds) }}
+{{/* AdSense removed 2026-08-23 (ADR-006 affiliate pivot) — ad_free_pages param retained for reference. */}}
 <article class="article-shell">
   <div class="article-container">
     {{ partial "breadcrumbs.html" . }}
@@ -35,11 +31,6 @@
       {{ partial "hero-image.html" . }}
     </header>
 
-    {{/* Ad slot: below title (desktop only via CSS) */}}
-    {{ if $showAds }}
-      {{ partial "adsense.html" (dict "position" "below_title" "ctx" .) }}
-    {{ end }}
-
     {{/* TOC + content */}}
     {{ if and (gt .WordCount 800) .TableOfContents }}
       {{ partial "toc.html" . }}
@@ -48,11 +39,6 @@
     <div class="article-content">
       {{ .Content }}{{ partial "faq-schema-render.html" . }}
     </div>
-
-    {{/* Mid-article ad */}}
-    {{ if $showAds }}
-      {{ partial "adsense.html" (dict "position" "mid_article" "ctx" .) }}
-    {{ end }}
 
     {{/* Tags */}}
     {{ with .Params.tags }}
@@ -64,11 +50,6 @@
     {{ end }}
 
     {{ partial "author-box.html" . }}
-
-    {{/* End-article ad */}}
-    {{ if $showAds }}
-      {{ partial "adsense.html" (dict "position" "end_article" "ctx" .) }}
-    {{ end }}
 
     {{/* Email capture */}}
   {{ partial "email-capture.html" . }}

@@ -696,28 +696,6 @@ details.deep-dive > summary:focus-visible { outline: 2px solid var(--brand-brigh
 .author-name-link:hover .author-name { color: var(--brand-bright); text-decoration: underline; }
 .author-bio { font-size: var(--text-sm); color: var(--ink-secondary); line-height: var(--leading-relaxed); margin: 0; }
 
-/* ── Ad Slots ── */
-.ad-slot { margin: var(--space-8) 0; text-align: center; }
-.ad-slot .adsbygoogle { display: block; min-height: var(--ad-min-height-desktop); }
-.ad-label {
-  display: block;
-  font-size: 0.75rem;
-  color: var(--ink-faint);
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  margin-bottom: var(--space-2);
-}
-.ad-slot-below_title { margin-top: var(--space-6); }
-.ad-slot-mid_article { margin: var(--space-10) 0; }
-.ad-slot-end_article { margin-top: var(--space-10); }
-@media (max-width: 640px) {
-  .ad-slot .adsbygoogle { min-height: var(--ad-min-height-mobile); }
-  /* S2 (SQ-014): below_title unhidden on mobile — it was display:none, meaning the
-     mobile cohort (89.8% bounce) saw zero ads above fold. Position (after header:
-     H1 + verdict card + source + hero) keeps it safely after content, labeled,
-     height-reserved. */
-}
-
 /* ── Hero Image ── */
 .hero-figure {
   margin-bottom: var(--space-6);
@@ -1122,7 +1100,7 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--brand-bright); 
 
 /* ── Print styles ── */
 @media print {
-  .skip-to-content, .progress-bar, #main-nav, .adsbygoogle, .related-section { display: none !important; }
+  .skip-to-content, .progress-bar, #main-nav, .related-section { display: none !important; }
   body { font-size: 12pt; color: #000; background: #fff; }
   a { color: #000; text-decoration: underline; }
 }

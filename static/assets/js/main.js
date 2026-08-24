@@ -223,48 +223,8 @@
     }
   }
 
-  // Ads (requiere meta de cliente y slots configurados)
-  const adsenseClient = document.querySelector('meta[name="adsense-client"]')?.getAttribute('content');
-  const adSlots = document.querySelectorAll('[data-ad-slot]');
-  if (adsenseClient && adSlots.length) {
-    if (!document.querySelector('script[data-adsense]')) {
-      const script = document.createElement('script');
-      script.async = true;
-      script.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`;
-      script.crossOrigin = 'anonymous';
-      script.setAttribute('data-adsense', 'true');
-      document.head.appendChild(script);
-    }
-
-    adSlots.forEach((slot) => {
-      const slotId = slot.getAttribute('data-adsense-slot');
-      if (!slotId) return;
-      if (slot.querySelector('ins.adsbygoogle')) return;
-      const ins = document.createElement('ins');
-      ins.className = 'adsbygoogle';
-      ins.style.display = 'block';
-      ins.setAttribute('data-ad-client', adsenseClient);
-      ins.setAttribute('data-ad-slot', slotId);
-      ins.setAttribute('data-ad-format', 'auto');
-      ins.setAttribute('data-full-width-responsive', 'true');
-      slot.appendChild(ins);
-      try {
-        (window.adsbygoogle = window.adsbygoogle || []).push({});
-      } catch {
-        // ignorar
-      }
-    });
-  }
-
-  // Ocultar espacios vacíos de anuncios
-  if (adSlots.length) {
-    setTimeout(() => {
-      adSlots.forEach((slot) => {
-        const hasContent = slot.querySelector('iframe, ins.adsbygoogle');
-        if (!hasContent) slot.classList.add('is-empty');
-      });
-    }, 1500);
-  }
+  // Ocultar espacios vacíos: sin anuncios tras la retirada de AdSense (ADR-006),
+  // los contenedores .ad-slot ya no existen — nada que hacer.
 
   // ═══════════════════════════════════════
   // HOMEPAGE ENHANCEMENTS

@@ -578,13 +578,6 @@ a:hover {
   color: var(--color-accent-100);
 }
 
-/* ── AdSense: collapse unfilled inventory ──
-   An <ins> that AdSense marks data-ad-status="unfilled" must reserve zero
-   height, so empty slots never leave blank gaps in the page flow. */
-ins.adsbygoogle[data-ad-status="unfilled"] {
-  display: none !important;
-}
-
 /* Sticky TOC wrapper */
 .toc-wrapper {
   position: sticky;
@@ -1103,7 +1096,6 @@ button:focus-visible {
   .skip-to-content,
   .progress-bar,
   #main-nav,
-  .adsbygoogle,
   .related-section {
     display: none !important;
   }

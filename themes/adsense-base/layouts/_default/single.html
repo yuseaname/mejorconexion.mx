@@ -90,9 +90,6 @@
   </div>
   {{ end }}
 
-  {{/* Bottom ad */}}
-  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "end_article" "ctx" .) }}{{ end }}
-
   {{/* Sources / methodology strip */}}
   <div class="sources-strip">
     <div class="sources-strip-title">

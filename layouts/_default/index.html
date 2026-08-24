@@ -221,9 +221,6 @@
     </div>
   </section>
 
-  {{/* Ad slot: homepage mid */}}
-  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "mid_article" "ctx" .) }}{{ end }}
-
   {{/* S3 (SQ-014): duplicate "Guías Más Leídas" section removed — it rendered twice (Challenger E-finding). The canonical block after the hero remains. */}}
 
   <!-- Latest Guides -->
